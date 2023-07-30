@@ -1,0 +1,11156 @@
+GirlAccs_bag_korsch_bk:
+  canBuy: 1
+  gold: 96
+  rating: 267
+GirlDecor_Ibiza_be:
+  canBuy: 1
+  gold: 24
+  rating: 67
+GirlDecor_Ibiza_p:
+  canBuy: 1
+  gold: 24
+  rating: 67
+GirlDecor_Ibiza_y:
+  canBuy: 1
+  gold: 24
+  rating: 67
+GirlDress_GothSch_offer:
+  canBuy: 1
+  gold: 480
+  rating: 777
+GirlDress_Monaco_be:
+  canBuy: 1
+  gold: 0
+  rating: 14040
+GirlDress_Monaco_bl:
+  canBuy: 1
+  gold: 0
+  rating: 14040
+GirlDress_Monaco_p:
+  canBuy: 1
+  gold: 5307
+  rating: 14742
+GirlDress_Uptown_g:
+  canBuy: 1
+  gold: 0
+  rating: 8775
+GirlDress_Uptown_r:
+  canBuy: 1
+  gold: 0
+  rating: 8775
+GirlDress_Uptown_y:
+  canBuy: 1
+  gold: 0
+  rating: 8775
+GirlDress_drtop_bk:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+GirlDress_drtop_o:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+GirlDress_drtop_p:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+GirlDress_schooluni_o_bk:
+  canBuy: 1
+  gold: 0
+  rating: 8001
+GirlDress_schooluni_p_r:
+  canBuy: 1
+  gold: 0
+  rating: 8001
+GirlDress_schooluni_w_ble:
+  canBuy: 1
+  gold: 0
+  rating: 7112
+GirlDress_shirtdr_p:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+GirlDress_shirtdr_r:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+GirlDress_shirtdr_w:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+GirlDress_waitressuni:
+  canBuy: 1
+  gold: 0
+GirlEarings_winterwlk_w_ble_y:
+  canBuy: 1
+  gold: 56
+  rating: 156
+GirlEarings_winterwlk_w_r_g:
+  canBuy: 1
+  gold: 56
+  rating: 156
+GirlEarrings_townchic_ble:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+GirlEarrings_townchic_g:
+  canBuy: 1
+  gold: 0
+  rating: 144
+  silver: 14400
+GirlEarrings_townchic_r:
+  canBuy: 1
+  gold: 80
+  rating: 222
+GirlFaces_dummy_bl:
+  canBuy: 1
+  gold: 0
+  rating: 1244
+GirlFaces_dummy_ble:
+  canBuy: 1
+  gold: 0
+  rating: 1244
+GirlFaces_dummy_lips:
+  canBuy: 1
+  gold: 0
+  rating: 1244
+GirlFaces_dummy_moustache:
+  canBuy: 1
+  gold: 0
+  rating: 1244
+GirlFaces_dummy_p:
+  canBuy: 1
+  gold: 448
+  rating: 1244
+GirlGlass_Yachts_lbe:
+  canBuy: 1
+  gold: 0
+  rating: 3071
+GirlGlass_Yachts_lbr:
+  canBuy: 1
+  gold: 0
+  rating: 3071
+GirlGlass_Yachts_p:
+  canBuy: 1
+  gold: 0
+  rating: 3071
+GirlHairpin_Hawaii_p:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+  silver: 0
+GirlHairpin_Hawaii_vi:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+  silver: 0
+GirlHairpin_Hawaii_y:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+  silver: 0
+GirlHat_Yachts_be:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+GirlHat_Yachts_p:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+GirlHat_Yachts_w:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+GirlHats_Uptown_g:
+  canBuy: 1
+  gold: 0
+  rating: 2633
+GirlHats_Uptown_r:
+  canBuy: 1
+  gold: 0
+  rating: 2633
+GirlHats_Uptown_y:
+  canBuy: 1
+  gold: 0
+  rating: 2633
+GirlHats_angel19:
+  canBuy: 1
+  gold: 40
+  rating: 111
+GirlHats_bear_br:
+  canBuy: 1
+  gold: 0
+  rating: 2400
+GirlHats_giraffe_o:
+  canBuy: 1
+  gold: 0
+  rating: 2400
+GirlHats_lion_y:
+  canBuy: 1
+  gold: 0
+  rating: 2400
+GirlHats_rabbit_gr:
+  canBuy: 1
+  gold: 0
+  rating: 2400
+GirlHats_schooluni_o:
+  canBuy: 1
+  gold: 0
+  rating: 1156
+GirlHats_schooluni_p:
+  canBuy: 1
+  gold: 0
+  rating: 1156
+GirlHats_schooluni_w:
+  canBuy: 1
+  gold: 0
+  rating: 1156
+GirlHats_unicorne_p:
+  canBuy: 1
+  gold: 864
+  rating: 2400
+GirlHats_waitressuni:
+  canBuy: 1
+  gold: 0
+GirlHdphn_meloman:
+  canBuy: 1
+  gold: 120
+  rating: 333
+GirlHelmets_London_be:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+GirlHelmets_London_bl:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+GirlHelmets_London_w:
+  canBuy: 1
+  gold: 0
+  rating: 7020
+GirlJacket_Ibiza_lbe:
+  canBuy: 1
+  rating: 288
+  silver: 28800
+GirlJacket_Ibiza_p:
+  canBuy: 1
+  rating: 288
+  silver: 28800
+GirlJacket_Ibiza_y:
+  canBuy: 1
+  rating: 288
+  silver: 28800
+GirlJacket_gotiktown:
+  canBuy: 1
+  gold: 288
+  rating: 800
+GirlJacket_sept19_ble:
+  canBuy: 1
+  gold: 240
+  rating: 666
+GirlJacket_smplwnt_bk_w:
+  canBuy: 1
+  rating: 304
+  silver: 30400
+GirlJacket_smplwnt_r_y:
+  canBuy: 1
+  rating: 304
+  silver: 30400
+GirlJacket_smplwnt_w_ble:
+  canBuy: 1
+  rating: 304
+  silver: 30400
+GirlJacket_tkstdnt_ble:
+  canBuy: 1
+  rating: 4445
+  silver: 0
+GirlJacket_tkstdnt_r:
+  canBuy: 1
+  rating: 4445
+  silver: 0
+GirlJacket_tkstdnt_w:
+  canBuy: 1
+  rating: 4445
+  silver: 0
+GirlJackets_geek_ble:
+  canBuy: 1
+  rating: 3556
+  silver: 0
+GirlJackets_geek_br:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+GirlJackets_geek_r:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+GirlNecklace_Hawaii:
+  canBuy: 1
+  rating: 6143
+  silver: 0
+GirlNecklace_KaZantip_bk:
+  canBuy: 1
+  gold: 32
+  rating: 89
+GirlNecklace_KaZantip_p:
+  canBuy: 1
+  gold: 32
+  rating: 89
+GirlNecklace_KaZantip_r:
+  canBuy: 1
+  gold: 32
+  rating: 89
+GirlNecklace_London_be:
+  canBuy: 1
+  rating: 1755
+  silver: 0
+GirlNecklace_London_r:
+  canBuy: 1
+  rating: 1755
+  silver: 0
+GirlNecklace_London_y:
+  canBuy: 1
+  rating: 1755
+  silver: 0
+GirlNecklace_Romper_be:
+  canBuy: 1
+  rating: 1053
+  silver: 0
+GirlNecklace_Romper_bl:
+  canBuy: 1
+  rating: 1053
+  silver: 0
+GirlNecklace_Romper_r:
+  canBuy: 1
+  gold: 379
+  rating: 1053
+GirlNecklace_Uptown:
+  canBuy: 1
+  rating: 1404
+  silver: 0
+GirlNecklace_townchic_ble:
+  canBuy: 1
+  rating: 88
+  silver: 8800
+GirlNecklace_townchic_g:
+  canBuy: 1
+  gold: 0
+  rating: 88
+  silver: 8800
+GirlNecklace_townchic_r:
+  canBuy: 1
+  gold: 32
+  rating: 89
+GirlOther_Swimming_Donut:
+  canBuy: 1
+  gold: 0
+  rating: 4037
+GirlOther_Swimming_Duck:
+  canBuy: 1
+  gold: 0
+  rating: 4037
+GirlOther_Swimming_Unicorn:
+  canBuy: 1
+  gold: 0
+  rating: 4739
+GirlOther_Swimming_Watermelon:
+  canBuy: 1
+  gold: 0
+  rating: 1755
+GirlOther_backpack_geek:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+GirlOther_bag_instachic:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+GirlOther_bag_schooluni_bk:
+  canBuy: 1
+  gold: 0
+  rating: 1334
+GirlOther_bag_schooluni_r:
+  canBuy: 1
+  gold: 0
+  rating: 1334
+GirlOther_drtop_bk:
+  canBuy: 1
+  gold: 0
+  rating: 889
+GirlOther_drtop_g:
+  canBuy: 1
+  gold: 0
+  rating: 889
+GirlOther_drtop_r:
+  canBuy: 1
+  gold: 0
+  rating: 889
+GirlOther_milan:
+  canBuy: 1
+  gold: 92
+  rating: 256
+GirlOther_schtime_bag:
+  canBuy: 1
+  gold: 120
+  rating: 333
+GirlOther_schtime_bk:
+  canBuy: 1
+  gold: 40
+  rating: 111
+GirlOther_schtime_dr:
+  canBuy: 1
+  gold: 40
+  rating: 111
+GirlPants_anmllover_ble:
+  canBuy: 1
+  gold: 0
+  rating: 711
+GirlPants_anmllover_gr:
+  canBuy: 1
+  gold: 0
+  rating: 356
+GirlPants_anmllover_r:
+  canBuy: 1
+  gold: 0
+  rating: 711
+GirlPants_geek_bk:
+  canBuy: 1
+  gold: 1600
+  rating: 4445
+GirlPants_geek_ble:
+  canBuy: 1
+  gold: 1600
+  rating: 4445
+GirlPants_meloman:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+GirlPants_schkok_br:
+  canBuy: 1
+  gold: 0
+  rating: 4001
+GirlPants_schkok_g:
+  canBuy: 1
+  gold: 0
+  rating: 4001
+GirlPants_schkok_w:
+  canBuy: 1
+  gold: 0
+  rating: 4001
+GirlPants_sept19_bk:
+  canBuy: 1
+  gold: 200
+  rating: 555
+GirlPants_stars_p:
+  canBuy: 1
+  gold: 199
+  rating: 553
+GirlPants_stars_w:
+  canBuy: 1
+  gold: 199
+  rating: 553
+GirlPants_stars_y:
+  canBuy: 1
+  gold: 199
+  rating: 553
+GirlPants_tpgrd_ble:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+GirlPants_tpgrd_dr:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+GirlPants_tpgrd_w:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+GirlPantyhose_GothSch_offer:
+  canBuy: 1
+  gold: 0
+  rating: 388
+  silver: 0
+GirlPantyhose_fox:
+  canBuy: 1
+  gold: 0
+  rating: 1156
+  silver: 0
+GirlPantyhose_geek_ble:
+  canBuy: 1
+  gold: 0
+  rating: 44
+  silver: 0
+GirlPantyhose_geek_o:
+  canBuy: 1
+  gold: 0
+  rating: 44
+  silver: 0
+GirlPantyhose_geek_y:
+  canBuy: 1
+  gold: 16
+  rating: 44
+GirlPantyhose_instachic_bk:
+  canBuy: 1
+  gold: 0
+  rating: 1334
+  silver: 0
+GirlPantyhose_instachic_bk_g:
+  canBuy: 1
+  gold: 0
+  rating: 1334
+  silver: 0
+GirlPantyhose_instachic_bk_r:
+  canBuy: 1
+  gold: 480
+  rating: 1334
+GirlPantyhose_korsch_bk:
+  canBuy: 1
+  rating: 108
+  silver: 10800
+GirlPantyhose_korsch_br:
+  canBuy: 1
+  rating: 108
+  silver: 10800
+GirlPantyhose_panda:
+  canBuy: 1
+  gold: 0
+  rating: 1156
+  silver: 0
+GirlPantyhose_stars_bk:
+  canBuy: 1
+  gold: 24
+  rating: 67
+  silver: 0
+GirlPantyhose_stars_p:
+  canBuy: 1
+  gold: 24
+  rating: 67
+  silver: 0
+GirlPantyhose_stars_w:
+  canBuy: 1
+  gold: 24
+  rating: 67
+  silver: 0
+GirlPantyhose_stripped_cat:
+  canBuy: 1
+  gold: 0
+  rating: 1156
+  silver: 0
+GirlPantyhose_winterwlk_ble_w:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+GirlPantyhose_winterwlk_r_y:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+GirlShirs_London_be:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+GirlShirs_London_bl:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+GirlShirs_London_w:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+GirlShirt_California_g:
+  canBuy: 1
+  gold: 0
+  rating: 5790
+  silver: 0
+GirlShirt_California_p:
+  canBuy: 1
+  gold: 0
+  rating: 5790
+  silver: 0
+GirlShirt_California_y:
+  canBuy: 1
+  gold: 0
+  rating: 5790
+  silver: 0
+GirlShirt_Harlem_be:
+  canBuy: 1
+  gold: 0
+  rating: 3159
+  silver: 0
+GirlShirt_Harlem_lbe:
+  canBuy: 1
+  gold: 0
+  rating: 3159
+  silver: 0
+GirlShirt_Harlem_r:
+  canBuy: 1
+  gold: 0
+  rating: 3159
+  silver: 0
+GirlShirt_Hawaii_bl:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+  silver: 0
+GirlShirt_Hawaii_o:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+  silver: 0
+GirlShirt_Hawaii_r:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+  silver: 0
+GirlShirt_Ibiza_be:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+GirlShirt_Ibiza_o:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+GirlShirt_Ibiza_p:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+GirlShirt_KaZantip_bk:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+GirlShirt_KaZantip_p:
+  canBuy: 1
+  gold: 128
+  rating: 356
+GirlShirt_KaZantip_w:
+  canBuy: 1
+  gold: 128
+  rating: 356
+GirlShirt_Yachts_be:
+  canBuy: 1
+  gold: 0
+  rating: 3945
+  silver: 0
+GirlShirt_Yachts_p:
+  canBuy: 1
+  gold: 0
+  rating: 3945
+  silver: 0
+GirlShirt_Yachts_w:
+  canBuy: 1
+  gold: 0
+  rating: 3945
+  silver: 0
+GirlShirt_anmllover_p:
+  canBuy: 1
+  gold: 0
+  rating: 533
+GirlShirt_anmllover_p_w:
+  canBuy: 1
+  gold: 0
+  rating: 178
+GirlShirt_anmllover_p_y:
+  canBuy: 1
+  gold: 0
+  rating: 533
+GirlShirt_anmllover_w:
+  canBuy: 1
+  gold: 0
+  rating: 178
+GirlShirt_anmllover_w_p:
+  canBuy: 1
+  gold: 0
+  rating: 533
+GirlShirt_anmllover_w_y:
+  canBuy: 1
+  gold: 0
+  rating: 533
+GirlShirt_anmllover_y:
+  canBuy: 1
+  gold: 0
+  rating: 533
+GirlShirt_anmllover_y_p:
+  canBuy: 1
+  gold: 0
+  rating: 533
+GirlShirt_anmllover_y_w:
+  canBuy: 1
+  gold: 0
+  rating: 178
+GirlShirt_gotiktown:
+  canBuy: 1
+  gold: 136
+  rating: 378
+GirlShirt_meloman:
+  canBuy: 1
+  gold: 280
+  rating: 778
+GirlShirt_milan:
+  canBuy: 1
+  gold: 320
+  rating: 889
+GirlShirt_schkok_bk:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+GirlShirt_schkok_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+GirlShirt_schkok_y:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+GirlShirt_schlrnb:
+  canBuy: 1
+  gold: 280
+  rating: 778
+GirlShirt_sept19_w:
+  canBuy: 1
+  gold: 200
+  rating: 555
+GirlShirt_smplwnt_bk_w:
+  canBuy: 1
+  rating: 136
+  silver: 13600
+GirlShirt_smplwnt_r_w:
+  canBuy: 1
+  rating: 136
+  silver: 13600
+GirlShirt_stars_bk:
+  canBuy: 1
+  gold: 112
+  rating: 311
+GirlShirt_stars_ble:
+  canBuy: 1
+  gold: 99
+  rating: 275
+GirlShirt_stars_p:
+  canBuy: 1
+  gold: 99
+  rating: 275
+GirlShirt_tkstdnt_bk:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+GirlShirt_tkstdnt_ble:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+GirlShirt_tkstdnt_w:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+GirlShirt_townchic_ble:
+  canBuy: 1
+  gold: 0
+  rating: 220
+  silver: 22000
+GirlShirt_townchic_r:
+  canBuy: 1
+  gold: 124
+  rating: 344
+GirlShirt_townchic_y:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+GirlShirt_winterwlk_beg_r:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+GirlShirt_winterwlk_r_bk:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+GirlShirt_winterwlk_w_ble:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+GirlShirts23fevBlck:
+  canBuy: 1
+  gold: 0
+  rating: 1944
+GirlShirts_Midtown_bl:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+  silver: 0
+GirlShirts_Midtown_r:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+  silver: 0
+GirlShirts_Midtown_w:
+  canBuy: 1
+  gold: 1264
+  rating: 3510
+  silver: 0
+GirlShirts_geek_bk:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+GirlShirts_geek_ble:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+GirlShirts_geek_y:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+GirlShirts_instachic_br:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+GirlShirts_instachic_dg:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+GirlShirts_instachic_r:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+GirlShirts_korsch_lbe:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+GirlShirts_korsch_p:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+GirlShirts_korsch_w:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+GirlShirts_tpgrd_bg:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+GirlShirts_tpgrd_bk:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+GirlShirts_tpgrd_p:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+GirlShoes_California_g:
+  canBuy: 1
+  gold: 0
+  rating: 2984
+GirlShoes_California_p:
+  canBuy: 1
+  gold: 0
+  rating: 2984
+GirlShoes_California_y:
+  canBuy: 1
+  gold: 0
+  rating: 2984
+GirlShoes_GothSch_offer:
+  canBuy: 1
+  gold: 80
+  rating: 222
+GirlShoes_Harlem_be:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+GirlShoes_Harlem_lbe:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+GirlShoes_Harlem_r:
+  canBuy: 1
+  gold: 1264
+  rating: 3510
+GirlShoes_Hawaii_p:
+  canBuy: 1
+  gold: 0
+  rating: 2106
+GirlShoes_Hawaii_vi:
+  canBuy: 1
+  gold: 0
+  rating: 2106
+GirlShoes_Hawaii_y:
+  canBuy: 1
+  gold: 0
+  rating: 2106
+GirlShoes_Ibiza_be:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+GirlShoes_Ibiza_o:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+GirlShoes_Ibiza_p:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+GirlShoes_KaZantip_bk:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+GirlShoes_KaZantip_p:
+  canBuy: 1
+  gold: 120
+  rating: 333
+GirlShoes_KaZantip_r:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+GirlShoes_London_be:
+  canBuy: 1
+  gold: 0
+  rating: 2984
+GirlShoes_London_r:
+  canBuy: 1
+  gold: 0
+  rating: 2984
+GirlShoes_London_y:
+  canBuy: 1
+  gold: 0
+  rating: 2984
+GirlShoes_Midtown_bl:
+  canBuy: 1
+  gold: 0
+  rating: 1755
+GirlShoes_Midtown_r:
+  canBuy: 1
+  gold: 632
+  rating: 1755
+GirlShoes_Midtown_w:
+  canBuy: 1
+  gold: 632
+  rating: 1755
+GirlShoes_Monaco_be:
+  canBuy: 1
+  gold: 0
+  rating: 3159
+GirlShoes_Monaco_bl:
+  canBuy: 1
+  gold: 0
+  rating: 3159
+GirlShoes_Monaco_p:
+  canBuy: 1
+  gold: 1264
+  rating: 3510
+GirlShoes_Romper_be:
+  canBuy: 1
+  gold: 0
+  rating: 3159
+GirlShoes_Romper_bl:
+  canBuy: 1
+  gold: 0
+  rating: 3159
+GirlShoes_Romper_r:
+  canBuy: 1
+  gold: 0
+  rating: 3159
+GirlShoes_Uptown_g:
+  canBuy: 1
+  gold: 0
+  rating: 2282
+GirlShoes_Uptown_r:
+  canBuy: 1
+  gold: 0
+  rating: 2282
+GirlShoes_Uptown_y:
+  canBuy: 1
+  gold: 0
+  rating: 2282
+GirlShoes_Yachts_be:
+  canBuy: 1
+  gold: 0
+  rating: 2615
+GirlShoes_Yachts_p:
+  canBuy: 1
+  gold: 0
+  rating: 2615
+GirlShoes_Yachts_w:
+  canBuy: 1
+  gold: 0
+  rating: 2615
+GirlShoes_anmllover_ble:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+GirlShoes_anmllover_p:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+GirlShoes_anmllover_y:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+GirlShoes_drtop_bk:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+GirlShoes_drtop_o:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+GirlShoes_drtop_p:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+GirlShoes_geek_ble:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+GirlShoes_geek_br:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+GirlShoes_geek_r:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+GirlShoes_gotiktown:
+  canBuy: 1
+  gold: 120
+  rating: 333
+GirlShoes_instachic_bk:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+GirlShoes_instachic_dg:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+GirlShoes_instachic_r:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+GirlShoes_korsch_bg:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+GirlShoes_korsch_bk:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+GirlShoes_korsch_ble:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+GirlShoes_meloman:
+  canBuy: 1
+  gold: 200
+  rating: 556
+GirlShoes_milan:
+  canBuy: 1
+  gold: 200
+  rating: 556
+GirlShoes_schkok_bk:
+  canBuy: 1
+  gold: 0
+  rating: 711
+GirlShoes_schkok_br:
+  canBuy: 1
+  gold: 0
+  rating: 711
+GirlShoes_schkok_g:
+  canBuy: 1
+  gold: 0
+  rating: 711
+GirlShoes_schlrnb:
+  canBuy: 1
+  gold: 120
+  rating: 333
+GirlShoes_schooluni_o_bk:
+  canBuy: 1
+  gold: 0
+  rating: 889
+GirlShoes_schooluni_p_r:
+  canBuy: 1
+  gold: 0
+  rating: 889
+GirlShoes_schooluni_w_ble:
+  canBuy: 1
+  gold: 0
+  rating: 889
+GirlShoes_sept19:
+  canBuy: 1
+  gold: 160
+  rating: 444
+GirlShoes_shirtdr_bk:
+  canBuy: 1
+  gold: 0
+  rating: 1334
+GirlShoes_shirtdr_ble:
+  canBuy: 1
+  gold: 0
+  rating: 1334
+GirlShoes_shirtdr_p:
+  canBuy: 1
+  gold: 0
+  rating: 1334
+GirlShoes_smplwnt:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+GirlShoes_stars_bk:
+  canBuy: 1
+  gold: 120
+  rating: 333
+GirlShoes_stars_ble:
+  canBuy: 1
+  gold: 120
+  rating: 333
+GirlShoes_stars_r:
+  canBuy: 1
+  gold: 120
+  rating: 333
+GirlShoes_townchic_bk:
+  canBuy: 1
+  gold: 120
+  rating: 333
+GirlShoes_townchic_ble:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+GirlShoes_townchic_r:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+GirlShoes_tpgrd_ble:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+GirlShoes_tpgrd_dr:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+GirlShoes_tpgrd_w:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+GirlShort_Ibiza_be:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+GirlShort_Ibiza_o:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+GirlShort_Ibiza_p:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+GirlShorts_California_lbe:
+  canBuy: 1
+  gold: 0
+  rating: 4037
+GirlShorts_California_r:
+  canBuy: 1
+  gold: 1453
+  rating: 4037
+GirlShorts_California_w:
+  canBuy: 1
+  gold: 0
+  rating: 4037
+GirlShorts_Harlem_be:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+GirlShorts_Harlem_lbe:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+GirlShorts_Harlem_r:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+GirlShorts_London_be:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+GirlShorts_London_bl:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+GirlShorts_London_w:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+GirlShorts_Yachts_lbe:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+GirlShorts_Yachts_lbr:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+GirlShorts_Yachts_p:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+GirlShorts_gotiktown:
+  canBuy: 1
+  gold: 224
+  rating: 622
+GirlSkirt_Hawaii_g:
+  canBuy: 1
+  gold: 0
+  rating: 5616
+  silver: 0
+GirlSkirt_Hawaii_r:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+GirlSkirt_Hawaii_y:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+GirlSkirt_milan:
+  canBuy: 1
+  gold: 280
+  rating: 778
+GirlSkirt_schlrnb:
+  canBuy: 1
+  gold: 280
+  rating: 778
+GirlSkirt_smplwnt_ble_bk:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+GirlSkirt_smplwnt_r_w:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+GirlSkirt_tkstdnt_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+GirlSkirt_tkstdnt_r:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+GirlSkirt_tkstdnt_w:
+  canBuy: 1
+  gold: 1152
+  rating: 3200
+GirlSkirt_townchic_bk:
+  canBuy: 1
+  gold: 176
+  rating: 489
+GirlSkirt_townchic_r:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+GirlSkirt_townchic_w:
+  canBuy: 1
+  rating: 288
+  silver: 28800
+GirlSkirt_winterwlk_bk_y:
+  canBuy: 1
+  rating: 288
+  silver: 28800
+GirlSkirt_winterwlk_ble_y:
+  canBuy: 1
+  rating: 288
+  silver: 28800
+GirlSkirt_winterwlk_r_y:
+  canBuy: 1
+  rating: 288
+  silver: 28800
+GirlSkirts_KaZantip_bk:
+  canBuy: 1
+  gold: 168
+  rating: 467
+GirlSkirts_KaZantip_p:
+  canBuy: 1
+  rating: 296
+  silver: 29600
+GirlSkirts_KaZantip_r:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+GirlSkirts_Midtown_bl:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+  silver: 0
+GirlSkirts_Midtown_r:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+  silver: 0
+GirlSkirts_Midtown_w:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+  silver: 0
+GirlSkirts_instachic_bk:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+GirlSkirts_instachic_br:
+  canBuy: 1
+  gold: 1600
+  rating: 4445
+GirlSkirts_instachic_dg:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+GirlSkirts_korsch_bg:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+GirlSkirts_korsch_bk:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+GirlSkirts_korsch_ble:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+GirlSocks_schlrnb:
+  canBuy: 1
+  gold: 120
+  rating: 333
+GirlSuits_Romper_be:
+  canBuy: 1
+  gold: 0
+  rating: 7020
+GirlSuits_Romper_bl:
+  canBuy: 1
+  gold: 0
+  rating: 7020
+GirlSuits_Romper_r:
+  canBuy: 1
+  gold: 0
+  rating: 7020
+GirlSwimsuit_full_fl_bl:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+  silver: 0
+GirlSwimsuit_full_fl_o:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+GirlSwimsuit_full_fl_w:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+GirlSwimsuit_mix_bikini_rbl:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+  silver: 0
+GirlSwimsuit_mix_bikini_wp:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+  silver: 0
+GirlSwimsuit_mix_bikini_yble:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+  silver: 0
+GirlSwimsuit_sexy_shorts_bl:
+  canBuy: 1
+  gold: 0
+  rating: 8775
+  silver: 0
+GirlSwimsuit_sexy_shorts_ble:
+  canBuy: 1
+  gold: 0
+  rating: 7898
+  silver: 0
+GirlSwimsuit_sexy_shorts_r:
+  canBuy: 1
+  gold: 0
+  rating: 7898
+  silver: 0
+GirlUnderwear_blossom:
+  canBuy: 1
+  gold: 200
+  rating: 555
+GirlWings_angel19:
+  canBuy: 1
+  gold: 40
+  rating: 111
+gBrclCoc1:
+  canBuy: 1
+  gold: 12
+  rating: 24
+gBrclCoc2:
+  canBuy: 1
+  gold: 17
+  rating: 34
+gBrclCoc3:
+  canBuy: 1
+  gold: 12
+  rating: 24
+gBrclCoc4:
+  canBuy: 1
+  gold: 4
+  rating: 7
+gDrssCoc1:
+  canBuy: 1
+  gold: 64
+  rating: 160
+gDrssCoc10:
+  canBuy: 1
+  gold: 70
+  rating: 175
+gDrssCoc11:
+  canBuy: 1
+  gold: 45
+  rating: 115
+gDrssCoc12:
+  canBuy: 1
+  gold: 49
+  rating: 123
+gDrssCoc13:
+  canBuy: 1
+  gold: 500
+  rating: 1389
+gDrssCoc14:
+  canBuy: 1
+  gold: 67
+  rating: 168
+gDrssCoc2:
+  canBuy: 1
+  gold: 185
+  rating: 520
+gDrssCoc3:
+  canBuy: 1
+  gold: 150
+  rating: 420
+gDrssCoc4:
+  canBuy: 1
+  gold: 44
+  rating: 110
+gDrssCoc5:
+  canBuy: 1
+  gold: 60
+  rating: 150
+gDrssCoc6:
+  canBuy: 1
+  gold: 53
+  rating: 133
+gDrssCoc7:
+  canBuy: 1
+  gold: 58
+  rating: 125
+gDrssCoc8:
+  canBuy: 1
+  gold: 68
+  rating: 170
+gDrssCoc9:
+  canBuy: 1
+  gold: 55
+  rating: 138
+gDrssSchl:
+  canBuy: 1
+  gold: 0
+  rating: 29
+  silver: 28000
+gDrssUsa1:
+  canBuy: 1
+  gold: 18
+  rating: 36
+gDrssUsa2:
+  canBuy: 1
+  rating: 30
+  silver: 3000
+gDrssUsa3:
+  canBuy: 1
+  gold: 24
+  rating: 53
+gDrssUsa4:
+  canBuy: 1
+  gold: 23
+  rating: 51
+gDrssUsa5:
+  canBuy: 1
+  gold: 30
+  rating: 75
+gEarCoc1:
+  canBuy: 1
+  gold: 11
+  rating: 22
+gEarCoc2:
+  canBuy: 1
+  gold: 12
+  rating: 24
+gEarCoc3:
+  canBuy: 1
+  gold: 13
+  rating: 26
+gGlvCoc1:
+  canBuy: 1
+  gold: 14
+  rating: 28
+gGlvCoc2:
+  canBuy: 1
+  gold: 23
+  rating: 51
+gGlvCoc3:
+  canBuy: 1
+  gold: 15
+  rating: 30
+gGlvWntr1:
+  canBuy: 1
+  gold: 9
+  rating: 25
+gGlvWntr2:
+  canBuy: 1
+  gold: 8
+  rating: 22
+gGlvWntr3:
+  canBuy: 1
+  gold: 15
+  rating: 42
+gGlvWntr4:
+  canBuy: 1
+  gold: 12
+  rating: 33
+gGlvWntr5:
+  canBuy: 1
+  gold: 12
+  rating: 33
+gGlvWntr6:
+  canBuy: 1
+  rating: 8
+  silver: 800
+gHairpCoc1:
+  canBuy: 1
+  gold: 17
+  rating: 34
+gHairpCoc2:
+  canBuy: 1
+  gold: 17
+  rating: 34
+gHairpCoc3:
+  canBuy: 1
+  gold: 19
+  rating: 38
+gHairpCoc4:
+  canBuy: 1
+  gold: 21
+  rating: 46
+gHtsCoc1:
+  canBuy: 1
+  gold: 33
+  rating: 83
+gHtsPsln1:
+  canBuy: 1
+  gold: 14
+  rating: 30
+gHtsPsln10:
+  canBuy: 1
+  gold: 0
+  rating: 28
+  silver: 27000
+gHtsPsln2:
+  canBuy: 1
+  rating: 75
+  silver: 7500
+gHtsPsln3:
+  canBuy: 1
+  gold: 75
+  rating: 208
+gHtsPsln4:
+  canBuy: 1
+  gold: 22
+  rating: 48
+gHtsPsln5:
+  canBuy: 1
+  gold: 12
+  rating: 24
+gHtsPsln6:
+  canBuy: 1
+  gold: 18
+  rating: 36
+gHtsPsln7:
+  canBuy: 1
+  rating: 250
+  silver: 25000
+gHtsPsln8:
+  canBuy: 1
+  gold: 18
+  rating: 36
+gHtsPsln9:
+  canBuy: 1
+  gold: 0
+  rating: 99
+gHtsWntr1:
+  canBuy: 1
+  gold: 350
+  rating: 972
+gHtsWntr2:
+  canBuy: 1
+  gold: 260
+  rating: 722
+gHtsWntr3:
+  canBuy: 1
+  gold: 410
+  rating: 1139
+gHtsWntr4:
+  canBuy: 1
+  gold: 215
+  rating: 597
+gHtsWntr5:
+  canBuy: 1
+  gold: 199
+  rating: 553
+gHtsWntr6:
+  canBuy: 1
+  gold: 425
+  rating: 1181
+gHtsWntr7:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+gJackCoct1:
+  canBuy: 1
+  gold: 35
+  rating: 88
+gJackCoct2:
+  canBuy: 1
+  gold: 15
+  rating: 30
+gJackWntr1:
+  canBuy: 1
+  gold: 35
+  rating: 90
+gJackWntr2:
+  canBuy: 1
+  gold: 38
+  rating: 100
+gJackWntr3:
+  canBuy: 1
+  gold: 55
+  rating: 140
+gJackWntr4:
+  canBuy: 1
+  gold: 63
+  rating: 160
+gJackWntr5:
+  canBuy: 1
+  gold: 77
+  rating: 200
+gJackWntr6:
+  canBuy: 1
+  rating: 40
+  silver: 4800
+gJackWntr7:
+  canBuy: 1
+  gold: 81
+  rating: 215
+gJackWntr8:
+  canBuy: 1
+  gold: 69
+  rating: 180
+gJcktUsa1:
+  canBuy: 1
+  gold: 16
+  rating: 32
+gJcktUsa2:
+  canBuy: 1
+  gold: 21
+  rating: 46
+gJcktUsa3:
+  canBuy: 1
+  gold: 15
+  rating: 30
+gNcklCoc1:
+  canBuy: 1
+  gold: 21
+  rating: 46
+gNcklCoc2:
+  canBuy: 1
+  gold: 14
+  rating: 28
+gNcklCoc3:
+  canBuy: 1
+  gold: 11
+  rating: 22
+gNcklCoc4:
+  canBuy: 1
+  gold: 12
+  rating: 24
+gNcklCoc5:
+  canBuy: 1
+  gold: 15
+  rating: 30
+gNghtUsa1:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+gNghtUsa2:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+gNghtUsa3:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+gPntsCoc1:
+  canBuy: 1
+  gold: 17
+  rating: 34
+gPntsUsa1:
+  canBuy: 1
+  gold: 11
+  rating: 22
+gPntsUsa2:
+  canBuy: 1
+  rating: 22
+  silver: 2200
+gPntsUsa3:
+  canBuy: 1
+  gold: 9
+  rating: 15
+gPntsUsa4:
+  canBuy: 1
+  rating: 44
+  silver: 4400
+gPntsUsa5:
+  canBuy: 1
+  gold: 23
+  rating: 51
+gPntsWntr1:
+  canBuy: 1
+  gold: 18
+  rating: 36
+gPslnBrcl1:
+  canBuy: 1
+  gold: 7
+  rating: 15
+gPslnBrcl2:
+  canBuy: 1
+  gold: 8
+  rating: 18
+gPslnBrcl3:
+  canBuy: 1
+  gold: 9
+  rating: 15
+gPslnBrcl4:
+  canBuy: 1
+  gold: 12
+  rating: 24
+gPslnBrcl5:
+  canBuy: 1
+  gold: 30
+  rating: 83
+gPslnBrcl6:
+  canBuy: 1
+  gold: 11
+  rating: 22
+gPslnBrcl7:
+  canBuy: 1
+  gold: 17
+  rating: 35
+gPslnJckt1:
+  canBuy: 1
+  gold: 14
+  rating: 28
+  silver: 0
+gPslnPnts1:
+  canBuy: 1
+  gold: 65
+  rating: 75
+gPslnSkrt1:
+  canBuy: 1
+  gold: 35
+  rating: 46
+gPslnTop1:
+  canBuy: 1
+  gold: 18
+  rating: 36
+gPslnTop2:
+  canBuy: 1
+  gold: 17
+  rating: 35
+  silver: 0
+gPslnTop3:
+  canBuy: 1
+  gold: 29
+  rating: 65
+gPslnTop4:
+  canBuy: 1
+  gold: 0
+  rating: 59
+gPslnTop5:
+  canBuy: 1
+  gold: 39
+  rating: 99
+  silver: 0
+gSMR14Bag1:
+  canBuy: 1
+  gold: 0
+  rating: 25
+gSMR14Brcl1:
+  canBuy: 1
+  gold: 0
+  rating: 15
+gSMR14Brcl2:
+  canBuy: 1
+  gold: 0
+  rating: 200
+gSMR14Ear1:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 0
+gSMR14Ear2:
+  canBuy: 1
+  gold: 72
+  rating: 200
+gSMR14Hat1:
+  canBuy: 1
+  gold: 72
+  rating: 200
+gSMR14Jckt1:
+  canBuy: 1
+  gold: 216
+  rating: 599
+gSMR14Nckl1:
+  canBuy: 1
+  gold: 0
+  rating: 15
+gSMR14Nckl2:
+  canBuy: 1
+  gold: 72
+  rating: 200
+gSMR14Pnts1:
+  canBuy: 1
+  gold: 0
+  rating: 599
+gSMR14Rim1:
+  canBuy: 1
+  gold: 0
+  rating: 2198
+gSMR14Rim2:
+  canBuy: 1
+  gold: 791
+  rating: 2198
+gSMR14Shrt1:
+  canBuy: 1
+  gold: 216
+  rating: 599
+gSMR14Shs1:
+  canBuy: 1
+  gold: 56
+  rating: 28
+gSMR14Shs2:
+  canBuy: 1
+  gold: 0
+  rating: 599
+gSMR14Shs3:
+  canBuy: 1
+  gold: 72
+  rating: 200
+gSMR14Skrt1:
+  canBuy: 1
+  gold: 128
+  rating: 35
+gSMR14Stck1:
+  canBuy: 1
+  gold: 0
+  rating: 23
+gSMR14Stck2:
+  canBuy: 1
+  gold: 216
+  rating: 599
+gSMR14TSht1:
+  canBuy: 1
+  gold: 0
+  rating: 599
+  silver: 0
+gSMR14TSht2:
+  canBuy: 1
+  gold: 128
+  rating: 35
+gSMR14Tto1:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 0
+gSMRCoat1:
+  canBuy: 1
+  gold: 96
+  rating: 52
+gSMRCrst1:
+  canBuy: 1
+  gold: 0
+  rating: 200
+gSMRCrst2:
+  canBuy: 1
+  gold: 144
+  rating: 400
+gSMRGls1:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 0
+gSchlSkrt:
+  canBuy: 1
+  gold: 25
+  rating: 150
+gSchlTop:
+  canBuy: 1
+  gold: 30
+  rating: 166
+gShsCoc1:
+  canBuy: 1
+  gold: 30
+  rating: 75
+gShsCoc10:
+  canBuy: 1
+  gold: 14
+  rating: 28
+gShsCoc11:
+  canBuy: 1
+  gold: 25
+  rating: 55
+gShsCoc2:
+  canBuy: 1
+  gold: 37
+  rating: 93
+gShsCoc3:
+  canBuy: 1
+  gold: 22
+  rating: 48
+gShsCoc5:
+  canBuy: 1
+  gold: 17
+  rating: 34
+gShsCoc6:
+  canBuy: 1
+  gold: 33
+  rating: 83
+gShsCoc7:
+  canBuy: 1
+  gold: 23
+  rating: 51
+gShsCoc8:
+  canBuy: 1
+  gold: 26
+  rating: 57
+gShsCoc9:
+  canBuy: 1
+  gold: 23
+  rating: 51
+gShsPsln1:
+  canBuy: 1
+  gold: 30
+  rating: 83
+gShsPsln10:
+  canBuy: 1
+  rating: 51
+  silver: 5100
+gShsPsln11:
+  canBuy: 1
+  gold: 0
+  rating: 127
+gShsPsln12:
+  canBuy: 1
+  gold: 35
+  rating: 40
+gShsPsln2:
+  canBuy: 1
+  gold: 11
+  rating: 22
+gShsPsln3:
+  canBuy: 1
+  gold: 50
+  rating: 139
+gShsPsln4:
+  canBuy: 1
+  gold: 19
+  rating: 38
+gShsPsln5:
+  canBuy: 1
+  gold: 75
+  rating: 208
+gShsPsln6:
+  canBuy: 1
+  gold: 37
+  rating: 95
+gShsPsln7:
+  canBuy: 1
+  gold: 0
+  rating: 711
+gShsPsln8:
+  canBuy: 1
+  gold: 33
+  rating: 85
+gShsPsln9:
+  canBuy: 1
+  gold: 44
+  rating: 111
+gShsSchl:
+  canBuy: 1
+  gold: 20
+  rating: 60
+gShsUsa1:
+  canBuy: 1
+  gold: 5
+  rating: 10
+gShsWntr1:
+  canBuy: 1
+  gold: 16
+  rating: 33
+gShsWntr2:
+  canBuy: 1
+  gold: 22
+  rating: 50
+gShsWntr3:
+  canBuy: 1
+  gold: 29
+  rating: 65
+gShsWntr4:
+  canBuy: 1
+  gold: 26
+  rating: 58
+gShsWntr5:
+  canBuy: 1
+  gold: 34
+  rating: 85
+gShsWntr6:
+  canBuy: 1
+  gold: 23
+  rating: 52
+gShsWntr7:
+  canBuy: 1
+  rating: 25
+  silver: 2700
+gSkrtUsa1:
+  canBuy: 1
+  gold: 5
+  rating: 9
+gSkrtUsa2:
+  canBuy: 1
+  gold: 9
+  rating: 15
+gSkrtUsa3:
+  canBuy: 1
+  gold: 7
+  rating: 12
+gSkrtUsa4:
+  canBuy: 1
+  gold: 6
+  rating: 10
+gSkrtUsa5:
+  canBuy: 1
+  rating: 20
+  silver: 2000
+gSkrtWntr1:
+  canBuy: 1
+  gold: 14
+  rating: 30
+gTShrtUsa1:
+  canBuy: 1
+  gold: 12
+  rating: 24
+gTShrtUsa2:
+  canBuy: 1
+  gold: 75
+  rating: 86
+gTShrtUsa3:
+  canBuy: 1
+  rating: 4
+  silver: 450
+girlAVA1:
+  canBuy: 1
+  rating: 10
+  silver: 1000
+girlAVA2:
+  canBuy: 1
+  rating: 25
+  silver: 1500
+girlAVA3:
+  canBuy: 1
+  rating: 100
+  silver: 10000
+girlAVA4:
+  canBuy: 1
+  rating: 25
+  silver: 1500
+girlAVA5:
+  canBuy: 1
+  rating: 100
+  silver: 10000
+girlAVA6:
+  canBuy: 1
+  rating: 25
+  silver: 1500
+girlAVA7:
+  canBuy: 1
+  rating: 25
+  silver: 1500
+girlAVA8:
+  canBuy: 1
+  rating: 10
+  silver: 1000
+girlAVA9:
+  canBuy: 1
+  rating: 25
+  silver: 1500
+girlAcsBagBl:
+  canBuy: 1
+  gold: 24
+  rating: 67
+  silver: 0
+girlAcsBagGr:
+  canBuy: 1
+  gold: 0
+  rating: 59
+  silver: 5920
+girlAcsBasketDaisies:
+  canBuy: 1
+  gold: 0
+  rating: 3888
+girlAcsBasketDeco:
+  canBuy: 1
+  gold: 0
+  rating: 3888
+girlAcsBasketGerbera:
+  canBuy: 1
+  gold: 1400
+  rating: 3888
+girlAcsBasketOrchid:
+  canBuy: 1
+  gold: 2100
+  rating: 5832
+girlAcsBasketRose:
+  canBuy: 1
+  gold: 2100
+  rating: 5832
+girlAcsClutchBl:
+  canBuy: 1
+  gold: 125
+  rating: 347
+girlAcsClutchBr:
+  canBuy: 1
+  gold: 125
+  rating: 347
+girlAcsClutchPink:
+  canBuy: 1
+  gold: 100
+  rating: 278
+girlAcsClutchR:
+  canBuy: 1
+  gold: 140
+  rating: 389
+girlAcsClutchY:
+  canBuy: 1
+  gold: 136
+  rating: 378
+girlAcsFrecklesDBr:
+  canBuy: 1
+  gold: 6
+  rating: 18
+  silver: 0
+girlAcsFrecklesR:
+  canBuy: 1
+  gold: 6
+  rating: 16
+  silver: 0
+girlAcsLeatherBagBl:
+  canBuy: 1
+  gold: 32
+  rating: 89
+  silver: 0
+girlAcsPatchBe:
+  canBuy: 1
+  gold: 6
+  rating: 18
+  silver: 0
+girlAcsPatchDBe:
+  canBuy: 1
+  gold: 6
+  rating: 16
+  silver: 0
+girlAcsPatchLi:
+  canBuy: 1
+  gold: 8
+  rating: 22
+  silver: 0
+girlAcsPatchR:
+  canBuy: 1
+  gold: 6
+  rating: 18
+  silver: 0
+girlAcsPatchRainb:
+  canBuy: 1
+  gold: 8
+  rating: 22
+  silver: 0
+girlAcsPatchW:
+  canBuy: 1
+  gold: 0
+  rating: 35
+  silver: 3520
+girlAcsTattooHearts:
+  canBuy: 1
+  gold: 6
+  rating: 18
+  silver: 0
+girlAcsTattooLove:
+  canBuy: 1
+  gold: 6
+  rating: 16
+  silver: 0
+girlAcsTattooMononoke:
+  canBuy: 1
+  gold: 12
+  rating: 33
+  silver: 0
+girlAcsTattooTears:
+  canBuy: 1
+  gold: 0
+  rating: 25
+  silver: 2480
+girlAcsWatchBlGd:
+  canBuy: 1
+  gold: 12
+  rating: 33
+girlAcsWatchBlue:
+  canBuy: 1
+  gold: 12
+  rating: 33
+girlAcsWatchPink:
+  canBuy: 1
+  gold: 12
+  rating: 33
+girlAcsWatchR:
+  canBuy: 1
+  rating: 28
+  silver: 2800
+girlBackpack_voodoo:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlBadGirlGls:
+  canBuy: 1
+  gold: 40
+  rating: 200
+girlBadGirlSuit:
+  canBuy: 1
+  gold: 400
+  rating: 2000
+girlBagCatBr:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+girlBagOwlBe:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+girlBagVsgst:
+  canBuy: 1
+  gold: 432
+  rating: 1200
+girlBag_cozylook_beg:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlBag_cozylook_bk:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlBag_cozylook_w:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlBag_everydaylk_br_r:
+  canBuy: 1
+  gold: 0
+  rating: 5600
+girlBag_everydaylk_br_y:
+  canBuy: 1
+  gold: 0
+  rating: 5600
+girlBag_everydaylk_gr_p:
+  canBuy: 1
+  gold: 0
+  rating: 5600
+girlBag_fluffywntr_bl:
+  canBuy: 1
+  gold: 0
+  rating: 2134
+girlBag_fluffywntr_br:
+  canBuy: 1
+  gold: 0
+  rating: 2134
+girlBag_fluffywntr_r:
+  canBuy: 1
+  gold: 0
+  rating: 2134
+girlBag_frznrl_t_bk:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlBag_frznrl_v_ble:
+  canBuy: 1
+  gold: 1152
+  rating: 3200
+girlBag_frznrl_w_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlBag_frznrl_w_l:
+  canBuy: 1
+  gold: 1152
+  rating: 3200
+girlBag_unicorn:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlBag_wintercandy:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlBaganime2gr:
+  canBuy: 1
+  gold: 1600
+  rating: 4444
+girlBaganime2p:
+  canBuy: 1
+  gold: 1760
+  rating: 4889
+girlBaganime2y:
+  canBuy: 1
+  gold: 0
+  rating: 4444
+girlBags_cutebat:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlBags_emoji_love:
+  canBuy: 1
+  gold: 1600
+  rating: 4445
+girlBags_emoji_scream:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+girlBags_emoji_think:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+girlBags_emoji_tongue:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+girlBags_spacex:
+  canBuy: 1
+  gold: 200
+  rating: 556
+girlBags_wntrprk:
+  canBuy: 1
+  gold: 32
+  rating: 89
+girlBandana_alarm:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlBlJerkin:
+  canBuy: 1
+  gold: 0
+  rating: 280
+girlBootsCowboyBe:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlBootsCowboyBr:
+  canBuy: 1
+  gold: 44
+  rating: 122
+girlBootsCowboyLi:
+  canBuy: 1
+  rating: 52
+  silver: 5200
+girlBootsEstJpn:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+girlBootsEstQn:
+  canBuy: 1
+  gold: 144
+  rating: 400
+girlBootsGangsterMinx:
+  canBuy: 1
+  gold: 240
+  rating: 667
+girlBootsGrinch:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlBootsGrinchPink:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+girlBootsVsgst:
+  canBuy: 1
+  gold: 72
+  rating: 200
+girlBracelet80outfitbk:
+  canBuy: 1
+  gold: 12
+  rating: 33
+girlBracelet80outfitble:
+  canBuy: 1
+  gold: 12
+  rating: 33
+girlBracelet80outfitp:
+  canBuy: 1
+  gold: 12
+  rating: 33
+girlBracelet_jd:
+  canBuy: 1
+  gold: 0
+  rating: 533
+girlBracelet_wtchnew_r:
+  canBuy: 1
+  gold: 0
+  rating: 711
+girlBracelet_wtchnew_v:
+  canBuy: 1
+  gold: 0
+  rating: 711
+girlBraceletesMinnieP:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlBraceletesMinnieW:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlBraceletsgotbl:
+  canBuy: 1
+  gold: 1472
+  rating: 4089
+girlBraceletsgotw:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlBraceletsgoty:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlBsktGrdnr:
+  canBuy: 1
+  rating: 25
+  silver: 2500
+girlBtsCwby:
+  canBuy: 1
+  rating: 100
+  silver: 10000
+girlCameraPhoto:
+  canBuy: 1
+  gold: 0
+  rating: 519
+girlCandy1SV19:
+  canBuy: 1
+  gold: 0
+  rating: 778
+girlCandy2SV19:
+  canBuy: 1
+  gold: 0
+  rating: 778
+girlCandy3SV19:
+  canBuy: 1
+  gold: 0
+  rating: 778
+girlCandy4SV19:
+  canBuy: 1
+  gold: 0
+  rating: 778
+girlCandy5SV19:
+  canBuy: 1
+  gold: 0
+  rating: 778
+girlCherryAcs:
+  canBuy: 1
+  gold: 22
+  rating: 61
+girlCherryJckt:
+  canBuy: 1
+  gold: 72
+  rating: 200
+girlCherryRim:
+  canBuy: 1
+  gold: 36
+  rating: 100
+girlCherryShrt:
+  canBuy: 1
+  gold: 87
+  rating: 242
+girlCherryShs:
+  canBuy: 1
+  gold: 65
+  rating: 181
+girlCherrySkrt:
+  canBuy: 1
+  gold: 93
+  rating: 258
+girlCherryStck:
+  canBuy: 1
+  gold: 72
+  rating: 200
+girlClocksPolicemansilver:
+  canBuy: 1
+  gold: 32
+  rating: 88
+girlCrown1:
+  canBuy: 1
+  gold: 50
+  rating: 130
+girlCrown2:
+  canBuy: 1
+  gold: 40
+  rating: 105
+girlDcrGrdnr:
+  canBuy: 1
+  rating: 50
+  silver: 5000
+girlDcrRetro:
+  canBuy: 1
+  gold: 0
+  rating: 258
+girlDeadpoolbody:
+  canBuy: 1
+  gold: 1819
+  rating: 38880
+girlDeadpoolboots:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+girlDeadpoolgloves:
+  canBuy: 1
+  gold: 13997
+  rating: 5054
+girlDeadpoolhood:
+  canBuy: 1
+  gold: 6998
+  rating: 19440
+girlDeadpoolhood2:
+  canBuy: 1
+  gold: 0
+  rating: 19440
+girlDeadpoolswords:
+  canBuy: 1
+  gold: 0
+  rating: 31104
+girlDecor1:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 220
+girlDecor10:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+girlDecor101:
+  canBuy: 1
+  gold: 28
+  rating: 61
+  silver: 0
+girlDecor102:
+  canBuy: 1
+  rating: 1
+  silver: 145
+girlDecor103:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 345
+girlDecor104:
+  canBuy: 1
+  gold: 9
+  rating: 10
+  silver: 0
+girlDecor105:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+girlDecor106:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+girlDecor107:
+  canBuy: 1
+  gold: 0
+  rating: 3500
+  silver: 0
+girlDecor108:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+girlDecor11:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+girlDecor12:
+  canBuy: 1
+  rating: 1
+  silver: 60
+girlDecor13:
+  canBuy: 1
+  rating: 1
+  silver: 50
+girlDecor14:
+  canBuy: 1
+  gold: 4
+  rating: 6
+  silver: 0
+girlDecor15:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+girlDecor16:
+  canBuy: 1
+  rating: 22
+  silver: 2200
+girlDecor17:
+  canBuy: 1
+  gold: 24
+  rating: 52
+  silver: 0
+girlDecor18:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 300
+girlDecor19:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+girlDecor2:
+  canBuy: 1
+  rating: 1
+  silver: 75
+girlDecor20:
+  canBuy: 1
+  gold: 7
+  rating: 12
+  silver: 0
+girlDecor201:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 200
+girlDecor202:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 150
+girlDecor203:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 120
+girlDecor204:
+  canBuy: 1
+  gold: 50
+  rating: 139
+  silver: 0
+girlDecor205:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 200
+girlDecor206:
+  canBuy: 1
+  rating: 1
+  silver: 60
+girlDecor207:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 210
+girlDecor208:
+  canBuy: 1
+  rating: 2
+  silver: 230
+girlDecor209:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 290
+girlDecor21:
+  canBuy: 1
+  gold: 9
+  rating: 16
+  silver: 0
+girlDecor210:
+  canBuy: 1
+  gold: 14
+  rating: 28
+  silver: 0
+girlDecor211:
+  canBuy: 1
+  gold: 16
+  rating: 32
+  silver: 0
+girlDecor212:
+  canBuy: 1
+  gold: 19
+  rating: 38
+  silver: 0
+girlDecor213:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 215
+girlDecor214:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 335
+girlDecor215:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+girlDecor216:
+  canBuy: 1
+  gold: 7
+  rating: 11
+  silver: 0
+girlDecor217:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 220
+girlDecor218:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 200
+girlDecor219:
+  canBuy: 1
+  gold: 8
+  rating: 13
+  silver: 0
+girlDecor22:
+  canBuy: 1
+  gold: 4
+  rating: 6
+  silver: 0
+girlDecor220:
+  canBuy: 1
+  gold: 7
+  rating: 11
+  silver: 0
+girlDecor221:
+  canBuy: 1
+  gold: 100
+  rating: 278
+  silver: 0
+girlDecor222:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+girlDecor223:
+  canBuy: 1
+  gold: 22
+  rating: 48
+  silver: 0
+girlDecor224:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+girlDecor225:
+  canBuy: 1
+  gold: 22
+  rating: 48
+  silver: 0
+girlDecor23:
+  canBuy: 1
+  gold: 3
+  rating: 5
+  silver: 0
+girlDecor24:
+  canBuy: 1
+  gold: 8
+  rating: 13
+  silver: 0
+girlDecor25:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 280
+girlDecor26:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 210
+girlDecor27:
+  canBuy: 1
+  gold: 30
+  rating: 100
+  silver: 0
+girlDecor28:
+  canBuy: 1
+  rating: 1
+  silver: 95
+girlDecor3:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 245
+girlDecor4:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 265
+girlDecor5:
+  canBuy: 1
+  rating: 1
+  silver: 110
+girlDecor6:
+  canBuy: 1
+  gold: 14
+  rating: 28
+  silver: 0
+girlDecor7:
+  canBuy: 1
+  rating: 1
+  silver: 75
+girlDecor8:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+girlDecor9:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+girlDecorShtormbl:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlDecorShtormw:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlDecorSpring2014Flowers:
+  canBuy: 1
+  gold: 1007
+  rating: 2797
+girlDress1:
+  canBuy: 1
+  gold: 0
+  rating: 14
+  silver: 1400
+girlDress10:
+  canBuy: 1
+  gold: 13
+  rating: 26
+  silver: 0
+girlDress101xp:
+  canBuy: 1
+  gold: 0
+  rating: 500
+  silver: 5
+girlDress2:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 1250
+girlDress3:
+  canBuy: 1
+  gold: 0
+  rating: 15
+  silver: 1500
+girlDress4:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 500
+girlDress5:
+  canBuy: 1
+  gold: 16
+  rating: 32
+  silver: 0
+girlDress6:
+  canBuy: 1
+  gold: 18
+  rating: 36
+  silver: 0
+girlDress7:
+  canBuy: 1
+  gold: 16
+  rating: 32
+  silver: 0
+girlDress8:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+girlDress9:
+  canBuy: 1
+  gold: 24
+  rating: 52
+  silver: 0
+girlDressBallerine:
+  canBuy: 1
+  gold: 2302
+  rating: 6394
+girlDressChem:
+  canBuy: 1
+  gold: 0
+  rating: 1600
+girlDressCoatGr:
+  canBuy: 1
+  gold: 230
+  rating: 638
+girlDressCoatLil:
+  canBuy: 1
+  gold: 266
+  rating: 738
+girlDressCoatOr:
+  canBuy: 1
+  gold: 230
+  rating: 638
+girlDressCoatR:
+  canBuy: 1
+  gold: 0
+  rating: 328
+  silver: 32800
+girlDressEstJpn:
+  canBuy: 1
+  rating: 800
+  silver: 80000
+girlDressEstQn:
+  canBuy: 1
+  gold: 720
+  rating: 2000
+girlDressFlSkG:
+  canBuy: 1
+  gold: 560
+  rating: 1555
+girlDressFlSkP:
+  canBuy: 1
+  rating: 520
+  silver: 52000
+girlDressFlSkR:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+girlDressFlSkW:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+girlDressGangsterMinx:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+girlDressGottbl:
+  canBuy: 1
+  gold: 320
+  rating: 888
+girlDressGottdbe:
+  canBuy: 1
+  gold: 296
+  rating: 822
+girlDressGottdr:
+  canBuy: 1
+  gold: 280
+  rating: 777
+girlDressGrSV19Be:
+  canBuy: 1
+  gold: 4199
+  rating: 11664
+girlDressGrSV19DBe:
+  canBuy: 1
+  gold: 0
+  rating: 11664
+girlDressGrSV19G:
+  canBuy: 1
+  gold: 0
+  rating: 11664
+girlDressGrSV19O:
+  canBuy: 1
+  gold: 0
+  rating: 11664
+girlDressGrSV19V:
+  canBuy: 1
+  gold: 4199
+  rating: 11664
+girlDressJSV19Be:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+girlDressJSV19DBE:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+girlDressJSV19G:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+girlDressJSV19P:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+girlDressJSV19R:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+girlDressJeans:
+  canBuy: 1
+  gold: 180
+  rating: 500
+girlDressJeansBe:
+  canBuy: 1
+  gold: 180
+  rating: 500
+girlDressJeansG:
+  canBuy: 1
+  gold: 158
+  rating: 440
+girlDressJeansR:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+girlDressJeansY:
+  canBuy: 1
+  gold: 180
+  rating: 500
+girlDressLSV19BE:
+  canBuy: 1
+  gold: 13997
+  rating: 38880
+girlDressLSV19DBE:
+  canBuy: 1
+  gold: 13997
+  rating: 38880
+girlDressLSV19P:
+  canBuy: 1
+  gold: 13997
+  rating: 38880
+girlDressLSV19R:
+  canBuy: 1
+  gold: 0
+  rating: 38880
+girlDressMinnieBle:
+  canBuy: 1
+  gold: 960
+  rating: 2666
+girlDressMinnieP:
+  canBuy: 1
+  gold: 1440
+  rating: 4000
+girlDressMinnieY:
+  canBuy: 1
+  gold: 960
+  rating: 2666
+girlDressNewYearSnegurka_r:
+  canBuy: 1
+  gold: 0
+  rating: 1
+girlDressRetro:
+  canBuy: 1
+  gold: 0
+  rating: 1000
+girlDressShSV19DBe:
+  canBuy: 1
+  gold: 0
+  rating: 31104
+girlDressShSV19O:
+  canBuy: 1
+  gold: 0
+  rating: 31104
+girlDressShSV19P:
+  canBuy: 1
+  gold: 11197
+  rating: 31104
+girlDressShSV19R:
+  canBuy: 1
+  gold: 0
+  rating: 31104
+girlDressSpring2014Orange:
+  canBuy: 1
+  gold: 2661
+  rating: 7393
+girlDressSpring2014Stars:
+  canBuy: 1
+  gold: 3165
+  rating: 8791
+girlDressTennisble:
+  canBuy: 1
+  gold: 0
+  rating: 6593
+  silver: 0
+girlDressTenniso:
+  canBuy: 1
+  gold: 0
+  rating: 7192
+  silver: 0
+girlDressTennisp:
+  canBuy: 1
+  gold: 0
+  rating: 7192
+  silver: 0
+girlDressTennisw:
+  canBuy: 1
+  gold: 0
+  rating: 6193
+  silver: 0
+girlDressThlBl:
+  canBuy: 1
+  gold: 7777
+  rating: 38880
+girlDressThlWh:
+  canBuy: 1
+  gold: 7777
+  rating: 38880
+girlDressTrSV19B:
+  canBuy: 1
+  gold: 0
+  rating: 19440
+girlDressTrSV19DBE:
+  canBuy: 1
+  gold: 6999
+  rating: 19440
+girlDressTrSV19P:
+  canBuy: 1
+  gold: 6999
+  rating: 19440
+girlDressTrSV19R:
+  canBuy: 1
+  gold: 6999
+  rating: 19440
+girlDressVsgst:
+  canBuy: 1
+  gold: 43
+  rating: 120
+girlDress_Freddy:
+  canBuy: 1
+  gold: 1920
+  rating: 5334
+girlDress_Starter_v:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlDress_arist_bg:
+  canBuy: 1
+  gold: 3840
+  rating: 10668
+girlDress_arist_g:
+  canBuy: 1
+  gold: 3840
+  rating: 10668
+girlDress_arist_r:
+  canBuy: 1
+  gold: 0
+  rating: 10668
+girlDress_arist_v:
+  canBuy: 1
+  gold: 0
+  rating: 10668
+girlDress_artsystyle:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+girlDress_autcls_gr:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+girlDress_autcls_o:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+girlDress_autcls_v:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+girlDress_bigcity:
+  canBuy: 1
+  gold: 320
+  rating: 889
+girlDress_catstyle_g_y:
+  canBuy: 1
+  rating: 340
+  silver: 34000
+girlDress_catstyle_r_bk:
+  canBuy: 1
+  rating: 340
+  silver: 34000
+girlDress_catstyle_w_ble:
+  canBuy: 1
+  rating: 340
+  silver: 34000
+girlDress_cmft_dg:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+girlDress_cmft_dr:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+girlDress_cmft_gr:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+girlDress_cozylook_beg:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+girlDress_cozylook_g:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+girlDress_cozylook_o:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+girlDress_ctxmas_blk_w:
+  canBuy: 1
+  gold: 0
+  rating: 6223
+girlDress_ctxmas_gr_blk:
+  canBuy: 1
+  gold: 0
+  rating: 6223
+girlDress_ctxmas_r_blk:
+  canBuy: 1
+  gold: 2240
+  rating: 6223
+girlDress_flowerjewel_ble:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+girlDress_flowerjewel_o:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+girlDress_flowerjewel_r:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+girlDress_frstl_br:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+girlDress_frstl_r:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+girlDress_frstl_v:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+girlDress_frznrl_t_bk:
+  canBuy: 1
+  gold: 0
+  rating: 11557
+girlDress_frznrl_v_ble:
+  canBuy: 1
+  gold: 4161
+  rating: 11557
+girlDress_frznrl_w_ble:
+  canBuy: 1
+  gold: 4161
+  rating: 11557
+girlDress_frznrl_w_l:
+  canBuy: 1
+  gold: 4161
+  rating: 11557
+girlDress_gentleflower_g_w:
+  canBuy: 1
+  rating: 430
+  silver: 43000
+girlDress_gentleflower_p_ble:
+  canBuy: 1
+  rating: 430
+  silver: 43000
+girlDress_gentleflower_r_gr:
+  canBuy: 1
+  rating: 430
+  silver: 43000
+girlDress_goldgod:
+  canBuy: 1
+  gold: 440
+  rating: 1222
+girlDress_gthlol_bk_p:
+  canBuy: 1
+  gold: 4161
+  rating: 11557
+girlDress_gthlol_dr_p:
+  canBuy: 1
+  gold: 4161
+  rating: 11557
+girlDress_gthlol_v_bk:
+  canBuy: 1
+  gold: 4161
+  rating: 11557
+girlDress_lavaset:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+girlDress_lilcute_bk:
+  canBuy: 1
+  gold: 0
+  rating: 9956
+girlDress_lilcute_ble:
+  canBuy: 1
+  gold: 0
+  rating: 9956
+girlDress_lilcute_p:
+  canBuy: 1
+  gold: 0
+  rating: 9956
+girlDress_linerdress:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+girlDress_lovegorgoyle_bk:
+  canBuy: 1
+  gold: 2560
+  rating: 7112
+girlDress_lovegorgoyle_p:
+  canBuy: 1
+  gold: 2560
+  rating: 7112
+girlDress_lovegorgoyle_w:
+  canBuy: 1
+  gold: 2560
+  rating: 7112
+girlDress_mlfcnt:
+  canBuy: 1
+  gold: 560
+  rating: 1556
+girlDress_muerta:
+  canBuy: 1
+  gold: 320
+  rating: 889
+girlDress_nocrmdress_bk:
+  canBuy: 1
+  rating: 440
+  silver: 44000
+girlDress_nocrmdress_ble:
+  canBuy: 1
+  rating: 440
+  silver: 44000
+girlDress_nocrmdress_p:
+  canBuy: 1
+  rating: 440
+  silver: 44000
+girlDress_poshfall_dg:
+  canBuy: 1
+  gold: 112
+  rating: 311
+girlDress_poshfall_dr:
+  canBuy: 1
+  gold: 112
+  rating: 311
+girlDress_poshfall_v:
+  canBuy: 1
+  gold: 112
+  rating: 311
+girlDress_prncsday_p_v:
+  canBuy: 1
+  gold: 0
+  rating: 11557
+girlDress_prncsday_t_blk:
+  canBuy: 1
+  gold: 0
+  rating: 11557
+girlDress_prncsday_w_b:
+  canBuy: 1
+  gold: 0
+  rating: 11557
+girlDress_pureelegance_ble:
+  canBuy: 1
+  gold: 0
+  rating: 8712
+girlDress_pureelegance_gr:
+  canBuy: 1
+  gold: 0
+  rating: 8712
+girlDress_pureelegance_r:
+  canBuy: 1
+  gold: 0
+  rating: 8712
+girlDress_roguestyle:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+girlDress_romanceflower_g:
+  canBuy: 1
+  rating: 480
+  silver: 48000
+girlDress_romanceflower_r:
+  canBuy: 1
+  rating: 480
+  silver: 48000
+girlDress_romanceflower_w_gr:
+  canBuy: 1
+  rating: 480
+  silver: 48000
+girlDress_royalgirl_g_y:
+  canBuy: 1
+  gold: 0
+  rating: 14000
+girlDress_royalgirl_r_bk:
+  canBuy: 1
+  gold: 5040
+  rating: 14000
+girlDress_royalgirl_y_w:
+  canBuy: 1
+  gold: 5040
+  rating: 14000
+girlDress_scarydoll:
+  canBuy: 1
+  gold: 200
+  rating: 556
+girlDress_schlly:
+  canBuy: 1
+  gold: 560
+  rating: 1556
+girlDress_sctld_g_y:
+  canBuy: 1
+  rating: 296
+  silver: 29600
+girlDress_sctld_p_bk:
+  canBuy: 1
+  rating: 296
+  silver: 29600
+girlDress_sctld_r_w:
+  canBuy: 1
+  rating: 296
+  silver: 29600
+girlDress_svdcook:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+girlDress_swtwntr:
+  canBuy: 1
+  gold: 320
+  rating: 889
+girlDress_sxdress:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+girlDress_townmodel_bk:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+girlDress_townmodel_p:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+girlDress_townmodel_r:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+girlDress_violetdream:
+  canBuy: 1
+  gold: 280
+  rating: 778
+girlDress_whitebird:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+girlDress_winterheart_gr:
+  canBuy: 1
+  rating: 300
+  silver: 30000
+girlDress_winterheart_r:
+  canBuy: 1
+  rating: 300
+  silver: 30000
+girlDress_winterheart_v:
+  canBuy: 1
+  rating: 300
+  silver: 30000
+girlDress_winterstl_b:
+  canBuy: 1
+  gold: 0
+  rating: 8001
+girlDress_winterstl_p:
+  canBuy: 1
+  gold: 0
+  rating: 8001
+girlDress_winterstl_t:
+  canBuy: 1
+  gold: 0
+  rating: 8001
+girlDress_wntrmaid_beg_br:
+  canBuy: 1
+  gold: 0
+  rating: 9423
+girlDress_wntrmaid_ble_w:
+  canBuy: 1
+  gold: 0
+  rating: 9423
+girlDress_wntrmaid_gr_bk_w:
+  canBuy: 1
+  gold: 0
+  rating: 9423
+girlDress_xmaself:
+  canBuy: 1
+  gold: 336
+  rating: 933
+girlDressbuntarkabk:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+girlDressbuntarkable:
+  canBuy: 1
+  gold: 340
+  rating: 944
+girlDressbuntarkav:
+  canBuy: 1
+  gold: 340
+  rating: 944
+girlDressesButterflyble:
+  canBuy: 1
+  gold: 6474
+  rating: 17982
+girlDressesButterflyg:
+  canBuy: 1
+  gold: 6474
+  rating: 17982
+  silver: 0
+girlDressesButterflyo:
+  canBuy: 1
+  gold: 6474
+  rating: 17982
+girlDressesPeacockble:
+  canBuy: 1
+  gold: 8631
+  rating: 23976
+girlDressesPeacockg:
+  canBuy: 1
+  gold: 8631
+  rating: 23976
+  silver: 0
+girlDressesPeacockr:
+  canBuy: 1
+  gold: 8631
+  rating: 23976
+girlDressesflowerrosebl:
+  canBuy: 1
+  gold: 0
+  rating: 8992
+girlDressesflowerroser:
+  canBuy: 1
+  gold: 0
+  rating: 12988
+girlDressesflowerrosew:
+  canBuy: 1
+  gold: 0
+  rating: 8992
+girlDressfruitsp:
+  canBuy: 1
+  gold: 300
+  rating: 833
+girlDressfruitsw:
+  canBuy: 1
+  gold: 0
+  rating: 440
+  silver: 44000
+girlDressfruitsy:
+  canBuy: 1
+  gold: 300
+  rating: 833
+girlDressgalacticable:
+  canBuy: 1
+  gold: 0
+  rating: 6756
+girlDressgalacticar:
+  canBuy: 1
+  gold: 0
+  rating: 7467
+  silver: 0
+girlDressgalacticav:
+  canBuy: 1
+  gold: 0
+  rating: 6756
+  silver: 0
+girlDressgotble:
+  canBuy: 1
+  gold: 0
+  rating: 8000
+girlDressgotdragon:
+  canBuy: 1
+  gold: 0
+  rating: 6578
+  silver: 0
+girlDressgotlion:
+  canBuy: 1
+  gold: 0
+  rating: 6578
+  silver: 0
+girlDressgotoctopus:
+  canBuy: 1
+  gold: 0
+  rating: 6578
+  silver: 0
+girlDressgotr:
+  canBuy: 1
+  gold: 0
+  rating: 8000
+girlDressgotwolf:
+  canBuy: 1
+  gold: 0
+  rating: 6222
+  silver: 0
+girlDressgoty:
+  canBuy: 1
+  gold: 0
+  rating: 8000
+girlDresshellcatbe:
+  canBuy: 1
+  gold: 2688
+  rating: 7467
+girlDresshellcatbl:
+  canBuy: 1
+  gold: 2432
+  rating: 6756
+girlDresshellcatr:
+  canBuy: 1
+  gold: 2688
+  rating: 7467
+girlDressherberablebl:
+  canBuy: 1
+  gold: 380
+  rating: 1055
+girlDressherberaorgr:
+  canBuy: 1
+  gold: 380
+  rating: 1055
+girlDressherberapkr:
+  canBuy: 1
+  gold: 340
+  rating: 944
+girlDressherberavcyan:
+  canBuy: 1
+  rating: 380
+  silver: 38000
+girlDressryushkig:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+girlDressryushkip:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+girlDressryushkiv:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+girlDressschwarm:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlDrssPlgrm:
+  canBuy: 1
+  gold: 75
+  rating: 208
+girlEarings_bluegemstone:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlEarings_clover:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlEarings_starmoon:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlEarringpearlbl:
+  canBuy: 1
+  gold: 946
+  rating: 2629
+  silver: 0
+girlEarringpearlp:
+  canBuy: 1
+  gold: 946
+  rating: 2629
+  silver: 0
+girlEarringpearlw:
+  canBuy: 1
+  gold: 946
+  rating: 2629
+girlEarringsGangsterMinx:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlEarringsGeom:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+girlEarringsShtormy:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+girlEarringsTrngl:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlEarrings_alarm:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+girlEarrings_arist_g:
+  canBuy: 1
+  gold: 512
+  rating: 1422
+girlEarrings_arist_r:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+girlEarrings_arist_v:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+girlEarrings_arist_y:
+  canBuy: 1
+  gold: 512
+  rating: 1422
+girlEarrings_frznstl:
+  canBuy: 1
+  gold: 0
+  rating: 1245
+girlEarrings_indsmr:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlEarrings_instafur_dr:
+  canBuy: 1
+  gold: 36
+  rating: 100
+girlEarrings_instafur_o:
+  canBuy: 1
+  gold: 36
+  rating: 100
+girlEarrings_instafur_w:
+  canBuy: 1
+  gold: 36
+  rating: 100
+  silver: 0
+girlEarrings_poshfall_dg:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+girlEarrings_poshfall_dr:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+girlEarrings_poshfall_v:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+girlEarrings_sctld_g_w:
+  canBuy: 1
+  gold: 24
+  rating: 67
+girlEarrings_sctld_p_gr:
+  canBuy: 1
+  gold: 24
+  rating: 67
+girlEarrings_sctld_r_bk:
+  canBuy: 1
+  gold: 24
+  rating: 67
+girlEarrings_xmascandy:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlEarrings_xmaswreath:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlEarringsbuntarkabk:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+girlEarringsbuntarkar:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+girlEarringsbuntarkaw:
+  canBuy: 1
+  gold: 280
+  rating: 778
+  silver: 0
+girlEarringsfruitso:
+  canBuy: 1
+  gold: 112
+  rating: 311
+  silver: 0
+girlEarringsfruitsw:
+  canBuy: 1
+  gold: 112
+  rating: 311
+  silver: 0
+girlEarringsfruitsy:
+  canBuy: 1
+  gold: 112
+  rating: 311
+  silver: 0
+girlErrJzz:
+  canBuy: 1
+  gold: 240
+  rating: 666
+girlErrngsCslFr:
+  canBuy: 1
+  gold: 75
+  rating: 208
+girlErrngsCslScndnv:
+  canBuy: 1
+  gold: 200
+  rating: 556
+girlEspdBl:
+  canBuy: 1
+  gold: 64
+  rating: 177
+girlEspdBle:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlEspdP:
+  canBuy: 1
+  gold: 64
+  rating: 177
+girlEspdW:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+girlEvng1:
+  canBuy: 1
+  rating: 9
+  silver: 970
+girlEvng10:
+  canBuy: 1
+  gold: 3
+girlEvng11:
+  canBuy: 1
+  rating: 9
+  silver: 930
+girlEvng12:
+  canBuy: 1
+  gold: 8
+  rating: 15
+girlEvng13:
+  canBuy: 1
+  gold: 23
+  rating: 51
+girlEvng14:
+  canBuy: 1
+  rating: 26
+  silver: 2600
+girlEvng2:
+  canBuy: 1
+  rating: 13
+  silver: 1340
+girlEvng3:
+  canBuy: 1
+  rating: 17
+  silver: 1750
+girlEvng4:
+  canBuy: 1
+  gold: 52
+  rating: 130
+girlEvng5:
+  canBuy: 1
+  gold: 250
+  rating: 694
+girlEvng6:
+  canBuy: 1
+  gold: 500
+  rating: 1389
+girlEvng7:
+  canBuy: 1
+  rating: 33
+  silver: 3350
+girlEvng8:
+  canBuy: 1
+  rating: 47
+  silver: 4700
+girlEvng9:
+  canBuy: 1
+  gold: 36
+  rating: 90
+girlFaces_bk_kawaii:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlFaces_bk_redcross:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlFaces_bk_tng:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlFaces_bk_tooth:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlFaces_koreanclassic:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+girlFaces_lovegorgoyle:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+girlFaces_muerta:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlFaces_scarydoll:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlFaces_w_rus:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+girlFacesmaskbear:
+  canBuy: 1
+  gold: 18
+  rating: 50
+girlFacesmaskmoustache:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+girlFacesmaskteeth:
+  canBuy: 1
+  gold: 64
+  rating: 178
+girlFacesmasktongue:
+  canBuy: 1
+  gold: 18
+  rating: 50
+girlFairy1Decor:
+  canBuy: 1
+  gold: 3359
+  rating: 9331
+girlFairy1Dress:
+  canBuy: 1
+  gold: 4199
+  rating: 11664
+girlFairy1Shoes:
+  canBuy: 1
+  gold: 1120
+  rating: 3110
+girlFairy1Wings:
+  canBuy: 1
+  gold: 4199
+  rating: 11664
+girlFairy3Decor:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+girlFairy3Dress:
+  canBuy: 1
+  gold: 5599
+  rating: 15552
+girlFairy3Shoes:
+  canBuy: 1
+  gold: 0
+  rating: 3888
+girlFairy3Tights:
+  canBuy: 1
+  gold: 0
+  rating: 6998
+girlFairy3Wings:
+  canBuy: 1
+  gold: 5599
+  rating: 15552
+girlFairy4Decor:
+  canBuy: 1
+  gold: 1400
+  rating: 3888
+girlFairy4Dress:
+  canBuy: 1
+  gold: 6998
+  rating: 19440
+girlFairy4Pendant:
+  canBuy: 1
+  gold: 0
+  rating: 3888
+girlFairy4Shoes:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+girlFairy4Wings:
+  canBuy: 1
+  gold: 6998
+  rating: 19440
+girlFairy5Decor:
+  canBuy: 1
+  gold: 0
+  rating: 3888
+girlFairy5Dress:
+  canBuy: 1
+  gold: 5599
+  rating: 15552
+girlFairy5Shoes:
+  canBuy: 1
+  gold: 0
+  rating: 5832
+girlFairy5Wings:
+  canBuy: 1
+  gold: 5599
+  rating: 15552
+girlFairyBoots:
+  canBuy: 1
+  gold: 1400
+  rating: 3888
+girlFairyBracelet:
+  canBuy: 1
+  gold: 700
+  rating: 1944
+girlFairyDecor:
+  canBuy: 1
+  gold: 1400
+  rating: 3888
+girlFairyDress:
+  canBuy: 1
+  gold: 4199
+  rating: 11664
+girlFairyWings:
+  canBuy: 1
+  gold: 4199
+  rating: 11664
+girlFanJzz:
+  canBuy: 1
+  gold: 280
+  rating: 777
+girlFireHat:
+  canBuy: 1
+  gold: 0
+  rating: 1245
+girlFireSuit:
+  canBuy: 1
+  gold: 0
+  rating: 10668
+girlFireball:
+  canBuy: 1
+  gold: 0
+  rating: 889
+girlFurCoatEstQn:
+  canBuy: 1
+  gold: 1152
+  rating: 3200
+girlGlasChem:
+  canBuy: 1
+  gold: 72
+  rating: 200
+girlGlassesEvngln:
+  canBuy: 1
+  gold: 0
+  rating: 120
+girlGlassesHsptlTch:
+  canBuy: 1
+  gold: 0
+  rating: 120
+girlGlassesParisbk:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlGlassesParisr:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+girlGlassesParisw:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlGlassesPoliceman:
+  canBuy: 1
+  gold: 152
+  rating: 422
+girlGlassesRtrRcr:
+  canBuy: 1
+  gold: 0
+  rating: 200
+girlGlassesSpring2014Violet:
+  canBuy: 1
+  gold: 791
+  rating: 2198
+girlGlassesVsgst:
+  canBuy: 1
+  gold: 29
+  rating: 80
+girlGlasses_pixel:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlGlasses_townmodel_bk:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlGlasses_townmodel_p:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlGlasses_townmodel_w:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlGlassesfruitso:
+  canBuy: 1
+  gold: 140
+  rating: 389
+girlGlassesfruitsw:
+  canBuy: 1
+  gold: 140
+  rating: 389
+girlGlassesfruitsy:
+  canBuy: 1
+  gold: 140
+  rating: 389
+girlGlassesmystblue:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+girlGlassessummersportbl:
+  canBuy: 1
+  gold: 0
+  rating: 3861
+girlGlassessummersportgold:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+girlGlassessummersportp:
+  canBuy: 1
+  gold: 0
+  rating: 3861
+girlGlovChem:
+  canBuy: 1
+  gold: 0
+  rating: 100
+girlGlovesGangsterMinx:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlGlovesRtrRcr:
+  canBuy: 1
+  gold: 0
+  rating: 120
+girlGlovesThlBl:
+  canBuy: 1
+  gold: 1555
+  rating: 7776
+girlGlovesThlWh:
+  canBuy: 1
+  gold: 1555
+  rating: 7776
+girlGloves_artsystyle:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlGloves_catfur:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlGloves_catstyle_bk:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlGloves_catstyle_o:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlGloves_catstyle_w:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlGloves_corset_bk_g:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlGloves_corset_bk_o:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlGloves_corset_r:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlGloves_corset_v:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlGloves_flfwntr_beg_br:
+  canBuy: 1
+  gold: 0
+  rating: 1600
+girlGloves_flfwntr_l_y:
+  canBuy: 1
+  gold: 0
+  rating: 1600
+girlGloves_flfwntr_w_ble:
+  canBuy: 1
+  gold: 0
+  rating: 1600
+girlGloves_gthlol_bk_p:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlGloves_gthlol_dr_p:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+girlGloves_gthlol_v_bk:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+girlGloves_lilcute_bk_v:
+  canBuy: 1
+  gold: 0
+  rating: 1728
+girlGloves_lilcute_gr_r:
+  canBuy: 1
+  gold: 0
+  rating: 1728
+girlGloves_lilcute_gr_y:
+  canBuy: 1
+  gold: 0
+  rating: 1728
+girlGloves_neonbird_ble:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+girlGloves_neonbird_o:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+girlGloves_neonbird_p:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlGloves_pureelegance_bk:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+girlGloves_pureelegance_ble:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+girlGloves_pureelegance_r:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+girlGloves_royalgirl_bk:
+  canBuy: 1
+  gold: 403
+  rating: 1120
+girlGloves_royalgirl_w:
+  canBuy: 1
+  gold: 0
+  rating: 1120
+girlGloves_swtwntr:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlGloves_sxdress:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlGloves_wfall:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlGloves_wntrfairy:
+  canBuy: 1
+  gold: 100
+  rating: 278
+girlGloves_xmaself:
+  canBuy: 1
+  gold: 64
+  rating: 178
+girlGloves_xmsdr:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlGlovesbikerbl:
+  canBuy: 1
+  gold: 719
+  rating: 1998
+girlGlovesbikerw:
+  canBuy: 1
+  gold: 18
+  rating: 1998
+girlGlovescapmbr:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlGlovescapmr:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+girlGloveskigurumirabbit:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+girlGlovesrescuep:
+  canBuy: 1
+  gold: 1920
+  rating: 5333
+girlGlovesrescuer:
+  canBuy: 1
+  gold: 0
+  rating: 7111
+girlGlvsCslScndnv:
+  canBuy: 1
+  gold: 100
+  rating: 278
+girlGrJerkin:
+  canBuy: 1
+  gold: 0
+  rating: 280
+girlHairEstJpn:
+  canBuy: 1
+  rating: 400
+  silver: 60000
+girlHairEstQn:
+  canBuy: 1
+  gold: 432
+  rating: 1200
+girlHairpinpearlbl:
+  canBuy: 1
+  gold: 1263
+  rating: 3508
+girlHairpinpearlp:
+  canBuy: 1
+  gold: 1263
+  rating: 3508
+girlHairpinpearlw:
+  canBuy: 1
+  gold: 1263
+  rating: 3508
+girlHairpins_bldy_bg:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlHairpins_bldy_bk:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlHairpins_bldy_dble:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlHairpins_prncsday:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlHairpins_pureelegance_flwr:
+  canBuy: 1
+  gold: 0
+  rating: 711
+girlHairpins_pureelegance_snflk:
+  canBuy: 1
+  gold: 0
+  rating: 711
+girlHairpins_pureelegance_str:
+  canBuy: 1
+  gold: 0
+  rating: 711
+girlHairpins_winterheart_cherry:
+  canBuy: 1
+  gold: 28
+  rating: 78
+girlHairpins_winterheart_grape:
+  canBuy: 1
+  gold: 28
+  rating: 78
+girlHairpins_winterheart_orange:
+  canBuy: 1
+  gold: 28
+  rating: 78
+girlHairpins_wntrpair:
+  canBuy: 1
+  gold: 48
+  rating: 133
+girlHairpins_xmaself_blk_w:
+  canBuy: 1
+  gold: 0
+  rating: 711
+girlHairpins_xmaself_r_gr:
+  canBuy: 1
+  gold: 0
+  rating: 711
+girlHandgunGangsterMinx:
+  canBuy: 1
+  gold: 200
+  rating: 556
+girlHartscatbl:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlHartscatlbe:
+  canBuy: 1
+  gold: 864
+  rating: 2400
+girlHartscatp:
+  canBuy: 1
+  gold: 864
+  rating: 2400
+girlHat80outfitbk:
+  canBuy: 1
+  gold: 24
+  rating: 67
+girlHat80outfitble:
+  canBuy: 1
+  gold: 24
+  rating: 67
+girlHat80outfitp:
+  canBuy: 1
+  gold: 24
+  rating: 67
+girlHatArmy:
+  canBuy: 1
+  gold: 28
+  rating: 78
+girlHatDeerBe:
+  canBuy: 1
+  gold: 20
+  rating: 56
+girlHatDeerG:
+  canBuy: 1
+  gold: 20
+  rating: 56
+girlHatDeerR:
+  canBuy: 1
+  gold: 20
+  rating: 56
+girlHatDeerW:
+  canBuy: 1
+  gold: 28
+  rating: 78
+girlHatHbthava:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+girlHatHeadphoneBe:
+  canBuy: 1
+  gold: 30
+  rating: 84
+girlHatHeadphoneLBe:
+  canBuy: 1
+  gold: 30
+  rating: 84
+girlHatHeadphoneO:
+  canBuy: 1
+  rating: 64
+  silver: 6400
+girlHatHeadphoneP:
+  canBuy: 1
+  gold: 56
+  rating: 156
+girlHatHeadphonePink:
+  canBuy: 1
+  gold: 38
+  rating: 104
+girlHatHeadphoneY:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlHatKnitted:
+  canBuy: 1
+  rating: 36
+  silver: 3600
+girlHatPhoto:
+  canBuy: 1
+  gold: 0
+  rating: 200
+girlHatRoosterBe:
+  canBuy: 1
+  gold: 15
+  rating: 42
+girlHatRoosterR:
+  canBuy: 1
+  gold: 15
+  rating: 42
+girlHatSpring2014Strow:
+  canBuy: 1
+  gold: 791
+  rating: 2198
+girlHatUshAvaBe:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+girlHatUshAvaBl:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+girlHatUshAvaGr:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlHatUshAvaR:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlHatUshPineB:
+  canBuy: 1
+  gold: 0
+  rating: 520
+girlHatUshPineBl:
+  canBuy: 1
+  gold: 0
+  rating: 400
+girlHatUshPineG:
+  canBuy: 1
+  gold: 0
+  rating: 400
+girlHatUshPineR:
+  canBuy: 1
+  gold: 0
+  rating: 520
+girlHat_Freddy:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+  silver: 0
+girlHat_flfwntr_beg_br:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlHat_flfwntr_l_y:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlHat_flfwntr_w_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlHat_mlfcnt:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlHat_nocrmdress_bk:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlHat_nocrmdress_ble:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlHat_nocrmdress_p:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlHat_pntroutfit:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlHat_svdcook:
+  canBuy: 1
+  gold: 136
+  rating: 378
+girlHat_swtwntr:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlHat_sxdress:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlHat_winterstl_m_t:
+  canBuy: 1
+  gold: 0
+  rating: 2845
+girlHat_winterstl_p_br:
+  canBuy: 1
+  gold: 0
+  rating: 2845
+girlHat_winterstl_w_b:
+  canBuy: 1
+  gold: 0
+  rating: 2845
+girlHat_wtchnew_r:
+  canBuy: 1
+  gold: 0
+  rating: 8890
+  silver: 0
+girlHat_wtchnew_v:
+  canBuy: 1
+  gold: 3200
+  rating: 8890
+  silver: 0
+girlHatsJzz:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlHatsMinnieP:
+  canBuy: 1
+  gold: 320
+  rating: 888
+girlHatsMinnieW:
+  canBuy: 1
+  gold: 320
+  rating: 888
+girlHatsPeacockble:
+  canBuy: 1
+  gold: 3596
+  rating: 9990
+girlHatsPeacockg:
+  canBuy: 1
+  gold: 3596
+  rating: 9990
+  silver: 0
+girlHatsPeacockr:
+  canBuy: 1
+  gold: 3596
+  rating: 9990
+  silver: 0
+girlHatsPoliceman:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+girlHatsPolicemandarkble:
+  canBuy: 1
+  gold: 200
+  rating: 555
+girlHats_autcls_bk:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlHats_autcls_dr:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlHats_autcls_o:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlHats_autcls_v:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlHats_corset_bk_g:
+  canBuy: 1
+  gold: 0
+  rating: 3112
+  silver: 0
+girlHats_corset_bk_o:
+  canBuy: 1
+  gold: 0
+  rating: 3112
+  silver: 0
+girlHats_corset_r:
+  canBuy: 1
+  gold: 0
+  rating: 3112
+  silver: 0
+girlHats_corset_v:
+  canBuy: 1
+  gold: 0
+  rating: 3112
+  silver: 0
+girlHats_markle_bg:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+girlHats_markle_bk:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+girlHats_markle_ble:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+girlHats_wntrprk_bg:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlHats_wntrprk_bk:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlHats_wntrprk_p:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlHats_xmaself:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlHats_xmaself_bk:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlHats_xmaself_ble:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlHatsanime2br:
+  canBuy: 1
+  gold: 0
+  rating: 3111
+girlHatsanime2w:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlHatsanime2y:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlHatsbikerbl:
+  canBuy: 1
+  gold: 1007
+  rating: 2798
+girlHatsbikerble:
+  canBuy: 1
+  gold: 1007
+  rating: 2798
+girlHatsbikerr:
+  canBuy: 1
+  gold: 88
+  rating: 3196
+girlHatsdancerbl:
+  canBuy: 1
+  gold: 1200
+  rating: 3378
+girlHatsdancergld:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlHatsdancerr:
+  canBuy: 1
+  gold: 1199
+  rating: 3378
+girlHatseasterrabbit:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+girlHatsstreetqueenbl:
+  canBuy: 1
+  gold: 1600
+  rating: 4444
+girlHatsstreetqueenr:
+  canBuy: 1
+  gold: 0
+  rating: 4444
+girlHatsstreetqueenw:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+girlHeadphones_catfur:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlHelmetBackThlBl:
+  canBuy: 1
+  gold: 0
+  rating: 19440
+girlHelmetBackThlWh:
+  canBuy: 1
+  gold: 0
+  rating: 19440
+girlHelmetGrinch:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlHelmetGrinchPink:
+  canBuy: 1
+  gold: 4199
+  rating: 11664
+girlHelmetRcr:
+  canBuy: 1
+  gold: 0
+  rating: 400
+girlHelmetThlBl:
+  canBuy: 1
+  gold: 4444
+  rating: 23328
+girlHelmetThlWh:
+  canBuy: 1
+  gold: 4444
+  rating: 23328
+girlHelmet_animal:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlHelmet_curls_lovegorgoyle:
+  canBuy: 1
+  gold: 0
+  rating: 10668
+girlHelmet_frznrl:
+  canBuy: 1
+  gold: 5121
+  rating: 14224
+girlHelmet_lovegorgoyle:
+  canBuy: 1
+  gold: 5121
+  rating: 14224
+girlHelmet_romanceflower:
+  canBuy: 1
+  gold: 680
+  rating: 1889
+girlHelmet_short_lovegorgoyle:
+  canBuy: 1
+  gold: 0
+  rating: 8890
+girlHelmet_smartgirl:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+girlHelmet_xmsdr:
+  canBuy: 1
+  gold: 800
+  rating: 2222
+girlHelmetcapmbe:
+  canBuy: 1
+  gold: 2560
+  rating: 7111
+girlHelmetcapmbl:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+girlHelmethphrmn:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+girlHelmetrescuep:
+  canBuy: 1
+  gold: 1920
+  rating: 5333
+girlHelmetrescuer:
+  canBuy: 1
+  gold: 0
+  rating: 7111
+girlHelmetsTowelR:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlHelmets_bigcity:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+girlHelmets_elecorn:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+girlHelmets_imp:
+  canBuy: 1
+  gold: 3840
+  rating: 10668
+girlHelmets_scarydoll:
+  canBuy: 1
+  gold: 320
+  rating: 889
+girlHelmetsgothair:
+  canBuy: 1
+  gold: 4480
+  rating: 12444
+girlHelmetskigurumirabbit:
+  canBuy: 1
+  gold: 2560
+  rating: 7111
+girlHelmetsmystred:
+  canBuy: 1
+  gold: 560
+  rating: 1555
+girlHlmtCat:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+girlHlmtPanda:
+  canBuy: 1
+  rating: 675
+  silver: 67500
+girlHlmtPikachu:
+  canBuy: 1
+  rating: 585
+  silver: 58500
+girlHlmtUnicorn:
+  canBuy: 1
+  gold: 600
+  rating: 1667
+girlHlwn1:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+  silver: 0
+girlHlwn10:
+  canBuy: 1
+  gold: 12
+  rating: 14
+  silver: 0
+girlHlwn11:
+  canBuy: 1
+  rating: 889
+  silver: 0
+girlHlwn12:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+  silver: 0
+girlHlwn13:
+  canBuy: 1
+  gold: 0
+  rating: 2134
+  silver: 0
+girlHlwn14:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+  silver: 0
+girlHlwn16:
+  canBuy: 1
+  gold: 0
+  rating: 445
+  silver: 0
+girlHlwn17:
+  canBuy: 1
+  gold: 0
+  rating: 889
+  silver: 0
+girlHlwn18:
+  canBuy: 1
+  gold: 0
+  rating: 533
+  silver: 0
+girlHlwn19:
+  canBuy: 1
+  rating: 18
+  silver: 17500
+girlHlwn2:
+  canBuy: 1
+  gold: 33
+  rating: 38
+  silver: 0
+girlHlwn20:
+  canBuy: 1
+  gold: 26
+  rating: 31
+  silver: 0
+girlHlwn21:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+girlHlwn22:
+  canBuy: 1
+  gold: 0
+  rating: 2311
+  silver: 0
+girlHlwn23:
+  canBuy: 1
+  gold: 0
+  rating: 445
+  silver: 0
+girlHlwn24:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+  silver: 0
+girlHlwn25:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 7000
+girlHlwn26:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+  silver: 0
+girlHlwn27:
+  canBuy: 1
+  gold: 0
+  rating: 889
+  silver: 0
+girlHlwn28:
+  canBuy: 1
+  gold: 21
+  rating: 24
+  silver: 0
+girlHlwn29:
+  canBuy: 1
+  gold: 0
+  rating: 1600
+  silver: 0
+girlHlwn3:
+  canBuy: 1
+  gold: 30
+  rating: 36
+  silver: 0
+girlHlwn30:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+  silver: 0
+girlHlwn31:
+  canBuy: 1
+  gold: 0
+  rating: 889
+  silver: 0
+girlHlwn32:
+  canBuy: 1
+  gold: 20
+  rating: 23
+  silver: 0
+girlHlwn33:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 11000
+girlHlwn34:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+  silver: 0
+girlHlwn35:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+  silver: 0
+girlHlwn36:
+  canBuy: 1
+  gold: 280
+  rating: 778
+  silver: 0
+girlHlwn37:
+  canBuy: 1
+  gold: 280
+  rating: 778
+  silver: 0
+girlHlwn38:
+  canBuy: 1
+  gold: 256
+  rating: 711
+  silver: 0
+girlHlwn39:
+  canBuy: 1
+  gold: 1600
+  rating: 4445
+girlHlwn4:
+  canBuy: 1
+  gold: 0
+  rating: 5867
+  silver: 0
+girlHlwn40:
+  canBuy: 1
+  gold: 2400
+  rating: 6668
+  silver: 0
+girlHlwn41:
+  canBuy: 1
+  gold: 256
+  rating: 711
+girlHlwn42:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+girlHlwn43:
+  canBuy: 1
+  gold: 192
+  rating: 533
+girlHlwn44:
+  canBuy: 1
+  gold: 768
+  rating: 2134
+girlHlwn5:
+  canBuy: 1
+  gold: 0
+  rating: 8446
+  silver: 0
+girlHlwn6:
+  canBuy: 1
+  gold: 0
+  rating: 6756
+  silver: 0
+girlHlwn7:
+  canBuy: 1
+  gold: 0
+  rating: 6223
+  silver: 0
+girlHlwn8:
+  canBuy: 1
+  gold: 0
+  rating: 711
+  silver: 0
+girlHlwn9:
+  canBuy: 1
+  gold: 0
+  rating: 711
+  silver: 0
+girlHlwnClkLady:
+  canBuy: 1
+  gold: 36
+  rating: 2311
+girlHlwnCnLady:
+  canBuy: 1
+  gold: 55
+  rating: 4001
+  silver: 0
+girlHlwnDd:
+  canBuy: 1
+  gold: 150
+  rating: 429
+girlHlwnDecorVC:
+  canBuy: 1
+  gold: 15
+  rating: 38
+  silver: 0
+girlHlwnDrcl:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+girlHlwnDressCC:
+  canBuy: 1
+  gold: 0
+  rating: 2125
+girlHlwnDressDD:
+  canBuy: 1
+  gold: 200
+  rating: 500
+  silver: 0
+girlHlwnDressVC:
+  canBuy: 1
+  gold: 60
+  rating: 150
+  silver: 0
+girlHlwnDrsDd:
+  canBuy: 1
+  gold: 450
+  rating: 1287
+  silver: 0
+girlHlwnDrsLady:
+  canBuy: 1
+  rating: 7823
+  silver: 24640
+girlHlwnEarDD:
+  canBuy: 1
+  gold: 160
+  rating: 400
+  silver: 0
+girlHlwnGlvsLady:
+  canBuy: 1
+  rating: 445
+  silver: 1400
+girlHlwnHatCC:
+  canBuy: 1
+  gold: 0
+  rating: 1025
+girlHlwnHatDD:
+  canBuy: 1
+  gold: 70
+  rating: 175
+girlHlwnHf:
+  canBuy: 1
+  gold: 0
+  rating: 16
+  silver: 15000
+girlHlwnHg:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+girlHlwnHtLady:
+  canBuy: 1
+  gold: 44
+  rating: 2667
+girlHlwnJcktDD:
+  canBuy: 1
+  gold: 245
+  rating: 613
+  silver: 0
+girlHlwnNcklLady:
+  canBuy: 1
+  rating: 1511
+  silver: 4760
+girlHlwnPnthsLady:
+  canBuy: 1
+  rating: 1156
+  silver: 3640
+girlHlwnShCC:
+  canBuy: 1
+  gold: 0
+  rating: 813
+girlHlwnShDD:
+  canBuy: 1
+  gold: 60
+  rating: 150
+  silver: 0
+girlHlwnShDd:
+  canBuy: 1
+  gold: 100
+  rating: 286
+  silver: 0
+girlHlwnShLady:
+  canBuy: 1
+  rating: 1422
+  silver: 4480
+girlHlwnShVC:
+  canBuy: 1
+  gold: 25
+  rating: 63
+  silver: 0
+girlHlwnStDD:
+  canBuy: 1
+  gold: 55
+  rating: 138
+girlHlwnStVC:
+  canBuy: 1
+  gold: 20
+  rating: 50
+girlHlwnTl:
+  canBuy: 1
+  gold: 0
+  rating: 18
+  silver: 17000
+girlHornsBallerine:
+  canBuy: 1
+  gold: 1223
+  rating: 3397
+girlHorns_catstyle_bk:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+girlHorns_catstyle_o:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+girlHorns_catstyle_w:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+girlHtCslFr:
+  canBuy: 1
+  gold: 75
+  rating: 208
+girlHtCwby:
+  canBuy: 1
+  rating: 100
+  silver: 10000
+girlIvyHrpin:
+  canBuy: 1
+  gold: 0
+  rating: 1245
+girlIvySuit:
+  canBuy: 1
+  gold: 0
+  rating: 8890
+girlJacket1:
+  canBuy: 1
+  rating: 13
+  silver: 1300
+girlJacket2:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+girlJacket3:
+  canBuy: 1
+  gold: 0
+  rating: 14
+  silver: 1400
+girlJacketAvengerbl:
+  canBuy: 1
+  gold: 0
+  rating: 12444
+girlJacketJeansBlFr:
+  canBuy: 1
+  gold: 0
+  rating: 5394
+  silver: 0
+girlJacketJeansBlUn:
+  canBuy: 1
+  gold: 2158
+  rating: 5994
+girlJacketJeansBlUn2:
+  canBuy: 1
+  gold: 2158
+  rating: 5994
+  silver: 0
+girlJacketJeansGrFr:
+  canBuy: 1
+  gold: 0
+  rating: 5194
+  silver: 0
+girlJacketJeansGrLp:
+  canBuy: 1
+  gold: 2014
+  rating: 5594
+  silver: 0
+girlJacketLeatherBle:
+  canBuy: 1
+  gold: 0
+  rating: 5394
+girlJacketLeatherMst:
+  canBuy: 1
+  gold: 0
+  rating: 4796
+girlJacketLeatherP:
+  canBuy: 1
+  rating: 6394
+  silver: 18000
+girlJacketPhoto:
+  canBuy: 1
+  gold: 0
+  rating: 158
+girlJacketRtrRcr:
+  canBuy: 1
+  gold: 0
+  rating: 440
+girlJacketShtormbl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlJacketShtormw:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlJacketTokiobe:
+  canBuy: 1
+  gold: 320
+  rating: 888
+girlJacketTokiobl:
+  canBuy: 1
+  gold: 320
+  rating: 888
+girlJacketTokior:
+  canBuy: 1
+  gold: 320
+  rating: 888
+girlJacketVsgst:
+  canBuy: 1
+  gold: 576
+  rating: 1600
+girlJacket_bldy_bg:
+  canBuy: 1
+  gold: 320
+  rating: 889
+girlJacket_bldy_bk:
+  canBuy: 1
+  gold: 320
+  rating: 889
+girlJacket_bldy_cor:
+  canBuy: 1
+  gold: 320
+  rating: 889
+girlJacket_cozylook_beg:
+  canBuy: 1
+  rating: 272
+  silver: 27200
+girlJacket_cozylook_br:
+  canBuy: 1
+  rating: 272
+  silver: 27200
+girlJacket_cozylook_g:
+  canBuy: 1
+  rating: 272
+  silver: 27200
+girlJacket_flfwntr_br_beg:
+  canBuy: 1
+  gold: 0
+  rating: 9601
+girlJacket_flfwntr_l_y:
+  canBuy: 1
+  gold: 0
+  rating: 9601
+girlJacket_flfwntr_w_ble:
+  canBuy: 1
+  gold: 0
+  rating: 9601
+girlJacket_fluffywntr_bl:
+  canBuy: 1
+  gold: 0
+  rating: 6756
+girlJacket_fluffywntr_br:
+  canBuy: 1
+  gold: 0
+  rating: 6756
+girlJacket_fluffywntr_r:
+  canBuy: 1
+  gold: 0
+  rating: 6756
+girlJacket_frstl_ble_w:
+  canBuy: 1
+  rating: 7112
+  silver: 0
+girlJacket_frstl_br_gr:
+  canBuy: 1
+  rating: 7112
+  silver: 0
+girlJacket_frstl_g_bk:
+  canBuy: 1
+  rating: 7112
+  silver: 0
+girlJacket_frznstl:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlJacket_jd_blk:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+girlJacket_jd_br:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+girlJacket_kumacoat:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlJacket_longswt_bk_g:
+  canBuy: 1
+  gold: 0
+  rating: 4978
+girlJacket_longswt_ble_w:
+  canBuy: 1
+  gold: 0
+  rating: 4978
+girlJacket_longswt_r_beg:
+  canBuy: 1
+  gold: 0
+  rating: 4978
+girlJacket_lovegirl_beq:
+  canBuy: 1
+  rating: 352
+  silver: 35200
+girlJacket_lovegirl_ble:
+  canBuy: 1
+  rating: 352
+  silver: 35200
+girlJacket_lovegirl_y:
+  canBuy: 1
+  rating: 352
+  silver: 35200
+girlJacket_neonbird_ble:
+  canBuy: 1
+  gold: 2800
+  rating: 7468
+girlJacket_neonbird_o:
+  canBuy: 1
+  gold: 2688
+  rating: 7468
+girlJacket_neonbird_p:
+  canBuy: 1
+  gold: 0
+  rating: 7468
+girlJacket_nocrmdress_bk:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+girlJacket_nocrmdress_ble:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+girlJacket_nocrmdress_p:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+girlJacket_pntroutfit:
+  canBuy: 1
+  gold: 280
+  rating: 778
+girlJacket_poshfall_bg:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+girlJacket_poshfall_bk:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+girlJacket_poshfall_dr:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+girlJacket_prncsday_b:
+  canBuy: 1
+  gold: 0
+  rating: 5690
+girlJacket_prncsday_blk:
+  canBuy: 1
+  gold: 0
+  rating: 5690
+girlJacket_prncsday_p:
+  canBuy: 1
+  gold: 0
+  rating: 5690
+girlJacket_slstl_beq:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+girlJacket_slstl_bk:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+girlJacket_slstl_w:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+girlJacket_swtwntr:
+  canBuy: 1
+  gold: 320
+  rating: 889
+girlJacket_violetdream:
+  canBuy: 1
+  gold: 280
+  rating: 778
+girlJacket_winterheart_gr_w:
+  canBuy: 1
+  rating: 420
+  silver: 42000
+girlJacket_winterheart_r_w:
+  canBuy: 1
+  rating: 420
+  silver: 42000
+girlJacket_winterheart_v_w:
+  canBuy: 1
+  rating: 420
+  silver: 42000
+girlJacket_winterstl_m_t:
+  canBuy: 1
+  gold: 0
+  rating: 8712
+girlJacket_winterstl_p_br:
+  canBuy: 1
+  gold: 0
+  rating: 8712
+girlJacket_winterstl_w_b:
+  canBuy: 1
+  gold: 0
+  rating: 8712
+girlJacket_wtchnew_r:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlJacket_wtchnew_v:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlJacket_yngstudent_br:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+girlJacket_yngstudent_gr:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+girlJacket_yngstudent_r:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+girlJacketcapmbe:
+  canBuy: 1
+  gold: 3840
+  rating: 10667
+girlJacketcapmbl:
+  canBuy: 1
+  gold: 0
+  rating: 8889
+girlJackethpble:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlJackethpg:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlJackethpr:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlJacketqdchble:
+  canBuy: 1
+  gold: 250
+  rating: 694
+girlJacketqdchg:
+  canBuy: 1
+  gold: 250
+  rating: 694
+girlJacketqdchr:
+  canBuy: 1
+  gold: 250
+  rating: 694
+girlJacketrescuep:
+  canBuy: 1
+  gold: 3200
+  rating: 8889
+girlJacketrescuer:
+  canBuy: 1
+  gold: 0
+  rating: 10667
+girlJackets_alarm:
+  canBuy: 1
+  gold: 240
+  rating: 667
+girlJackets_emoji_love:
+  canBuy: 1
+  gold: 2560
+  rating: 7112
+girlJackets_emoji_scream:
+  canBuy: 1
+  gold: 0
+  rating: 7112
+girlJackets_emoji_think:
+  canBuy: 1
+  gold: 0
+  rating: 7112
+girlJackets_emoji_tongue:
+  canBuy: 1
+  gold: 0
+  rating: 7112
+girlJackets_instafur_bk:
+  canBuy: 1
+  gold: 220
+  rating: 611
+girlJackets_instafur_p:
+  canBuy: 1
+  gold: 220
+  rating: 611
+girlJackets_instafur_w:
+  canBuy: 1
+  gold: 220
+  rating: 611
+girlJackets_markle_crl:
+  canBuy: 1
+  gold: 0
+  rating: 336
+  silver: 33600
+girlJackets_markle_gr:
+  canBuy: 1
+  gold: 0
+  rating: 336
+  silver: 33600
+girlJackets_markle_v:
+  canBuy: 1
+  gold: 0
+  rating: 336
+  silver: 33600
+girlJackets_vsc:
+  canBuy: 1
+  gold: 240
+  rating: 667
+girlJackets_wntrprk_bg:
+  canBuy: 1
+  rating: 520
+  silver: 52000
+girlJackets_wntrprk_haki:
+  canBuy: 1
+  rating: 520
+  silver: 52000
+girlJackets_wntrprk_r:
+  canBuy: 1
+  rating: 520
+  silver: 52000
+girlJacketscapmbe:
+  canBuy: 1
+  gold: 0
+  rating: 12444
+girlJacketscapmdbe:
+  canBuy: 1
+  gold: 0
+  rating: 12444
+girlJacketschwarm:
+  canBuy: 1
+  gold: 240
+  rating: 666
+girlJacketsstreetqueenble:
+  canBuy: 1
+  gold: 0
+  rating: 6222
+girlJacketsstreetqueenp:
+  canBuy: 1
+  gold: 0
+  rating: 6578
+girlJacketsstreetqueeny:
+  canBuy: 1
+  gold: 2240
+  rating: 6222
+girlJcktJzz:
+  canBuy: 1
+  gold: 320
+  rating: 888
+girlJcktNekoBl:
+  canBuy: 1
+  gold: 224
+  rating: 622
+girlJcktNekoP:
+  canBuy: 1
+  gold: 256
+  rating: 711
+girlJcktNekoW:
+  canBuy: 1
+  rating: 304
+  silver: 30400
+girlJcktPrBg:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+girlJcktPrBle:
+  canBuy: 1
+  gold: 252
+  rating: 700
+girlJcktPrG:
+  canBuy: 1
+  rating: 360
+  silver: 36000
+girlJcktPrR:
+  canBuy: 1
+  gold: 268
+  rating: 744
+girlJctArmy:
+  canBuy: 1
+  gold: 60
+  rating: 167
+girlLacsRcr:
+  canBuy: 1
+  gold: 0
+  rating: 800
+girlMay1stTie:
+  canBuy: 1
+  gold: 0
+  rating: 711
+  silver: 0
+girlMuffler_cmft_bg:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+girlMuffler_cmft_lgr:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+girlMuffler_cmft_p:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+girlMuffler_lovescarf:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlMuffler_violetdream:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlMuffler_winter_r_g:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlNY1:
+  canBuy: 1
+  rating: 35
+  silver: 3500
+girlNY10:
+  canBuy: 1
+  rating: 95
+  silver: 9500
+girlNY11:
+  canBuy: 1
+  gold: 180
+  rating: 500
+girlNY12:
+  canBuy: 1
+  rating: 150
+  silver: 15000
+girlNY13:
+  canBuy: 1
+  rating: 70
+  silver: 7000
+girlNY14:
+  canBuy: 1
+  gold: 0
+  rating: 150
+  silver: 15000
+girlNY14Msk:
+  canBuy: 1
+  gold: 15
+  rating: 42
+girlNY15:
+  canBuy: 1
+  rating: 70
+  silver: 7000
+girlNY16:
+  canBuy: 1
+  gold: 0
+  rating: 250
+  silver: 25000
+girlNY2:
+  canBuy: 1
+  gold: 45
+  rating: 125
+girlNY3:
+  canBuy: 1
+  gold: 0
+  rating: 70
+  silver: 7000
+girlNY4:
+  canBuy: 1
+  gold: 60
+  rating: 167
+girlNY5:
+  canBuy: 1
+  rating: 85
+  silver: 8500
+girlNY6:
+  canBuy: 1
+  gold: 0
+  rating: 500
+  silver: 50000
+girlNY7:
+  canBuy: 1
+  gold: 65
+  rating: 181
+girlNY8:
+  canBuy: 1
+  rating: 250
+  silver: 25000
+girlNY9:
+  canBuy: 1
+  gold: 35
+  rating: 97
+girlNYBDress:
+  canBuy: 1
+  gold: 0
+  rating: 481
+girlNYBNrDress:
+  canBuy: 1
+  gold: 0
+  rating: 200
+girlNYBShirt:
+  canBuy: 1
+  gold: 0
+  rating: 119
+girlNYBShort:
+  canBuy: 1
+  rating: 200
+  silver: 0
+girlNYBlShort:
+  canBuy: 1
+  rating: 119
+  silver: 0
+girlNYBrDress:
+  canBuy: 1
+  gold: 0
+  rating: 481
+girlNYBrNrDress:
+  canBuy: 1
+  gold: 0
+  rating: 200
+girlNYCat:
+  canBuy: 1
+  gold: 85
+  rating: 236
+girlNYDeer:
+  canBuy: 1
+  gold: 75
+  rating: 208
+girlNYDeerRed:
+  canBuy: 1
+  gold: 65
+  rating: 181
+  silver: 0
+girlNYDeerWhite:
+  canBuy: 1
+  rating: 250
+  silver: 25000
+girlNYDress:
+  canBuy: 1
+  gold: 1000
+  rating: 2778
+girlNYGDress:
+  canBuy: 1
+  gold: 0
+  rating: 481
+girlNYGNrDress:
+  canBuy: 1
+  gold: 0
+  rating: 200
+girlNYGShirt:
+  canBuy: 1
+  gold: 0
+  rating: 200
+girlNYHeartBrwn:
+  canBuy: 1
+  rating: 250
+  silver: 25000
+girlNYHeartPnk:
+  canBuy: 1
+  gold: 65
+  rating: 181
+girlNYOwl:
+  canBuy: 1
+  gold: 75
+  rating: 208
+girlNYRDress:
+  canBuy: 1
+  gold: 0
+  rating: 481
+girlNYRNrDress:
+  canBuy: 1
+  gold: 0
+  rating: 200
+girlNYRShirt:
+  canBuy: 1
+  gold: 0
+  rating: 119
+girlNYShs:
+  canBuy: 1
+  gold: 125
+  rating: 347
+girlNYTiara:
+  canBuy: 1
+  gold: 75
+  rating: 208
+  silver: 0
+girlNYWShirt:
+  canBuy: 1
+  gold: 0
+  rating: 119
+girlNYWngs:
+  canBuy: 1
+  gold: 350
+  rating: 250
+  silver: 0
+girlNYYelDress:
+  canBuy: 1
+  gold: 0
+  rating: 481
+girlNYYelNrDress:
+  canBuy: 1
+  gold: 0
+  rating: 200
+girlNckJzz:
+  canBuy: 1
+  gold: 320
+  rating: 888
+girlNckNekoBl:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlNckNekoW:
+  canBuy: 1
+  gold: 56
+  rating: 155
+girlNeckace_whitebird:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlNecklaceGeom:
+  canBuy: 1
+  rating: 333
+  silver: 0
+girlNecklaceGottbe:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlNecklaceGottg:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlNecklaceGottr:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlNecklaceMinnie:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlNecklace_arist_g:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+girlNecklace_arist_r:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlNecklace_arist_v:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlNecklace_arist_y:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+girlNecklace_bluegemstone:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlNecklace_clover:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlNecklace_flowerlady_ble:
+  canBuy: 1
+  gold: 58
+  rating: 161
+girlNecklace_flowerlady_p:
+  canBuy: 1
+  gold: 58
+  rating: 161
+girlNecklace_flowerlady_r:
+  canBuy: 1
+  gold: 58
+  rating: 161
+girlNecklace_frznrl:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlNecklace_lovegirl_ble:
+  canBuy: 1
+  gold: 60
+  rating: 167
+girlNecklace_lovegirl_dr:
+  canBuy: 1
+  gold: 60
+  rating: 167
+girlNecklace_lovegirl_r:
+  canBuy: 1
+  gold: 60
+  rating: 167
+girlNecklace_markle_bk:
+  canBuy: 1
+  gold: 18
+  rating: 50
+girlNecklace_markle_dr:
+  canBuy: 1
+  gold: 18
+  rating: 50
+girlNecklace_markle_v:
+  canBuy: 1
+  gold: 18
+  rating: 50
+girlNecklace_owlnecklace:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlNecklace_roguestyle:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlNecklace_romanceflower_ble:
+  canBuy: 1
+  gold: 36
+  rating: 100
+girlNecklace_romanceflower_g:
+  canBuy: 1
+  gold: 36
+  rating: 100
+girlNecklace_romanceflower_r:
+  canBuy: 1
+  gold: 36
+  rating: 100
+girlNecklace_sctld_g_w:
+  canBuy: 1
+  gold: 36
+  rating: 100
+girlNecklace_sctld_p_gr:
+  canBuy: 1
+  gold: 36
+  rating: 100
+girlNecklace_sctld_r_bk:
+  canBuy: 1
+  gold: 36
+  rating: 100
+girlNecklace_starmoon:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlNecklace_xmashat:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlNecklace_xmassnwmn:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlNecklacecasuallookble:
+  canBuy: 1
+  gold: 48
+  rating: 133
+girlNecklacecasuallookp:
+  canBuy: 1
+  gold: 48
+  rating: 133
+girlNecklacehellcatbe:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlNecklacehellcatbl:
+  canBuy: 1
+  gold: 0
+  rating: 2844
+girlNecklacehellcatr:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlNecklacemoon:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlNecklacepearlbl:
+  canBuy: 1
+  gold: 1053
+  rating: 2924
+girlNecklacepearlp:
+  canBuy: 1
+  rating: 2924
+  silver: 0
+girlNecklacepearlw:
+  canBuy: 1
+  gold: 1053
+  rating: 2924
+girlNecklacesun:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlNecklacesunsaturn:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlNightAcs1:
+  canBuy: 1
+  gold: 3
+  rating: 5
+girlNightJacket1:
+  canBuy: 1
+  rating: 480
+  silver: 48000
+girlNightJacket2:
+  canBuy: 1
+  gold: 8
+  rating: 14
+girlNightJacket3:
+  canBuy: 1
+  rating: 480
+  silver: 48000
+girlNightJacket4:
+  canBuy: 1
+  gold: 240
+  rating: 667
+girlNightShoes1:
+  canBuy: 1
+  rating: 5
+  silver: 575
+girlNightShoes2:
+  canBuy: 1
+  rating: 5
+  silver: 530
+girlNightShoes3:
+  canBuy: 1
+  gold: 3
+  rating: 5
+girlNightShoes4:
+  canBuy: 1
+  gold: 5
+  rating: 10
+girlOtherDecorbeltpoliceman:
+  canBuy: 1
+  gold: 192
+  rating: 533
+girlOtherDecorbeltpolicemanble:
+  canBuy: 1
+  gold: 200
+  rating: 555
+girlOtherHbthava:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlOther_Freddy:
+  canBuy: 1
+  gold: 0
+  rating: 3912
+girlOther_arist_fan:
+  canBuy: 1
+  gold: 768
+  rating: 2134
+girlOther_bag_poshfall:
+  canBuy: 1
+  gold: 64
+  rating: 178
+girlOther_balloon_scaryclown:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlOther_belt_alarm:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlOther_coffeecup:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlOther_flowerlady_ble:
+  canBuy: 1
+  gold: 36
+  rating: 100
+girlOther_flowerlady_p:
+  canBuy: 1
+  gold: 36
+  rating: 100
+girlOther_flowerlady_r:
+  canBuy: 1
+  gold: 36
+  rating: 100
+girlOther_gentleflower_p:
+  canBuy: 1
+  gold: 28
+  rating: 78
+girlOther_gentleflower_w:
+  canBuy: 1
+  gold: 28
+  rating: 78
+girlOther_gentleflower_y:
+  canBuy: 1
+  gold: 28
+  rating: 78
+girlOther_goldgod:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlOther_headphones_pump:
+  canBuy: 1
+  gold: 60
+  rating: 167
+girlOther_headset_stylish:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlOther_jd_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3023
+girlOther_jd_r:
+  canBuy: 1
+  gold: 0
+  rating: 3023
+girlOther_jd_y:
+  canBuy: 1
+  gold: 0
+  rating: 3023
+girlOther_lavaset_backpack:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlOther_medal_dduke:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlOther_pixelrose:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlOther_pntroutfit:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlOther_romanceflower_ble:
+  canBuy: 1
+  gold: 24
+  rating: 67
+girlOther_romanceflower_g:
+  canBuy: 1
+  gold: 24
+  rating: 67
+girlOther_romanceflower_r:
+  canBuy: 1
+  gold: 24
+  rating: 67
+girlOther_schlly_teddy:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlOther_stripeslook_bk:
+  canBuy: 1
+  gold: 60
+  rating: 167
+girlOther_stripeslook_ble:
+  canBuy: 1
+  gold: 60
+  rating: 167
+girlOther_stripeslook_g:
+  canBuy: 1
+  gold: 60
+  rating: 167
+girlOther_townmodel_bk:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlOther_townmodel_p:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlOther_townmodel_r:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlOther_trident_gthlol:
+  canBuy: 1
+  gold: 1600
+  rating: 4445
+girlOther_valentinballoon:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlOther_wfall_umbrella:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlOther_whitebird:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+girlOther_wntrmaid:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlOtherbackpackcat:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlOtherbackpackdog:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlOtherbackpackrabbit:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlOtherbeltcapmbr:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlOtherbeltcapmr:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+girlOtherboomboxblack:
+  canBuy: 1
+  gold: 184
+  rating: 511
+girlOtherboomboxcoloured:
+  canBuy: 1
+  gold: 184
+  rating: 511
+girlOtherboomboxsilver:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlOtherchamomile:
+  canBuy: 1
+  gold: 0
+  rating: 1000
+  silver: 0
+girlOtherclubPoliceman:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlOtherhandcuffsPoliceman:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+girlOtherhpwandblack:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlOtherhpwandbrown:
+  canBuy: 1
+  gold: 98
+  rating: 272
+girlOtherhpwandstone:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlOtherlily:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+  silver: 0
+girlOtherpistolPoliceman:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlOtherpouchPoliceman:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+girlOtherqdch:
+  canBuy: 1
+  gold: 100
+  rating: 278
+girlOtherradioPoliceman:
+  canBuy: 1
+  gold: 56
+  rating: 155
+girlOtherrose:
+  canBuy: 1
+  gold: 359
+  rating: 1000
+  silver: 0
+girlOtherschwarm:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlOthertulip:
+  canBuy: 1
+  gold: 0
+  rating: 1000
+  silver: 0
+girlOtherwolfman:
+  canBuy: 1
+  gold: 60
+  rating: 166
+girlOverallsEvngln:
+  canBuy: 1
+  gold: 0
+  rating: 4800
+girlOverallsHsptlTch:
+  canBuy: 1
+  gold: 0
+  rating: 1400
+girlOverallsRcr:
+  canBuy: 1
+  gold: 0
+  rating: 1200
+girlOverallsSkyGuard:
+  canBuy: 1
+  gold: 0
+  rating: 4400
+girlOverallsWhiteNinja:
+  canBuy: 1
+  gold: 0
+  rating: 7600
+girlPants1:
+  canBuy: 1
+  rating: 30
+  silver: 3000
+girlPants10:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+girlPants11:
+  canBuy: 1
+  gold: 16
+  rating: 32
+  silver: 0
+girlPants12:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+girlPants13:
+  canBuy: 1
+  rating: 22
+  silver: 2200
+girlPants14:
+  canBuy: 1
+  rating: 32
+  silver: 3200
+girlPants15:
+  canBuy: 1
+  gold: 13
+  rating: 26
+  silver: 0
+girlPants2:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+girlPants3:
+  canBuy: 1
+  gold: 0
+  rating: 6
+  silver: 620
+girlPants4:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 480
+girlPants5:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 215
+girlPants6:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 230
+girlPants7:
+  canBuy: 1
+  gold: 0
+  rating: 37
+  silver: 35000
+girlPants8:
+  canBuy: 1
+  gold: 0
+  rating: 6
+  silver: 650
+girlPants9:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 400
+girlPantsBoyfriendJeansBl:
+  canBuy: 1
+  gold: 168
+  rating: 466
+girlPantsBoyfriendJeansR:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+girlPantsBoyfriendJeansW:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlPantsBoyfriendJeansY:
+  canBuy: 1
+  gold: 168
+  rating: 466
+girlPantsBoyfriendsBe:
+  canBuy: 1
+  gold: 132
+  rating: 367
+girlPantsBoyfriendsDbe:
+  canBuy: 1
+  gold: 132
+  rating: 367
+girlPantsPolicemanble:
+  canBuy: 1
+  gold: 196
+  rating: 544
+girlPantsRtrRcr:
+  canBuy: 1
+  gold: 0
+  rating: 320
+girlPantsShtormbl:
+  canBuy: 1
+  gold: 240
+  rating: 666
+girlPantsShtormw:
+  canBuy: 1
+  gold: 240
+  rating: 666
+girlPantsZaglushka:
+  canBuy: 1
+  gold: 999
+  rating: 1
+girlPants_bldy_bg:
+  canBuy: 1
+  gold: 240
+  rating: 667
+girlPants_bldy_bk:
+  canBuy: 1
+  gold: 240
+  rating: 667
+girlPants_bldy_cor:
+  canBuy: 1
+  gold: 240
+  rating: 667
+girlPants_emoji_love:
+  canBuy: 1
+  gold: 1472
+  rating: 4089
+girlPants_emoji_scream:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+girlPants_emoji_think:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+girlPants_emoji_tongue:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+girlPants_flowerlady_v:
+  canBuy: 1
+  rating: 184
+  silver: 18400
+girlPants_flowerlady_w:
+  canBuy: 1
+  rating: 184
+  silver: 18400
+girlPants_flowerlady_y:
+  canBuy: 1
+  rating: 184
+  silver: 18400
+girlPants_fluffywntr:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlPants_frznstl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlPants_jd_beg:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+girlPants_jd_blk:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+girlPants_jd_gry:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+girlPants_kawaiisport:
+  canBuy: 1
+  gold: 280
+  rating: 778
+girlPants_longswt_beg:
+  canBuy: 1
+  gold: 0
+  rating: 4001
+girlPants_longswt_g:
+  canBuy: 1
+  gold: 0
+  rating: 4001
+girlPants_longswt_w:
+  canBuy: 1
+  gold: 0
+  rating: 4001
+girlPants_lovegirl_beq:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+girlPants_lovegirl_ble:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+girlPants_lovegirl_br:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+girlPants_markle_bg:
+  canBuy: 1
+  gold: 0
+  rating: 192
+  silver: 19200
+girlPants_markle_bk:
+  canBuy: 1
+  gold: 0
+  rating: 192
+  silver: 19200
+girlPants_markle_lble:
+  canBuy: 1
+  gold: 0
+  rating: 192
+  silver: 19200
+girlPants_rudegirl_bk_w:
+  canBuy: 1
+  gold: 0
+  rating: 8260
+girlPants_rudegirl_gr_ble:
+  canBuy: 1
+  gold: 0
+  rating: 8260
+girlPants_rudegirl_w_bk:
+  canBuy: 1
+  gold: 0
+  rating: 8260
+girlPants_slstl_g:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+girlPants_slstl_gr:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+girlPants_slstl_r:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+girlPants_stripeslook_bk:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+girlPants_stripeslook_br:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+girlPants_stripeslook_gr:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+girlPants_wntrpair:
+  canBuy: 1
+  gold: 112
+  rating: 311
+girlPants_wntrprk_bk:
+  canBuy: 1
+  rating: 188
+  silver: 18800
+girlPants_wntrprk_ble:
+  canBuy: 1
+  rating: 188
+  silver: 18800
+girlPants_wntrprk_gr:
+  canBuy: 1
+  rating: 188
+  silver: 18800
+girlPants_xoxo:
+  canBuy: 1
+  gold: 216
+  rating: 600
+girlPantscapmbe:
+  canBuy: 1
+  gold: 3840
+  rating: 10667
+girlPantscapmdbe:
+  canBuy: 1
+  gold: 0
+  rating: 8889
+girlPantscatbe:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+girlPantscatbl:
+  canBuy: 1
+  gold: 0
+  rating: 4267
+girlPantscatp:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+girlPantsdancerble:
+  canBuy: 1
+  gold: 0
+  rating: 4622
+girlPantsdancerdble:
+  canBuy: 1
+  gold: 1792
+  rating: 4978
+girlPantsdancergr:
+  canBuy: 1
+  gold: 1664
+  rating: 4622
+girlPantshgschlbk:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlPantshgschlble:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlPantshgschlbr:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlPantslitabl:
+  canBuy: 1
+  gold: 200
+  rating: 555
+girlPantslitable:
+  canBuy: 1
+  gold: 216
+  rating: 600
+girlPantslitaw:
+  canBuy: 1
+  gold: 200
+  rating: 555
+girlPantsmstartopjeansbl:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+girlPantsmstartopjeansble:
+  canBuy: 1
+  gold: 0
+  rating: 5689
+girlPantsmstartopjeansw:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+girlPantspartyble:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlPantspartyg:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlPantspartyo:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlPantspartyp:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlPantsqdchb:
+  canBuy: 1
+  gold: 136
+  rating: 378
+girlPantsqdchbk:
+  canBuy: 1
+  gold: 144
+  rating: 400
+girlPantsqdchgr:
+  canBuy: 1
+  gold: 136
+  rating: 378
+girlPantsrescuep:
+  canBuy: 1
+  gold: 3200
+  rating: 8889
+girlPantsrescuer:
+  canBuy: 1
+  gold: 0
+  rating: 10667
+girlPantsrockabillybl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlPantsrockabillyble:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlPantsrockabillylble:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlPantsstreetqueenbl:
+  canBuy: 1
+  gold: 1536
+  rating: 4267
+girlPantsstreetqueenble1:
+  canBuy: 1
+  gold: 1536
+  rating: 4267
+girlPantsstreetqueenble2:
+  canBuy: 1
+  gold: 0
+  rating: 4267
+girlPantssummersportbl:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+girlPantssummersportble:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+girlPantssummersportp:
+  canBuy: 1
+  gold: 1895
+  rating: 5265
+girlPantyhose1:
+  canBuy: 1
+  rating: 5
+  silver: 500
+girlPantyhose2:
+  canBuy: 1
+  rating: 5
+  silver: 560
+girlPantyhose3:
+  canBuy: 1
+  rating: 6
+  silver: 600
+girlPantyhose4:
+  canBuy: 1
+  rating: 7
+  silver: 750
+girlPantyhose5:
+  canBuy: 1
+  gold: 7
+  rating: 12
+girlPantyhose6:
+  canBuy: 1
+  gold: 6
+  rating: 10
+girlPantyhoseMinnie:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+girlPantyhose_Freddy:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+girlPantyhose_Starter_v:
+  canBuy: 1
+  gold: 96
+  rating: 267
+  silver: 0
+girlPantyhose_artsystyle:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlPantyhose_bflowers:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlPantyhose_catstyle_r:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+girlPantyhose_catstyle_w:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+girlPantyhose_catstyle_y:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+girlPantyhose_cmft_bk:
+  canBuy: 1
+  rating: 140
+  silver: 14000
+girlPantyhose_cmft_br:
+  canBuy: 1
+  rating: 140
+  silver: 14000
+girlPantyhose_corset_bk_g:
+  canBuy: 1
+  gold: 0
+  rating: 2223
+  silver: 0
+girlPantyhose_corset_bk_o:
+  canBuy: 1
+  gold: 0
+  rating: 2223
+  silver: 0
+girlPantyhose_corset_bk_r:
+  canBuy: 1
+  gold: 0
+  rating: 2223
+  silver: 0
+girlPantyhose_corset_bk_v:
+  canBuy: 1
+  gold: 0
+  rating: 2223
+  silver: 0
+girlPantyhose_ctxmas:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+girlPantyhose_flowerjewel_ble:
+  canBuy: 1
+  rating: 136
+  silver: 13600
+girlPantyhose_flowerjewel_p:
+  canBuy: 1
+  rating: 136
+  silver: 13600
+girlPantyhose_flowerjewel_y:
+  canBuy: 1
+  rating: 136
+  silver: 13600
+girlPantyhose_frstl_bk_gr:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+girlPantyhose_frstl_gr:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+girlPantyhose_frstl_v_l:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+girlPantyhose_frznrl_v_ble:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+girlPantyhose_frznrl_w_l:
+  canBuy: 1
+  gold: 384
+  rating: 1067
+girlPantyhose_frznrl_w_t:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+girlPantyhose_gentleflower_ble_w:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+girlPantyhose_gentleflower_br_w:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+girlPantyhose_gentleflower_gr_w:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+girlPantyhose_goldgod:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlPantyhose_gthlol_bk:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlPantyhose_gthlol_dr:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlPantyhose_gthlol_dv:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlPantyhose_lavaset:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+girlPantyhose_lilcute_bk:
+  canBuy: 1
+  gold: 0
+  rating: 1728
+girlPantyhose_lilcute_v:
+  canBuy: 1
+  gold: 0
+  rating: 1728
+girlPantyhose_lilcute_w:
+  canBuy: 1
+  gold: 0
+  rating: 1728
+girlPantyhose_linerdress:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlPantyhose_muerta:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+girlPantyhose_neonbird_ble:
+  canBuy: 1
+  gold: 1024
+  rating: 2845
+girlPantyhose_neonbird_o:
+  canBuy: 1
+  gold: 1024
+  rating: 2845
+girlPantyhose_neonbird_p:
+  canBuy: 1
+  gold: 0
+  rating: 2845
+girlPantyhose_schlly:
+  canBuy: 1
+  gold: 56
+  rating: 156
+  silver: 0
+girlPantyhose_strickstripes_bk:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+girlPantyhose_strickstripes_gr:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+girlPantyhose_strickstripes_w:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+girlPantyhose_svdcook:
+  canBuy: 1
+  gold: 144
+  rating: 400
+girlPantyhose_sxdress:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlPantyhose_whhearts:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlPantyhose_wntrfairy:
+  canBuy: 1
+  gold: 140
+  rating: 389
+girlPantyhose_wtchnew_r:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+girlPantyhose_wtchnew_v:
+  canBuy: 1
+  gold: 512
+  rating: 1422
+girlPantyhose_xmaself:
+  canBuy: 1
+  gold: 64
+  rating: 178
+girlPantyhoseanime2be:
+  canBuy: 1
+  gold: 1344
+  rating: 3733
+girlPantyhoseanime2br:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlPantyhoseanime2vi:
+  canBuy: 1
+  gold: 0
+  rating: 3733
+girlPantyhosebikerbl:
+  canBuy: 1
+  gold: 1439
+  rating: 3996
+girlPantyhosebikergr:
+  canBuy: 1
+  gold: 99
+  rating: 3996
+girlPantyhosebikermesh:
+  canBuy: 1
+  gold: 1079
+  rating: 2998
+girlPantyhosecrazybl:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlPantyhosecrazyw:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlPantyhosecrazywp:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlPantyhoseflowerble:
+  canBuy: 1
+  gold: 1367
+  rating: 3796
+girlPantyhoseflowerg:
+  canBuy: 1
+  gold: 1511
+  rating: 4196
+girlPantyhoseflowerr:
+  canBuy: 1
+  gold: 1511
+  rating: 4196
+girlPantyhoseflowerw:
+  canBuy: 1
+  gold: 1655
+  rating: 4596
+girlPantyhosehp:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+girlPantyhosekittybl:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+girlPantyhoselolly:
+  canBuy: 1
+  gold: 100
+  rating: 278
+  silver: 0
+girlPantyhosemollbe:
+  canBuy: 1
+  gold: 0
+  rating: 3733
+  silver: 0
+girlPantyhosemollbl:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+  silver: 0
+girlPantyhosemollgr:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+  silver: 0
+girlPantyhoserabbitp:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+  silver: 0
+girlPantyhoserabbitw:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+  silver: 0
+girlPantyhosesexysportbl:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+  silver: 0
+girlPantyhosesexysportp:
+  canBuy: 1
+  gold: 0
+  rating: 2311
+  silver: 0
+girlPantyhosesexysportw:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+  silver: 0
+girlPareo1:
+  canBuy: 1
+  gold: 20
+  rating: 23
+girlPendantAcsSnegurka_r:
+  canBuy: 1
+  gold: 0
+  rating: 1
+girlPendantEstJpn:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+girlPendantEstQn:
+  canBuy: 1
+  gold: 432
+  rating: 1200
+girlPendantGangsterMinx:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlPendantTrngl:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlPineappleJacketsBl:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+girlPineappleJacketsGr:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+girlPineapplePantsGrn:
+  canBuy: 1
+  gold: 0
+  rating: 9720
+girlPineapplePantsYllw:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+girlPineappleShirtsWhght:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+girlPineappleShirtsYllw:
+  canBuy: 1
+  gold: 0
+  rating: 9720
+girlPndntGrdnr:
+  canBuy: 1
+  rating: 20
+  silver: 2000
+girlPntsNekoBl:
+  canBuy: 1
+  gold: 256
+  rating: 711
+girlPntsNekoP:
+  canBuy: 1
+  gold: 288
+  rating: 800
+girlPntsNekoW:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+girlPomponchrldrble:
+  canBuy: 1
+  rating: 889
+  silver: 0
+girlPomponchrldrgr:
+  canBuy: 1
+  rating: 889
+  silver: 0
+girlPomponchrldrp:
+  canBuy: 1
+  rating: 889
+  silver: 0
+girlPrincessMulanJacket:
+  canBuy: 1
+  gold: 4619
+  rating: 12830
+girlPrincessMulanJacketsGr:
+  canBuy: 1
+  gold: 4619
+  rating: 12441
+girlPrincessMulanJacketsWhgt:
+  canBuy: 1
+  gold: 4619
+  rating: 12830
+girlPrincessMulanPants:
+  canBuy: 1
+  gold: 0
+  rating: 5171
+girlPrincessMulanShoes:
+  canBuy: 1
+  gold: 0
+  rating: 11664
+girlPrincessPocahontasPants:
+  canBuy: 1
+  gold: 0
+  rating: 6609
+girlPrincessPocahontasShirt:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+girlPrincessPocahontasShoes:
+  canBuy: 1
+  gold: 0
+  rating: 1049
+girlPrncBllPts:
+  canBuy: 1
+  gold: 0
+  rating: 6610
+girlPrncBllShirt:
+  canBuy: 1
+  gold: 0
+  rating: 9331
+girlPrncBllShs:
+  canBuy: 1
+  gold: 0
+  rating: 583
+girlPrncCndPts:
+  canBuy: 1
+  gold: 2449
+  rating: 6804
+girlPrncCndShirt:
+  canBuy: 1
+  gold: 3079
+  rating: 8554
+girlPrncCndShs:
+  canBuy: 1
+  gold: 0
+  rating: 972
+girlPrncJsmPts:
+  canBuy: 1
+  gold: 0
+  rating: 6804
+girlPrncJsmShirt:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+girlPrncJsmShs:
+  canBuy: 1
+  gold: 0
+  rating: 3110
+girlPrncMrmPts:
+  canBuy: 1
+  gold: 0
+  rating: 1944
+girlPrncMrmShirt:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+girlPrncMrmShs:
+  canBuy: 1
+  gold: 0
+  rating: 583
+girlPrncSlbPts:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+girlPrncSlbShirt:
+  canBuy: 1
+  gold: 3499
+  rating: 9720
+girlPrncSlbShs:
+  canBuy: 1
+  gold: 0
+  rating: 1944
+girlPrncSnwPts:
+  canBuy: 1
+  gold: 0
+  rating: 5832
+girlPrncSnwShirt:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+girlPrncSnwShs:
+  canBuy: 1
+  gold: 0
+  rating: 583
+girlPslnCloak1:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlPslnCrown1:
+  canBuy: 1
+  gold: 0
+  rating: 2134
+girlPslnEar1:
+  canBuy: 1
+  gold: 100
+  rating: 278
+  silver: 0
+girlPslnEar2:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+  silver: 0
+girlPslnEar3:
+  canBuy: 1
+  gold: 24
+  rating: 55
+  silver: 0
+girlPslnEar4:
+  canBuy: 1
+  gold: 32
+  rating: 80
+girlPslnGlass1:
+  canBuy: 1
+  gold: 28
+  rating: 36
+  silver: 0
+girlPslnGlass2:
+  canBuy: 1
+  gold: 15
+  rating: 42
+girlPslnGlass3:
+  canBuy: 1
+  gold: 300
+  rating: 830
+girlPslnGlass4:
+  canBuy: 1
+  gold: 0
+  rating: 150
+  silver: 0
+girlPslnGloves1:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+girlPslnHdpns1:
+  canBuy: 1
+  gold: 150
+  rating: 500
+girlPslnHlm1:
+  canBuy: 1
+  gold: 55
+  rating: 153
+girlPslnHlm2:
+  canBuy: 1
+  gold: 150
+  rating: 417
+girlPslnMask1:
+  canBuy: 1
+  rating: 162
+  silver: 16200
+girlPslnNckl1:
+  canBuy: 1
+  gold: 11
+  rating: 25
+girlPslnNckl2:
+  canBuy: 1
+  gold: 10
+  rating: 20
+girlPslnNckl3:
+  canBuy: 1
+  gold: 16
+  rating: 32
+girlPslnNckl4:
+  canBuy: 1
+  gold: 13
+  rating: 26
+girlPslnNckl5:
+  canBuy: 1
+  gold: 16
+  rating: 33
+girlPslnNckl6:
+  canBuy: 1
+  gold: 0
+  rating: 28
+girlPslnShorts1:
+  canBuy: 1
+  gold: 20
+  rating: 45
+  silver: 0
+girlPslnShorts2:
+  canBuy: 1
+  gold: 24
+  rating: 53
+  silver: 0
+girlPslnShorts3:
+  canBuy: 1
+  gold: 0
+  rating: 86
+  silver: 0
+girlPslnStck1:
+  canBuy: 1
+  gold: 20
+  rating: 26
+girlPslnStck2:
+  canBuy: 1
+  gold: 23
+  rating: 52
+girlPslnStck3:
+  canBuy: 1
+  gold: 16
+  rating: 32
+girlPslnSuit1:
+  canBuy: 1
+  gold: 20
+  rating: 45
+girlPslnSuit10:
+  canBuy: 1
+  gold: 150
+  rating: 417
+girlPslnSuit11:
+  canBuy: 1
+  rating: 188
+  silver: 18800
+girlPslnSuit2:
+  canBuy: 1
+  gold: 100
+  rating: 278
+girlPslnSuit3:
+  canBuy: 1
+  gold: 200
+  rating: 667
+girlPslnSuit4:
+  canBuy: 1
+  gold: 1350
+  rating: 3750
+girlPslnSuit5:
+  canBuy: 1
+  gold: 90
+  rating: 250
+girlPslnSuit6:
+  canBuy: 1
+  gold: 200
+  rating: 556
+girlPslnSuit7:
+  canBuy: 1
+  gold: 19
+  rating: 38
+girlPslnSuit8:
+  canBuy: 1
+  gold: 51
+  rating: 130
+girlPslnSuit9:
+  canBuy: 1
+  gold: 0
+  rating: 8001
+girlPslnTail1:
+  canBuy: 1
+  rating: 85
+  silver: 8500
+girlPslnTto1:
+  canBuy: 1
+  gold: 25
+  rating: 55
+  silver: 0
+girlQueenBat:
+  canBuy: 1
+  gold: 432
+  rating: 1200
+girlQueenDress:
+  canBuy: 1
+  gold: 3888
+  rating: 7776
+girlQueenFan:
+  canBuy: 1
+  gold: 2644
+  rating: 5288
+girlQueenHlmt:
+  canBuy: 1
+  gold: 720
+  rating: 2000
+girlQueenJkct:
+  canBuy: 1
+  gold: 1008
+  rating: 2800
+girlQueenPnts:
+  canBuy: 1
+  gold: 1008
+  rating: 2800
+girlQueenShirt:
+  canBuy: 1
+  gold: 1008
+  rating: 2800
+girlQueenShoes:
+  canBuy: 1
+  gold: 972
+  rating: 1944
+girlQueenShs:
+  canBuy: 1
+  gold: 432
+  rating: 1200
+girlQueenWig:
+  canBuy: 1
+  gold: 10750
+  rating: 21501
+girlRbtHelmet:
+  canBuy: 1
+  gold: 0
+  rating: 120
+girlRbtSuit:
+  canBuy: 1
+  gold: 0
+  rating: 2800
+girlRimEarpOrPink:
+  canBuy: 1
+  gold: 0
+  rating: 5832
+girlRimEarpPinlBe:
+  canBuy: 1
+  gold: 0
+  rating: 5832
+girlRimEarpWhPink:
+  canBuy: 1
+  gold: 1050
+  rating: 5832
+girlRimEarpWhTiger:
+  canBuy: 1
+  gold: 0
+  rating: 5832
+girlRimGangsterMinx:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlRmCslScndnv:
+  canBuy: 1
+  gold: 100
+  rating: 278
+girlSV14Wngs:
+  canBuy: 1
+  rating: 250
+  silver: 0
+girlSandalsSpring2014Violet:
+  canBuy: 1
+  gold: 503
+  rating: 1399
+girlScarfPhoto:
+  canBuy: 1
+  gold: 0
+  rating: 119
+girlScarfRtrRcr:
+  canBuy: 1
+  gold: 0
+  rating: 80
+girlScarfVsgst:
+  canBuy: 1
+  gold: 29
+  rating: 80
+girlSchlStck:
+  canBuy: 1
+  gold: 15
+  rating: 60
+girlShirt1:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+girlShirt10:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 280
+girlShirt11:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 300
+girlShirt12:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 315
+girlShirt13:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 200
+girlShirt14:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+girlShirt15:
+  canBuy: 1
+  gold: 14
+  rating: 28
+  silver: 0
+girlShirt16:
+  canBuy: 1
+  gold: 16
+  rating: 32
+  silver: 0
+girlShirt17:
+  canBuy: 1
+  gold: 22
+  rating: 48
+  silver: 0
+girlShirt18:
+  canBuy: 1
+  gold: 7
+  rating: 11
+  silver: 0
+girlShirt19:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+girlShirt2:
+  canBuy: 1
+  gold: 0
+  rating: 9
+  silver: 920
+girlShirt20:
+  canBuy: 1
+  gold: 13
+  rating: 26
+  silver: 0
+girlShirt21:
+  canBuy: 1
+  gold: 14
+  rating: 28
+  silver: 0
+girlShirt22:
+  canBuy: 1
+  gold: 28
+  rating: 61
+  silver: 0
+girlShirt23:
+  canBuy: 1
+  gold: 24
+  rating: 52
+  silver: 0
+girlShirt24:
+  canBuy: 1
+  gold: 0
+  rating: 10
+  silver: 1050
+girlShirt25:
+  canBuy: 1
+  gold: 14
+  rating: 28
+  silver: 0
+girlShirt3:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 870
+girlShirt4:
+  canBuy: 1
+  gold: 0
+  rating: 6
+  silver: 660
+girlShirt5:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 835
+girlShirt6:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 355
+girlShirt7:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 410
+girlShirt8:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 725
+girlShirt9:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 220
+girlShirtPhoto:
+  canBuy: 1
+  gold: 0
+  rating: 119
+girlShirtShtormbl:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShirtShtormw:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShirt_everydaylk_beq:
+  canBuy: 1
+  gold: 0
+  rating: 6300
+girlShirt_everydaylk_ble:
+  canBuy: 1
+  gold: 0
+  rating: 6300
+girlShirt_everydaylk_br_r:
+  canBuy: 1
+  gold: 0
+  rating: 6300
+girlShirt_flowerlady_beq_w:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+girlShirt_flowerlady_bk_w:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+girlShirt_flowerlady_v:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+girlShirt_flwlsslk_w_ble_y:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+girlShirt_flwlsslk_w_br_g:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+girlShirt_flwlsslk_w_r_y:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+girlShirt_frznstl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShirt_kawaiisport:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+girlShirt_longswt_beg_r:
+  canBuy: 1
+  gold: 0
+  rating: 6401
+girlShirt_longswt_g_bk:
+  canBuy: 1
+  gold: 0
+  rating: 6401
+girlShirt_longswt_w_ble:
+  canBuy: 1
+  gold: 0
+  rating: 6401
+girlShirt_lovegirl_g_ble:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+girlShirt_lovegirl_gr_w:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+girlShirt_lovegirl_p_br:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+girlShirt_pairswt:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShirt_rudegirl_bk_w:
+  canBuy: 1
+  gold: 0
+  rating: 8260
+girlShirt_rudegirl_p_ble:
+  canBuy: 1
+  gold: 0
+  rating: 8260
+girlShirt_rudegirl_y_g:
+  canBuy: 1
+  gold: 0
+  rating: 8260
+girlShirt_slstl_bk:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlShirt_slstl_p:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlShirt_slstl_r:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlShirt_slsweater_italy:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlShirt_slsweater_mexico:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlShirt_slsweater_poland:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlShirt_slsweater_spain:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlShirt_slsweater_turkey:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlShirt_smartgirl_beq_y:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+girlShirt_smartgirl_w_p:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+girlShirt_smartgirl_w_r:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+girlShirt_strickstripes_bk_w:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShirt_strickstripes_p_w:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShirt_strickstripes_w_gr:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShirt_stripeslook_beq_gr:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+girlShirt_stripeslook_w_bk:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+girlShirt_stripeslook_w_ble:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+girlShirt_wntrpair:
+  canBuy: 1
+  gold: 320
+  rating: 889
+girlShirt_wrmshorts_bk:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+girlShirt_wrmshorts_ble:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+girlShirt_wrmshorts_p:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+girlShirt_wtchnew_r:
+  canBuy: 1
+  gold: 0
+  rating: 889
+  silver: 0
+girlShirt_wtchnew_v:
+  canBuy: 1
+  gold: 320
+  rating: 889
+  silver: 0
+girlShirt_xoxo:
+  canBuy: 1
+  gold: 280
+  rating: 778
+girlShirtbikerble:
+  canBuy: 1
+  gold: 0
+  rating: 900
+girlShirtbikerw:
+  canBuy: 1
+  gold: 324
+  rating: 900
+girlShirtcasuallookble:
+  canBuy: 1
+  gold: 140
+  rating: 389
+girlShirtcasuallookgr:
+  canBuy: 1
+  gold: 148
+  rating: 411
+girlShirtcasuallookp:
+  canBuy: 1
+  gold: 140
+  rating: 389
+girlShirtchrldrble:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShirtchrldrgr:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShirtchrldrp:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShirthgschlbk:
+  canBuy: 1
+  gold: 1152
+  rating: 3200
+girlShirthgschlp:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlShirthgschlw:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlShirthpble:
+  canBuy: 1
+  rating: 180
+  silver: 18000
+girlShirthpg:
+  canBuy: 1
+  rating: 180
+  silver: 18000
+girlShirthpr:
+  canBuy: 1
+  rating: 180
+  silver: 18000
+girlShirtlolly:
+  canBuy: 1
+  gold: 224
+  rating: 622
+girlShirtmstartopjeansbl:
+  canBuy: 1
+  gold: 0
+  rating: 7111
+girlShirtmstartopjeansble:
+  canBuy: 1
+  gold: 2624
+  rating: 7289
+girlShirtmstartopjeansp:
+  canBuy: 1
+  gold: 2816
+  rating: 7822
+girlShirtqdchble:
+  canBuy: 1
+  gold: 60
+  rating: 167
+girlShirtqdchg:
+  canBuy: 1
+  gold: 60
+  rating: 167
+girlShirtqdchr:
+  canBuy: 1
+  gold: 60
+  rating: 167
+girlShirtrockabillybl:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShirtrockabillyble:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShirtrockabillyr:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShirts23fevRd:
+  canBuy: 1
+  gold: 699
+  rating: 1944
+girlShirts23fevWght:
+  canBuy: 1
+  gold: 699
+  rating: 1944
+girlShirtsParisp:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+girlShirtsParisv:
+  canBuy: 1
+  gold: 112
+  rating: 311
+  silver: 0
+girlShirtsParisw:
+  canBuy: 1
+  gold: 112
+  rating: 311
+  silver: 0
+girlShirtsPolicemanble:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+girlShirtsPolicemanp:
+  canBuy: 1
+  gold: 240
+  rating: 666
+girlShirtsPolicemantshirtble:
+  canBuy: 1
+  gold: 264
+  rating: 733
+girlShirtsPolicemanvestble:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+girlShirtsTokiobl:
+  canBuy: 1
+  gold: 0
+  rating: 120
+girlShirtsTokior:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlShirtsTokiow:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlShirts_alarm:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShirts_bldy_bg:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShirts_bldy_dr:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShirts_bldy_lbe:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShirts_corset_bk_g:
+  canBuy: 1
+  rating: 6223
+  silver: 0
+girlShirts_corset_bk_v:
+  canBuy: 1
+  rating: 6223
+  silver: 0
+girlShirts_corset_o:
+  canBuy: 1
+  rating: 6223
+  silver: 0
+girlShirts_corset_r:
+  canBuy: 1
+  rating: 6223
+  silver: 0
+girlShirts_emoji_g:
+  canBuy: 1
+  gold: 0
+  rating: 3912
+girlShirts_emoji_p:
+  canBuy: 1
+  gold: 1408
+  rating: 3912
+girlShirts_emoji_r:
+  canBuy: 1
+  gold: 0
+  rating: 3912
+girlShirts_emoji_y:
+  canBuy: 1
+  gold: 0
+  rating: 3912
+girlShirts_instafur_dr:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+girlShirts_instafur_gr:
+  canBuy: 1
+  gold: 0
+  rating: 144
+  silver: 14400
+girlShirts_instafur_o:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+girlShirts_jd_gry_dbr:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+girlShirts_jd_w_beg:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+girlShirts_jd_y_sw:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+girlShirts_wntrprk_bk:
+  canBuy: 1
+  rating: 88
+  silver: 8800
+girlShirts_wntrprk_p:
+  canBuy: 1
+  rating: 88
+  silver: 8800
+girlShirts_wntrprk_w:
+  canBuy: 1
+  rating: 88
+  silver: 8800
+girlShirtsanime2p:
+  canBuy: 1
+  gold: 1696
+  rating: 4711
+girlShirtsanime2v:
+  canBuy: 1
+  gold: 0
+  rating: 4711
+  silver: 0
+girlShirtsanime2y:
+  canBuy: 1
+  gold: 0
+  rating: 4711
+  silver: 0
+girlShirtscatbe:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShirtscatbl:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlShirtscatp:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShirtsdancerbl:
+  canBuy: 1
+  gold: 1856
+  rating: 5156
+girlShirtsdancergld:
+  canBuy: 1
+  gold: 0
+  rating: 5156
+girlShirtsdancerr:
+  canBuy: 1
+  gold: 1919
+  rating: 5333
+girlShirtslitabl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShirtslitap:
+  canBuy: 1
+  gold: 176
+  rating: 488
+girlShirtslitay:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShirtslooseble:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+girlShirtslooseo:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+girlShirtslooser:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+girlShirtsmollbl:
+  canBuy: 1
+  gold: 0
+  rating: 4444
+  silver: 0
+girlShirtsmollw:
+  canBuy: 1
+  gold: 0
+  rating: 4889
+  silver: 0
+girlShirtsmolly:
+  canBuy: 1
+  gold: 0
+  rating: 4889
+  silver: 0
+girlShirtsnyashble:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShirtsnyashg:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShirtsnyashp:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlShirtsnyashw:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShirtspartyble:
+  canBuy: 1
+  gold: 0
+  rating: 4444
+girlShirtspartyg:
+  canBuy: 1
+  gold: 0
+  rating: 4444
+girlShirtspartyo:
+  canBuy: 1
+  gold: 0
+  rating: 4622
+girlShirtspartyp:
+  canBuy: 1
+  gold: 0
+  rating: 4622
+girlShirtsrollneckbl:
+  canBuy: 1
+  gold: 0
+  rating: 2598
+girlShirtsrollneckr:
+  canBuy: 1
+  rating: 2598
+  silver: 7200
+girlShirtsrollneckw:
+  canBuy: 1
+  gold: 0
+  rating: 2598
+girlShirtssexysportble:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+girlShirtssexysportp:
+  canBuy: 1
+  gold: 1600
+  rating: 4444
+girlShirtssexysporty:
+  canBuy: 1
+  gold: 1600
+  rating: 4444
+girlShirtsstreetqueenbl:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlShirtsstreetqueenw:
+  canBuy: 1
+  gold: 1024
+  rating: 2844
+girlShirtsstreetqueeny:
+  canBuy: 1
+  gold: 1152
+  rating: 3200
+girlShirtstiebl:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlShirtstieor:
+  canBuy: 1
+  gold: 96
+  rating: 266
+girlShirtstiep:
+  canBuy: 1
+  gold: 96
+  rating: 266
+girlShirtstiew:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+girlShirtstoplacebl:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlShirtstoplacep:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+girlShirtstoplacew:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlShirtsummersport2g:
+  canBuy: 1
+  gold: 0
+  rating: 3949
+  silver: 0
+girlShirtsummersport2r:
+  canBuy: 1
+  gold: 0
+  rating: 3949
+  silver: 0
+girlShirtsummersport2v:
+  canBuy: 1
+  gold: 0
+  rating: 3949
+  silver: 0
+girlShirtsummersportbl:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+girlShirtsummersportble:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+girlShirtsummersportp:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+girlShirtsuspendersbl:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlShirtsuspendersble:
+  canBuy: 1
+  gold: 56
+  rating: 155
+girlShirtsuspendersy:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShoes1:
+  canBuy: 1
+  gold: 8
+  rating: 13
+  silver: 0
+girlShoes10:
+  canBuy: 1
+  rating: 5
+  silver: 500
+girlShoes11:
+  canBuy: 1
+  rating: 4
+  silver: 460
+girlShoes12:
+  canBuy: 1
+  rating: 4
+  silver: 430
+girlShoes13:
+  canBuy: 1
+  rating: 1
+  silver: 195
+girlShoes14:
+  canBuy: 1
+  rating: 3
+  silver: 320
+girlShoes15:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 450
+girlShoes16:
+  canBuy: 1
+  gold: 18
+  rating: 36
+  silver: 0
+girlShoes17:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+girlShoes18:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+girlShoes19:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+girlShoes2:
+  canBuy: 1
+  gold: 8
+  rating: 13
+  silver: 0
+girlShoes20:
+  canBuy: 1
+  gold: 7
+  rating: 11
+  silver: 0
+girlShoes21:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 530
+girlShoes22:
+  canBuy: 1
+  rating: 8
+  silver: 800
+girlShoes23:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+girlShoes24:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+girlShoes25:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 800
+girlShoes26:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 750
+girlShoes27:
+  canBuy: 1
+  gold: 0
+  rating: 6
+  silver: 600
+girlShoes28:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 500
+girlShoes29:
+  canBuy: 1
+  gold: 0
+  rating: 6
+  silver: 630
+girlShoes3:
+  canBuy: 1
+  gold: 22
+  rating: 48
+  silver: 0
+girlShoes30:
+  canBuy: 1
+  gold: 0
+  rating: 6
+  silver: 600
+girlShoes31:
+  canBuy: 1
+  gold: 0
+  rating: 6
+  silver: 615
+girlShoes32:
+  canBuy: 1
+  gold: 19
+  rating: 38
+  silver: 0
+girlShoes33:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+girlShoes34:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+girlShoes35:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+girlShoes4:
+  canBuy: 1
+  gold: 16
+  rating: 32
+  silver: 0
+girlShoes5:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 400
+girlShoes6:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 530
+girlShoes7:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+girlShoes8:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+girlShoes80sble:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShoes80sp:
+  canBuy: 1
+  gold: 140
+  rating: 389
+girlShoes80sw:
+  canBuy: 1
+  gold: 140
+  rating: 389
+girlShoes9:
+  canBuy: 1
+  rating: 1
+  silver: 120
+girlShoesBallerine:
+  canBuy: 1
+  gold: 719
+  rating: 1998
+girlShoesGottbl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoesGottdbe:
+  canBuy: 1
+  gold: 136
+  rating: 377
+girlShoesGottdr:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShoesMinnieBl:
+  canBuy: 1
+  gold: 176
+  rating: 488
+girlShoesMinnieR:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoesMinnieY:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoesNewYearSnegurka_r:
+  canBuy: 1
+  gold: 0
+  rating: 1
+girlShoesParisbk:
+  canBuy: 1
+  gold: 136
+  rating: 378
+  silver: 0
+girlShoesParisble:
+  canBuy: 1
+  gold: 136
+  rating: 378
+girlShoesParisr:
+  canBuy: 1
+  gold: 136
+  rating: 378
+girlShoesPeacockble:
+  canBuy: 1
+  gold: 1799
+  rating: 4996
+girlShoesPeacockg:
+  canBuy: 1
+  gold: 1799
+  rating: 4996
+girlShoesPeacockr:
+  canBuy: 1
+  gold: 1799
+  rating: 4996
+girlShoesPolicemanbl:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+girlShoesPolicemanp:
+  canBuy: 1
+  gold: 96
+  rating: 266
+girlShoesPsyLbl:
+  canBuy: 1
+  gold: 176
+  rating: 488
+girlShoesPsyLp:
+  canBuy: 1
+  gold: 176
+  rating: 488
+girlShoesPsyLvi:
+  canBuy: 1
+  gold: 176
+  rating: 488
+girlShoesRcr:
+  canBuy: 1
+  gold: 0
+  rating: 400
+girlShoesRtrRcr:
+  canBuy: 1
+  gold: 0
+  rating: 120
+girlShoesShtormbl:
+  canBuy: 1
+  gold: 200
+  rating: 555
+girlShoesShtormw:
+  canBuy: 1
+  gold: 200
+  rating: 555
+girlShoesSpring2014Black:
+  canBuy: 1
+  gold: 0
+  rating: 1798
+girlShoesThlBl:
+  canBuy: 1
+  gold: 1555
+  rating: 7776
+girlShoesThlWh:
+  canBuy: 1
+  gold: 1555
+  rating: 7776
+girlShoesTokiobe:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShoesTokiop:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShoesTokioy:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShoes_Freddy:
+  canBuy: 1
+  rating: 3556
+  silver: 0
+girlShoes_Starter_v:
+  canBuy: 1
+  gold: 144
+  rating: 400
+girlShoes_arist_bg:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlShoes_arist_dble:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlShoes_arist_r:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShoes_arist_y:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShoes_artsystyle:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoes_autcls_bk:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShoes_autcls_dr:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShoes_autcls_v:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShoes_autcls_w:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShoes_bigcity:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShoes_catstyle_bk:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+girlShoes_catstyle_ble:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+girlShoes_catstyle_g:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+girlShoes_cmft_bk:
+  canBuy: 1
+  rating: 296
+  silver: 29600
+girlShoes_cmft_dr:
+  canBuy: 1
+  rating: 296
+  silver: 29600
+girlShoes_cmft_gr:
+  canBuy: 1
+  rating: 296
+  silver: 29600
+girlShoes_cozyhome:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlShoes_cozylook_beg:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+girlShoes_cozylook_br:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+girlShoes_cozylook_g:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+girlShoes_ctxmas_blk_gr:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+girlShoes_ctxmas_blk_r:
+  canBuy: 1
+  gold: 896
+  rating: 2489
+girlShoes_ctxmas_blk_w:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+girlShoes_elecorn:
+  canBuy: 1
+  gold: 200
+  rating: 556
+girlShoes_emoji_g:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShoes_emoji_p:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+girlShoes_emoji_r:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShoes_emoji_y:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShoes_flfwntr_beg_br:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShoes_flfwntr_l_y:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShoes_flfwntr_w_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShoes_flowerjewel_ble:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlShoes_flowerjewel_o:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlShoes_flowerjewel_p:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlShoes_flowerlady_bk_ble:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShoes_flowerlady_br_p:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShoes_flowerlady_v_r:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShoes_fluffywntr_bl:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShoes_fluffywntr_br:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShoes_fluffywntr_r:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShoes_flwlsslk:
+  canBuy: 1
+  rating: 112
+  silver: 11200
+girlShoes_frstl_ble_w:
+  canBuy: 1
+  rating: 4267
+  silver: 0
+girlShoes_frstl_br:
+  canBuy: 1
+  rating: 4267
+  silver: 0
+girlShoes_frstl_gr:
+  canBuy: 1
+  rating: 4267
+  silver: 0
+girlShoes_frznrl_bk:
+  canBuy: 1
+  gold: 1024
+  rating: 2845
+girlShoes_frznrl_ble:
+  canBuy: 1
+  gold: 1024
+  rating: 2845
+girlShoes_frznrl_l:
+  canBuy: 1
+  gold: 0
+  rating: 2845
+girlShoes_frznstl:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShoes_gentleflower_g_y:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+girlShoes_gentleflower_p_w:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+girlShoes_gentleflower_r_p:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+girlShoes_goldgod:
+  canBuy: 1
+  gold: 200
+  rating: 556
+girlShoes_gthlol_bk:
+  canBuy: 1
+  gold: 1152
+  rating: 3200
+girlShoes_gthlol_dr:
+  canBuy: 1
+  gold: 1152
+  rating: 3200
+girlShoes_gthlol_p:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlShoes_gthlol_v:
+  canBuy: 1
+  gold: 1152
+  rating: 3200
+girlShoes_imp:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+girlShoes_instafur_bk:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+girlShoes_instafur_gr:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+girlShoes_instafur_p:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+girlShoes_jd_blk:
+  canBuy: 1
+  gold: 0
+  rating: 1600
+girlShoes_jd_br:
+  canBuy: 1
+  gold: 0
+  rating: 1600
+girlShoes_jd_w:
+  canBuy: 1
+  gold: 0
+  rating: 1600
+girlShoes_lavaset:
+  canBuy: 1
+  gold: 200
+  rating: 556
+girlShoes_lilcute_bk:
+  canBuy: 1
+  gold: 0
+  rating: 3422
+girlShoes_lilcute_gr:
+  canBuy: 1
+  gold: 0
+  rating: 3422
+girlShoes_lilcute_r:
+  canBuy: 1
+  gold: 0
+  rating: 3422
+girlShoes_linerdress:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoes_longswt_bk:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+girlShoes_longswt_ble:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+girlShoes_longswt_r:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+girlShoes_lovegirl_beq:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+girlShoes_lovegirl_br:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+girlShoes_lovegirl_w:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+girlShoes_lovegorgoyle:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+girlShoes_mlfcnt:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlShoes_nocrmdress_bk_y:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShoes_nocrmdress_ble:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShoes_nocrmdress_p:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShoes_prncsday_b:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShoes_prncsday_t:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShoes_prncsday_v:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShoes_pump:
+  canBuy: 1
+  gold: 100
+  rating: 278
+girlShoes_pureelegance_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlShoes_pureelegance_gr:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlShoes_pureelegance_r:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlShoes_roguestyle:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoes_romanceflower_g:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+girlShoes_romanceflower_gr:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+girlShoes_romanceflower_r_w:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+girlShoes_royalgirl_g_y:
+  canBuy: 1
+  gold: 0
+  rating: 5600
+girlShoes_royalgirl_r_bk:
+  canBuy: 1
+  gold: 2016
+  rating: 5600
+girlShoes_royalgirl_y_w:
+  canBuy: 1
+  gold: 2016
+  rating: 5600
+girlShoes_rudegirl_ble_w:
+  canBuy: 1
+  gold: 0
+  rating: 3265
+girlShoes_rudegirl_g_y:
+  canBuy: 1
+  gold: 0
+  rating: 3265
+girlShoes_rudegirl_w_gr:
+  canBuy: 1
+  gold: 0
+  rating: 3265
+girlShoes_sctld_g_bk:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+girlShoes_sctld_p_w:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+girlShoes_sctld_r_bg:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+girlShoes_slstl_beq_br:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShoes_slstl_bk:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShoes_slstl_bk_r:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShoes_smartgirl_bk_br:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+girlShoes_smartgirl_r_bk:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+girlShoes_smartgirl_w_beq:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+girlShoes_spacex:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoes_strickstripes_br:
+  canBuy: 1
+  rating: 184
+  silver: 18400
+girlShoes_strickstripes_gr_bk:
+  canBuy: 1
+  rating: 184
+  silver: 18400
+girlShoes_strickstripes_w_ble:
+  canBuy: 1
+  rating: 184
+  silver: 18400
+girlShoes_stripeslook_w_ble:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+girlShoes_stripeslook_w_g:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+girlShoes_stripeslook_w_p:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+girlShoes_svdcook:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShoes_townmodel_bk:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+girlShoes_townmodel_p:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+girlShoes_townmodel_r:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+girlShoes_violetdream:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoes_vsc:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoes_winterstl:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlShoes_wntrfairy:
+  canBuy: 1
+  gold: 200
+  rating: 556
+girlShoes_wntrmaid_br_y:
+  canBuy: 1
+  gold: 0
+  rating: 4267
+girlShoes_wntrmaid_gr_w:
+  canBuy: 1
+  gold: 1536
+  rating: 4267
+girlShoes_wntrpair:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoes_wntrprk_br:
+  canBuy: 1
+  rating: 272
+  silver: 27200
+girlShoes_wntrprk_w:
+  canBuy: 1
+  rating: 272
+  silver: 27200
+girlShoes_wntrprk_y:
+  canBuy: 1
+  rating: 272
+  silver: 27200
+girlShoes_wrmshorts_bk:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShoes_wrmshorts_br:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShoes_wrmshorts_p:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShoes_wtchnew_r:
+  canBuy: 1
+  rating: 2134
+  silver: 0
+girlShoes_wtchnew_v:
+  canBuy: 1
+  gold: 768
+  rating: 2134
+girlShoes_xmaself:
+  canBuy: 1
+  gold: 176
+  rating: 489
+girlShoes_xmsdr:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoes_xoxo:
+  canBuy: 1
+  gold: 304
+  rating: 844
+girlShoes_yngstudent_bk:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShoes_yngstudent_br:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShoes_yngstudent_w:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShoesanime2bl:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+girlShoesanime2br:
+  canBuy: 1
+  gold: 0
+  rating: 2133
+girlShoesanime2w:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+girlShoesberabbit:
+  canBuy: 1
+  gold: 0
+  rating: 4889
+girlShoesbikerbl:
+  canBuy: 1
+  rating: 1798
+  silver: 4500
+girlShoesbikerbr:
+  canBuy: 1
+  gold: 0
+  rating: 1798
+girlShoesbrutalbl:
+  canBuy: 1
+  gold: 1600
+  rating: 4444
+girlShoesbrutalr:
+  canBuy: 1
+  gold: 0
+  rating: 4978
+girlShoesbrutalw:
+  canBuy: 1
+  gold: 1600
+  rating: 4444
+girlShoescapmbr:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShoescapmr:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlShoescasuallookbk:
+  canBuy: 1
+  gold: 184
+  rating: 889
+girlShoescasuallookble:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoescasuallookp:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoescatbl:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+girlShoescatlbe:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShoescatr:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShoesdancerbl:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlShoesdancergld:
+  canBuy: 1
+  gold: 0
+  rating: 2311
+girlShoesdancerr:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlShoesfruitsp:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlShoesfruitsw:
+  canBuy: 1
+  gold: 0
+  rating: 168
+  silver: 16800
+girlShoesfruitsy:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlShoesgalacticable:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+girlShoesgalacticar:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShoesgalacticav:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+girlShoesgotbl:
+  canBuy: 1
+  gold: 1216
+  rating: 3378
+girlShoesgotbr:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlShoesgotw:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlShoesgumsbl:
+  canBuy: 1
+  gold: 100
+  rating: 277
+girlShoesgumsp:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlShoesgumsshark:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlShoeshalfbootsbl:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShoeshalfbootsble:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShoeshalfbootsbr:
+  canBuy: 1
+  gold: 1152
+  rating: 3200
+girlShoeshellcatlbe:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlShoeshellcatp:
+  canBuy: 1
+  gold: 0
+  rating: 3733
+girlShoeshellcatw:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlShoeshgschlbk:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+girlShoeshgschlp:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShoeshgschlr:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlShoeshpblack:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlShoeshpbrown:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlShoeshpgrey:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+girlShoeslitabl:
+  canBuy: 1
+  gold: 144
+  rating: 400
+girlShoeslitable:
+  canBuy: 1
+  gold: 144
+  rating: 400
+girlShoeslitaw:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+girlShoeslolly:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoeslooseble:
+  canBuy: 1
+  gold: 1408
+  rating: 3911
+girlShoeslooseo:
+  canBuy: 1
+  gold: 1536
+  rating: 4267
+girlShoeslooser:
+  canBuy: 1
+  gold: 1536
+  rating: 4267
+girlShoesmollbl:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+  silver: 0
+girlShoesmollw:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+  silver: 0
+girlShoesmolly:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+  silver: 0
+girlShoesmstartopjeansbl:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlShoesmstartopjeansp:
+  canBuy: 1
+  gold: 1408
+  rating: 3911
+girlShoesmstartopjeansw:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+girlShoesnyashble:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlShoesnyashg:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlShoesnyashp:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShoesnyashw:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlShoesprabbit:
+  canBuy: 1
+  gold: 0
+  rating: 4889
+girlShoesqdchble:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShoesqdchbr:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShoesqdchg:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShoesrabbit:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+girlShoesrescuep:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+girlShoesrescuer:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+girlShoesrockabillybl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoesrockabillyble:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoesrockabillyr:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlShoesschwarm:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlShoessexysportbl:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+girlShoessexysportr:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+girlShoessexysportw:
+  canBuy: 1
+  gold: 1536
+  rating: 4267
+girlShoesstreetqueenbl:
+  canBuy: 1
+  gold: 1792
+  rating: 4978
+girlShoesstreetqueenr:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+girlShoesstreetqueenw:
+  canBuy: 1
+  gold: 1792
+  rating: 4978
+girlShoessummersportbl:
+  canBuy: 1
+  gold: 0
+  rating: 3119
+girlShoessummersportp:
+  canBuy: 1
+  gold: 0
+  rating: 3119
+girlShoessummersportw:
+  canBuy: 1
+  gold: 0
+  rating: 3119
+girlShoesyrabbit:
+  canBuy: 1
+  gold: 0
+  rating: 4889
+girlShortsBl:
+  canBuy: 1
+  rating: 160
+  silver: 0
+girlShortsBr:
+  canBuy: 1
+  rating: 120
+  silver: 0
+girlShortsBrJ:
+  canBuy: 1
+  rating: 200
+  silver: 0
+girlShortsGrLight:
+  canBuy: 1
+  rating: 200
+  silver: 0
+girlShortsPink:
+  canBuy: 1
+  rating: 160
+  silver: 0
+girlShortsPolicemanble:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlShortsPolicemanp:
+  canBuy: 1
+  gold: 136
+  rating: 377
+girlShorts_alarm:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlShorts_corset_bk_o:
+  canBuy: 1
+  rating: 4001
+  silver: 0
+girlShorts_corset_bk_r:
+  canBuy: 1
+  rating: 4001
+  silver: 0
+girlShorts_corset_g:
+  canBuy: 1
+  rating: 4001
+  silver: 0
+girlShorts_corset_v:
+  canBuy: 1
+  rating: 4001
+  silver: 0
+girlShorts_strickstripes_ble_w:
+  canBuy: 1
+  rating: 210
+  silver: 21000
+girlShorts_strickstripes_gr_w:
+  canBuy: 1
+  rating: 210
+  silver: 21000
+girlShorts_strickstripes_lble_w:
+  canBuy: 1
+  rating: 210
+  silver: 21000
+girlShorts_wrmshorts_bk:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShorts_wrmshorts_br:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShorts_wrmshorts_r:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShortsbikerbl:
+  canBuy: 1
+  rating: 4796
+  silver: 12000
+girlShortsbikerble:
+  canBuy: 1
+  gold: 1439
+  rating: 4396
+girlShortslolly:
+  canBuy: 1
+  gold: 192
+  rating: 533
+girlShortslooseble:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShortslooseo:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlShortslooser:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+girlShortsmstarble:
+  canBuy: 1
+  gold: 1536
+  rating: 4267
+girlShortsmstarp:
+  canBuy: 1
+  gold: 0
+  rating: 4978
+girlShortsmstarr:
+  canBuy: 1
+  gold: 0
+  rating: 4622
+girlShortsmstarw:
+  canBuy: 1
+  gold: 1664
+  rating: 4622
+girlShortssexysportble:
+  canBuy: 1
+  gold: 0
+  rating: 4267
+girlShortssexysportp:
+  canBuy: 1
+  gold: 1600
+  rating: 4444
+girlShortssexysporty:
+  canBuy: 1
+  gold: 1600
+  rating: 4444
+girlShortssummersport2g:
+  canBuy: 1
+  gold: 0
+  rating: 4679
+girlShortssummersport2r:
+  canBuy: 1
+  gold: 0
+  rating: 4679
+girlShortssummersport2v:
+  canBuy: 1
+  gold: 0
+  rating: 4679
+girlShrtCwby:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlShrtJzz:
+  canBuy: 1
+  gold: 256
+  rating: 711
+girlShrtNekoBl:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlShrtNekoBle:
+  canBuy: 1
+  gold: 96
+  rating: 266
+girlShrtNekoW:
+  canBuy: 1
+  gold: 144
+  rating: 400
+girlShrtsCslFr:
+  canBuy: 1
+  gold: 200
+  rating: 556
+girlShrtsGrdnr:
+  canBuy: 1
+  rating: 75
+  silver: 7500
+girlShsArmy:
+  canBuy: 1
+  gold: 48
+  rating: 133
+  silver: 0
+girlShsCat:
+  canBuy: 1
+  gold: 200
+  rating: 556
+girlShsChem:
+  canBuy: 1
+  gold: 58
+  rating: 161
+girlShsCslFr:
+  canBuy: 1
+  gold: 50
+  rating: 139
+girlShsCslScndnv:
+  canBuy: 1
+  gold: 100
+  rating: 278
+girlShsGrdnr:
+  canBuy: 1
+  rating: 35
+  silver: 3500
+girlShsJzz:
+  canBuy: 1
+  gold: 96
+  rating: 266
+girlShsNekoBl:
+  canBuy: 1
+  gold: 56
+  rating: 155
+girlShsNekoR:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlShsNekoW:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+girlShsPanda:
+  canBuy: 1
+  rating: 250
+  silver: 25000
+girlShsPhoto:
+  canBuy: 1
+  gold: 0
+  rating: 158
+girlShsPikachu:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+girlShsPlgrm:
+  canBuy: 1
+  gold: 10
+  rating: 28
+girlShsSnkGBl:
+  canBuy: 1
+  gold: 180
+  rating: 500
+girlShsSnkGradBl:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlShsSnkGradW:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+girlShsSnkPPl:
+  canBuy: 1
+  gold: 180
+  rating: 500
+girlShsSnkPW:
+  canBuy: 1
+  gold: 200
+  rating: 555
+girlShsUnicorn:
+  canBuy: 1
+  gold: 300
+  rating: 833
+girlShspartyble:
+  canBuy: 1
+  gold: 0
+  rating: 3733
+girlShspartyg:
+  canBuy: 1
+  gold: 0
+  rating: 3733
+girlShspartyo:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+girlShspartyp:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+girlSkin_lovegorgoyle:
+  canBuy: 1
+  gold: 3200
+  rating: 8890
+girlSkin_scarydoll:
+  canBuy: 1
+  gold: 320
+  rating: 889
+girlSkirt1:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 730
+girlSkirt10:
+  canBuy: 1
+  gold: 4
+  rating: 6
+  silver: 0
+girlSkirt2:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 390
+girlSkirt3:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 865
+girlSkirt4:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 325
+girlSkirt6:
+  canBuy: 1
+  gold: 0
+  rating: 26
+  silver: 25000
+girlSkirt7:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+girlSkirt8:
+  canBuy: 1
+  gold: 8
+  rating: 13
+  silver: 0
+girlSkirt9:
+  canBuy: 1
+  gold: 0
+  rating: 28
+  silver: 27000
+girlSkirtPhoto:
+  canBuy: 1
+  gold: 0
+  rating: 200
+girlSkirt_everydaylk_ble:
+  canBuy: 1
+  gold: 0
+  rating: 8820
+girlSkirt_everydaylk_g_w:
+  canBuy: 1
+  gold: 0
+  rating: 8820
+girlSkirt_everydaylk_r_bk:
+  canBuy: 1
+  gold: 0
+  rating: 8820
+girlSkirt_flwlsslk_ble_w:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+girlSkirt_flwlsslk_g_w:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+girlSkirt_flwlsslk_r_w:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+girlSkirt_smartgirl_beq:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlSkirt_smartgirl_g:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlSkirt_smartgirl_w_bk:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+girlSkirt_wtchnew_r:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+girlSkirt_wtchnew_v:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+girlSkirt_yngstudent_br:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlSkirt_yngstudent_gr:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlSkirt_yngstudent_r:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+girlSkirtcasuallookbk:
+  canBuy: 1
+  gold: 148
+  rating: 411
+  silver: 0
+girlSkirtcasuallookble:
+  canBuy: 1
+  gold: 140
+  rating: 389
+  silver: 0
+girlSkirtcasuallookp:
+  canBuy: 1
+  gold: 140
+  rating: 389
+  silver: 0
+girlSkirtchrldrble:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlSkirtchrldrgr:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlSkirtchrldrp:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlSkirthpble:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlSkirthpg:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlSkirthpr:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlSkirtsParisbk:
+  canBuy: 1
+  gold: 240
+  rating: 667
+girlSkirtsParisble:
+  canBuy: 1
+  rating: 380
+  silver: 38000
+girlSkirtsParisp:
+  canBuy: 1
+  gold: 240
+  rating: 667
+girlSkirtsTokiobe:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+girlSkirtsTokiop:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+girlSkirtsTokioy:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+girlSkirts_instafur_dr:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+girlSkirts_instafur_gr:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+girlSkirts_instafur_o:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+girlSkirts_vsc:
+  canBuy: 1
+  gold: 320
+  rating: 889
+  silver: 0
+girlSkirtsanime2be:
+  canBuy: 1
+  gold: 0
+  rating: 5689
+girlSkirtsanime2br:
+  canBuy: 1
+  gold: 0
+  rating: 5689
+girlSkirtsanime2vi:
+  canBuy: 1
+  gold: 2176
+  rating: 6044
+girlSkirtsfatinp:
+  canBuy: 1
+  gold: 1151
+  rating: 3196
+girlSkirtsfatinv:
+  canBuy: 1
+  gold: 1151
+  rating: 3196
+girlSkirtsfatinw:
+  canBuy: 1
+  gold: 1079
+  rating: 2998
+girlSkirtsmollbl:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+  silver: 0
+girlSkirtsmollw:
+  canBuy: 1
+  gold: 0
+  rating: 5778
+  silver: 0
+girlSkirtsmolly:
+  canBuy: 1
+  gold: 0
+  rating: 5778
+  silver: 0
+girlSkirtsnyashble:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlSkirtsnyashg:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlSkirtsnyashp:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+girlSkirtsnyashw:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+girlSkirtsuspendersble:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+girlSkirtsuspendersg:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+girlSkirtsuspendersr:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlSkrtArmy:
+  canBuy: 1
+  gold: 60
+  rating: 167
+girlSkrtCslScndnv:
+  canBuy: 1
+  gold: 350
+  rating: 972
+girlSkrtCwby:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlSkrtNYBlack:
+  canBuy: 1
+  gold: 45
+  rating: 125
+girlSkrtNYBlue:
+  canBuy: 1
+  gold: 65
+  rating: 181
+girlSkrtNYGreen:
+  canBuy: 1
+  rating: 250
+  silver: 25000
+girlSkrtNYPink:
+  canBuy: 1
+  rating: 250
+  silver: 25000
+girlSkrtNYRed:
+  canBuy: 1
+  gold: 65
+  rating: 181
+girlSkrtNYWhite:
+  canBuy: 1
+  gold: 45
+  rating: 125
+girlSnwGlasses:
+  canBuy: 1
+  gold: 29
+  rating: 80
+girlSnwGloves:
+  canBuy: 1
+  gold: 29
+  rating: 80
+girlSnwHat:
+  canBuy: 1
+  gold: 29
+  rating: 80
+girlSnwJacket:
+  canBuy: 1
+  gold: 72
+  rating: 200
+girlSnwPants:
+  canBuy: 1
+  gold: 43
+  rating: 120
+girlSnwShoesB:
+  canBuy: 1
+  gold: 29
+  rating: 80
+girlSnwTShirt:
+  canBuy: 1
+  gold: 43
+  rating: 120
+girlSocksDeer:
+  canBuy: 1
+  gold: 24
+  rating: 67
+girlSocksEstJpn:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlSocksFox:
+  canBuy: 1
+  gold: 32
+  rating: 89
+girlSocksOwl:
+  canBuy: 1
+  gold: 32
+  rating: 89
+girlSocksPanda:
+  canBuy: 1
+  gold: 24
+  rating: 67
+girlSocks_yngstudent_bk:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+girlSocks_yngstudent_r:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+girlSocks_yngstudent_w:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+girlSpHr:
+  canBuy: 1
+  gold: 3888
+  rating: 10800
+girlSpHrAcs:
+  canBuy: 1
+  gold: 432
+  rating: 1200
+girlStPDress:
+  canBuy: 1
+  gold: 168
+  rating: 466
+girlStPFillet:
+  canBuy: 1
+  gold: 88
+  rating: 244
+  silver: 0
+girlStPHat:
+  canBuy: 1
+  gold: 160
+  rating: 444
+girlStckngsPlgrm:
+  canBuy: 1
+  gold: 50
+  rating: 139
+girlSteampunkBoots:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+girlSteampunkDress:
+  canBuy: 1
+  gold: 6998
+  rating: 19440
+girlSteampunkGloves:
+  canBuy: 1
+  gold: 1400
+  rating: 3888
+girlSteampunkGun:
+  canBuy: 1
+  gold: 5599
+  rating: 15552
+girlSteampunkHat:
+  canBuy: 1
+  gold: 4199
+  rating: 11664
+girlSteampunkStockings:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+girlStkngsCslScndnv:
+  canBuy: 1
+  gold: 200
+  rating: 556
+girlStockChem:
+  canBuy: 1
+  gold: 0
+  rating: 400
+girlStockingPhoto:
+  canBuy: 1
+  gold: 0
+  rating: 181
+girlStockingsGangsterMinx:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlStockingsNewYearSnegurka_y:
+  canBuy: 1
+  gold: 0
+  rating: 1
+girlSuit80sa:
+  canBuy: 1
+  gold: 320
+  rating: 889
+girlSuit80sb:
+  canBuy: 1
+  gold: 320
+  rating: 889
+girlSuit80sc:
+  canBuy: 1
+  rating: 480
+  silver: 48000
+girlSuitCat:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+girlSuitGrinchPink:
+  canBuy: 1
+  gold: 9798
+  rating: 27216
+girlSuitOverallslongble:
+  canBuy: 1
+  rating: 520
+  silver: 52000
+girlSuitOverallslongble2:
+  canBuy: 1
+  gold: 600
+  rating: 1666
+girlSuitOverallslongble3:
+  canBuy: 1
+  gold: 560
+  rating: 1555
+girlSuitOverallsshortble:
+  canBuy: 1
+  rating: 520
+  silver: 52000
+girlSuitOverallsshortgr:
+  canBuy: 1
+  gold: 560
+  rating: 1555
+girlSuitOverallsshortp:
+  canBuy: 1
+  gold: 576
+  rating: 1600
+girlSuitPanda:
+  canBuy: 1
+  rating: 675
+  silver: 67500
+girlSuitPikachu:
+  canBuy: 1
+  rating: 585
+  silver: 58500
+girlSuitUnicorn:
+  canBuy: 1
+  gold: 600
+  rating: 1667
+girlSuit_neonbird_ble:
+  canBuy: 1
+  gold: 2080
+  rating: 5779
+girlSuit_neonbird_o:
+  canBuy: 1
+  gold: 2080
+  rating: 5779
+girlSuit_neonbird_p:
+  canBuy: 1
+  gold: 0
+  rating: 5779
+girlSuit_pntroutfit:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+girlSuit_scaryclown:
+  canBuy: 1
+  gold: 720
+  rating: 2000
+girlSuit_wntrfairy:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+girlSuit_xmsdr:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+girlSuiteGrinch:
+  canBuy: 1
+  gold: 240
+  rating: 667
+girlSuitsPsyLbl:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+girlSuitsPsyLp:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+girlSuitsPsyLvi:
+  canBuy: 1
+  rating: 560
+  silver: 56000
+girlSuits_elecorn:
+  canBuy: 1
+  gold: 600
+  rating: 1667
+girlSuits_hallbat:
+  canBuy: 1
+  gold: 0
+  rating: 10668
+girlSuits_hallcat:
+  canBuy: 1
+  gold: 0
+  rating: 10668
+girlSuits_hallrvn:
+  canBuy: 1
+  gold: 0
+  rating: 10668
+girlSuits_imp:
+  canBuy: 1
+  gold: 6401
+  rating: 17780
+girlSuits_spacex:
+  canBuy: 1
+  gold: 560
+  rating: 1556
+girlSuitsdressberabbit:
+  canBuy: 1
+  gold: 0
+  rating: 8889
+girlSuitsdressprabbit:
+  canBuy: 1
+  gold: 0
+  rating: 8889
+girlSuitsdressyrabbit:
+  canBuy: 1
+  gold: 0
+  rating: 8889
+girlSuitselectroman:
+  canBuy: 1
+  gold: 0
+  rating: 27972
+girlSuitselectromanblack:
+  canBuy: 1
+  gold: 10070
+  rating: 27972
+girlSuitskigurumirabbit:
+  canBuy: 1
+  gold: 4480
+  rating: 12444
+girlSuitsmystblue:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+girlSuitsoverallsskirtbl:
+  canBuy: 1
+  gold: 0
+  rating: 7111
+girlSuitsoverallsskirtble:
+  canBuy: 1
+  gold: 2500
+  rating: 7111
+girlSuitsoverallsskirtw:
+  canBuy: 1
+  gold: 2432
+  rating: 6756
+girlSwimsuit1:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+girlSwimsuit2:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 360
+girlSwimsuit3:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 500
+girlSwimsuit4:
+  canBuy: 1
+  gold: 0
+  rating: 14
+  silver: 1400
+girlSwimsuit5:
+  canBuy: 1
+  rating: 9
+  silver: 980
+girlSwimsuit6:
+  canBuy: 1
+  gold: 19
+  rating: 38
+  silver: 0
+girlSwimsuitopenbackbl:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+  silver: 0
+girlSwimsuitopenbackg:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+  silver: 0
+girlSwimsuitopenbacko:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+  silver: 0
+girlSwimsuitsportble:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+girlSwimsuitsportp:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+girlSwimsuitsporty:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+girlSwimsuitsuspenderbl:
+  canBuy: 1
+  gold: 0
+  rating: 7547
+  silver: 0
+girlSwimsuitsuspenderble:
+  canBuy: 1
+  gold: 0
+  rating: 7020
+  silver: 0
+girlSwimsuitsuspenderr:
+  canBuy: 1
+  gold: 0
+  rating: 7020
+  silver: 0
+girlSyrRetro:
+  canBuy: 1
+  gold: 0
+  rating: 800
+girlSyringeHsptlTch:
+  canBuy: 1
+  gold: 0
+  rating: 400
+girlTShirtBlBraids:
+  canBuy: 1
+  gold: 0
+  rating: 240
+girlTShirtWhBraids:
+  canBuy: 1
+  gold: 0
+  rating: 200
+girlTShrtCslFr:
+  canBuy: 1
+  gold: 200
+  rating: 556
+girlTShrtCslScndnv:
+  canBuy: 1
+  gold: 350
+  rating: 972
+girlTShrtGrdnr:
+  canBuy: 1
+  rating: 75
+  silver: 7500
+girlTSirtCreamSV19BL:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+girlTSirtCreamSV19Gr:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+girlTSirtCreamSV19P:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+girlTSirtLipsSV19Gr:
+  canBuy: 1
+  gold: 0
+  rating: 1944
+girlTSirtLipsSV19P:
+  canBuy: 1
+  gold: 0
+  rating: 1944
+girlTSirtLipsSV19W:
+  canBuy: 1
+  gold: 0
+  rating: 1944
+girlTSirtLushesSV19Bl:
+  canBuy: 1
+  gold: 0
+  rating: 1944
+girlTSirtLushesSV19Gr:
+  canBuy: 1
+  gold: 0
+  rating: 1944
+girlTSirtLushesSV19P:
+  canBuy: 1
+  gold: 0
+  rating: 1944
+girlTSirtWatermelonSV19Be:
+  canBuy: 1
+  gold: 0
+  rating: 5832
+girlTSirtWatermelonSV19Bl:
+  canBuy: 1
+  gold: 0
+  rating: 5832
+girlTSirtWatermelonSV19Gr:
+  canBuy: 1
+  gold: 0
+  rating: 5832
+girlTailCatBl:
+  canBuy: 1
+  gold: 0
+  rating: 1166
+girlTailPanter:
+  canBuy: 1
+  gold: 0
+  rating: 1166
+girlTailRabbit:
+  canBuy: 1
+  gold: 0
+  rating: 1166
+girlTailWolf:
+  canBuy: 1
+  gold: 0
+  rating: 1166
+girlTail_catstyle_bk:
+  canBuy: 1
+  gold: 99
+  rating: 275
+girlTail_catstyle_o:
+  canBuy: 1
+  gold: 99
+  rating: 275
+girlTail_catstyle_w:
+  canBuy: 1
+  gold: 99
+  rating: 275
+girlTails_hallcat:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+girlTatooSpring2014Stars:
+  canBuy: 1
+  gold: 503
+  rating: 1399
+girlTattoo_neonbird_ble:
+  canBuy: 1
+  gold: 192
+  rating: 533
+girlTattoo_neonbird_o:
+  canBuy: 1
+  gold: 0
+  rating: 533
+girlTattoo_neonbird_p:
+  canBuy: 1
+  gold: 0
+  rating: 533
+girlTattoo_rudegirl:
+  canBuy: 1
+  gold: 0
+  rating: 2022
+girlTattoosbutterfly:
+  canBuy: 1
+  gold: 0
+  rating: 1398
+girlTattooshand:
+  canBuy: 1
+  gold: 0
+  rating: 1000
+girlTattooslotus:
+  canBuy: 1
+  gold: 0
+  rating: 1398
+girlTattoosrose:
+  canBuy: 1
+  gold: 0
+  rating: 1998
+girlTattoostribal1:
+  canBuy: 1
+  gold: 0
+  rating: 600
+girlTattoostribal2:
+  canBuy: 1
+  gold: 0
+  rating: 800
+girlTghtsCslFr:
+  canBuy: 1
+  gold: 50
+  rating: 139
+girlThxGDBracelet:
+  canBuy: 1
+  gold: 20
+  rating: 56
+girlThxGDBracers:
+  canBuy: 1
+  gold: 20
+  rating: 56
+girlThxGDDress:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+girlThxGDDressCook:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 40000
+girlThxGDDressRedskin:
+  canBuy: 1
+  gold: 200
+  rating: 556
+  silver: 0
+girlThxGDEarnings2:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+girlThxGDEarningsRedskin:
+  canBuy: 1
+  gold: 100
+  rating: 278
+  silver: 0
+girlThxGDEarrings:
+  canBuy: 1
+  gold: 50
+  rating: 139
+  silver: 0
+girlThxGDHat:
+  canBuy: 1
+  gold: 20
+  rating: 56
+girlThxGDHatCook:
+  canBuy: 1
+  gold: 0
+  rating: 100
+  silver: 10000
+girlThxGDHatRedskin:
+  canBuy: 1
+  gold: 75
+  rating: 208
+girlThxGDNecklace:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+girlThxGDNecklaceRedskin:
+  canBuy: 1
+  gold: 75
+  rating: 208
+girlThxGDPants:
+  canBuy: 1
+  rating: 350
+  silver: 35000
+girlThxGDPinCook:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+girlThxGDPntRedskin:
+  canBuy: 1
+  gold: 55
+  rating: 139
+girlThxGDShoes:
+  canBuy: 1
+  gold: 50
+  rating: 139
+  silver: 0
+girlThxGDShoes2:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+girlThxGDShoesRedskin:
+  canBuy: 1
+  gold: 50
+  rating: 139
+girlThxGDShsCook:
+  canBuy: 1
+  gold: 300
+  rating: 833
+girlThxGDTShirt:
+  canBuy: 1
+  gold: 0
+  rating: 500
+  silver: 50000
+girlTiara1:
+  canBuy: 1
+  gold: 80
+  rating: 215
+girlTiara2:
+  canBuy: 1
+  gold: 55
+  rating: 145
+girlTiara3:
+  canBuy: 1
+  rating: 105
+  silver: 12000
+girlTiara4:
+  canBuy: 1
+  gold: 45
+  rating: 115
+girlTiara5:
+  canBuy: 1
+  rating: 70
+  silver: 7500
+girlTiaraAcsSnegurka_r:
+  canBuy: 1
+  gold: 0
+  rating: 1
+girlTiara_indsmr:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlTiaras_arist_g:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+girlTiaras_arist_r:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlTiaras_arist_v:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+girlTiaras_arist_y:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+girlTiaras_cutebat:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlTiaras_dduke:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlTiaras_hallbat:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+girlTiaras_hallcat:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlTiaras_hallrvn:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+girlTiaras_muerta:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlTiaras_vsc:
+  canBuy: 1
+  gold: 80
+  rating: 222
+girlTopArmy:
+  canBuy: 1
+  gold: 52
+  rating: 144
+girlTopZaglushka:
+  canBuy: 1
+  gold: 999
+  rating: 1
+girlUnd1:
+  canBuy: 1
+  gold: 8
+  rating: 14
+girlUnd2:
+  canBuy: 1
+  rating: 11
+  silver: 1100
+girlUnd3:
+  canBuy: 1
+  rating: 8
+  silver: 850
+girlUnd4:
+  canBuy: 1
+  rating: 9
+  silver: 950
+girlUnd5:
+  canBuy: 1
+  rating: 9
+  silver: 900
+girlUnd6:
+  canBuy: 1
+  rating: 8
+  silver: 835
+girlUnd7:
+  canBuy: 1
+  gold: 320
+  rating: 889
+girlUnd8:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+girlUnd9:
+  canBuy: 1
+  rating: 9
+  silver: 900
+girlUnderTowelR:
+  canBuy: 1
+  gold: 40
+  rating: 111
+girlUnderdress1:
+  canBuy: 1
+girlUnderdress2:
+  canBuy: 1
+girlUnderwear_xmas:
+  canBuy: 1
+  gold: 120
+  rating: 333
+girlVestbikerbl:
+  canBuy: 1
+  rating: 4196
+  silver: 9900
+girlVestbikerbr:
+  canBuy: 1
+  gold: 0
+  rating: 4196
+girlVests_bigcity:
+  canBuy: 1
+  gold: 280
+  rating: 778
+girlVstCwby:
+  canBuy: 1
+  rating: 150
+  silver: 15000
+girlWdnDrs1:
+  canBuy: 1
+  rating: 150
+  silver: 15000
+girlWdnDrs2:
+  canBuy: 1
+  rating: 95
+  silver: 9500
+girlWdnDrs3:
+  canBuy: 1
+  gold: 40
+  rating: 100
+girlWdnDrs4:
+  canBuy: 1
+  gold: 70
+  rating: 175
+girlWdnGlvs1:
+  canBuy: 1
+  gold: 18
+  rating: 36
+  silver: 0
+girlWdnShs1:
+  canBuy: 1
+  rating: 25
+  silver: 2500
+girlWigs_gthlol:
+  canBuy: 1
+  gold: 5121
+  rating: 14224
+girlWigs_scaryclown:
+  canBuy: 1
+  gold: 560
+  rating: 1556
+girlWings_gthlol_bk_p:
+  canBuy: 1
+  gold: 1920
+  rating: 5334
+girlWings_gthlol_dr_p:
+  canBuy: 1
+  gold: 1920
+  rating: 5334
+girlWings_gthlol_v_bk:
+  canBuy: 1
+  gold: 1920
+  rating: 5334
+girlWings_hallbat:
+  canBuy: 1
+  gold: 3840
+  rating: 10668
+girlWings_hallrvn:
+  canBuy: 1
+  gold: 3840
+  rating: 10668
+girlWings_lovegorgoyle:
+  canBuy: 1
+  gold: 1920
+  rating: 5334
+girlWingsangelcn:
+  canBuy: 1
+  gold: 1920
+  rating: 5333
+girlWingsangelv:
+  canBuy: 1
+  gold: 399
+  rating: 5333
+girlWingsangelw:
+  canBuy: 1
+  gold: 1920
+  rating: 5333
+girlWingsbatble:
+  canBuy: 1
+  gold: 3200
+  rating: 8889
+girlWingsbatr:
+  canBuy: 1
+  gold: 3200
+  rating: 8889
+girlWingsbatv:
+  canBuy: 1
+  gold: 3200
+  rating: 8889
+girlWingsbutterflyble:
+  canBuy: 1
+  gold: 2560
+  rating: 7111
+girlWingsbutterflyg:
+  canBuy: 1
+  gold: 0
+  rating: 7111
+girlWingsbutterflyo:
+  canBuy: 1
+  gold: 2559
+  rating: 7111
+girlWizHat:
+  canBuy: 1
+  gold: 0
+  rating: 200
+girlWizMgc:
+  canBuy: 1
+  gold: 144
+  rating: 400
+girlWizSuit:
+  canBuy: 1
+  gold: 0
+  rating: 800
+girlWntrScarf1:
+  canBuy: 1
+  gold: 15
+  rating: 30
+girlWntrScarf2:
+  canBuy: 1
+  rating: 20
+  silver: 2500
+girlWntrStck1:
+  canBuy: 1
+  rating: 22
+  silver: 2200
+grlFb23Hat:
+  canBuy: 1
+  rating: 127
+  silver: 20000
+grlFb23Jck:
+  canBuy: 1
+  gold: 0
+  rating: 350
+  silver: 35000
+grlFb23Pdt:
+  canBuy: 1
+  gold: 0
+  rating: 100
+  silver: 10000
+grlFb23Shrt:
+  canBuy: 1
+  gold: 0
+  rating: 350
+  silver: 35000
+grlFb23Shs:
+  canBuy: 1
+  gold: 0
+  rating: 50
+  silver: 5000
+grlFb23Tght:
+  canBuy: 1
+  rating: 100
+  silver: 10000
+grlFb23Tsht:
+  canBuy: 1
+  gold: 0
+  rating: 350
+  silver: 35000
+grlMssCrwn:
+  canBuy: 1
+  gold: 9999
+  rating: 2500
+  silver: 0
+grlMssRbn:
+  canBuy: 1
+  gold: 9999
+  rating: 2500
+  silver: 0
+grlNY14Crown:
+  canBuy: 1
+  gold: 150
+  rating: 417
+grlNY14Drss:
+  canBuy: 1
+  gold: 185
+  rating: 514
+grlNY14Errngs:
+  canBuy: 1
+  gold: 65
+  rating: 181
+grlNY14Gss:
+  canBuy: 1
+  gold: 50
+  rating: 139
+grlNY14Mtns:
+  canBuy: 1
+  gold: 25
+  rating: 69
+grlNY14Rim:
+  canBuy: 1
+  gold: 95
+  rating: 264
+grlNY14Shs:
+  canBuy: 1
+  gold: 75
+  rating: 208
+grlNY18Drss:
+  canBuy: 1
+  gold: 399
+  rating: 250
+grlNY18Drss1:
+  canBuy: 1
+  gold: 399
+  rating: 250
+grlSV14Drss:
+  canBuy: 1
+  gold: 0
+  rating: 972
+grlSV14Errngs:
+  canBuy: 1
+  rating: 553
+  silver: 0
+grlSV14Nck:
+  canBuy: 1
+  gold: 0
+  rating: 553
+grlSV14Nimb:
+  canBuy: 1
+  gold: 0
+  rating: 300
+grlSV14Shs:
+  canBuy: 1
+  gold: 0
+  rating: 139
+grlSV14Stck:
+  canBuy: 1
+  gold: 0
+  rating: 275
+grlSV14rim:
+  canBuy: 1
+  gold: 0
+  rating: 139

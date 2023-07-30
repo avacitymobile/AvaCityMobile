@@ -1,0 +1,9937 @@
+BoyFaces_dummy_bl:
+  canBuy: 1
+  gold: 0
+  rating: 1244
+BoyFaces_dummy_ble:
+  canBuy: 1
+  gold: 0
+  rating: 1244
+BoyFaces_dummy_lips:
+  canBuy: 1
+  gold: 0
+  rating: 1244
+BoyFaces_dummy_moustache:
+  canBuy: 1
+  gold: 448
+  rating: 1244
+BoyFaces_dummy_p:
+  canBuy: 1
+  gold: 0
+  rating: 1244
+BoyFaces_lovegorgoyle:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+  silver: 0
+BoyGlasses_korwahaii_ble:
+  canBuy: 1
+  gold: 56
+  rating: 156
+BoyGlasses_korwahaii_br:
+  canBuy: 1
+  gold: 56
+  rating: 156
+BoyGlasses_korwahaii_w:
+  canBuy: 1
+  gold: 56
+  rating: 156
+BoyGlasses_menbl_bl:
+  canBuy: 1
+  gold: 758
+  rating: 2106
+BoyGlasses_schlday:
+  canBuy: 1
+  gold: 100
+  rating: 277
+BoyGlasses_schuni_bk:
+  canBuy: 1
+  gold: 0
+  rating: 889
+BoyGlasses_schuni_bk_ble:
+  canBuy: 1
+  gold: 0
+  rating: 889
+BoyGlasses_schuni_bk_y:
+  canBuy: 1
+  gold: 0
+  rating: 889
+BoyHats_angel19:
+  canBuy: 1
+  gold: 40
+  rating: 111
+BoyHats_bear_br:
+  canBuy: 1
+  gold: 864
+  rating: 2400
+BoyHats_giraffe_o:
+  canBuy: 1
+  gold: 0
+  rating: 2400
+BoyHats_lion_y:
+  canBuy: 1
+  gold: 0
+  rating: 2400
+BoyHats_phones_chill_bk:
+  canBuy: 1
+  gold: 320
+  rating: 889
+BoyHats_phones_chill_v:
+  canBuy: 1
+  gold: 320
+  rating: 889
+BoyHats_phones_chill_w:
+  canBuy: 1
+  gold: 320
+  rating: 889
+BoyHats_rabbit_gr:
+  canBuy: 1
+  gold: 0
+  rating: 2400
+BoyHats_unicook:
+  canBuy: 1
+  gold: 0
+BoyHats_unicorne_p:
+  canBuy: 1
+  gold: 0
+  rating: 2400
+BoyHelmet_Yachts_bl:
+  canBuy: 1
+  gold: 0
+  rating: 7020
+BoyHelmet_Yachts_lbe:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+BoyHelmet_Yachts_w:
+  canBuy: 1
+  gold: 320
+  rating: 5265
+BoyHelmet_curls_lovegorgoyle:
+  canBuy: 1
+  gold: 3840
+  rating: 10668
+BoyHelmets_Baseballs_bl:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+BoyHelmets_Baseballs_r:
+  canBuy: 1
+  gold: 0
+  rating: 3159
+BoyHelmets_Baseballs_w:
+  canBuy: 1
+  gold: 0
+  rating: 3335
+BoyHelmets_blackman:
+  canBuy: 1
+  gold: 80
+  rating: 222
+BoyJacket_Seul_gr:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+BoyJacket_Yachts_bl:
+  canBuy: 1
+  gold: 0
+  rating: 8775
+BoyJacket_Yachts_lbe:
+  canBuy: 1
+  gold: 0
+  rating: 7020
+BoyJacket_Yachts_w:
+  canBuy: 1
+  gold: 0
+  rating: 7020
+BoyJacket_anime2_bl:
+  canBuy: 1
+  gold: 0
+  rating: 8000
+BoyJacket_anime2_br:
+  canBuy: 1
+  gold: 0
+  rating: 7467
+BoyJacket_sept19_ble:
+  canBuy: 1
+  gold: 240
+  rating: 666
+BoyJacket_tkstdnt_ble:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+BoyJacket_tkstdnt_r:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+BoyJacket_tkstdnt_w:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+BoyJackets_anime_offer:
+  canBuy: 1
+  gold: 0
+  rating: 777
+BoyJackets_blackman:
+  canBuy: 1
+  gold: 320
+  rating: 889
+BoyJackets_campus_ble:
+  canBuy: 1
+  gold: 1664
+  rating: 4623
+BoyJackets_campus_g:
+  canBuy: 1
+  gold: 1664
+  rating: 4623
+BoyJackets_campus_haki:
+  canBuy: 1
+  gold: 0
+  rating: 4623
+BoyJackets_chill_g_bk:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+BoyJackets_chill_w_bk:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+BoyJackets_chill_w_y:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+BoyJackets_geek_g:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+BoyJackets_geek_r:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+BoyJackets_geek_w:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+BoyJackets_harlem_bl:
+  canBuy: 1
+  gold: 320
+  rating: 6143
+BoyJackets_harlem_g:
+  canBuy: 1
+  gold: 6143
+  rating: 6143
+BoyJackets_harlem_w:
+  canBuy: 1
+  gold: 320
+  rating: 7020
+BoyJackets_ncgy_br:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+BoyJackets_ncgy_dr:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+BoyJackets_ncgy_gr:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+BoyMask_ordinary:
+  canBuy: 1
+  gold: 100
+  rating: 277
+BoyNecklace_Hawaii:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+BoyNecklace_funnyguy:
+  canBuy: 1
+  gold: 40
+  rating: 111
+BoyOther_Swimming_Donut:
+  canBuy: 1
+  gold: 0
+  rating: 4037
+BoyOther_Swimming_Duck:
+  canBuy: 1
+  gold: 0
+  rating: 4037
+BoyOther_Swimming_Unicorn:
+  canBuy: 1
+  gold: 0
+  rating: 4739
+BoyOther_Swimming_Watermelon:
+  canBuy: 1
+  gold: 0
+  rating: 1755
+BoyOther_campus_backpack:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+BoyOther_clddays_bk:
+  canBuy: 1
+  gold: 24
+  rating: 67
+BoyOther_clddays_gr:
+  canBuy: 1
+  gold: 24
+  rating: 67
+BoyOther_clddays_r:
+  canBuy: 1
+  gold: 24
+  rating: 67
+BoyOther_fashionsport:
+  canBuy: 1
+  gold: 180
+  rating: 500
+BoyOther_legbnd_geek_ble:
+  canBuy: 1
+  gold: 0
+  rating: 889
+BoyOther_legbnd_geek_g:
+  canBuy: 1
+  gold: 0
+  rating: 889
+BoyOther_legbnd_geek_o:
+  canBuy: 1
+  gold: 320
+  rating: 889
+BoyOther_schtime_bag:
+  canBuy: 1
+  gold: 40
+  rating: 333
+BoyOther_schtime_bk:
+  canBuy: 1
+  gold: 40
+  rating: 111
+BoyOther_schtime_dr:
+  canBuy: 1
+  gold: 40
+  rating: 111
+BoyPants_Gott_bl:
+  canBuy: 1
+  gold: 0
+  rating: 11232
+BoyPants_Gott_dbe:
+  canBuy: 1
+  gold: 0
+  rating: 10179
+BoyPants_Gott_dr:
+  canBuy: 1
+  gold: 4044
+  rating: 11232
+BoyPants_Seul_gr:
+  canBuy: 1
+  gold: 200
+  rating: 556
+BoyPants_blackman:
+  canBuy: 1
+  gold: 200
+  rating: 556
+BoyPants_campus_bg:
+  canBuy: 1
+  gold: 2
+  rating: 3556
+BoyPants_campus_bk:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+BoyPants_campus_haki:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+BoyPants_casualsport_bk:
+  canBuy: 1
+  rating: 220
+  silver: 22000
+BoyPants_casualsport_g:
+  canBuy: 1
+  rating: 220
+  silver: 22000
+BoyPants_casualsport_gr:
+  canBuy: 1
+  rating: 220
+  silver: 22000
+BoyPants_chill_bk:
+  canBuy: 1
+  gold: 2
+  rating: 889
+BoyPants_chill_w:
+  canBuy: 1
+  gold: 64
+  rating: 178
+BoyPants_clddays_bk:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+BoyPants_clddays_ble:
+  canBuy: 1
+  rating: 176
+  silver: 19200
+BoyPants_clddays_br:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+BoyPants_coolschl_bk:
+  canBuy: 1
+  gold: 0
+  rating: 2311
+BoyPants_coolschl_ble:
+  canBuy: 1
+  gold: 0
+  rating: 2311
+BoyPants_coolschl_br:
+  canBuy: 1
+  gold: 0
+  rating: 2311
+BoyPants_fashionsport:
+  canBuy: 1
+  gold: 280
+  rating: 778
+BoyPants_geek_bk:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+BoyPants_geek_ble:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+BoyPants_gucciman_bk:
+  canBuy: 1
+  gold: 800
+  rating: 2223
+BoyPants_gucciman_br:
+  canBuy: 1
+  gold: 0
+  rating: 2223
+BoyPants_gucciman_dbl:
+  canBuy: 1
+  gold: 0
+  rating: 2223
+BoyPants_harlem_bl:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+BoyPants_harlem_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+BoyPants_harlem_g:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+BoyPants_jeans_look_bl:
+  canBuy: 1
+  gold: 2211
+  rating: 6143
+BoyPants_jeans_look_dble:
+  canBuy: 1
+  gold: 2211
+  rating: 6143
+BoyPants_jeans_look_lble:
+  canBuy: 1
+  gold: 0
+  rating: 6143
+BoyPants_schlboy_ble:
+  canBuy: 1
+  gold: 1216
+  rating: 3378
+BoyPants_schlboy_br:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+BoyPants_schlboy_w:
+  canBuy: 1
+  gold: 1216
+  rating: 3378
+BoyPants_sept19_br:
+  canBuy: 1
+  gold: 160
+  rating: 444
+BoyPants_tkstdnt_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+BoyPants_tkstdnt_r:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+BoyPants_tkstdnt_w:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+BoyPants_tornset_bk:
+  canBuy: 1
+  gold: 240
+  rating: 667
+BoyPants_tornset_ble:
+  canBuy: 1
+  gold: 0
+  rating: 256
+  silver: 25600
+BoyPants_tornset_r:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+BoyShirt_Havaii_lbe:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+BoyShirt_Havaii_o:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+BoyShirt_Havaii_r:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+BoyShirt_Seul_w:
+  canBuy: 1
+  gold: 256
+  rating: 711
+BoyShirt_Yachts_bl:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+BoyShirt_Yachts_dbe:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+BoyShirt_Yachts_w:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+BoyShirt_casualsport_bk:
+  canBuy: 1
+  rating: 180
+  silver: 18000
+BoyShirt_casualsport_w:
+  canBuy: 1
+  rating: 180
+  silver: 18000
+BoyShirt_casualsport_y:
+  canBuy: 1
+  rating: 180
+  silver: 18000
+BoyShirt_clddays_ble:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+BoyShirt_clddays_gr:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+BoyShirt_clddays_y:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+BoyShirt_coolschl_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+BoyShirt_coolschl_br:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+BoyShirt_coolschl_gr:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+BoyShirt_fashionsport:
+  canBuy: 1
+  gold: 320
+  rating: 889
+BoyShirt_korwahaii_bk:
+  canBuy: 1
+  gold: 99
+  rating: 275
+BoyShirt_korwahaii_r:
+  canBuy: 1
+  rating: 220
+  silver: 22000
+BoyShirt_korwahaii_w:
+  canBuy: 1
+  gold: 99
+  rating: 275
+BoyShirt_schlboy_bk:
+  canBuy: 1
+  gold: 0
+  rating: 2845
+BoyShirt_schlboy_gr:
+  canBuy: 1
+  gold: 0
+  rating: 2845
+BoyShirt_schlboy_v:
+  canBuy: 1
+  gold: 0
+  rating: 2845
+BoyShirt_sept19_r:
+  canBuy: 1
+  gold: 240
+  rating: 666
+BoyShirt_tkstdnt_bk:
+  canBuy: 1
+  rating: 2667
+  silver: 0
+BoyShirt_tkstdnt_ble:
+  canBuy: 1
+  rating: 2667
+  silver: 0
+BoyShirt_tkstdnt_w:
+  canBuy: 1
+  rating: 2667
+  silver: 0
+BoyShirt_tornset_bk:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+BoyShirt_tornset_ble:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+BoyShirt_tornset_r:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+BoyShirts_Gott_bl:
+  canBuy: 1
+  gold: 0
+  rating: 8424
+BoyShirts_Gott_dbe:
+  canBuy: 1
+  gold: 0
+  rating: 7722
+BoyShirts_Gott_dr:
+  canBuy: 1
+  gold: 3033
+  rating: 8424
+BoyShirts_Jamaica_be:
+  canBuy: 1
+  gold: 0
+  rating: 4739
+BoyShirts_Jamaica_br:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+BoyShirts_Jamaica_o:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+BoyShirts_NewYorker_bl:
+  canBuy: 1
+  gold: 200
+  rating: 556
+BoyShirts_NewYorker_gr:
+  canBuy: 1
+  rating: 300
+  silver: 30000
+BoyShirts_NewYorker_w:
+  canBuy: 1
+  gold: 200
+  rating: 556
+BoyShirts_campus_bk:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+BoyShirts_campus_dble:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+BoyShirts_campus_dg:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+BoyShirts_campus_dr:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+BoyShirts_chill_bk:
+  canBuy: 1
+  gold: 192
+  rating: 533
+BoyShirts_chill_v:
+  canBuy: 1
+  rating: 533
+  silver: 0
+BoyShirts_chill_w:
+  canBuy: 1
+  rating: 178
+  silver: 0
+BoyShirts_geek_bk:
+  canBuy: 1
+  gold: 630
+  rating: 1778
+BoyShirts_geek_ble:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+BoyShirts_geek_o:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+BoyShirts_gucciman_bg_g:
+  canBuy: 1
+  rating: 4890
+  silver: 0
+BoyShirts_gucciman_r_bk:
+  canBuy: 1
+  gold: 1760
+  rating: 4890
+BoyShirts_gucciman_w_bk:
+  canBuy: 1
+  gold: 1760
+  rating: 4890
+BoyShirts_harlem_bl:
+  canBuy: 1
+  gold: 1264
+  rating: 3510
+BoyShirts_harlem_gr:
+  canBuy: 1
+  gold: 0
+  rating: 2984
+BoyShirts_harlem_y:
+  canBuy: 1
+  gold: 0
+  rating: 2984
+BoyShirts_jeans_look_dble:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+BoyShirts_jeans_look_gr:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+BoyShirts_jeans_look_lble:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+BoyShirts_ncgy_bg:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+BoyShirts_ncgy_dr:
+  canBuy: 1
+  rating: 192
+  silver: 11520
+BoyShirts_ncgy_w:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+BoyShirts_unicook:
+  canBuy: 1
+  gold: 0
+BoyShoes_Gott_bl:
+  canBuy: 1
+  gold: 0
+  rating: 7722
+BoyShoes_Gott_dbe:
+  canBuy: 1
+  gold: 0
+  rating: 7020
+BoyShoes_Gott_dr:
+  canBuy: 1
+  gold: 2780
+  rating: 7722
+BoyShoes_Hawaii_be:
+  canBuy: 1
+  gold: 0
+  rating: 1229
+BoyShoes_Hawaii_bl:
+  canBuy: 1
+  gold: 0
+  rating: 1229
+BoyShoes_Hawaii_w:
+  canBuy: 1
+  gold: 0
+  rating: 1229
+BoyShoes_Jamaica_be:
+  canBuy: 1
+  gold: 0
+  rating: 3159
+BoyShoes_Jamaica_br:
+  canBuy: 1
+  gold: 0
+  rating: 3159
+BoyShoes_Jamaica_o:
+  canBuy: 1
+  gold: 0
+  rating: 3159
+BoyShoes_Seul_w:
+  canBuy: 1
+  gold: 160
+  rating: 444
+BoyShoes_Yachts_bl:
+  canBuy: 1
+  gold: 0
+  rating: 4739
+BoyShoes_Yachts_dbe:
+  canBuy: 1
+  gold: 0
+  rating: 4739
+BoyShoes_Yachts_w:
+  canBuy: 1
+  gold: 0
+  rating: 4739
+BoyShoes_anime_offer:
+  canBuy: 1
+  rating: 222
+  silver: 0
+BoyShoes_blackman:
+  canBuy: 1
+  gold: 100
+  rating: 278
+BoyShoes_campus_bk:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+BoyShoes_campus_ble:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+BoyShoes_campus_dr:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+BoyShoes_campus_g:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+BoyShoes_casualsport_bk:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+BoyShoes_casualsport_g:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+BoyShoes_casualsport_w:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+BoyShoes_chill_bk:
+  canBuy: 1
+  rating: 533
+  silver: 0
+BoyShoes_chill_v:
+  canBuy: 1
+  gold: 192
+  rating: 533
+BoyShoes_chill_w:
+  canBuy: 1
+  rating: 533
+  silver: 0
+BoyShoes_clddays_ble:
+  canBuy: 1
+  rating: 140
+  silver: 14000
+BoyShoes_clddays_br:
+  canBuy: 1
+  rating: 140
+  silver: 14000
+BoyShoes_clddays_gr:
+  canBuy: 1
+  rating: 140
+  silver: 14000
+BoyShoes_coolschl_bk:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+BoyShoes_coolschl_ble:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+BoyShoes_coolschl_gr:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+BoyShoes_fashionsport:
+  canBuy: 1
+  gold: 180
+  rating: 500
+BoyShoes_funnyguy:
+  canBuy: 1
+  gold: 160
+  rating: 444
+BoyShoes_geek_bk:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+BoyShoes_geek_ble:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+BoyShoes_geek_r:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+BoyShoes_gucciman_bk:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+BoyShoes_gucciman_r:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+BoyShoes_gucciman_w:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+BoyShoes_harlem_bl:
+  canBuy: 1
+  gold: 0
+  rating: 2633
+BoyShoes_harlem_ble:
+  canBuy: 1
+  gold: 1264
+  rating: 3510
+BoyShoes_harlem_br:
+  canBuy: 1
+  gold: 0
+  rating: 2633
+BoyShoes_jeans_look_bl:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+BoyShoes_jeans_look_ble:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+BoyShoes_jeans_look_dbr:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+BoyShoes_korwahaii_bk:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+BoyShoes_korwahaii_r:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+BoyShoes_korwahaii_w:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+BoyShoes_lovegorgoyle:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+  silver: 0
+BoyShoes_menbl_bl:
+  canBuy: 1
+  gold: 1516
+  rating: 4212
+BoyShoes_menbl_ble:
+  canBuy: 1
+  gold: 1453
+  rating: 4037
+BoyShoes_menbl_r:
+  canBuy: 1
+  gold: 1453
+  rating: 4037
+BoyShoes_schlboy_gr:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+BoyShoes_schlboy_v:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+BoyShoes_schlboy_w:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+BoyShoes_schuni_bg:
+  canBuy: 1
+  rating: 1334
+  silver: 0
+BoyShoes_schuni_ble:
+  canBuy: 1
+  rating: 1334
+  silver: 0
+BoyShoes_schuni_w:
+  canBuy: 1
+  rating: 1334
+  silver: 0
+BoyShoes_sept19:
+  canBuy: 1
+  gold: 160
+  rating: 444
+BoyShoes_suspenders_bl:
+  canBuy: 1
+  gold: 0
+  rating: 2633
+BoyShoes_suspenders_ble:
+  canBuy: 1
+  gold: 0
+  rating: 2633
+BoyShoes_suspenders_br:
+  canBuy: 1
+  gold: 0
+  rating: 2633
+BoyShoes_tornset_bk:
+  canBuy: 1
+  gold: 104
+  rating: 289
+BoyShoes_tornset_ble:
+  canBuy: 1
+  gold: 0
+  rating: 140
+  silver: 14000
+BoyShoes_tornset_br:
+  canBuy: 1
+  rating: 140
+  silver: 14000
+BoyShorts_Havaii_lbe:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+BoyShorts_Havaii_o:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+BoyShorts_Havaii_r:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+BoyShorts_Jamaica_be:
+  canBuy: 1
+  gold: 0
+  rating: 4739
+BoyShorts_Jamaica_br:
+  canBuy: 1
+  gold: 0
+  rating: 4739
+BoyShorts_Jamaica_o:
+  canBuy: 1
+  gold: 0
+  rating: 4739
+BoyShorts_NewYorker_bl:
+  canBuy: 1
+  gold: 224
+  rating: 622
+BoyShorts_NewYorker_gr:
+  canBuy: 1
+  gold: 0
+  rating: 280
+  silver: 28000
+BoyShorts_NewYorker_w:
+  canBuy: 1
+  gold: 224
+  rating: 622
+BoyShorts_Yachts_bl:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+BoyShorts_Yachts_dbe:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+BoyShorts_Yachts_w:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+BoyShorts_korwahaii_bk:
+  canBuy: 1
+  gold: 120
+  rating: 333
+BoyShorts_korwahaii_gr:
+  canBuy: 1
+  gold: 120
+  rating: 333
+BoyShorts_korwahaii_y:
+  canBuy: 1
+  rating: 180
+  silver: 18000
+BoyShorts_ncgy_bg:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+BoyShorts_ncgy_dr:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+BoyShorts_ncgy_gr:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+BoySocks_funnyguy:
+  canBuy: 1
+  gold: 40
+  rating: 111
+BoySuit_Baseballs_bl:
+  canBuy: 1
+  gold: 0
+  rating: 15795
+BoySuit_Baseballs_r:
+  canBuy: 1
+  gold: 0
+  rating: 15795
+BoySuit_Baseballs_w:
+  canBuy: 1
+  gold: 0
+  rating: 14040
+BoySuit_anime_offer:
+  canBuy: 1
+  gold: 0
+  rating: 600
+BoySuit_menbl_bl:
+  canBuy: 1
+  gold: 0
+  rating: 22815
+BoySuit_menbl_ble:
+  canBuy: 1
+  gold: 7582
+  rating: 21060
+BoySuit_menbl_r:
+  canBuy: 1
+  gold: 8213
+  rating: 22815
+BoySuits_funnyguy:
+  canBuy: 1
+  gold: 560
+  rating: 1556
+BoySuits_schuni_bg:
+  canBuy: 1
+  gold: 0
+  rating: 6223
+BoySuits_schuni_bk:
+  canBuy: 1
+  gold: 2240
+  rating: 6223
+BoySuits_schuni_ble:
+  canBuy: 1
+  gold: 0
+  rating: 6223
+BoySuits_suspenders_bl:
+  canBuy: 1
+  gold: 0
+  rating: 9653
+BoySuits_suspenders_gr:
+  canBuy: 1
+  gold: 0
+  rating: 9653
+BoySuits_suspenders_w:
+  canBuy: 1
+  gold: 3791
+  rating: 10530
+BoySwimsuit_colored_bl:
+  canBuy: 1
+  gold: 0
+  rating: 2633
+  silver: 0
+BoySwimsuit_colored_ble:
+  canBuy: 1
+  gold: 0
+  rating: 2633
+  silver: 0
+BoySwimsuit_colored_r:
+  canBuy: 1
+  gold: 0
+  rating: 2633
+  silver: 0
+BoySwimsuit_short_shorts_bl:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+  silver: 0
+BoySwimsuit_short_shorts_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+  silver: 0
+BoySwimsuit_short_shorts_boat:
+  canBuy: 1
+  gold: 0
+  rating: 3861
+  silver: 0
+BoySwimsuit_shorts_fl_bl:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+BoySwimsuit_shorts_fl_r:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+BoySwimsuit_shorts_fl_w:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+  silver: 0
+BoyWings_angel19:
+  canBuy: 1
+  gold: 40
+  rating: 111
+CapCafeCook:
+  canBuy: 1
+  gold: 0
+  rating: 0
+boyAVA1:
+  canBuy: 1
+  rating: 25
+  silver: 1500
+boyAVA2:
+  canBuy: 1
+  rating: 25
+  silver: 1500
+boyAVA3:
+  canBuy: 1
+  rating: 25
+  silver: 1500
+boyAVA4:
+  canBuy: 1
+  rating: 25
+  silver: 1500
+boyAVA5:
+  canBuy: 1
+  gold: 75
+  rating: 208
+boyAVABA:
+  canBuy: 1
+  gold: 0
+  rating: 158
+boyAVABlA:
+  canBuy: 1
+  gold: 0
+  rating: 158
+boyAVABlHeart:
+  canBuy: 1
+  gold: 0
+  rating: 100
+boyAVABlStar:
+  canBuy: 1
+  gold: 0
+  rating: 181
+boyAVABlueHeart:
+  canBuy: 1
+  gold: 0
+  rating: 100
+boyAVABrA:
+  canBuy: 1
+  gold: 0
+  rating: 158
+boyAVABrHeart:
+  canBuy: 1
+  gold: 0
+  rating: 100
+boyAVARStar:
+  canBuy: 1
+  gold: 0
+  rating: 181
+boyAVAWHeart:
+  canBuy: 1
+  gold: 0
+  rating: 100
+boyAVAWhA:
+  canBuy: 1
+  gold: 0
+  rating: 158
+boyAVAYelStar:
+  canBuy: 1
+  gold: 0
+  rating: 181
+boyAcsBouquetsFields:
+  canBuy: 1
+  gold: 0
+  rating: 3888
+boyAcsBouquetsGerbera:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+boyAcsBouquetsIris:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+boyAcsBouquetsRose:
+  canBuy: 1
+  gold: 0
+  rating: 15552
+boyAcsBouquetsRwroses:
+  canBuy: 1
+  gold: 5599
+  rating: 15552
+boyAcsFrecklesDBr:
+  canBuy: 1
+  gold: 6
+  rating: 18
+boyAcsFrecklesR:
+  canBuy: 1
+  gold: 6
+  rating: 16
+boyAcsHeadphoneNeckBe:
+  canBuy: 1
+  gold: 30
+  rating: 84
+boyAcsHeadphoneNeckG:
+  canBuy: 1
+  gold: 30
+  rating: 84
+boyAcsHeadphoneNeckR:
+  canBuy: 1
+  gold: 30
+  rating: 84
+boyAcsPatchBe:
+  canBuy: 1
+  gold: 7
+  rating: 20
+boyAcsPatchDBe:
+  canBuy: 1
+  gold: 7
+  rating: 20
+boyAcsPatchLi:
+  canBuy: 1
+  gold: 6
+  rating: 18
+boyAcsPatchR:
+  canBuy: 1
+  gold: 8
+  rating: 22
+boyAcsPatchRainb:
+  canBuy: 1
+  gold: 8
+  rating: 22
+boyAcsPatchW:
+  canBuy: 1
+  rating: 35
+  silver: 3520
+boyAcsScar:
+  canBuy: 1
+  gold: 12
+  rating: 33
+boyAcsSteampunkGun:
+  canBuy: 1
+  gold: 5599
+  rating: 15552
+boyAcsTattooHearts:
+  canBuy: 1
+  gold: 8
+  rating: 22
+boyAcsTattooTears:
+  canBuy: 1
+  rating: 25
+  silver: 2480
+boyAcsWatchBlGd:
+  canBuy: 1
+  gold: 12
+  rating: 33
+boyAcsWatchBrBl:
+  canBuy: 1
+  rating: 27
+  silver: 2720
+boyAcsWatchBrSi:
+  canBuy: 1
+  gold: 12
+  rating: 33
+boyAcsWatchSi:
+  canBuy: 1
+  gold: 20
+  rating: 56
+boyBackpack_voodoo:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyBackpkB:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyBackpkBR:
+  canBuy: 1
+  rating: 40
+  silver: 4000
+boyBackpkDBe:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyBackpkG:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+boyBadGuyGls:
+  canBuy: 1
+  gold: 40
+  rating: 200
+boyBadGuySuit:
+  canBuy: 1
+  gold: 400
+  rating: 1200
+boyBagHsptlTch:
+  canBuy: 1
+  gold: 0
+  rating: 400
+boyBagVsgst:
+  canBuy: 1
+  gold: 432
+  rating: 1200
+boyBag_casualwinter:
+  canBuy: 1
+  gold: 0
+  rating: 2311
+boyBag_slrst_ble_w:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyBag_slrst_v_w:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyBag_unicorn:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyBag_wintercandy:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyBag_wntrcl:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+boyBags_cutebat:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyBandana_alarm:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyBelt_gbstr:
+  canBuy: 1
+  gold: 0
+  rating: 2134
+boyBgScndv:
+  canBuy: 1
+  gold: 50
+  rating: 139
+  silver: 0
+boyBlJerkin:
+  canBuy: 1
+  gold: 0
+  rating: 280
+boyBlackJacketSummer2014:
+  canBuy: 1
+  gold: 560
+  rating: 8391
+boyBlackPantsSummer2014:
+  canBuy: 1
+  gold: 1367
+  rating: 3796
+boyBluePelerineSummer2014:
+  canBuy: 1
+  gold: 2301
+  rating: 6393
+boyBlueTShirtSummer2014:
+  canBuy: 1
+  gold: 1223
+  rating: 3396
+boyBootsBlueSoksSummer2014:
+  canBuy: 1
+  gold: 791
+  rating: 2197
+boyBootsEstNb:
+  canBuy: 1
+  gold: 288
+  rating: 800
+boyBootsEstNnj:
+  canBuy: 1
+  gold: 288
+  rating: 800
+boyBootsGrinch:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyBootsGrinchPink:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+boyBootsPank:
+  canBuy: 1
+  gold: 128
+  rating: 356
+boyBootsSummer2014:
+  canBuy: 1
+  gold: 0
+  rating: 1998
+boyBootsVsgst:
+  canBuy: 1
+  gold: 72
+  rating: 200
+boyBracelet80outfitbk:
+  canBuy: 1
+  gold: 12
+  rating: 33
+boyBracelet80outfitble:
+  canBuy: 1
+  gold: 12
+  rating: 33
+boyBracelet80outfitp:
+  canBuy: 1
+  gold: 12
+  rating: 33
+boyBraceletBkchain:
+  canBuy: 1
+  gold: 0
+  rating: 222
+boyBracelet_atmn2019_bk:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+boyBracelet_atmn2019_br:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+boyBraceletesPolicemansilver:
+  canBuy: 1
+  gold: 32
+  rating: 88
+boyBraceletesbadboybl:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+boyBraceletesbadboyv:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+boyBraceletesbadboyw:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+boyBsktGrdnr:
+  canBuy: 1
+  rating: 20
+  silver: 2000
+boyBtsGrdnr:
+  canBuy: 1
+  rating: 35
+  silver: 3500
+boyCameraPhoto:
+  canBuy: 1
+  gold: 0
+  rating: 519
+boyCandy1SV19:
+  canBuy: 1
+  gold: 0
+  rating: 778
+boyCandy2SV19:
+  canBuy: 1
+  gold: 279
+  rating: 778
+boyCandy3SV19:
+  canBuy: 1
+  gold: 279
+  rating: 778
+boyCandy4SV19:
+  canBuy: 1
+  gold: 0
+  rating: 778
+boyCandy5SV19:
+  canBuy: 1
+  gold: 0
+  rating: 778
+boyClearGlassesSummer2014:
+  canBuy: 1
+  gold: 0
+  rating: 2398
+boyCloakEstNb:
+  canBuy: 1
+  gold: 720
+  rating: 2000
+boyCloakKSV19:
+  canBuy: 1
+  gold: 6998
+  rating: 19440
+boyCltJckUsa1:
+  canBuy: 1
+  rating: 19
+  silver: 1900
+boyCltJckUsa2:
+  canBuy: 1
+  rating: 22
+  silver: 2200
+boyCltJckUsa3:
+  canBuy: 1
+  gold: 12
+  rating: 24
+boyCltJckUsa4:
+  canBuy: 1
+  gold: 10
+  rating: 20
+boyCltJckUsa5:
+  canBuy: 1
+  gold: 12
+  rating: 24
+boyCltPtsUsa1:
+  canBuy: 1
+  gold: 6
+  rating: 10
+boyCltPtsUsa2:
+  canBuy: 1
+  gold: 10
+  rating: 20
+boyCltPtsUsa3:
+  canBuy: 1
+  gold: 5
+  rating: 9
+boyCltPtsUsa4:
+  canBuy: 1
+  gold: 5
+  rating: 9
+boyCltPtsUsa5:
+  canBuy: 1
+  gold: 40
+  rating: 46
+boyCltPtsUsa6:
+  canBuy: 1
+  gold: 0
+  rating: 13
+  silver: 12000
+boyCltPtsUsa7:
+  canBuy: 1
+  gold: 5
+  rating: 9
+boyCltPtsUsa8:
+  canBuy: 1
+  gold: 14
+  rating: 28
+boyCltPtsUsa9:
+  canBuy: 1
+  rating: 18
+  silver: 1850
+boyCslFrnt:
+  canBuy: 1
+  gold: 200
+  rating: 556
+  silver: 0
+boyCtlBdn1:
+  canBuy: 1
+  gold: 17
+  rating: 34
+boyCtlBdn2:
+  canBuy: 1
+  gold: 22
+  rating: 48
+boyCtlBdn3:
+  canBuy: 1
+  gold: 19
+  rating: 38
+boyCtlGl1:
+  canBuy: 1
+  gold: 14
+  rating: 28
+  silver: 0
+boyCtlGl2:
+  canBuy: 1
+  gold: 65
+  rating: 85
+  silver: 0
+boyCtlGl3:
+  canBuy: 1
+  gold: 0
+  rating: 2197
+  silver: 0
+boyCtlHt1:
+  canBuy: 1
+  gold: 17
+  rating: 34
+boyCtlHt2:
+  canBuy: 1
+  gold: 20
+  rating: 44
+boyCtlHt3:
+  canBuy: 1
+  gold: 0
+  rating: 3796
+boyCtlJck1:
+  canBuy: 1
+  gold: 37
+  rating: 93
+boyCtlJck2:
+  canBuy: 1
+  gold: 36
+  rating: 90
+boyCtlJck3:
+  canBuy: 1
+  gold: 37
+  rating: 93
+boyCtlJck4:
+  canBuy: 1
+  gold: 24
+  rating: 53
+boyCtlJck5:
+  canBuy: 1
+  gold: 38
+  rating: 95
+boyCtlJck6:
+  canBuy: 1
+  gold: 14
+  rating: 28
+boyCtlJck7:
+  canBuy: 1
+  gold: 12
+  rating: 51
+boyCtlJck8:
+  canBuy: 1
+  gold: 0
+  rating: 5394
+boyCtlJck9:
+  canBuy: 1
+  gold: 1798
+  rating: 4995
+boyCtlPts1:
+  canBuy: 1
+  gold: 1007
+  rating: 2797
+boyCtlPts10:
+  canBuy: 1
+  gold: 65
+  rating: 75
+boyCtlPts11:
+  canBuy: 1
+  gold: 14
+  rating: 28
+boyCtlPts12:
+  canBuy: 1
+  gold: 21
+  rating: 46
+boyCtlPts13:
+  canBuy: 1
+  gold: 15
+  rating: 30
+boyCtlPts14:
+  canBuy: 1
+  gold: 14
+  rating: 28
+boyCtlPts2:
+  canBuy: 1
+  gold: 33
+  rating: 83
+boyCtlPts3:
+  canBuy: 1
+  gold: 0
+  rating: 3396
+boyCtlPts4:
+  canBuy: 1
+  gold: 18
+  rating: 36
+boyCtlPts5:
+  canBuy: 1
+  gold: 24
+  rating: 53
+boyCtlPts6:
+  canBuy: 1
+  gold: 22
+  rating: 57
+boyCtlPts7:
+  canBuy: 1
+  gold: 30
+  rating: 75
+boyCtlPts8:
+  canBuy: 1
+  gold: 21
+  rating: 46
+boyCtlPts9:
+  canBuy: 1
+  gold: 27
+  rating: 59
+boyCtlSh1:
+  canBuy: 1
+  gold: 35
+  rating: 46
+boyCtlSh10:
+  canBuy: 1
+  gold: 15
+  rating: 30
+boyCtlSh11:
+  canBuy: 1
+  gold: 16
+  rating: 32
+boyCtlSh12:
+  canBuy: 1
+  gold: 11
+  rating: 22
+boyCtlSh2:
+  canBuy: 1
+  gold: 12
+  rating: 24
+boyCtlSh3:
+  canBuy: 1
+  gold: 11
+  rating: 22
+boyCtlSh4:
+  canBuy: 1
+  gold: 4
+  rating: 7
+boyCtlSh5:
+  canBuy: 1
+  gold: 0
+  rating: 1198
+boyCtlSh6:
+  canBuy: 1
+  gold: 16
+  rating: 32
+boyCtlSh7:
+  canBuy: 1
+  gold: 18
+  rating: 36
+boyCtlSh8:
+  canBuy: 1
+  gold: 18
+  rating: 36
+boyCtlSh9:
+  canBuy: 1
+  gold: 16
+  rating: 32
+boyCtlShUsa1:
+  canBuy: 1
+  gold: 2
+  rating: 3
+boyCtlTsh1:
+  canBuy: 1
+  gold: 25
+  rating: 55
+boyCtlTsh10:
+  canBuy: 1
+  gold: 35
+  rating: 88
+boyCtlTsh11:
+  canBuy: 1
+  gold: 25
+  rating: 38
+boyCtlTsh12:
+  canBuy: 1
+  gold: 9
+  rating: 15
+boyCtlTsh13:
+  canBuy: 1
+  gold: 16
+  rating: 32
+boyCtlTsh2:
+  canBuy: 1
+  gold: 0
+  rating: 2797
+boyCtlTsh3:
+  canBuy: 1
+  gold: 16
+  rating: 32
+boyCtlTsh4:
+  canBuy: 1
+  gold: 12
+  rating: 24
+boyCtlTsh5:
+  canBuy: 1
+  gold: 15
+  rating: 30
+boyCtlTsh6:
+  canBuy: 1
+  gold: 19
+  rating: 38
+boyCtlTsh7:
+  canBuy: 1
+  gold: 0
+  rating: 1598
+boyCtlTsh8:
+  canBuy: 1
+  gold: 30
+  rating: 75
+boyCtlTsh9:
+  canBuy: 1
+  gold: 27
+  rating: 59
+boyCtlTshUsa1:
+  canBuy: 1
+  gold: 0
+  rating: 16
+  silver: 15000
+boyCtlTshUsa2:
+  canBuy: 1
+  gold: 10
+  rating: 20
+boyCtlTshUsa3:
+  canBuy: 1
+  gold: 6
+  rating: 10
+boyCtlTshUsa4:
+  canBuy: 1
+  gold: 8
+  rating: 14
+boyCtlTshUsa5:
+  canBuy: 1
+  gold: 11
+  rating: 22
+boyCtlTshUsa6:
+  canBuy: 1
+  gold: 9
+  rating: 15
+boyCtlTshUsa7:
+  canBuy: 1
+  gold: 9
+  rating: 15
+boyCtlTshUsa8:
+  canBuy: 1
+  rating: 7
+  silver: 750
+boyCtlTto1:
+  canBuy: 1
+  gold: 50
+  rating: 139
+boyCtlWtch1:
+  canBuy: 1
+  gold: 15
+  rating: 30
+boyCtlWtch2:
+  canBuy: 1
+  gold: 5
+  rating: 10
+boyDcAcs:
+  canBuy: 1
+  gold: 0
+  rating: 600
+boyDcDress:
+  canBuy: 1
+  gold: 0
+  rating: 1319
+boyDcGlasses:
+  canBuy: 1
+  gold: 0
+  rating: 81
+boyDcHat:
+  canBuy: 1
+  gold: 0
+  rating: 100
+boyDeadpoolmanbody:
+  canBuy: 1
+  gold: 13997
+  rating: 38880
+boyDeadpoolmanboots:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+boyDeadpoolmangloves:
+  canBuy: 1
+  gold: 1819
+  rating: 5054
+boyDeadpoolmanhood:
+  canBuy: 1
+  gold: 0
+  rating: 19440
+boyDeadpoolmanhood2:
+  canBuy: 1
+  gold: 6998
+  rating: 19440
+boyDeadpoolmanswords:
+  canBuy: 1
+  gold: 11197
+  rating: 31104
+boyDecor1:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 200
+boyDecor10:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+boyDecor11:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 300
+boyDecor12:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+boyDecor13:
+  canBuy: 1
+  rating: 1
+  silver: 115
+boyDecor14:
+  canBuy: 1
+  gold: 1
+  rating: 2
+boyDecor15:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 220
+boyDecor16:
+  canBuy: 1
+  rating: 1
+  silver: 85
+boyDecor17:
+  canBuy: 1
+  rating: 1
+  silver: 90
+boyDecor18:
+  canBuy: 1
+  rating: 2
+  silver: 200
+boyDecor19:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+boyDecor2:
+  canBuy: 1
+  gold: 3
+  rating: 5
+  silver: 0
+boyDecor20:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+boyDecor21:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 230
+boyDecor22:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 145
+boyDecor23:
+  canBuy: 1
+  gold: 4
+  rating: 6
+boyDecor24:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+boyDecor25:
+  canBuy: 1
+  gold: 14
+  rating: 28
+  silver: 0
+boyDecor26:
+  canBuy: 1
+  gold: 10
+  rating: 20
+  silver: 0
+boyDecor27:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+boyDecor3:
+  canBuy: 1
+  gold: 2
+  rating: 3
+  silver: 0
+boyDecor4:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 65
+boyDecor5:
+  canBuy: 1
+  rating: 1
+  silver: 100
+boyDecor6:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+boyDecor7:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+boyDecor8:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 380
+boyDecor9:
+  canBuy: 1
+  gold: 4
+  rating: 6
+  silver: 0
+boyDecorRabbitAcs:
+  canBuy: 1
+  gold: 0
+  rating: 3500
+boyDressCoatCargo:
+  canBuy: 1
+  gold: 250
+  rating: 693
+boyDressCoatDbe:
+  canBuy: 1
+  gold: 230
+  rating: 638
+boyDressCoatLbe:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+boyDressCoatYe:
+  canBuy: 1
+  gold: 230
+  rating: 638
+boyDressThlBl:
+  canBuy: 1
+  gold: 7777
+  rating: 38880
+boyDressThlWh:
+  canBuy: 1
+  gold: 7777
+  rating: 38880
+boyEarings_splashlight:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyEarringsCross:
+  canBuy: 1
+  gold: 14
+  rating: 40
+boyEarringsFang:
+  canBuy: 1
+  gold: 14
+  rating: 40
+boyEarringsHorns:
+  canBuy: 1
+  gold: 23
+  rating: 64
+boyEarringsSpike:
+  canBuy: 1
+  gold: 23
+  rating: 64
+boyEarringsTunnel:
+  canBuy: 1
+  rating: 26
+  silver: 2640
+boyEarringsZipped:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyEarrings_frrblck_gr:
+  canBuy: 1
+  gold: 48
+  rating: 133
+boyEarrings_frrblck_y:
+  canBuy: 1
+  gold: 48
+  rating: 133
+boyEarringsbikerbl:
+  canBuy: 1
+  gold: 0
+  rating: 2198
+boyEarringsbikersilver:
+  canBuy: 1
+  gold: 0
+  rating: 1998
+boyFaces_bk_kawaii:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyFaces_bk_redcross:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyFaces_bk_tng:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyFaces_bk_tooth:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyFaces_koreanclassic:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+boyFaces_muerto:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+boyFaces_scarydoll:
+  canBuy: 1
+  gold: 0
+  rating: 333
+  silver: 0
+boyFaces_w_rus:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+boyFacesmaskbear:
+  canBuy: 1
+  gold: 18
+  rating: 50
+boyFacesmaskmoustache:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+boyFacesmaskteeth:
+  canBuy: 1
+  gold: 64
+  rating: 178
+boyFacesmasktongue:
+  canBuy: 1
+  gold: 18
+  rating: 50
+boyFb23Clk:
+  canBuy: 1
+  rating: 350
+  silver: 35000
+boyFb23Hat:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+boyFb23Jck:
+  canBuy: 1
+  gold: 0
+  rating: 100
+  silver: 10000
+boyFb23Pdt:
+  canBuy: 1
+  rating: 350
+  silver: 35000
+boyFb23Pts:
+  canBuy: 1
+  gold: 0
+  rating: 100
+  silver: 10000
+boyFb23Shs:
+  canBuy: 1
+  gold: 0
+  rating: 50
+  silver: 5000
+boyFb23Tsht:
+  canBuy: 1
+  gold: 0
+  rating: 350
+  silver: 35000
+boyGlBoxBE:
+  canBuy: 1
+  rating: 42
+  silver: 4200
+boyGlBoxBL:
+  canBuy: 1
+  rating: 42
+  silver: 4200
+boyGlBoxR:
+  canBuy: 1
+  rating: 42
+  silver: 4200
+boyGlasChemis:
+  canBuy: 1
+  gold: 72
+  rating: 200
+boyGlassesAviatorR:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyGlassesAviatorbl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyGlassesAviatorble:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyGlassesEvngln:
+  canBuy: 1
+  gold: 0
+  rating: 1200
+boyGlassesHsptlTch:
+  canBuy: 1
+  gold: 0
+  rating: 80
+boyGlassesPank:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyGlassesPoliceman:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyGlassesRoundbr:
+  canBuy: 1
+  gold: 128
+  rating: 355
+boyGlassesRoundg:
+  canBuy: 1
+  gold: 104
+  rating: 288
+boyGlassesRoundgr:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyGlassesSteamPunk:
+  canBuy: 1
+  gold: 4199
+  rating: 11664
+boyGlassesVsgst:
+  canBuy: 1
+  gold: 29
+  rating: 80
+boyGlasses_alarm:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyGlasses_clever:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyGlasses_dsc:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyGlasses_gbstr:
+  canBuy: 1
+  gold: 0
+  rating: 2223
+boyGlasses_hgfshn:
+  canBuy: 1
+  gold: 64
+  rating: 178
+boyGlasses_lavaset_bandana:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyGlasses_pixel:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyGlasses_wfall:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyGlasses_xmastree:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyGlassesbandanabl:
+  canBuy: 1
+  gold: 791
+  rating: 2198
+boyGlassesbandanable:
+  canBuy: 1
+  gold: 719
+  rating: 1998
+boyGlassesbandanar:
+  canBuy: 1
+  gold: 719
+  rating: 1998
+boyGlassesgpblack:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyGlassespartymang:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+boyGlassespartymanr:
+  canBuy: 1
+  gold: 512
+  rating: 1422
+boyGlassespartymany:
+  canBuy: 1
+  rating: 1422
+  silver: 51200
+boyGlassesstreetbl:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+boyGlassesstreetgd:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+boyGlassesstreetsi:
+  canBuy: 1
+  gold: 896
+  rating: 2489
+boyGlassqusble:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyGlassqusgr:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyGlovChemis:
+  canBuy: 1
+  gold: 0
+  rating: 200
+boyGlovesAcsBigBl:
+  canBuy: 1
+  gold: 0
+  rating: 200
+boyGlovesAcsBigBr:
+  canBuy: 1
+  gold: 0
+  rating: 240
+boyGlovesAcsSmBl:
+  canBuy: 1
+  gold: 0
+  rating: 200
+boyGlovesAcsSmBr:
+  canBuy: 1
+  gold: 0
+  rating: 240
+boyGlovesEstNnj:
+  canBuy: 1
+  gold: 144
+  rating: 400
+boyGlovesSteamPunk:
+  canBuy: 1
+  gold: 1400
+  rating: 3888
+boyGlovesThlBl:
+  canBuy: 1
+  gold: 1555
+  rating: 7776
+boyGlovesThlWh:
+  canBuy: 1
+  gold: 1555
+  rating: 7776
+boyGloves_catfur_icon:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyGloves_catstyle_bk:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyGloves_catstyle_o:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyGloves_catstyle_w:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyGloves_gang_bk:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyGloves_gang_br:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyGloves_jd_beg:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+boyGloves_jd_blk:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+boyGloves_jd_br:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+boyGloves_pureelegance_bk:
+  canBuy: 1
+  rating: 711
+  silver: 0
+boyGloves_pureelegance_ble:
+  canBuy: 1
+  rating: 711
+  silver: 0
+boyGloves_pureelegance_r:
+  canBuy: 1
+  rating: 711
+  silver: 0
+boyGloves_xmsdr:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyGlovesbikerbl:
+  canBuy: 1
+  gold: 0
+  rating: 1398
+boyGlovesbikerble:
+  canBuy: 1
+  gold: 0
+  rating: 1198
+boyGlovescapbr:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+boyGlovescapr:
+  canBuy: 1
+  gold: 399
+  rating: 1778
+boyGlovesironmanbl:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+boyGlovesironmanr:
+  canBuy: 1
+  gold: 2560
+  rating: 7111
+boyGloveskigurumirabbit:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+boyGlovesmstarvampirebl:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+boyGlovesmstarvampirer:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+boyGlovesmstarvampirew:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+boyGlsDj:
+  canBuy: 1
+  rating: 56
+  silver: 5600
+boyGlvArmy:
+  canBuy: 1
+  gold: 32
+  rating: 89
+boyGrJerkin:
+  canBuy: 1
+  gold: 0
+  rating: 280
+boyHairEstNbl:
+  canBuy: 1
+  gold: 288
+  rating: 800
+boyHat80outfitbk:
+  canBuy: 1
+  gold: 24
+  rating: 67
+boyHat80outfitble:
+  canBuy: 1
+  gold: 24
+  rating: 67
+boyHat80outfitp:
+  canBuy: 1
+  gold: 24
+  rating: 67
+boyHatArmy:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyHatDeerBe:
+  canBuy: 1
+  gold: 20
+  rating: 56
+boyHatDeerG:
+  canBuy: 1
+  gold: 20
+  rating: 56
+boyHatDeerR:
+  canBuy: 1
+  gold: 20
+  rating: 56
+boyHatDeerW:
+  canBuy: 1
+  gold: 28
+  rating: 78
+boyHatHbthava:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+boyHatHeadphoneBl:
+  canBuy: 1
+  gold: 48
+  rating: 133
+boyHatHeadphoneR:
+  canBuy: 1
+  rating: 64
+  silver: 6400
+boyHatHeadphoneRe:
+  canBuy: 1
+  gold: 64
+  rating: 178
+boyHatKSV19:
+  canBuy: 1
+  gold: 13999
+  rating: 38880
+boyHatKnitted:
+  canBuy: 1
+  gold: 0
+  rating: 42
+  silver: 3600
+boyHatNewYearFatherFrost_g:
+  canBuy: 1
+  gold: 0
+  rating: 1
+boyHatNvn1:
+  canBuy: 1
+  gold: 0
+  rating: 1555
+boyHatNvn2:
+  canBuy: 1
+  gold: 0
+  rating: 2332
+boyHatNvn3:
+  canBuy: 1
+  gold: 0
+  rating: 2721
+boyHatPank:
+  canBuy: 1
+  gold: 48
+  rating: 133
+boyHatPhoto:
+  canBuy: 1
+  gold: 0
+  rating: 200
+boyHatRoosterBe:
+  canBuy: 1
+  gold: 15
+  rating: 42
+boyHatRoosterR:
+  canBuy: 1
+  gold: 15
+  rating: 42
+boyHatSummer2014:
+  canBuy: 1
+  gold: 0
+  rating: 3596
+boyHatUshAvaBe:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+boyHatUshAvaBl:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+boyHatUshAvaGr:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyHatUshAvaR:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyHatUshPineBe:
+  canBuy: 1
+  gold: 0
+  rating: 520
+boyHatUshPineBl:
+  canBuy: 1
+  gold: 0
+  rating: 400
+boyHatUshPineG:
+  canBuy: 1
+  gold: 0
+  rating: 400
+boyHatUshPineR:
+  canBuy: 1
+  gold: 0
+  rating: 520
+boyHat_mlfcnt:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyHat_pntroutfit:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyHat_prncsday_b:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyHat_prncsday_p:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyHat_prncsday_r:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyHat_svdcook:
+  canBuy: 1
+  gold: 136
+  rating: 378
+boyHat_winterstl_ble:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyHat_winterstl_br:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyHat_winterstl_t:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyHatsCaliforniabe:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+boyHatsCaliforniag:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+boyHatsCaliforniao:
+  canBuy: 1
+  gold: 0
+  rating: 4914
+boyHatsEntertainer:
+  canBuy: 1
+  gold: 3333
+  rating: 9990
+boyHatsMadridbl:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+boyHatsMadriddbe:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+boyHatsMadridw:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyHatsPoliceman:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+boyHatsPolicemandarkble:
+  canBuy: 1
+  gold: 200
+  rating: 555
+boyHatsPrinceAladdin:
+  canBuy: 1
+  gold: 0
+  rating: 3499
+boyHats_layers_bk:
+  canBuy: 1
+  gold: 88
+  rating: 244
+boyHats_layers_gr:
+  canBuy: 1
+  gold: 88
+  rating: 244
+boyHats_layers_o:
+  canBuy: 1
+  gold: 88
+  rating: 244
+boyHats_muerto:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyHatsdancerbl:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+boyHatsdancerble:
+  canBuy: 1
+  gold: 1280
+  rating: 3200
+boyHatsdanceror:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+boyHatseasterrabbit:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+boyHatslolly:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyHeadphones_catfur_icon:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyHelmetBackThlBl:
+  canBuy: 1
+  gold: 0
+  rating: 19440
+boyHelmetBackThlWh:
+  canBuy: 1
+  gold: 0
+  rating: 19440
+boyHelmetBoxBE:
+  canBuy: 1
+  rating: 56
+  silver: 5600
+boyHelmetBoxBL:
+  canBuy: 1
+  rating: 56
+  silver: 5600
+boyHelmetBoxR:
+  canBuy: 1
+  rating: 56
+  silver: 5600
+boyHelmetGrinch:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyHelmetGrinchPink:
+  canBuy: 1
+  gold: 4199
+  rating: 11664
+boyHelmetRtrRcr:
+  canBuy: 1
+  gold: 0
+  rating: 400
+boyHelmetStRcr:
+  canBuy: 1
+  gold: 0
+  rating: 520
+boyHelmetThlBl:
+  canBuy: 1
+  gold: 4444
+  rating: 23328
+boyHelmetThlWh:
+  canBuy: 1
+  gold: 4444
+  rating: 23328
+boyHelmet_animal:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyHelmet_lovegorgoyle:
+  canBuy: 1
+  gold: 3200
+  rating: 8890
+boyHelmet_neonstyle:
+  canBuy: 1
+  gold: 560
+  rating: 1556
+boyHelmet_newset1:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+boyHelmet_pmpjack:
+  canBuy: 1
+  gold: 2560
+  rating: 7112
+boyHelmet_vmp:
+  canBuy: 1
+  gold: 3840
+  rating: 10668
+boyHelmet_xmsdr:
+  canBuy: 1
+  gold: 800
+  rating: 2222
+boyHelmethpblack:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+boyHelmetironmanbl:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+boyHelmetironmanr:
+  canBuy: 1
+  gold: 2560
+  rating: 7111
+boyHelmetrockabillybl:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boyHelmetsCyclbl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyHelmetsCycly:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyHelmetsTowelR:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyHelmets_bigcity:
+  canBuy: 1
+  gold: 440
+  rating: 1222
+boyHelmets_elecorn:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boyHelmets_imp:
+  canBuy: 1
+  gold: 3840
+  rating: 10668
+boyHelmets_scarydoll:
+  canBuy: 1
+  gold: 0
+  rating: 889
+boyHelmetscapbl:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+boyHelmetscapdbe:
+  canBuy: 1
+  gold: 2560
+  rating: 7111
+boyHelmetsgotlbe:
+  canBuy: 1
+  gold: 3840
+  rating: 10667
+boyHelmetskigurumirabbit:
+  canBuy: 1
+  gold: 2560
+  rating: 7111
+boyHelmetsqusgr:
+  canBuy: 1
+  gold: 560
+  rating: 1555
+boyHlmtCat:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boyHlmtPanda:
+  canBuy: 1
+  rating: 675
+  silver: 67500
+boyHlmtPikachu:
+  canBuy: 1
+  rating: 585
+  silver: 58500
+boyHlmtUnicorn:
+  canBuy: 1
+  gold: 600
+  rating: 1667
+boyHlwn1:
+  canBuy: 1
+  gold: 0
+  rating: 8001
+  silver: 0
+boyHlwn10:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+  silver: 0
+boyHlwn11:
+  canBuy: 1
+  rating: 9779
+  silver: 0
+boyHlwn12:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+boyHlwn13:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+  silver: 0
+boyHlwn14:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+boyHlwn15:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+  silver: 0
+boyHlwn16:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+  silver: 0
+boyHlwn17:
+  canBuy: 1
+  gold: 0
+  rating: 889
+  silver: 0
+boyHlwn18:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+boyHlwn19:
+  canBuy: 1
+  rating: 1422
+  silver: 0
+boyHlwn2:
+  canBuy: 1
+  gold: 0
+  rating: 2134
+  silver: 0
+boyHlwn20:
+  canBuy: 1
+  gold: 0
+  rating: 889
+  silver: 0
+boyHlwn21:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+  silver: 0
+boyHlwn22:
+  canBuy: 1
+  gold: 0
+  rating: 1245
+  silver: 0
+boyHlwn23:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+  silver: 0
+boyHlwn24:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+boyHlwn25:
+  canBuy: 1
+  gold: 0
+  rating: 6223
+  silver: 0
+boyHlwn26:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+  silver: 0
+boyHlwn27:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+boyHlwn28:
+  canBuy: 1
+  gold: 0
+  rating: 3912
+  silver: 0
+boyHlwn3:
+  canBuy: 1
+  gold: 0
+  rating: 3912
+  silver: 0
+boyHlwn30:
+  canBuy: 1
+  gold: 200
+  rating: 556
+  silver: 0
+boyHlwn31:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+boyHlwn32:
+  canBuy: 1
+  gold: 0
+  rating: 5690
+  silver: 0
+boyHlwn33:
+  canBuy: 1
+  gold: 0
+  rating: 1245
+  silver: 0
+boyHlwn34:
+  canBuy: 1
+  gold: 0
+  rating: 4267
+  silver: 0
+boyHlwn35:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+boyHlwn36:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+  silver: 0
+boyHlwn37:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+boyHlwn4:
+  canBuy: 1
+  gold: 0
+  rating: 3023
+  silver: 0
+boyHlwn5:
+  canBuy: 1
+  gold: 0
+  rating: 533
+  silver: 0
+boyHlwn6:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+boyHlwn7:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+  silver: 0
+boyHlwn8:
+  canBuy: 1
+  gold: 0
+  rating: 4801
+  silver: 0
+boyHlwn9:
+  canBuy: 1
+  gold: 0
+  rating: 7112
+  silver: 0
+boyHlwnBrDD:
+  canBuy: 1
+  gold: 0
+  rating: 63
+boyHlwnCnGm:
+  canBuy: 1
+  gold: 1440
+  rating: 4001
+  silver: 0
+boyHlwnGlvPst:
+  canBuy: 1
+  rating: 711
+  silver: 2240
+boyHlwnHatDD:
+  canBuy: 1
+  gold: 0
+  rating: 213
+  silver: 0
+boyHlwnHatGm:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+  silver: 0
+boyHlwnHatPst:
+  canBuy: 1
+  rating: 1778
+  silver: 5600
+boyHlwnHf:
+  canBuy: 1
+  rating: 16
+  silver: 15000
+boyHlwnHrns:
+  canBuy: 1
+  rating: 13
+  silver: 12000
+boyHlwnJcktGm:
+  canBuy: 1
+  gold: 1760
+  rating: 4890
+boyHlwnJcktPst:
+  canBuy: 1
+  rating: 8446
+  silver: 26600
+boyHlwnJkDD:
+  canBuy: 1
+  gold: 0
+  rating: 738
+  silver: 0
+boyHlwnJkGR:
+  canBuy: 1
+  gold: 0
+  rating: 7112
+boyHlwnJkVC:
+  canBuy: 1
+  gold: 40
+  rating: 100
+  silver: 0
+boyHlwnMnclGm:
+  canBuy: 1
+  gold: 512
+  rating: 1422
+  silver: 0
+boyHlwnMskHB:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+boyHlwnMskPst:
+  canBuy: 1
+  gold: 36
+  rating: 2489
+boyHlwnPntDD:
+  canBuy: 1
+  gold: 0
+  rating: 188
+boyHlwnPntGR:
+  canBuy: 1
+  gold: 0
+  rating: 2134
+boyHlwnPntGm:
+  canBuy: 1
+  gold: 768
+  rating: 2134
+boyHlwnPntPst:
+  canBuy: 1
+  rating: 1956
+  silver: 6160
+boyHlwnPntVC:
+  canBuy: 1
+  gold: 30
+  rating: 75
+boyHlwnRtPst:
+  canBuy: 1
+  gold: 24
+  rating: 4267
+boyHlwnScfDD:
+  canBuy: 1
+  gold: 0
+  rating: 113
+boyHlwnShDD:
+  canBuy: 1
+  gold: 0
+  rating: 125
+  silver: 0
+boyHlwnShGR:
+  canBuy: 1
+  gold: 0
+  rating: 2845
+boyHlwnShGm:
+  canBuy: 1
+  gold: 320
+  rating: 889
+  silver: 0
+boyHlwnShPst:
+  canBuy: 1
+  rating: 1245
+  silver: 3920
+boyHlwnShVC:
+  canBuy: 1
+  gold: 15
+  rating: 38
+  silver: 0
+boyHlwnTl:
+  canBuy: 1
+  gold: 0
+  rating: 18
+  silver: 17000
+boyHlwnTshirtDD:
+  canBuy: 1
+  gold: 0
+  rating: 538
+  silver: 0
+boyHlwnTshirtGR:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+boyHlwnTshirtVC:
+  canBuy: 1
+  gold: 35
+  rating: 88
+  silver: 0
+boyHockAcs:
+  canBuy: 1
+  gold: 0
+  rating: 200
+boyHockHelmet:
+  canBuy: 1
+  gold: 0
+  rating: 40
+boyHockSuit:
+  canBuy: 1
+  gold: 0
+  rating: 280
+boyHorns_catstyle_bk:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyHorns_catstyle_o:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyHorns_catstyle_w:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyJackerNewYearFatherFrost_g:
+  canBuy: 1
+  gold: 0
+  rating: 1
+boyJacket1:
+  canBuy: 1
+  gold: 0
+  rating: 13
+  silver: 1300
+boyJacket10:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 480
+boyJacket11:
+  canBuy: 1
+  gold: 0
+  rating: 9
+  silver: 930
+boyJacket12:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 495
+boyJacket13:
+  canBuy: 1
+  gold: 13
+  rating: 26
+  silver: 0
+boyJacket14:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 880
+boyJacket15:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 435
+boyJacket16:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 400
+boyJacket2:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+boyJacket3:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+boyJacket4:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 450
+boyJacket5:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 350
+boyJacket6:
+  canBuy: 1
+  gold: 0
+  rating: 13
+  silver: 1350
+boyJacket7:
+  canBuy: 1
+  rating: 20
+  silver: 2000
+boyJacket8:
+  canBuy: 1
+  gold: 0
+  rating: 5394
+  silver: 0
+boyJacket80outfitbk:
+  canBuy: 1
+  gold: 216
+  rating: 600
+boyJacket80outfitble:
+  canBuy: 1
+  rating: 288
+  silver: 28800
+boyJacket80outfitv:
+  canBuy: 1
+  gold: 192
+  rating: 533
+boyJacket9:
+  canBuy: 1
+  gold: 0
+  rating: 11
+  silver: 1100
+boyJacketAvengerbl:
+  canBuy: 1
+  gold: 4480
+  rating: 12444
+boyJacketEstNb:
+  canBuy: 1
+  gold: 576
+  rating: 1600
+boyJacketEstNnj:
+  canBuy: 1
+  gold: 432
+  rating: 1200
+boyJacketKSV19:
+  canBuy: 1
+  gold: 6998
+  rating: 19440
+boyJacketLeatherbl:
+  canBuy: 1
+  gold: 0
+  rating: 7592
+boyJacketLeatherble:
+  canBuy: 1
+  gold: 0
+  rating: 6994
+boyJacketLeatherw:
+  canBuy: 1
+  gold: 0
+  rating: 6994
+boyJacketRtrRcr:
+  canBuy: 1
+  gold: 0
+  rating: 800
+boyJacketSkinBl:
+  canBuy: 1
+  gold: 320
+  rating: 889
+boyJacketSohodbe:
+  canBuy: 1
+  gold: 240
+  rating: 666
+boyJacketSummer2014:
+  canBuy: 1
+  gold: 0
+  rating: 5594
+boyJacket_artsystyle:
+  canBuy: 1
+  gold: 320
+  rating: 889
+boyJacket_ascetic:
+  canBuy: 1
+  gold: 320
+  rating: 889
+boyJacket_atmn2019_bk:
+  canBuy: 1
+  rating: 480
+  silver: 48000
+boyJacket_atmn2019_br:
+  canBuy: 1
+  rating: 480
+  silver: 48000
+boyJacket_atmn2019_g:
+  canBuy: 1
+  rating: 480
+  silver: 48000
+boyJacket_bdssstl_ble:
+  canBuy: 1
+  rating: 336
+  silver: 33600
+boyJacket_bdssstl_r_bk:
+  canBuy: 1
+  rating: 336
+  silver: 33600
+boyJacket_bdssstl_w_o:
+  canBuy: 1
+  rating: 336
+  silver: 33600
+boyJacket_beltstl:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyJacket_calmboy_bk:
+  canBuy: 1
+  gold: 2863
+  rating: 7952
+boyJacket_calmboy_r:
+  canBuy: 1
+  gold: 0
+  rating: 7952
+boyJacket_calmboy_y:
+  canBuy: 1
+  gold: 0
+  rating: 7952
+boyJacket_casualwinter_b_bk:
+  canBuy: 1
+  gold: 0
+  rating: 6401
+boyJacket_casualwinter_g_bk:
+  canBuy: 1
+  gold: 0
+  rating: 6401
+boyJacket_casualwinter_r_bk:
+  canBuy: 1
+  gold: 0
+  rating: 6401
+boyJacket_cozylook_gr_w:
+  canBuy: 1
+  rating: 416
+  silver: 41600
+boyJacket_cozylook_r_br:
+  canBuy: 1
+  rating: 416
+  silver: 41600
+boyJacket_cozylook_v_w:
+  canBuy: 1
+  rating: 416
+  silver: 41600
+boyJacket_creepycat_bk_r:
+  canBuy: 1
+  gold: 336
+  rating: 933
+boyJacket_creepycat_ble:
+  canBuy: 1
+  gold: 336
+  rating: 933
+boyJacket_creepycat_w_ble:
+  canBuy: 1
+  gold: 336
+  rating: 933
+boyJacket_crlty:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+boyJacket_elegantwntr_be_w:
+  canBuy: 1
+  gold: 0
+  rating: 8890
+boyJacket_elegantwntr_bl_w:
+  canBuy: 1
+  gold: 0
+  rating: 8890
+boyJacket_elegantwntr_w_bl:
+  canBuy: 1
+  gold: 3200
+  rating: 8890
+boyJacket_frznrl:
+  canBuy: 1
+  gold: 0
+  rating: 4623
+boyJacket_frznstl:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyJacket_gang_bk:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+boyJacket_gang_br:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+boyJacket_hgfshn_bk_w:
+  canBuy: 1
+  rating: 336
+  silver: 33600
+boyJacket_hgfshn_br_w:
+  canBuy: 1
+  rating: 336
+  silver: 33600
+boyJacket_jckstl_bk_r:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+boyJacket_jckstl_br_p:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+boyJacket_jckstl_g_y:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+boyJacket_jnshlf_ble:
+  canBuy: 1
+  rating: 889
+  silver: 32000
+boyJacket_jnshlf_haki:
+  canBuy: 1
+  gold: 320
+  rating: 889
+boyJacket_jnshlf_y:
+  canBuy: 1
+  gold: 320
+  rating: 889
+boyJacket_kumacoat:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyJacket_neonbeat:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyJacket_neonstyle_bk_y:
+  canBuy: 1
+  rating: 352
+  silver: 35200
+boyJacket_neonstyle_ble:
+  canBuy: 1
+  rating: 352
+  silver: 35200
+boyJacket_neonstyle_w_p:
+  canBuy: 1
+  rating: 352
+  silver: 35200
+boyJacket_newset1_bk:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyJacket_newset1_ble:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyJacket_newset1_w:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyJacket_pntroutfit:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyJacket_puzzleboy_bk_g:
+  canBuy: 1
+  gold: 3405
+  rating: 9458
+boyJacket_puzzleboy_v_g:
+  canBuy: 1
+  gold: 0
+  rating: 9458
+boyJacket_puzzleboy_y_bk:
+  canBuy: 1
+  gold: 0
+  rating: 9458
+boyJacket_roguestyle:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyJacket_royalking_bk_r:
+  canBuy: 1
+  gold: 4435
+  rating: 12320
+boyJacket_royalking_ble_w:
+  canBuy: 1
+  gold: 0
+  rating: 12320
+boyJacket_royalking_w_ble:
+  canBuy: 1
+  gold: 0
+  rating: 12320
+boyJacket_schoolboy_bk_v:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+boyJacket_schoolboy_bk_y:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+boyJacket_schoolboy_w_v:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+boyJacket_slrst_bk_w:
+  canBuy: 1
+  rating: 6223
+  silver: 0
+boyJacket_slrst_ble_w:
+  canBuy: 1
+  rating: 6223
+  silver: 0
+boyJacket_slrst_v_w:
+  canBuy: 1
+  rating: 6223
+  silver: 0
+boyJacket_sportlook_bk:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+boyJacket_sportlook_gr:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+boyJacket_sportlook_w:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+boyJacket_vmp:
+  canBuy: 1
+  gold: 2560
+  rating: 7112
+boyJacket_winterstl_ble_w:
+  canBuy: 1
+  gold: 0
+  rating: 9246
+boyJacket_winterstl_br_p:
+  canBuy: 1
+  gold: 0
+  rating: 9246
+boyJacket_winterstl_t_m:
+  canBuy: 1
+  gold: 0
+  rating: 9246
+boyJacket_winterwlk_bk_w:
+  canBuy: 1
+  rating: 432
+  silver: 43200
+boyJacket_winterwlk_ble_w:
+  canBuy: 1
+  rating: 432
+  silver: 43200
+boyJacket_winterwlk_br_beg:
+  canBuy: 1
+  rating: 432
+  silver: 43200
+boyJacket_wntrcl_blk:
+  canBuy: 1
+  gold: 0
+  rating: 5690
+boyJacket_wntrcl_dbr:
+  canBuy: 1
+  gold: 0
+  rating: 5690
+boyJacket_wntrcl_w:
+  canBuy: 1
+  gold: 2048
+  rating: 5690
+boyJacket_wntrmaid_beg:
+  canBuy: 1
+  gold: 0
+  rating: 6756
+boyJacket_wntrmaid_bk_w:
+  canBuy: 1
+  gold: 0
+  rating: 6756
+boyJacket_wntrmaid_ble:
+  canBuy: 1
+  gold: 0
+  rating: 6756
+boyJacket_wntrstl_b:
+  canBuy: 1
+  gold: 0
+  rating: 6223
+boyJacket_wntrstl_g:
+  canBuy: 1
+  gold: 0
+  rating: 6223
+boyJacket_wntrstl_r:
+  canBuy: 1
+  gold: 0
+  rating: 6223
+boyJacket_xmaself:
+  canBuy: 1
+  gold: 288
+  rating: 800
+boyJacket_ylwbuddy_bk:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boyJacket_ylwbuddy_r:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boyJacket_ylwbuddy_v:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boyJacketcapdbe:
+  canBuy: 1
+  gold: 4480
+  rating: 12444
+boyJacketcapr:
+  canBuy: 1
+  gold: 4480
+  rating: 12444
+boyJackethpble:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+boyJackethpg:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+boyJackethpr:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+boyJacketironmanbl:
+  canBuy: 1
+  gold: 0
+  rating: 8889
+boyJacketironmanr:
+  canBuy: 1
+  gold: 3840
+  rating: 10667
+boyJacketjul19bl:
+  canBuy: 1
+  gold: 240
+  rating: 666
+boyJacketjul19g:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyJacketjul19o:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyJacketqdchble:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyJacketqdchg:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyJacketqdchr:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyJacketqusbr:
+  canBuy: 1
+  gold: 320
+  rating: 888
+boyJacketqusgr:
+  canBuy: 1
+  gold: 320
+  rating: 888
+boyJacketsBomberbl:
+  canBuy: 1
+  gold: 2661
+  rating: 7392
+boyJacketsBomberble:
+  canBuy: 1
+  gold: 0
+  rating: 6993
+boyJacketsBomberg:
+  canBuy: 1
+  gold: 0
+  rating: 6993
+boyJacketsEntertainer:
+  canBuy: 1
+  gold: 6999
+  rating: 19980
+  silver: 0
+boyJacketsParisbl:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyJacketsParisdbe:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyJacketsParisw:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyJacketsStFashion2bl:
+  canBuy: 1
+  gold: 240
+  rating: 666
+boyJacketsStFashion2ble:
+  canBuy: 1
+  gold: 240
+  rating: 666
+boyJacketsStFashion2gr:
+  canBuy: 1
+  gold: 240
+  rating: 666
+boyJacketsStFashionBl:
+  canBuy: 1
+  gold: 320
+  rating: 888
+boyJacketsStFashionBlW:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boyJacketsStFashionBr:
+  canBuy: 1
+  gold: 280
+  rating: 777
+boyJackets_alarm:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyJackets_arist:
+  canBuy: 1
+  gold: 2240
+  rating: 6223
+boyJackets_atmct_dble:
+  canBuy: 1
+  rating: 200
+  silver: 12000
+boyJackets_atmct_dr:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyJackets_atmct_o:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyJackets_bigcity:
+  canBuy: 1
+  gold: 320
+  rating: 889
+boyJackets_brhome_bk:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyJackets_brhome_jns:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+boyJackets_brhome_w:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyJackets_emoji_boss:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+boyJackets_emoji_dead:
+  canBuy: 1
+  gold: 1920
+  rating: 5334
+boyJackets_emoji_love:
+  canBuy: 1
+  gold: 1920
+  rating: 5334
+boyJackets_emoji_wow:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+boyJackets_lavaset:
+  canBuy: 1
+  gold: 320
+  rating: 889
+boyJackets_neonchik_ble:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyJackets_neonchik_g:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyJackets_neonchik_r:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyJackets_osize_bg_dr:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+boyJackets_osize_bk_haki:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+boyJackets_osize_gr_bg:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+boyJackets_vhunter_bk:
+  canBuy: 1
+  gold: 2560
+  rating: 7112
+boyJackets_vhunter_br:
+  canBuy: 1
+  gold: 0
+  rating: 7112
+boyJackets_vhunter_dr:
+  canBuy: 1
+  gold: 2560
+  rating: 7112
+boyJackets_xlace:
+  canBuy: 1
+  gold: 560
+  rating: 1556
+boyJacketsbadboybl:
+  canBuy: 1
+  gold: 0
+  rating: 4800
+boyJacketsbadboyble:
+  canBuy: 1
+  gold: 0
+  rating: 4444
+boyJacketsbadboyble2:
+  canBuy: 1
+  gold: 0
+  rating: 4444
+boyJacketschwarm:
+  canBuy: 1
+  gold: 240
+  rating: 666
+boyJacketshoodieblble:
+  canBuy: 1
+  gold: 200
+  rating: 555
+boyJacketshoodieblor:
+  canBuy: 1
+  gold: 216
+  rating: 600
+boyJacketshoodiegrdbl:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+boyJacketshoodieror:
+  canBuy: 1
+  gold: 192
+  rating: 533
+boyJacketsjeansbl:
+  canBuy: 1
+  gold: 0
+  rating: 4996
+boyJacketsjeansble:
+  canBuy: 1
+  gold: 1583
+  rating: 4396
+boyJacketsjeansbledark:
+  canBuy: 1
+  gold: 0
+  rating: 4596
+boyJacketsmstarvampirebl:
+  canBuy: 1
+  gold: 2688
+  rating: 7467
+boyJacketsmstarvampirer:
+  canBuy: 1
+  gold: 0
+  rating: 7467
+boyJacketsmstarvampirew:
+  canBuy: 1
+  gold: 2560
+  rating: 7111
+boyJacketspartymang:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+boyJacketspartymanr:
+  canBuy: 1
+  gold: 1920
+  rating: 5333
+boyJacketspartymany:
+  canBuy: 1
+  rating: 5333
+  silver: 192000
+boyJacketsstreetbl:
+  canBuy: 1
+  gold: 0
+  rating: 6222
+boyJacketsstreetble:
+  canBuy: 1
+  gold: 0
+  rating: 6222
+boyJacketsstreetg:
+  canBuy: 1
+  gold: 0
+  rating: 6222
+boyJacketssweaterbl:
+  canBuy: 1
+  gold: 152
+  rating: 422
+boyJacketssweatergr:
+  canBuy: 1
+  gold: 144
+  rating: 400
+boyJacketssweaterturq:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyJacketswolfmanbl:
+  canBuy: 1
+  gold: 320
+  rating: 888
+boyJacketswolfmanbr:
+  canBuy: 1
+  gold: 320
+  rating: 888
+boyJcktNvn1:
+  canBuy: 1
+  gold: 0
+  rating: 2332
+boyJcktNvn2:
+  canBuy: 1
+  gold: 0
+  rating: 2916
+boyJcktNvn3:
+  canBuy: 1
+  gold: 0
+  rating: 3888
+boyJkrAcs:
+  canBuy: 1
+  gold: 144
+  rating: 400
+boyJkrCoat:
+  canBuy: 1
+  gold: 2160
+  rating: 6000
+boyJkrHelmet:
+  canBuy: 1
+  gold: 432
+  rating: 1200
+boyJkrNckl:
+  canBuy: 1
+  gold: 144
+  rating: 400
+boyJkrPants:
+  canBuy: 1
+  gold: 720
+  rating: 2000
+boyJkrShoes:
+  canBuy: 1
+  gold: 288
+  rating: 800
+boyJkrTatoo:
+  canBuy: 1
+  gold: 720
+  rating: 2000
+boyKatanaEstNnj:
+  canBuy: 1
+  gold: 720
+  rating: 2000
+boyKpopJctBl:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+boyKpopJctBle:
+  canBuy: 1
+  gold: 560
+  rating: 1555
+boyKpopJctW:
+  canBuy: 1
+  rating: 800
+  silver: 80000
+boyKpopPntsBl:
+  canBuy: 1
+  gold: 300
+  rating: 833
+boyKpopPntsBl2:
+  canBuy: 1
+  gold: 288
+  rating: 800
+boyKpopPntsBle:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+boyKpopShrtBl:
+  canBuy: 1
+  gold: 420
+  rating: 1166
+boyKpopShrtR:
+  canBuy: 1
+  rating: 500
+  silver: 50000
+boyKpopShrtW:
+  canBuy: 1
+  gold: 380
+  rating: 1055
+boyKpopShsBl:
+  canBuy: 1
+  gold: 112
+  rating: 311
+boyKpopShsW:
+  canBuy: 1
+  gold: 96
+  rating: 266
+boyLeatherBracelet:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyManEspdBl:
+  canBuy: 1
+  gold: 96
+  rating: 266
+boyManEspdBle:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+boyManEspdBr:
+  canBuy: 1
+  gold: 64
+  rating: 177
+boyManEspdR:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyMaskEstNnj:
+  canBuy: 1
+  gold: 288
+  rating: 800
+boyMaskNightNinja:
+  canBuy: 1
+  gold: 0
+  rating: 400
+boyMaskRobyn:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+boyMask_bldoctor:
+  canBuy: 1
+  gold: 2240
+  rating: 6223
+  silver: 0
+boyMasks_vhunter_bk:
+  canBuy: 1
+  gold: 736
+  rating: 2045
+boyMasks_vhunter_br:
+  canBuy: 1
+  gold: 0
+  rating: 2045
+boyMasks_vhunter_gr_dr:
+  canBuy: 1
+  gold: 0
+  rating: 2045
+boyMay1stTie:
+  canBuy: 1
+  gold: 0
+  rating: 711
+boyMorfeusCloak:
+  canBuy: 1
+  gold: 0
+  rating: 5334
+boyMorfeusHelmet:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyMorfeusHelmetbr:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyMorfeusPants:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyMorfeusShoes:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+boyMorfeusVest:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyMstrCrn:
+  canBuy: 1
+  gold: 9999
+  rating: 2500
+  silver: 0
+boyMstrRbn:
+  canBuy: 1
+  gold: 9999
+  rating: 2500
+  silver: 0
+boyMuffler_beltstl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyMuffler_cozylook_bk_y:
+  canBuy: 1
+  gold: 52
+  rating: 144
+boyMuffler_cozylook_ble_w:
+  canBuy: 1
+  gold: 52
+  rating: 144
+boyMuffler_cozylook_v_w:
+  canBuy: 1
+  gold: 52
+  rating: 144
+boyMuffler_layers_bk:
+  canBuy: 1
+  gold: 48
+  rating: 133
+boyMuffler_layers_gr:
+  canBuy: 1
+  gold: 48
+  rating: 133
+boyMuffler_layers_o:
+  canBuy: 1
+  gold: 48
+  rating: 133
+boyMuffler_lnlnsslk:
+  canBuy: 1
+  gold: 44
+  rating: 122
+boyMuffler_lovescarf:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyMuffler_polarcold:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyMuffler_tattolook_ble:
+  canBuy: 1
+  gold: 0
+  rating: 1960
+boyMuffler_tattolook_br:
+  canBuy: 1
+  gold: 706
+  rating: 1960
+boyMuffler_tattolook_y:
+  canBuy: 1
+  gold: 0
+  rating: 1960
+boyMuffler_winter_r_g:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyMuffler_xmasbndn:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyNY1:
+  canBuy: 1
+  gold: 35
+  rating: 97
+boyNY10:
+  canBuy: 1
+  gold: 10
+  rating: 28
+boyNY11:
+  canBuy: 1
+  rating: 70
+  silver: 7000
+boyNY12:
+  canBuy: 1
+  rating: 35
+  silver: 3500
+boyNY13:
+  canBuy: 1
+  rating: 150
+  silver: 15000
+boyNY14:
+  canBuy: 1
+  rating: 350
+  silver: 35000
+boyNY14Coat:
+  canBuy: 1
+  rating: 350
+  silver: 35000
+boyNY14Crown:
+  canBuy: 1
+  gold: 95
+  rating: 264
+boyNY14Cstm:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyNY14Gss:
+  canBuy: 1
+  gold: 50
+  rating: 139
+boyNY14Hat:
+  canBuy: 1
+  gold: 60
+  rating: 167
+boyNY14Msk:
+  canBuy: 1
+  gold: 25
+  rating: 69
+boyNY14Mtns:
+  canBuy: 1
+  gold: 45
+  rating: 125
+boyNY15:
+  canBuy: 1
+  gold: 15
+  rating: 42
+boyNY16:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyNY17:
+  canBuy: 1
+  rating: 95
+  silver: 9500
+boyNY18:
+  canBuy: 1
+  rating: 250
+  silver: 25000
+boyNY2:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+boyNY3:
+  canBuy: 1
+  gold: 75
+  rating: 208
+boyNY4:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+boyNY5:
+  canBuy: 1
+  gold: 30
+  rating: 83
+boyNY6:
+  canBuy: 1
+  rating: 300
+  silver: 30000
+boyNY7:
+  canBuy: 1
+  rating: 85
+  silver: 8500
+boyNY8:
+  canBuy: 1
+  gold: 25
+  rating: 69
+boyNY9:
+  canBuy: 1
+  rating: 250
+  silver: 25000
+boyNYBShirt:
+  canBuy: 1
+  gold: 0
+  rating: 119
+boyNYCloakWzrd:
+  canBuy: 1
+  gold: 300
+  rating: 833
+boyNYDeerOrng:
+  canBuy: 1
+  gold: 75
+  rating: 208
+boyNYDeerRed:
+  canBuy: 1
+  gold: 75
+  rating: 208
+boyNYGShirt:
+  canBuy: 1
+  gold: 0
+  rating: 200
+boyNYHatWzrd:
+  canBuy: 1
+  gold: 150
+  rating: 417
+boyNYPantsWzrd:
+  canBuy: 1
+  gold: 300
+  rating: 833
+boyNYRShirt:
+  canBuy: 1
+  gold: 0
+  rating: 119
+boyNYShsWzrd:
+  canBuy: 1
+  gold: 50
+  rating: 139
+boyNYSnow:
+  canBuy: 1
+  gold: 85
+  rating: 236
+  silver: 0
+boyNYTShirtWzrd:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boyNYWShirt:
+  canBuy: 1
+  gold: 0
+  rating: 119
+boyNecklaceBkchain:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyNecklaceCalifornia:
+  canBuy: 1
+  gold: 0
+  rating: 6143
+boyNecklaceStFashion:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boyNecklace_arist_ble:
+  canBuy: 1
+  gold: 512
+  rating: 1422
+boyNecklace_arist_g:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+boyNecklace_arist_r:
+  canBuy: 1
+  gold: 512
+  rating: 1422
+boyNecklace_cutebat:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyNecklace_indsmr:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyNecklace_metalplanet:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyNecklace_wolfnecklace:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyNecklace_xmaself:
+  canBuy: 1
+  gold: 48
+  rating: 133
+boyNecklacewolfman:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyNightAcs1:
+  canBuy: 1
+  gold: 2
+  rating: 4
+boyNightShirt1:
+  canBuy: 1
+  rating: 3
+  silver: 350
+boyNightShirt2:
+  canBuy: 1
+  rating: 3
+  silver: 350
+boyNightShoes1:
+  canBuy: 1
+  rating: 4
+  silver: 450
+boyNightShoes2:
+  canBuy: 1
+  rating: 5
+  silver: 525
+boyNightShoes3:
+  canBuy: 1
+  gold: 3
+  rating: 5
+boyNunchuckRobyn:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+boyOtherChamomile:
+  canBuy: 1
+  gold: 0
+  rating: 1000
+boyOtherDecorbeltpoliceman:
+  canBuy: 1
+  gold: 192
+  rating: 533
+boyOtherDecorbeltpolicemanble:
+  canBuy: 1
+  gold: 200
+  rating: 555
+boyOtherHbthava:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyOtherLily:
+  canBuy: 1
+  gold: 0
+  rating: 1000
+boyOtherMaskZipped:
+  canBuy: 1
+  gold: 99
+  rating: 111
+boyOtherRose:
+  canBuy: 1
+  gold: 359
+  rating: 1000
+boyOtherTulip:
+  canBuy: 1
+  gold: 0
+  rating: 1000
+boyOther_artsystyle:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyOther_backpack_gbstr:
+  canBuy: 1
+  gold: 0
+  rating: 4978
+boyOther_balloon_scaryclown:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+boyOther_belt_alarm:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyOther_bldoctor_knife:
+  canBuy: 1
+  gold: 1600
+  rating: 4445
+boyOther_bldoctor_st:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+boyOther_casualava_ble:
+  canBuy: 1
+  gold: 60
+  rating: 167
+boyOther_casualava_g:
+  canBuy: 1
+  gold: 60
+  rating: 167
+boyOther_casualava_v:
+  canBuy: 1
+  gold: 60
+  rating: 167
+boyOther_coffeecup:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyOther_eleggun:
+  canBuy: 1
+  gold: 200
+  rating: 556
+boyOther_frznrl:
+  canBuy: 1
+  gold: 1728
+  rating: 4801
+boyOther_headphones_pump:
+  canBuy: 1
+  gold: 60
+  rating: 167
+boyOther_headset_stylish:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyOther_jd_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3023
+boyOther_jd_r:
+  canBuy: 1
+  gold: 0
+  rating: 3023
+boyOther_jd_y:
+  canBuy: 1
+  gold: 0
+  rating: 3023
+boyOther_medal_dduke:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyOther_neonbeat:
+  canBuy: 1
+  gold: 96
+  rating: 267
+boyOther_neonsmile:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyOther_pixelrose:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyOther_pntroutfit:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyOther_schoolboy_bk:
+  canBuy: 1
+  gold: 128
+  rating: 356
+boyOther_schoolboy_br:
+  canBuy: 1
+  gold: 128
+  rating: 356
+boyOther_schoolboy_r:
+  canBuy: 1
+  gold: 128
+  rating: 356
+boyOther_splashlight:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyOther_teddy:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyOther_valentinballoon:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyOther_vhunter_arb:
+  canBuy: 1
+  gold: 3200
+  rating: 8890
+boyOther_vmp:
+  canBuy: 1
+  gold: 1920
+  rating: 5334
+boyOther_wfall_umbrella:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyOther_wntrpair:
+  canBuy: 1
+  gold: 48
+  rating: 133
+boyOtheranime2dbr:
+  canBuy: 1
+  gold: 1472
+  rating: 4089
+boyOtheranime2lbr:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+boyOtherbeltcapbr:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+boyOtherbeltcapr:
+  canBuy: 1
+  gold: 1920
+  rating: 5333
+boyOtherboomboxblack:
+  canBuy: 1
+  gold: 184
+  rating: 511
+boyOtherboomboxcoloured:
+  canBuy: 1
+  gold: 184
+  rating: 511
+boyOtherboomboxsilver:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyOtherclubPoliceman:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyOtherhandcuffsPoliceman:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+boyOtherhpwandblack:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyOtherhpwandbrown:
+  canBuy: 1
+  gold: 98
+  rating: 272
+boyOtherhpwandstone:
+  canBuy: 1
+  gold: 100
+  rating: 333
+boyOtherpistolPoliceman:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyOtherpouchPoliceman:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+boyOtherqdch:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyOtherradioPoliceman:
+  canBuy: 1
+  gold: 56
+  rating: 155
+boyOtherwolfman:
+  canBuy: 1
+  gold: 60
+  rating: 166
+boyOverallsEvngln:
+  canBuy: 1
+  gold: 0
+  rating: 7200
+boyOverallsHsptlTch:
+  canBuy: 1
+  gold: 0
+  rating: 1400
+boyOverallsNightNinja:
+  canBuy: 1
+  gold: 0
+  rating: 7200
+boyOverallsPank:
+  canBuy: 1
+  gold: 528
+  rating: 1467
+boyOverallsRobyn:
+  canBuy: 1
+  gold: 0
+  rating: 7112
+boyOverallsRtrRcr:
+  canBuy: 1
+  gold: 0
+  rating: 2800
+boyOverallsStRcr:
+  canBuy: 1
+  gold: 0
+  rating: 4800
+boyPSHat1:
+  canBuy: 1
+  gold: 40
+  rating: 133
+boyPSHat2:
+  canBuy: 1
+  gold: 15
+  rating: 30
+boyPSHat3:
+  canBuy: 1
+  gold: 17
+  rating: 35
+boyPSHat4:
+  canBuy: 1
+  gold: 35
+  rating: 97
+boyPSHat5:
+  canBuy: 1
+  rating: 95
+  silver: 9500
+boyPSHat6:
+  canBuy: 1
+  gold: 17
+  rating: 35
+boyPSHat7:
+  canBuy: 1
+  gold: 14
+  rating: 28
+boyPSHat8:
+  canBuy: 1
+  gold: 26
+  rating: 58
+boyPSHat9:
+  canBuy: 1
+  gold: 35
+  rating: 40
+boyPantPhoto:
+  canBuy: 1
+  gold: 0
+  rating: 200
+boyPants1:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+boyPants10:
+  canBuy: 1
+  gold: 0
+  rating: 14
+  silver: 1400
+boyPants11:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+boyPants12:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 455
+boyPants13:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 345
+boyPants14:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 445
+boyPants15:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 500
+boyPants16:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 575
+boyPants17:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+boyPants18:
+  canBuy: 1
+  gold: 0
+  rating: 13
+  silver: 1330
+boyPants19:
+  canBuy: 1
+  rating: 9
+  silver: 990
+boyPants2:
+  canBuy: 1
+  gold: 8
+  rating: 13
+  silver: 0
+boyPants20:
+  canBuy: 1
+  gold: 16
+  rating: 32
+boyPants21:
+  canBuy: 1
+  gold: 0
+  rating: 6
+  silver: 685
+boyPants22:
+  canBuy: 1
+  gold: 19
+  rating: 38
+  silver: 0
+boyPants23:
+  canBuy: 1
+  gold: 0
+  rating: 15
+  silver: 1500
+boyPants24:
+  canBuy: 1
+  gold: 0
+  rating: 14
+  silver: 1450
+boyPants25:
+  canBuy: 1
+  gold: 0
+  rating: 9
+  silver: 900
+boyPants26:
+  canBuy: 1
+  gold: 75
+  rating: 98
+  silver: 0
+boyPants3:
+  canBuy: 1
+  gold: 27
+  rating: 59
+  silver: 0
+boyPants4:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 490
+boyPants5:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 470
+boyPants6:
+  canBuy: 1
+  gold: 14
+  rating: 28
+  silver: 0
+boyPants7:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 720
+boyPants8:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 1250
+boyPants80outfitbk:
+  canBuy: 1
+  gold: 152
+  rating: 422
+boyPants80outfitble:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+boyPants80outfitv:
+  canBuy: 1
+  gold: 128
+  rating: 356
+boyPants9:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 1200
+boyPantsEntertainer:
+  canBuy: 1
+  gold: 0
+  rating: 2997
+boyPantsEstNb:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+boyPantsEstNnj:
+  canBuy: 1
+  gold: 432
+  rating: 1200
+boyPantsGrafferbe:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyPantsGrafferbl:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyPantsGraffergr:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyPantsJeansBig:
+  canBuy: 1
+  gold: 0
+  rating: 128
+  silver: 12800
+boyPantsKSV19:
+  canBuy: 1
+  gold: 6998
+  rating: 19440
+boyPantsLeatherBl:
+  canBuy: 1
+  gold: 135
+  rating: 376
+boyPantsMadridbl:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+boyPantsMadridlbe:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+boyPantsMadridw:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+boyPantsNewYearSanta_g:
+  canBuy: 1
+  gold: 0
+  rating: 1
+boyPantsNotesble:
+  canBuy: 1
+  rating: 184
+  silver: 18400
+boyPantsNotesr:
+  canBuy: 1
+  gold: 168
+  rating: 466
+boyPantsNotesv:
+  canBuy: 1
+  gold: 168
+  rating: 466
+boyPantsParisbl:
+  canBuy: 1
+  gold: 144
+  rating: 400
+  silver: 0
+boyPantsParisdbe:
+  canBuy: 1
+  gold: 144
+  rating: 400
+  silver: 0
+boyPantsParisw:
+  canBuy: 1
+  rating: 360
+  silver: 36000
+boyPantsPolicemanbl:
+  canBuy: 1
+  gold: 220
+  rating: 611
+boyPantsPolicemanble:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyPantsPrinceAladdin:
+  canBuy: 1
+  gold: 0
+  rating: 8942
+boyPantsPrinceEric:
+  canBuy: 1
+  gold: 0
+  rating: 4860
+boyPantsPrincePhilip:
+  canBuy: 1
+  gold: 6998
+  rating: 19440
+boyPantsSV19Bl:
+  canBuy: 1
+  gold: 5599
+  rating: 15552
+boyPantsSV19Br:
+  canBuy: 1
+  gold: 5598
+  rating: 15552
+boyPantsSV19Gr:
+  canBuy: 1
+  gold: 5598
+  rating: 15552
+boyPantsSohobl:
+  canBuy: 1
+  gold: 144
+  rating: 400
+boyPantsSohodbe:
+  canBuy: 1
+  gold: 144
+  rating: 400
+boyPantsSohodr:
+  canBuy: 1
+  gold: 144
+  rating: 400
+boyPantsStFashionBl:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+boyPantsStFashionBle:
+  canBuy: 1
+  gold: 320
+  rating: 888
+boyPantsStFashionGr:
+  canBuy: 1
+  gold: 320
+  rating: 888
+boyPantsSteamPunk:
+  canBuy: 1
+  gold: 4199
+  rating: 11664
+boyPantsTrainingGr:
+  canBuy: 1
+  gold: 0
+  rating: 2897
+boyPantsTrainingbl:
+  canBuy: 1
+  gold: 0
+  rating: 3496
+boyPantsTrainingble:
+  canBuy: 1
+  gold: 1043
+  rating: 2897
+boyPantsVsgst:
+  canBuy: 1
+  gold: 43
+  rating: 120
+boyPants_Starter:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyPants_alarm:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyPants_arist_g:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+boyPants_arist_r:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+boyPants_arist_w:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+boyPants_arist_y:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+boyPants_artsystyle:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyPants_ascetic:
+  canBuy: 1
+  gold: 200
+  rating: 556
+boyPants_atmct_bk_ble:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyPants_atmct_ble_r:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyPants_atmct_gr_bk:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyPants_atmn2019_gr:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyPants_atmn2019_r:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyPants_atmn2019_y:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyPants_bdssstl_ble:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyPants_bdssstl_br_r:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyPants_bdssstl_w_o:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyPants_beltstl:
+  canBuy: 1
+  gold: 200
+  rating: 556
+boyPants_bigcity:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyPants_bluebird:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyPants_brhome_bg_dr:
+  canBuy: 1
+  rating: 96
+  silver: 5760
+boyPants_brhome_gr:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+boyPants_brhome_jns:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+boyPants_calmboy_bk:
+  canBuy: 1
+  gold: 2419
+  rating: 6720
+boyPants_calmboy_w_r:
+  canBuy: 1
+  gold: 0
+  rating: 6720
+boyPants_calmboy_w_y:
+  canBuy: 1
+  gold: 0
+  rating: 6720
+boyPants_casualava_br:
+  canBuy: 1
+  gold: 180
+  rating: 500
+boyPants_casualava_gr:
+  canBuy: 1
+  gold: 180
+  rating: 500
+boyPants_casualava_w:
+  canBuy: 1
+  gold: 180
+  rating: 500
+boyPants_casualwinter_bk_w:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+boyPants_casualwinter_br_bk:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+boyPants_casualwinter_w_bk:
+  canBuy: 1
+  gold: 896
+  rating: 2489
+boyPants_cozylook_bk_y:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyPants_cozylook_ble_w:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyPants_cozylook_v_w:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyPants_creepycat_beq_w:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+boyPants_creepycat_bk_ble:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+boyPants_creepycat_w_gr:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+boyPants_crlty:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyPants_drkside_bk:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+boyPants_drkside_ble:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+boyPants_drkside_silver:
+  canBuy: 1
+  rating: 200
+  silver: 12000
+boyPants_dsc:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyPants_elegantwntr_be_w:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+boyPants_elegantwntr_bl_w:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+boyPants_elegantwntr_w_bl:
+  canBuy: 1
+  gold: 0
+  rating: 4445
+boyPants_eleggun:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyPants_emoji_boss:
+  canBuy: 1
+  gold: 0
+  rating: 3912
+boyPants_emoji_dead:
+  canBuy: 1
+  gold: 1408
+  rating: 3912
+boyPants_emoji_love:
+  canBuy: 1
+  gold: 1408
+  rating: 3912
+boyPants_emoji_wow:
+  canBuy: 1
+  gold: 0
+  rating: 3912
+boyPants_explorer_bk_w:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyPants_explorer_ble_bk:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyPants_explorer_br_g:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyPants_frrblck_bg_bk:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+boyPants_frrblck_bk_w:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+boyPants_frrblck_bk_y:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+boyPants_frznrl_bk_w:
+  canBuy: 1
+  gold: 0
+  rating: 3023
+boyPants_frznrl_ble_w:
+  canBuy: 1
+  gold: 0
+  rating: 3023
+boyPants_frznrl_l_w:
+  canBuy: 1
+  gold: 0
+  rating: 3023
+boyPants_frznstl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyPants_hdchck_bk:
+  canBuy: 1
+  rating: 92
+  silver: 9200
+boyPants_hdchck_br:
+  canBuy: 1
+  gold: 0
+  rating: 92
+  silver: 9200
+boyPants_hdchck_v:
+  canBuy: 1
+  rating: 92
+  silver: 9200
+boyPants_jckstl_bk_r:
+  canBuy: 1
+  rating: 112
+  silver: 11200
+boyPants_jckstl_br:
+  canBuy: 1
+  rating: 112
+  silver: 11200
+boyPants_jckstl_g_y:
+  canBuy: 1
+  rating: 112
+  silver: 11200
+boyPants_jd_blk:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyPants_jd_br:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyPants_jnshlf_ble:
+  canBuy: 1
+  rating: 311
+  silver: 11200
+boyPants_jnshlf_haki:
+  canBuy: 1
+  gold: 112
+  rating: 311
+boyPants_jnshlf_y:
+  canBuy: 1
+  gold: 112
+  rating: 311
+boyPants_jstlk_bk:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyPants_jstlk_br:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyPants_jstlk_gr:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyPants_kawaiisport:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyPants_lavaset:
+  canBuy: 1
+  gold: 320
+  rating: 889
+boyPants_lnlnsslk_ble:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+boyPants_lnlnsslk_br:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+boyPants_lnlnsslk_gr:
+  canBuy: 1
+  rating: 216
+  silver: 21600
+boyPants_muerto:
+  canBuy: 1
+  gold: 200
+  rating: 556
+  silver: 0
+boyPants_neonchik_ble:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+boyPants_neonchik_g:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+boyPants_neonchik_r:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+boyPants_neonsmile:
+  canBuy: 1
+  gold: 224
+  rating: 622
+boyPants_neonstyle_bk_v:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyPants_neonstyle_bk_y:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyPants_neonstyle_w_ble:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyPants_newset1_bk:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+boyPants_newset1_ble:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+boyPants_newset1_w:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+boyPants_osize_bg_dr:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyPants_osize_bk_haki:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyPants_osize_gr_bg:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyPants_polarcold:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyPants_ponylook_ble:
+  canBuy: 1
+  rating: 196
+  silver: 19600
+boyPants_ponylook_gr:
+  canBuy: 1
+  rating: 196
+  silver: 19600
+boyPants_ponylook_r:
+  canBuy: 1
+  rating: 196
+  silver: 19600
+boyPants_pureelegance_ble:
+  canBuy: 1
+  rating: 4445
+  silver: 0
+boyPants_pureelegance_gr:
+  canBuy: 1
+  rating: 4445
+  silver: 0
+boyPants_pureelegance_r:
+  canBuy: 1
+  rating: 4445
+  silver: 0
+boyPants_puzzleboy_bk_gr:
+  canBuy: 1
+  gold: 2520
+  rating: 7000
+boyPants_puzzleboy_gr_bk:
+  canBuy: 1
+  gold: 0
+  rating: 7000
+boyPants_puzzleboy_v_bk:
+  canBuy: 1
+  gold: 0
+  rating: 7000
+boyPants_roguestyle:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyPants_schoolboy_bk_r:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyPants_schoolboy_ble_w:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyPants_schoolboy_v_p:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyPants_skltnsport_gr:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyPants_skltnsport_w:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+boyPants_sportlook_bk:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+boyPants_sportlook_gr:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+boyPants_sportlook_w:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+boyPants_svdcook:
+  canBuy: 1
+  gold: 224
+  rating: 622
+boyPants_tattolook_bk:
+  canBuy: 1
+  gold: 0
+  rating: 8400
+boyPants_tattolook_gr:
+  canBuy: 1
+  gold: 0
+  rating: 8400
+boyPants_tattolook_w:
+  canBuy: 1
+  gold: 3024
+  rating: 8400
+boyPants_vhunter_bg:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+  silver: 0
+boyPants_vhunter_bk:
+  canBuy: 1
+  gold: 1152
+  rating: 3200
+boyPants_vhunter_gr_dr:
+  canBuy: 1
+  gold: 1152
+  rating: 3200
+boyPants_winterstl_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+boyPants_winterstl_br:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+boyPants_winterstl_t:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+boyPants_wntrcl_bg:
+  canBuy: 1
+  gold: 1408
+  rating: 3912
+boyPants_wntrcl_blk:
+  canBuy: 1
+  gold: 0
+  rating: 3912
+boyPants_wntrcl_w:
+  canBuy: 1
+  gold: 0
+  rating: 3912
+boyPants_wntrpair:
+  canBuy: 1
+  gold: 112
+  rating: 311
+boyPants_wntrstl_b:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyPants_wntrstl_g:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyPants_wntrstl_r:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyPants_xlace:
+  canBuy: 1
+  gold: 224
+  rating: 622
+boyPants_xmaself:
+  canBuy: 1
+  gold: 192
+  rating: 533
+boyPants_ylwbuddy_bk:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyPants_ylwbuddy_r:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyPants_ylwbuddy_v:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyPantsanime2bl:
+  canBuy: 1
+  gold: 0
+  rating: 5511
+boyPantsanime2gr:
+  canBuy: 1
+  gold: 1856
+  rating: 5156
+boyPantsautumnwarmbk:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyPantsautumnwarmble:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyPantsautumnwarmbr:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyPantsbabibasbl:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+boyPantsbabibasble:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+boyPantsbikerbl:
+  canBuy: 1
+  gold: 0
+  rating: 5394
+boyPantsbikerbr:
+  canBuy: 1
+  gold: 0
+  rating: 4996
+boyPantscapbl:
+  canBuy: 1
+  gold: 0
+  rating: 8889
+boyPantscapdbe:
+  canBuy: 1
+  gold: 3840
+  rating: 10667
+boyPantsdancerble:
+  canBuy: 1
+  gold: 1664
+  rating: 4622
+boyPantsdancerdble:
+  canBuy: 1
+  gold: 1792
+  rating: 4978
+boyPantsdancergr:
+  canBuy: 1
+  gold: 0
+  rating: 4622
+boyPantsgalacticbl:
+  canBuy: 1
+  gold: 1792
+  rating: 4978
+boyPantsgalacticble:
+  canBuy: 1
+  gold: 0
+  rating: 4622
+boyPantsgalacticw:
+  canBuy: 1
+  gold: 0
+  rating: 4622
+boyPantshpble:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyPantshpg:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyPantshpr:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyPantsironmanbl:
+  canBuy: 1
+  gold: 0
+  rating: 8889
+boyPantsironmanr:
+  canBuy: 1
+  gold: 3840
+  rating: 10667
+boyPantslolly:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyPantsmstardancerbl:
+  canBuy: 1
+  gold: 2048
+  rating: 5689
+boyPantsmstardancerble:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+boyPantsmstardancerw:
+  canBuy: 1
+  gold: 1920
+  rating: 5333
+boyPantsmstarvampirebl:
+  canBuy: 1
+  gold: 1789
+  rating: 4978
+boyPantsmstarvampirer:
+  canBuy: 1
+  gold: 1664
+  rating: 4800
+boyPantsmstarvampirew:
+  canBuy: 1
+  gold: 0
+  rating: 4622
+boyPantsneonbl:
+  canBuy: 1
+  gold: 0
+  rating: 4444
+boyPantsneong:
+  canBuy: 1
+  gold: 0
+  rating: 4267
+boyPantsneony:
+  canBuy: 1
+  gold: 0
+  rating: 4444
+boyPantspantspocketsble:
+  canBuy: 1
+  gold: 1799
+  rating: 4796
+boyPantspantspocketsg:
+  canBuy: 1
+  gold: 1799
+  rating: 4996
+boyPantspantspocketsgbl:
+  canBuy: 1
+  gold: 0
+  rating: 5594
+boyPantspartymang:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyPantspartymanr:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+boyPantspartymany:
+  canBuy: 1
+  rating: 3556
+  silver: 128000
+boyPantsqdchb:
+  canBuy: 1
+  gold: 136
+  rating: 378
+boyPantsqdchbk:
+  canBuy: 1
+  gold: 152
+  rating: 422
+boyPantsqdchgr:
+  canBuy: 1
+  gold: 136
+  rating: 378
+boyPantsqusbl:
+  canBuy: 1
+  gold: 184
+  rating: 511
+boyPantsqusdbe:
+  canBuy: 1
+  gold: 184
+  rating: 511
+boyPantsrockabillybl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyPantsrockabillyble:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyPantssalesmanbl:
+  canBuy: 1
+  gold: 104
+  rating: 288
+boyPantssalesmanble:
+  canBuy: 1
+  gold: 104
+  rating: 288
+boyPantssalesmanbr:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+boyPantsschsportbk:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyPantsschsportble:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+boyPantsschsportbr:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+boyPantsschwarm:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyPantsseaboybr:
+  canBuy: 1
+  gold: 0
+  rating: 4267
+boyPantsseaboygr:
+  canBuy: 1
+  gold: 0
+  rating: 4622
+boyPantsseaboyy:
+  canBuy: 1
+  gold: 0
+  rating: 4267
+boyPantsstreetbl:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+boyPantsstreetble:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+boyPantsstreetgr:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+boyPantsstylegr:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+boyPantsstyleor:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+boyPantsstylep:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+boyPantssummer2019bl:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+boyPantssummer2019ble:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+boyPantssummer2019r:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+boyPantswolfmanble:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyPantswolfmangr:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyPantsyappybr:
+  canBuy: 1
+  gold: 0
+  rating: 5156
+boyPantsyappydgr:
+  canBuy: 1
+  gold: 0
+  rating: 5511
+boyPantsyappylgr:
+  canBuy: 1
+  gold: 0
+  rating: 5156
+boyPantyhose_pureelegance_flwr:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+boyPantyhose_pureelegance_snflk:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+boyPantyhose_pureelegance_str:
+  canBuy: 1
+  rating: 1778
+  silver: 0
+boyPantyhose_schlly:
+  canBuy: 1
+  gold: 56
+  rating: 156
+boyPntsGrdnr:
+  canBuy: 1
+  rating: 50
+  silver: 5000
+boyPntsIndn:
+  canBuy: 1
+  gold: 50
+  rating: 139
+  silver: 0
+boyPntsPlgrm:
+  canBuy: 1
+  gold: 25
+  rating: 69
+  silver: 0
+boyPntsScndv:
+  canBuy: 1
+  gold: 200
+  rating: 556
+  silver: 0
+boyPslnBelt1:
+  canBuy: 1
+  gold: 16
+  rating: 32
+boyPslnBelt2:
+  canBuy: 1
+  gold: 14
+  rating: 28
+boyPslnBracelet1:
+  canBuy: 1
+  gold: 7
+  rating: 12
+  silver: 0
+boyPslnBracelet2:
+  canBuy: 1
+  gold: 12
+  rating: 25
+  silver: 0
+boyPslnBracelet3:
+  canBuy: 1
+  gold: 20
+  rating: 56
+  silver: 0
+boyPslnBracelet4:
+  canBuy: 1
+  gold: 21
+  rating: 46
+boyPslnGloves1:
+  canBuy: 1
+  gold: 21
+  rating: 46
+boyPslnGls1:
+  canBuy: 1
+  gold: 300
+  rating: 833
+boyPslnGls2:
+  canBuy: 1
+  gold: 18
+  rating: 36
+  silver: 0
+boyPslnGls3:
+  canBuy: 1
+  gold: 19
+  rating: 38
+  silver: 0
+boyPslnHlm1:
+  canBuy: 1
+  gold: 55
+  rating: 153
+boyPslnHlm2:
+  canBuy: 1
+  gold: 150
+  rating: 417
+boyPslnJckt1:
+  canBuy: 1
+  gold: 7
+  rating: 15
+boyPslnJckt2:
+  canBuy: 1
+  gold: 17
+  rating: 35
+boyPslnJckt3:
+  canBuy: 1
+  gold: 16
+  rating: 32
+boyPslnJckt4:
+  canBuy: 1
+  gold: 55
+  rating: 153
+boyPslnJckt5:
+  canBuy: 1
+  gold: 65
+  rating: 85
+boyPslnMask1:
+  canBuy: 1
+  gold: 24
+  rating: 55
+  silver: 0
+boyPslnMask2:
+  canBuy: 1
+  gold: 0
+  rating: 162
+  silver: 16200
+boyPslnNeck1:
+  canBuy: 1
+  gold: 25
+  rating: 83
+boyPslnNeck10:
+  canBuy: 1
+  gold: 11
+  rating: 22
+boyPslnNeck2:
+  canBuy: 1
+  gold: 5
+  rating: 10
+boyPslnNeck3:
+  canBuy: 1
+  gold: 4
+  rating: 8
+boyPslnNeck4:
+  canBuy: 1
+  gold: 12
+  rating: 25
+boyPslnNeck5:
+  canBuy: 1
+  gold: 15
+  rating: 30
+boyPslnNeck6:
+  canBuy: 1
+  rating: 110
+  silver: 11000
+boyPslnNeck7:
+  canBuy: 1
+  gold: 9
+  rating: 15
+boyPslnNeck8:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyPslnNeck9:
+  canBuy: 1
+  gold: 150
+  rating: 500
+boyPslnPants1:
+  canBuy: 1
+  gold: 21
+  rating: 46
+boyPslnPants2:
+  canBuy: 1
+  gold: 25
+  rating: 55
+boyPslnPants3:
+  canBuy: 1
+  gold: 23
+  rating: 51
+boyPslnPants4:
+  canBuy: 1
+  gold: 50
+  rating: 139
+boyPslnPants5:
+  canBuy: 1
+  gold: 29
+  rating: 65
+boyPslnPants6:
+  canBuy: 1
+  gold: 34
+  rating: 85
+boyPslnPants7:
+  canBuy: 1
+  gold: 37
+  rating: 95
+boyPslnPants8:
+  canBuy: 1
+  gold: 45
+  rating: 115
+boyPslnSh1:
+  canBuy: 1
+  gold: 4
+  rating: 8
+boyPslnSh10:
+  canBuy: 1
+  gold: 21
+  rating: 46
+boyPslnSh11:
+  canBuy: 1
+  rating: 28
+  silver: 27000
+boyPslnSh12:
+  canBuy: 1
+  gold: 27
+  rating: 60
+boyPslnSh2:
+  canBuy: 1
+  gold: 7
+  rating: 15
+boyPslnSh3:
+  canBuy: 1
+  gold: 3
+  rating: 6
+boyPslnSh4:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyPslnSh5:
+  canBuy: 1
+  gold: 9
+  rating: 15
+boyPslnSh6:
+  canBuy: 1
+  gold: 35
+  rating: 90
+boyPslnSh7:
+  canBuy: 1
+  gold: 15
+  rating: 30
+boyPslnSh8:
+  canBuy: 1
+  gold: 14
+  rating: 28
+boyPslnSh9:
+  canBuy: 1
+  gold: 18
+  rating: 36
+boyPslnShirt1:
+  canBuy: 1
+  gold: 19
+  rating: 38
+boyPslnShirt2:
+  canBuy: 1
+  gold: 39
+  rating: 100
+boyPslnShirt3:
+  canBuy: 1
+  gold: 11
+  rating: 22
+boyPslnShirt4:
+  canBuy: 1
+  gold: 40
+  rating: 100
+boyPslnShirt5:
+  canBuy: 1
+  gold: 38
+  rating: 95
+boyPslnShirt6:
+  canBuy: 1
+  gold: 33
+  rating: 85
+boyPslnShirt7:
+  canBuy: 1
+  gold: 39
+  rating: 99
+boyPslnShorts1:
+  canBuy: 1
+  gold: 10
+  rating: 20
+  silver: 0
+boyPslnShorts2:
+  canBuy: 1
+  gold: 22
+  rating: 45
+  silver: 0
+boyPslnSuit1:
+  canBuy: 1
+  gold: 1350
+  rating: 3750
+boyPslnSuit2:
+  canBuy: 1
+  gold: 90
+  rating: 250
+boyPslnSuit3:
+  canBuy: 1
+  gold: 200
+  rating: 556
+boyPslnSuit4:
+  canBuy: 1
+  gold: 18
+  rating: 36
+  silver: 0
+boyPslnSuit5:
+  canBuy: 1
+  gold: 0
+  rating: 188
+  silver: 18800
+boyPslnTail1:
+  canBuy: 1
+  gold: 0
+  rating: 85
+  silver: 8500
+boyPslnTto1:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+boyPslnWtch1:
+  canBuy: 1
+  gold: 14
+  rating: 28
+boyPtsArmy:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyPtsDj:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+boyPtsNvn1:
+  canBuy: 1
+  gold: 0
+  rating: 3888
+boyPtsNvn2:
+  canBuy: 1
+  gold: 0
+  rating: 5248
+boyPtsNvn3:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+boyPurpleGlassesSummer2014:
+  canBuy: 1
+  gold: 863
+  rating: 2397
+boyRbtHelmet:
+  canBuy: 1
+  gold: 0
+  rating: 400
+boyRbtSuit:
+  canBuy: 1
+  gold: 0
+  rating: 1200
+boyRckClock:
+  canBuy: 1
+  gold: 22
+  rating: 61
+boyRckEar:
+  canBuy: 1
+  gold: 36
+  rating: 100
+boyRckJkt:
+  canBuy: 1
+  gold: 93
+  rating: 258
+boyRckNck:
+  canBuy: 1
+  gold: 57
+  rating: 158
+boyRckPants:
+  canBuy: 1
+  gold: 87
+  rating: 242
+boyRckShirt:
+  canBuy: 1
+  gold: 72
+  rating: 200
+boyRckShs:
+  canBuy: 1
+  gold: 65
+  rating: 181
+boyRimEarpBl:
+  canBuy: 1
+  gold: 2100
+  rating: 5832
+boyRimEarpGr:
+  canBuy: 1
+  gold: 0
+  rating: 5832
+boyRimEarpTiger:
+  canBuy: 1
+  gold: 0
+  rating: 5832
+boyRimEarpWh:
+  canBuy: 1
+  gold: 0
+  rating: 5832
+boySMR14Bag:
+  canBuy: 1
+  gold: 25
+  rating: 85
+  silver: 0
+boySMR14Gls:
+  canBuy: 1
+  gold: 50
+  rating: 167
+  silver: 0
+boySMR14Hat:
+  canBuy: 1
+  gold: 19
+  rating: 22
+boySMR14Jckt:
+  canBuy: 1
+  gold: 43
+  rating: 49
+  silver: 0
+boySMR14Neck1:
+  canBuy: 1
+  gold: 38
+  rating: 49
+boySMR14Neck2:
+  canBuy: 1
+  gold: 7
+  rating: 8
+boySMR14Pants:
+  canBuy: 1
+  gold: 26
+  rating: 30
+boySMR14Sh1:
+  canBuy: 1
+  gold: 30
+  rating: 100
+  silver: 0
+boySMR14Sh2:
+  canBuy: 1
+  gold: 14
+  rating: 16
+  silver: 0
+boySMR14Sh3:
+  canBuy: 1
+  gold: 25
+  rating: 29
+  silver: 0
+boySMR14Shirt:
+  canBuy: 1
+  gold: 100
+  rating: 333
+  silver: 0
+boySMR14Shorts1:
+  canBuy: 1
+  gold: 200
+  rating: 667
+  silver: 0
+boySMR14Shorts2:
+  canBuy: 1
+  gold: 36
+  rating: 41
+  silver: 0
+boySMR14TShirt1:
+  canBuy: 1
+  gold: 25
+  rating: 29
+  silver: 0
+boySMR14TShirt2:
+  canBuy: 1
+  gold: 0
+  rating: 37
+  silver: 35000
+boySMR14Wtch1:
+  canBuy: 1
+  gold: 25
+  rating: 33
+boySMR14Wtch2:
+  canBuy: 1
+  rating: 11
+  silver: 10000
+boySV14Armor:
+  canBuy: 1
+  gold: 0
+  rating: 1389
+boySV14Bow:
+  canBuy: 1
+  gold: 0
+  rating: 278
+boySV14Neck:
+  canBuy: 1
+  gold: 0
+  rating: 417
+boySV14Pnts:
+  canBuy: 1
+  gold: 0
+  rating: 833
+boySV14Qvr:
+  canBuy: 1
+  gold: 0
+  rating: 278
+boySV14Shs:
+  canBuy: 1
+  gold: 0
+  rating: 278
+boyScarfEstNnj:
+  canBuy: 1
+  gold: 43
+  rating: 120
+boyScarfModernG:
+  canBuy: 1
+  gold: 0
+  rating: 80
+  silver: 8000
+boyScarfModernbl:
+  canBuy: 1
+  gold: 96
+  rating: 266
+  silver: 0
+boyScarfModernble:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+boyScarfModerntiedbl:
+  canBuy: 1
+  gold: 144
+  rating: 400
+  silver: 0
+boyScarfModerntiedbr:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+boyScarfModerntiedw:
+  canBuy: 1
+  gold: 0
+  rating: 184
+  silver: 18400
+boyScarfVsgst:
+  canBuy: 1
+  gold: 29
+  rating: 80
+boySchlJckt1:
+  canBuy: 1
+  gold: 60
+  rating: 166
+boySchlPants:
+  canBuy: 1
+  gold: 50
+  rating: 166
+  silver: 0
+boySchlShoes:
+  canBuy: 1
+  gold: 30
+  rating: 80
+  silver: 0
+boySchlTShirt:
+  canBuy: 1
+  gold: 55
+  rating: 166
+boyScrfScndv:
+  canBuy: 1
+  gold: 200
+  rating: 556
+boyShirt1:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 830
+boyShirt10:
+  canBuy: 1
+  gold: 0
+  rating: 6
+  silver: 680
+boyShirt11:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+boyShirt12:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 240
+boyShirt13:
+  canBuy: 1
+  gold: 35
+  rating: 40
+  silver: 0
+boyShirt14:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 235
+boyShirt15:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 340
+boyShirt16:
+  canBuy: 1
+  gold: 4
+  rating: 6
+  silver: 0
+boyShirt17:
+  canBuy: 1
+  gold: 42
+  rating: 55
+  silver: 0
+boyShirt18:
+  canBuy: 1
+  gold: 16
+  rating: 32
+  silver: 0
+boyShirt19:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 870
+boyShirt2:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 260
+boyShirt20:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 1260
+boyShirt21:
+  canBuy: 1
+  gold: 0
+  rating: 13
+  silver: 1340
+boyShirt22:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 395
+boyShirt23:
+  canBuy: 1
+  gold: 75
+  rating: 86
+  silver: 0
+boyShirt24:
+  canBuy: 1
+  gold: 300
+  rating: 833
+  silver: 0
+boyShirt25:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 380
+boyShirt26:
+  canBuy: 1
+  gold: 16
+  rating: 32
+  silver: 0
+boyShirt27:
+  canBuy: 1
+  gold: 0
+  rating: 11
+  silver: 1120
+boyShirt28:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 430
+boyShirt3:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 815
+boyShirt4:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+boyShirt5:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+boyShirt6:
+  canBuy: 1
+  gold: 100
+  rating: 278
+  silver: 0
+boyShirt7:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 720
+boyShirt8:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+boyShirt9:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 215
+boyShirtBoxBE:
+  canBuy: 1
+  rating: 38
+  silver: 3800
+boyShirtBoxBL:
+  canBuy: 1
+  rating: 38
+  silver: 3800
+boyShirtBoxR:
+  canBuy: 1
+  rating: 38
+  silver: 3800
+boyShirtPhoto:
+  canBuy: 1
+  gold: 0
+  rating: 119
+boyShirtPrinceAladdin:
+  canBuy: 1
+  gold: 0
+  rating: 4666
+boyShirtPrinceEric:
+  canBuy: 1
+  gold: 0
+  rating: 4860
+boyShirtPrincePhilip:
+  canBuy: 1
+  gold: 11197
+  rating: 31104
+boyShirtStFashionBl:
+  canBuy: 1
+  gold: 24
+  rating: 66
+boyShirtStFashionBle:
+  canBuy: 1
+  gold: 24
+  rating: 66
+boyShirtStFashionGrad:
+  canBuy: 1
+  gold: 32
+  rating: 88
+boyShirtSteamPunk:
+  canBuy: 1
+  gold: 6998
+  rating: 19440
+boyShirt_calmboy_bk_w:
+  canBuy: 1
+  gold: 1613
+  rating: 4480
+boyShirt_calmboy_v_w:
+  canBuy: 1
+  gold: 0
+  rating: 4480
+boyShirt_calmboy_w_ble:
+  canBuy: 1
+  gold: 0
+  rating: 4480
+boyShirt_casualava_g:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyShirt_casualava_r:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyShirt_casualava_w:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyShirt_cozylook_bk_w:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+boyShirt_cozylook_g_y:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+boyShirt_cozylook_gr_w:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+boyShirt_creepycat_beq:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyShirt_creepycat_bk:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyShirt_creepycat_r:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyShirt_crlty:
+  canBuy: 1
+  gold: 200
+  rating: 556
+boyShirt_drkside_bk:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyShirt_drkside_ble:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyShirt_drkside_silver:
+  canBuy: 1
+  rating: 240
+  silver: 14000
+boyShirt_eleggun:
+  canBuy: 1
+  gold: 320
+  rating: 889
+boyShirt_explorer_beq_y:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+boyShirt_explorer_w_bk:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+boyShirt_explorer_w_g:
+  canBuy: 1
+  rating: 208
+  silver: 20800
+boyShirt_frznrl_m_t_bk:
+  canBuy: 1
+  gold: 0
+  rating: 11201
+boyShirt_frznrl_v_ble:
+  canBuy: 1
+  gold: 0
+  rating: 11201
+boyShirt_frznrl_w_ble:
+  canBuy: 1
+  gold: 0
+  rating: 11201
+boyShirt_frznrl_w_l_v:
+  canBuy: 1
+  gold: 0
+  rating: 11201
+boyShirt_frznstl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShirt_hdchck_bk:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+boyShirt_hdchck_g:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+boyShirt_hdchck_gr:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+boyShirt_hgfshn_br_w:
+  canBuy: 1
+  rating: 288
+  silver: 28800
+boyShirt_hgfshn_r_bk:
+  canBuy: 1
+  rating: 288
+  silver: 28800
+boyShirt_hgfshn_w_ble:
+  canBuy: 1
+  rating: 288
+  silver: 28800
+boyShirt_jckstl_gr_br:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyShirt_jckstl_pk_o:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyShirt_jckstl_w_r:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyShirt_jstlk_beq:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyShirt_jstlk_g:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyShirt_jstlk_w:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyShirt_kawaiisport:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+boyShirt_lnlnsslk_ble:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+boyShirt_lnlnsslk_br:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+boyShirt_lnlnsslk_gr:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+boyShirt_neonsmile:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyShirt_neonstyle_bk_p:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyShirt_neonstyle_v_ble:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyShirt_neonstyle_v_y:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyShirt_newset1_bk_r:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyShirt_newset1_w_bk:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyShirt_newset1_w_ble:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyShirt_pairswt:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShirt_polarcold:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyShirt_ponylook_bk_gr:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyShirt_ponylook_bk_v:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyShirt_ponylook_w_ble:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyShirt_pureelegance_ble:
+  canBuy: 1
+  gold: 0
+  rating: 6401
+boyShirt_pureelegance_gr:
+  canBuy: 1
+  gold: 0
+  rating: 6401
+boyShirt_pureelegance_r:
+  canBuy: 1
+  gold: 0
+  rating: 6401
+boyShirt_puzzleboy_bk_w:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+boyShirt_puzzleboy_p_w:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+boyShirt_puzzleboy_w_gr:
+  canBuy: 1
+  gold: 896
+  rating: 2489
+boyShirt_roguestyle:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyShirt_royalking_bk_r:
+  canBuy: 1
+  gold: 3629
+  rating: 10080
+boyShirt_royalking_ble_w:
+  canBuy: 1
+  gold: 0
+  rating: 10080
+boyShirt_royalking_w_ble:
+  canBuy: 1
+  gold: 0
+  rating: 10080
+boyShirt_schoolboy_ble_w:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+boyShirt_schoolboy_r_v:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+boyShirt_schoolboy_w_bk:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+boyShirt_skltnsport_gr:
+  canBuy: 1
+  gold: 0
+  rating: 4001
+boyShirt_skltnsport_w:
+  canBuy: 1
+  gold: 1440
+  rating: 4001
+boyShirt_slsweater_italy:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyShirt_slsweater_mexico:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyShirt_slsweater_poland:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyShirt_slsweater_spain:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyShirt_slsweater_turkey:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyShirt_sportlook_bk:
+  canBuy: 1
+  rating: 136
+  silver: 13600
+boyShirt_sportlook_gr:
+  canBuy: 1
+  rating: 136
+  silver: 13600
+boyShirt_sportlook_w:
+  canBuy: 1
+  rating: 136
+  silver: 13600
+boyShirt_tattolook_bk:
+  canBuy: 1
+  gold: 0
+  rating: 4760
+boyShirt_tattolook_g:
+  canBuy: 1
+  gold: 0
+  rating: 4760
+boyShirt_tattolook_r:
+  canBuy: 1
+  gold: 0
+  rating: 4760
+boyShirt_winterstl_m:
+  canBuy: 1
+  gold: 0
+  rating: 4801
+boyShirt_winterstl_p:
+  canBuy: 1
+  gold: 0
+  rating: 4801
+boyShirt_winterstl_w:
+  canBuy: 1
+  gold: 1728
+  rating: 4801
+boyShirt_winterwlk_ble_w:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyShirt_winterwlk_br_beg:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyShirt_winterwlk_gr_w:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyShirt_wntrmaid_bk_w:
+  canBuy: 1
+  gold: 0
+  rating: 4978
+boyShirt_wntrmaid_br_w:
+  canBuy: 1
+  gold: 0
+  rating: 4978
+boyShirt_wntrmaid_gr_bk_r:
+  canBuy: 1
+  gold: 0
+  rating: 4978
+boyShirt_wntrpair:
+  canBuy: 1
+  gold: 320
+  rating: 889
+boyShirt_wntrstl_b:
+  canBuy: 1
+  gold: 0
+  rating: 4623
+boyShirt_wntrstl_g:
+  canBuy: 1
+  gold: 0
+  rating: 4623
+boyShirt_wntrstl_r:
+  canBuy: 1
+  gold: 0
+  rating: 4623
+boyShirtautumnwarmbk:
+  canBuy: 1
+  rating: 3556
+  silver: 0
+boyShirtautumnwarmbr:
+  canBuy: 1
+  rating: 3556
+  silver: 0
+boyShirtautumnwarmg:
+  canBuy: 1
+  rating: 3556
+  silver: 0
+boyShirtbabibasbl:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+boyShirtbabibasble:
+  canBuy: 1
+  rating: 264
+  silver: 26400
+boyShirtcoloured:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyShirthpble:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyShirthpg:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyShirthpr:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyShirtlolly:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyShirtneonbl:
+  canBuy: 1
+  gold: 0
+  rating: 6044
+boyShirtneong:
+  canBuy: 1
+  gold: 0
+  rating: 5689
+boyShirtneony:
+  canBuy: 1
+  gold: 0
+  rating: 6222
+boyShirtqdchble:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShirtqdchg:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShirtqdchr:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShirtqusbl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShirtqusw:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+boyShirtrockabillybl:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyShirtrockabillyble:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyShirtrockabillyr:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyShirtrollneckbl:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyShirtrollneckble:
+  canBuy: 1
+  gold: 104
+  rating: 288
+boyShirtrollneckbr:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyShirtrollneckprintcol:
+  canBuy: 1
+  gold: 128
+  rating: 355
+boyShirtrollneckprintgr:
+  canBuy: 1
+  gold: 128
+  rating: 355
+boyShirtrollneckr:
+  canBuy: 1
+  gold: 104
+  rating: 288
+boyShirtsCaliforniabe:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+boyShirtsCaliforniag:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+boyShirtsCaliforniao:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+boyShirtsEntertainer:
+  canBuy: 1
+  gold: 0
+  rating: 6993
+  silver: 0
+boyShirtsGrafferbe:
+  canBuy: 1
+  gold: 200
+  rating: 555
+boyShirtsGrafferbl:
+  canBuy: 1
+  gold: 200
+  rating: 555
+boyShirtsGrafferr:
+  canBuy: 1
+  gold: 200
+  rating: 555
+boyShirtsMadridbl:
+  canBuy: 1
+  gold: 96
+  rating: 267
+  silver: 0
+boyShirtsMadriddbe:
+  canBuy: 1
+  rating: 220
+  silver: 22000
+boyShirtsMadridw:
+  canBuy: 1
+  gold: 96
+  rating: 267
+  silver: 0
+boyShirtsMartinibl:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boyShirtsMartinir:
+  canBuy: 1
+  gold: 240
+  rating: 666
+boyShirtsMartiniv:
+  canBuy: 1
+  rating: 640
+  silver: 64000
+boyShirtsMartiniw:
+  canBuy: 1
+  gold: 320
+  rating: 888
+boyShirtsNotesbl:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boyShirtsNotesr:
+  canBuy: 1
+  gold: 240
+  rating: 666
+boyShirtsNotesv:
+  canBuy: 1
+  rating: 640
+  silver: 64000
+boyShirtsNotesw:
+  canBuy: 1
+  gold: 320
+  rating: 888
+boyShirtsParisbl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShirtsParislbe:
+  canBuy: 1
+  rating: 300
+  silver: 30000
+boyShirtsParisw:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+boyShirtsPolicemanble:
+  canBuy: 1
+  rating: 280
+  silver: 28000
+boyShirtsPolicemandarkble:
+  canBuy: 1
+  gold: 264
+  rating: 733
+boyShirtsPulloverchamomile:
+  canBuy: 1
+  gold: 1870
+  rating: 5194
+boyShirtsPulloverdog:
+  canBuy: 1
+  gold: 0
+  rating: 4996
+boyShirtsPulloverhair:
+  canBuy: 1
+  gold: 1799
+  rating: 4996
+boyShirtsPullovermoustache:
+  canBuy: 1
+  gold: 1799
+  rating: 4996
+boyShirtsSV19Be:
+  canBuy: 1
+  gold: 5599
+  rating: 15552
+boyShirtsSV19Bl:
+  canBuy: 1
+  gold: 5599
+  rating: 15552
+boyShirtsSV19W:
+  canBuy: 1
+  gold: 0
+  rating: 15552
+boyShirtsSohobe:
+  canBuy: 1
+  gold: 224
+  rating: 622
+boyShirtsSohobl:
+  canBuy: 1
+  gold: 224
+  rating: 622
+boyShirtsSohor:
+  canBuy: 1
+  gold: 224
+  rating: 622
+boyShirtsTennisbl:
+  canBuy: 1
+  gold: 0
+  rating: 4195
+boyShirtsTennisp:
+  canBuy: 1
+  gold: 0
+  rating: 3596
+boyShirtsTennisw:
+  canBuy: 1
+  gold: 0
+  rating: 3796
+boyShirts_Starter:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShirts_alarm:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShirts_arist_g:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyShirts_arist_p:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+boyShirts_arist_w:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyShirts_arist_y:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyShirts_bluebird:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+boyShirts_brhome_dr:
+  canBuy: 1
+  rating: 64
+  silver: 6400
+boyShirts_brhome_gr:
+  canBuy: 1
+  rating: 64
+  silver: 3840
+boyShirts_brhome_mlk:
+  canBuy: 1
+  rating: 64
+  silver: 6400
+boyShirts_dsc:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyShirts_elegantwntr_be_w:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+boyShirts_elegantwntr_bl_w:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+boyShirts_elegantwntr_w_bl:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+boyShirts_emoji_boss:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+boyShirts_emoji_dead:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+boyShirts_emoji_love:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+boyShirts_emoji_wow:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+boyShirts_frrblck_bk:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyShirts_frrblck_w:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyShirts_frrblck_y:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyShirts_jd_blk_dbr:
+  canBuy: 1
+  gold: 0
+  rating: 4978
+boyShirts_jd_w_beg:
+  canBuy: 1
+  gold: 0
+  rating: 4978
+boyShirts_jd_y_sw:
+  canBuy: 1
+  gold: 0
+  rating: 4978
+boyShirts_jnshlf_ble:
+  canBuy: 1
+  rating: 267
+  silver: 9600
+boyShirts_jnshlf_haki:
+  canBuy: 1
+  gold: 96
+  rating: 267
+boyShirts_jnshlf_y:
+  canBuy: 1
+  gold: 96
+  rating: 267
+boyShirts_muerto:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boyShirts_neonchik_ble:
+  canBuy: 1
+  rating: 136
+  silver: 13600
+boyShirts_neonchik_g:
+  canBuy: 1
+  rating: 136
+  silver: 13600
+boyShirts_neonchik_r:
+  canBuy: 1
+  rating: 136
+  silver: 13600
+boyShirts_osize_bg:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+boyShirts_osize_bk:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+boyShirts_osize_dr:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+boyShirts_prncsday_b:
+  canBuy: 1
+  gold: 0
+  rating: 10668
+boyShirts_prncsday_r:
+  canBuy: 1
+  gold: 0
+  rating: 10668
+boyShirts_prncsday_w:
+  canBuy: 1
+  gold: 3840
+  rating: 10668
+boyShirts_svdcook:
+  canBuy: 1
+  gold: 320
+  rating: 889
+boyShirts_wntrcl_lbr_blk:
+  canBuy: 1
+  gold: 0
+  rating: 4623
+boyShirts_wntrcl_v_blkw:
+  canBuy: 1
+  gold: 1664
+  rating: 4623
+boyShirts_wntrcl_w_lbr:
+  canBuy: 1
+  gold: 0
+  rating: 4623
+boyShirts_xlace:
+  canBuy: 1
+  gold: 176
+  rating: 489
+boyShirtsalesmanbl:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyShirtsalesmanble:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyShirtsalesmany:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyShirtsanime2bl:
+  canBuy: 1
+  gold: 0
+  rating: 6518
+boyShirtsanime2w:
+  canBuy: 1
+  gold: 0
+  rating: 6518
+boyShirtsbadboybl:
+  canBuy: 1
+  gold: 0
+  rating: 1244
+boyShirtsbadboyv:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+boyShirtsbadboyw:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+boyShirtsbikerbl:
+  canBuy: 1
+  gold: 0
+  rating: 6394
+boyShirtsbikerble:
+  canBuy: 1
+  gold: 0
+  rating: 5994
+boyShirtsbikerplainbl:
+  canBuy: 1
+  gold: 0
+  rating: 3996
+boyShirtsbikerplainble:
+  canBuy: 1
+  gold: 0
+  rating: 4396
+boyShirtsbogemian:
+  canBuy: 1
+  rating: 224
+  silver: 22400
+boyShirtsbogemiano:
+  canBuy: 1
+  gold: 200
+  rating: 555
+boyShirtsbogemiany:
+  canBuy: 1
+  gold: 200
+  rating: 555
+boyShirtscapbl:
+  canBuy: 1
+  gold: 0
+  rating: 8889
+boyShirtscapdbe:
+  canBuy: 1
+  gold: 3840
+  rating: 10667
+boyShirtschsportbk:
+  canBuy: 1
+  rating: 3023
+  silver: 0
+boyShirtschsportble:
+  canBuy: 1
+  rating: 2667
+  silver: 0
+boyShirtschsporty:
+  canBuy: 1
+  rating: 2667
+  silver: 0
+boyShirtschwarm:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShirtsdancerbl:
+  canBuy: 1
+  gold: 1664
+  rating: 4622
+boyShirtsdancerble:
+  canBuy: 1
+  gold: 0
+  rating: 4267
+boyShirtsdanceror:
+  canBuy: 1
+  gold: 0
+  rating: 4267
+boyShirtsgalacticbl:
+  canBuy: 1
+  gold: 2432
+  rating: 6756
+boyShirtsgalacticble:
+  canBuy: 1
+  gold: 0
+  rating: 6400
+boyShirtsgalacticw:
+  canBuy: 1
+  gold: 0
+  rating: 6400
+boyShirtsgotdragon:
+  canBuy: 1
+  gold: 0
+  rating: 6578
+boyShirtsgotlion:
+  canBuy: 1
+  gold: 0
+  rating: 6578
+boyShirtsgotoctopus:
+  canBuy: 1
+  gold: 0
+  rating: 6578
+boyShirtsgotwolf:
+  canBuy: 1
+  gold: 0
+  rating: 6044
+boyShirtslotus:
+  canBuy: 1
+  gold: 192
+  rating: 533
+boyShirtsmstardancerbl:
+  canBuy: 1
+  gold: 0
+  rating: 8533
+boyShirtsmstardancerr:
+  canBuy: 1
+  gold: 2944
+  rating: 8178
+boyShirtsmstardancerw:
+  canBuy: 1
+  gold: 2944
+  rating: 8178
+boyShirtsmstarvampirebl:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+boyShirtsmstarvampirer:
+  canBuy: 1
+  gold: 384
+  rating: 1067
+boyShirtsmstarvampirew:
+  canBuy: 1
+  gold: 0
+  rating: 1067
+boyShirtsnyashbl:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+boyShirtsnyashbr:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyShirtsnyashw:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyShirtspartymanble:
+  canBuy: 1
+  gold: 2880
+  rating: 8000
+boyShirtspartymangr:
+  canBuy: 1
+  gold: 0
+  rating: 7822
+boyShirtspartymany:
+  canBuy: 1
+  gold: 0
+  rating: 8000
+boyShirtsrose:
+  canBuy: 1
+  gold: 208
+  rating: 577
+boyShirtsseaboybr:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+boyShirtsseaboygr:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+boyShirtsseaboyy:
+  canBuy: 1
+  gold: 0
+  rating: 4444
+boyShirtsstreetbl:
+  canBuy: 1
+  gold: 0
+  rating: 1173
+boyShirtsstreetgr:
+  canBuy: 1
+  gold: 0
+  rating: 1173
+boyShirtsstreetw:
+  canBuy: 1
+  gold: 0
+  rating: 1173
+boyShirtsstylebr:
+  canBuy: 1
+  gold: 0
+  rating: 7822
+boyShirtsstylegr:
+  canBuy: 1
+  gold: 0
+  rating: 8356
+boyShirtsstylew:
+  canBuy: 1
+  gold: 3200
+  rating: 8889
+boyShirtssummer2019ble:
+  canBuy: 1
+  gold: 1760
+  rating: 4889
+boyShirtssummer2019w:
+  canBuy: 1
+  gold: 0
+  rating: 4889
+boyShirtssummer2019w2:
+  canBuy: 1
+  gold: 0
+  rating: 4889
+boyShirtsummer2k19bl:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+boyShirtsummer2k19r:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+boyShirtsummer2k19w:
+  canBuy: 1
+  gold: 0
+  rating: 5265
+boyShirtswolfmangr:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyShirtswolfmanw:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyShirtsyappybl:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+boyShirtsyappyw:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+boyShirtsyappyy:
+  canBuy: 1
+  gold: 0
+  rating: 2844
+boyShoes1:
+  canBuy: 1
+  gold: 3
+  rating: 5
+  silver: 0
+boyShoes10:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 270
+boyShoes11:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 220
+boyShoes12:
+  canBuy: 1
+  gold: 0
+  rating: 11
+  silver: 10000
+boyShoes13:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+boyShoes14:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 420
+boyShoes15:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 200
+boyShoes16:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 465
+boyShoes17:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+boyShoes18:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 255
+boyShoes19:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 765
+boyShoes2:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 560
+boyShoes20:
+  canBuy: 1
+  gold: 20
+  rating: 23
+  silver: 0
+boyShoes21:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 270
+boyShoes3:
+  canBuy: 1
+  gold: 3
+  rating: 5
+  silver: 0
+boyShoes4:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 235
+boyShoes5:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+boyShoes6:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 480
+boyShoes7:
+  canBuy: 1
+  gold: 0
+  rating: 6
+  silver: 620
+boyShoes8:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 260
+boyShoes80outfitb:
+  canBuy: 1
+  gold: 192
+  rating: 533
+boyShoes80outfitble:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyShoes80outfitw:
+  canBuy: 1
+  gold: 192
+  rating: 533
+boyShoes9:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 150
+boyShoesCaliforniabe:
+  canBuy: 1
+  gold: 0
+  rating: 2633
+boyShoesCaliforniag:
+  canBuy: 1
+  gold: 0
+  rating: 2633
+boyShoesCaliforniao:
+  canBuy: 1
+  gold: 0
+  rating: 2633
+boyShoesEntertainer:
+  canBuy: 1
+  gold: 0
+  rating: 2397
+boyShoesGrafferbe:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShoesGrafferbl:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShoesGrafferr:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShoesNewYearFatherFrost_br:
+  canBuy: 1
+  gold: 0
+  rating: 1
+boyShoesParisbl:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyShoesParislbe:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShoesParisw:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+boyShoesPolicemanbl:
+  canBuy: 1
+  rating: 96
+  silver: 9600
+boyShoesPrinceAladdin:
+  canBuy: 1
+  gold: 0
+  rating: 2333
+boyShoesPrinceEric:
+  canBuy: 1
+  gold: 0
+  rating: 1944
+boyShoesPrincePhilip:
+  canBuy: 1
+  gold: 0
+  rating: 3888
+boyShoesRab1:
+  canBuy: 1
+  gold: 999999
+  rating: 10
+  silver: 0
+boyShoesShoelacesBl:
+  canBuy: 1
+  gold: 1655
+  rating: 4596
+boyShoesShoelacesR:
+  canBuy: 1
+  gold: 0
+  rating: 3996
+boyShoesShoelacesble:
+  canBuy: 1
+  gold: 1655
+  rating: 3996
+boyShoesSohobl:
+  canBuy: 1
+  gold: 96
+  rating: 266
+boyShoesSohodbe:
+  canBuy: 1
+  gold: 96
+  rating: 266
+boyShoesSohodr:
+  canBuy: 1
+  gold: 96
+  rating: 266
+boyShoesSteamPunk:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+boyShoesThlBl:
+  canBuy: 1
+  gold: 1555
+  rating: 7776
+boyShoesThlWh:
+  canBuy: 1
+  gold: 1555
+  rating: 7776
+boyShoes_Starter:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShoes_artsystyle:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyShoes_ascetic:
+  canBuy: 1
+  gold: 200
+  rating: 556
+boyShoes_atmct_br:
+  canBuy: 1
+  gold: 140
+  rating: 389
+boyShoes_atmct_dble:
+  canBuy: 1
+  gold: 140
+  rating: 389
+boyShoes_atmct_dr:
+  canBuy: 1
+  gold: 140
+  rating: 389
+boyShoes_atmn2019_bk:
+  canBuy: 1
+  rating: 220
+  silver: 22000
+boyShoes_atmn2019_br:
+  canBuy: 1
+  rating: 220
+  silver: 22000
+boyShoes_atmn2019_g:
+  canBuy: 1
+  rating: 220
+  silver: 22000
+boyShoes_bdssstl_bk_r:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+boyShoes_bdssstl_bk_w:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+boyShoes_bdssstl_br_o:
+  canBuy: 1
+  rating: 128
+  silver: 12800
+boyShoes_beltstl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShoes_bigcity:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShoes_bluebird:
+  canBuy: 1
+  gold: 200
+  rating: 556
+boyShoes_calmboy_ble_bk:
+  canBuy: 1
+  gold: 0
+  rating: 3422
+boyShoes_calmboy_r_bk:
+  canBuy: 1
+  gold: 0
+  rating: 3422
+boyShoes_calmboy_v_bk:
+  canBuy: 1
+  gold: 0
+  rating: 3422
+boyShoes_casualava_br:
+  canBuy: 1
+  rating: 172
+  silver: 17200
+boyShoes_casualava_r:
+  canBuy: 1
+  rating: 172
+  silver: 17200
+boyShoes_casualava_w:
+  canBuy: 1
+  rating: 172
+  silver: 17200
+boyShoes_casualwinter:
+  canBuy: 1
+  gold: 1408
+  rating: 3912
+boyShoes_cozyhome:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShoes_creepycat_beq_bk:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyShoes_creepycat_ble_beq:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyShoes_creepycat_w_ble:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyShoes_crlty:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyShoes_drkside_bk:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyShoes_drkside_ble:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyShoes_drkside_silver:
+  canBuy: 1
+  rating: 160
+  silver: 8800
+boyShoes_elecorn:
+  canBuy: 1
+  gold: 200
+  rating: 556
+boyShoes_elegantwntr:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+boyShoes_eleggun:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyShoes_explorer_bk_gr:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyShoes_explorer_br:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyShoes_explorer_g:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyShoes_frznrl_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3023
+boyShoes_frznrl_l:
+  canBuy: 1
+  gold: 0
+  rating: 3023
+boyShoes_frznrl_m:
+  canBuy: 1
+  gold: 0
+  rating: 3023
+boyShoes_frznstl:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyShoes_gbstr_g:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyShoes_gbstr_o:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyShoes_gbstr_y:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyShoes_hgfshn:
+  canBuy: 1
+  rating: 112
+  silver: 11200
+boyShoes_imp:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+boyShoes_jd:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+boyShoes_jstlk_br:
+  canBuy: 1
+  rating: 104
+  silver: 10400
+boyShoes_jstlk_d_br:
+  canBuy: 1
+  rating: 104
+  silver: 10400
+boyShoes_jstlk_gr_bk:
+  canBuy: 1
+  rating: 104
+  silver: 10400
+boyShoes_lavaset:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShoes_neonbeat:
+  canBuy: 1
+  gold: 176
+  rating: 489
+boyShoes_neonchik_ble:
+  canBuy: 1
+  rating: 88
+  silver: 8800
+boyShoes_neonchik_g:
+  canBuy: 1
+  rating: 88
+  silver: 8800
+boyShoes_neonchik_r:
+  canBuy: 1
+  rating: 88
+  silver: 8800
+boyShoes_neonsmile:
+  canBuy: 1
+  gold: 216
+  rating: 600
+boyShoes_neonstyle_bk_y:
+  canBuy: 1
+  rating: 188
+  silver: 18800
+boyShoes_neonstyle_ble:
+  canBuy: 1
+  rating: 188
+  silver: 18800
+boyShoes_neonstyle_p_w:
+  canBuy: 1
+  rating: 188
+  silver: 18800
+boyShoes_newset1_bk:
+  canBuy: 1
+  rating: 152
+  silver: 15200
+boyShoes_newset1_bk_w:
+  canBuy: 1
+  rating: 152
+  silver: 15200
+boyShoes_polarcold:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShoes_ponylook_bk_ble:
+  canBuy: 1
+  rating: 148
+  silver: 14800
+boyShoes_ponylook_bk_gr:
+  canBuy: 1
+  rating: 148
+  silver: 14800
+boyShoes_ponylook_w_bk:
+  canBuy: 1
+  rating: 148
+  silver: 14800
+boyShoes_prncsday_blk:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+boyShoes_prncsday_w:
+  canBuy: 1
+  gold: 1152
+  rating: 3200
+boyShoes_pump:
+  canBuy: 1
+  gold: 100
+  rating: 278
+boyShoes_pureelegance_ble:
+  canBuy: 1
+  gold: 0
+  rating: 2845
+boyShoes_pureelegance_gr:
+  canBuy: 1
+  gold: 0
+  rating: 2845
+boyShoes_pureelegance_r:
+  canBuy: 1
+  gold: 0
+  rating: 2845
+boyShoes_puzzleboy_v_bk:
+  canBuy: 1
+  gold: 0
+  rating: 2985
+boyShoes_puzzleboy_w_bk:
+  canBuy: 1
+  gold: 0
+  rating: 2985
+boyShoes_puzzleboy_y_bk:
+  canBuy: 1
+  gold: 1075
+  rating: 2985
+boyShoes_roguestyle:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShoes_royalking_bk:
+  canBuy: 1
+  gold: 0
+  rating: 3920
+boyShoes_royalking_br:
+  canBuy: 1
+  gold: 0
+  rating: 3920
+boyShoes_skltnsport_gr:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+boyShoes_skltnsport_w:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+boyShoes_sportlook_bk:
+  canBuy: 1
+  rating: 196
+  silver: 19600
+boyShoes_sportlook_gr:
+  canBuy: 1
+  rating: 196
+  silver: 19600
+boyShoes_sportlook_w:
+  canBuy: 1
+  rating: 196
+  silver: 19600
+boyShoes_svdcook:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyShoes_tattolook_bk_ble:
+  canBuy: 1
+  gold: 0
+  rating: 4480
+boyShoes_tattolook_bk_g:
+  canBuy: 1
+  gold: 0
+  rating: 4480
+boyShoes_tattolook_r_bk:
+  canBuy: 1
+  gold: 0
+  rating: 4480
+boyShoes_vhunter_bk:
+  canBuy: 1
+  gold: 1024
+  rating: 2845
+boyShoes_vhunter_br:
+  canBuy: 1
+  gold: 0
+  rating: 2845
+boyShoes_vhunter_dr:
+  canBuy: 1
+  gold: 1024
+  rating: 2845
+boyShoes_vmp:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+boyShoes_winterstl:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+boyShoes_winterwlk:
+  canBuy: 1
+  rating: 176
+  silver: 17600
+boyShoes_wntrmaid_bk_y:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+boyShoes_wntrmaid_w_y:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+boyShoes_wntrpair:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShoes_wntrstl:
+  canBuy: 1
+  gold: 0
+  rating: 2134
+boyShoes_xmaself:
+  canBuy: 1
+  gold: 112
+  rating: 311
+boyShoes_xmsdr:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShoes_ylwbuddy_bk:
+  canBuy: 1
+  gold: 180
+  rating: 500
+boyShoes_ylwbuddy_r:
+  canBuy: 1
+  gold: 180
+  rating: 500
+boyShoes_ylwbuddy_v:
+  canBuy: 1
+  gold: 180
+  rating: 500
+boyShoesanime2lbr:
+  canBuy: 1
+  gold: 0
+  rating: 4267
+boyShoesautumnwarmbk:
+  canBuy: 1
+  gold: 0
+  rating: 1778
+boyShoesautumnwarmbr:
+  canBuy: 1
+  gold: 0
+  rating: 1600
+boyShoesautumnwarmg:
+  canBuy: 1
+  gold: 0
+  rating: 1600
+boyShoesbabibasbl:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+boyShoesbabibasw:
+  canBuy: 1
+  rating: 192
+  silver: 19200
+boyShoesbadboybl:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+boyShoesbadboyv:
+  canBuy: 1
+  gold: 0
+  rating: 3733
+boyShoesbadboyw:
+  canBuy: 1
+  gold: 0
+  rating: 3733
+boyShoesbikerbl:
+  canBuy: 1
+  gold: 503
+  rating: 1398
+boyShoesbikerbr:
+  canBuy: 1
+  gold: 0
+  rating: 1198
+boyShoescapbr:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyShoescapr:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+boyShoesdancerbl:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+boyShoesdancerble:
+  canBuy: 1
+  gold: 832
+  rating: 2311
+boyShoesdanceror:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+boyShoesgalacticble:
+  canBuy: 1
+  gold: 0
+  rating: 4622
+boyShoesgalacticr:
+  canBuy: 1
+  gold: 1664
+  rating: 4622
+boyShoesgalacticw:
+  canBuy: 1
+  gold: 1792
+  rating: 4978
+boyShoeshpblack:
+  canBuy: 1
+  rating: 220
+  silver: 22000
+boyShoeshpbrown:
+  canBuy: 1
+  rating: 220
+  silver: 22000
+boyShoeshpgrey:
+  canBuy: 1
+  rating: 220
+  silver: 22000
+boyShoesironmanbl:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyShoesironmanr:
+  canBuy: 1
+  gold: 1920
+  rating: 5333
+boyShoeslolly:
+  canBuy: 1
+  gold: 200
+  rating: 556
+boyShoesmoccasinsbl:
+  canBuy: 1
+  gold: 0
+  rating: 3022
+boyShoesmoccasinsble:
+  canBuy: 1
+  gold: 0
+  rating: 2844
+boyShoesmoccasinsv:
+  canBuy: 1
+  gold: 0
+  rating: 2844
+boyShoesmstardancerbl:
+  canBuy: 1
+  gold: 0
+  rating: 3022
+boyShoesmstardancerr:
+  canBuy: 1
+  gold: 1088
+  rating: 3022
+boyShoesmstardancerw:
+  canBuy: 1
+  gold: 0
+  rating: 2844
+boyShoesmstarvampirebl:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+boyShoesmstarvampirer:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyShoesmstarvampirew:
+  canBuy: 1
+  gold: 1408
+  rating: 3556
+boyShoesneonbl:
+  canBuy: 1
+  gold: 0
+  rating: 3378
+boyShoesneong:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+boyShoesneony:
+  canBuy: 1
+  gold: 1222
+  rating: 3556
+boyShoesnyashbl:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyShoesnyashbr:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+boyShoesnyashw:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+boyShoespartymang:
+  canBuy: 1
+  gold: 0
+  rating: 4444
+boyShoespartymanr:
+  canBuy: 1
+  gold: 1600
+  rating: 4444
+boyShoespartymany:
+  canBuy: 1
+  gold: 0
+  rating: 4444
+boyShoesqdchble:
+  canBuy: 1
+  gold: 128
+  rating: 356
+boyShoesqdchbr:
+  canBuy: 1
+  gold: 128
+  rating: 356
+boyShoesqdchg:
+  canBuy: 1
+  gold: 128
+  rating: 356
+boyShoesqusbr:
+  canBuy: 1
+  gold: 128
+  rating: 355
+boyShoesqusgr:
+  canBuy: 1
+  gold: 144
+  rating: 400
+boyShoesrabbit:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+boyShoesrockabillybl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShoesrockabillybr:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShoesrockabillyr:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShoessalesmanbl:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShoessalesmanbr:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShoessalesmanw:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyShoesschsportble:
+  canBuy: 1
+  rating: 889
+  silver: 0
+boyShoesschsportw:
+  canBuy: 1
+  rating: 889
+  silver: 0
+boyShoesschsporty:
+  canBuy: 1
+  rating: 889
+  silver: 0
+boyShoesschwarm:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyShoesseaboybr:
+  canBuy: 1
+  gold: 0
+  rating: 2133
+boyShoesseaboygr:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+boyShoesseaboyy:
+  canBuy: 1
+  gold: 0
+  rating: 2489
+boyShoesslipponsbler:
+  canBuy: 1
+  gold: 180
+  rating: 500
+boyShoesslipponsblw:
+  canBuy: 1
+  gold: 320
+  rating: 889
+boyShoesslipponsblw2:
+  canBuy: 1
+  gold: 200
+  rating: 556
+boyShoesstreetbl:
+  canBuy: 1
+  gold: 0
+  rating: 4267
+boyShoesstreetgd:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+boyShoesstreetsi:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+boyShoesstylebl:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyShoesstyleor:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+boyShoesstyler:
+  canBuy: 1
+  gold: 1472
+  rating: 4089
+boyShoessummer2019bl:
+  canBuy: 1
+  gold: 0
+  rating: 2133
+boyShoessummer2019ble:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+boyShoessummer2019r:
+  canBuy: 1
+  gold: 0
+  rating: 1422
+boyShoessummer2k19bl:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+boyShoessummer2k19ble:
+  canBuy: 1
+  gold: 0
+  rating: 4037
+boyShoessummer2k19br:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+boyShoeswolfmanbl:
+  canBuy: 1
+  gold: 184
+  rating: 511
+boyShoeswolfmanbr:
+  canBuy: 1
+  gold: 184
+  rating: 511
+boyShoesyappybl:
+  canBuy: 1
+  gold: 1728
+  rating: 4800
+boyShoesyappylbr:
+  canBuy: 1
+  gold: 0
+  rating: 4267
+boyShoesyappyw:
+  canBuy: 1
+  gold: 1728
+  rating: 4800
+boyShortBoxBE:
+  canBuy: 1
+  rating: 60
+  silver: 6000
+boyShortBoxBL:
+  canBuy: 1
+  rating: 60
+  silver: 6000
+boyShortBoxR:
+  canBuy: 1
+  rating: 60
+  silver: 6000
+boyShortsCaliforniabe:
+  canBuy: 1
+  gold: 0
+  rating: 6143
+boyShortsCaliforniag:
+  canBuy: 1
+  gold: 0
+  rating: 6143
+boyShortsCaliforniao:
+  canBuy: 1
+  gold: 0
+  rating: 6143
+boyShortsStFashion2bl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShortsStFashion2ble:
+  canBuy: 1
+  gold: 144
+  rating: 400
+boyShortsStFashion2gr:
+  canBuy: 1
+  gold: 144
+  rating: 400
+boyShortsSummer2014:
+  canBuy: 1
+  gold: 0
+  rating: 2797
+boyShortsTennisbl:
+  canBuy: 1
+  gold: 0
+  rating: 3496
+boyShortsTennisgr:
+  canBuy: 1
+  gold: 0
+  rating: 2597
+boyShortsTennisw:
+  canBuy: 1
+  gold: 0
+  rating: 2797
+boyShortsTornBl:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyShortsTornBle:
+  canBuy: 1
+  gold: 136
+  rating: 377
+boyShortsTornBle2:
+  canBuy: 1
+  gold: 128
+  rating: 355
+boyShortsTornGr:
+  canBuy: 1
+  rating: 136
+  silver: 13600
+boyShortsbadboybl:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+boyShortsbadboyble:
+  canBuy: 1
+  gold: 0
+  rating: 4267
+boyShortsbadboyble2:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+boyShortsnyashbl:
+  canBuy: 1
+  gold: 0
+  rating: 4089
+boyShortsnyashg:
+  canBuy: 1
+  gold: 0
+  rating: 3733
+boyShortsnyashv:
+  canBuy: 1
+  gold: 0
+  rating: 3911
+boyShortsshortwithpocketbl:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShortsshortwithpocketg:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyShortsshortwithpockety:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyShortssummer2k19bl:
+  canBuy: 1
+  gold: 0
+  rating: 4739
+boyShortssummer2k19ble:
+  canBuy: 1
+  gold: 0
+  rating: 4739
+boyShortssummer2k19r:
+  canBuy: 1
+  gold: 0
+  rating: 4739
+boyShrtArmy:
+  canBuy: 1
+  gold: 104
+  rating: 289
+boyShrtBwtBlr:
+  canBuy: 1
+  gold: 200
+  rating: 555
+boyShrtBwtGrble:
+  canBuy: 1
+  rating: 240
+  silver: 24000
+boyShrtBwtRbl:
+  canBuy: 1
+  gold: 144
+  rating: 400
+boyShrtBwtWbl:
+  canBuy: 1
+  gold: 200
+  rating: 555
+boyShrtBwtWble:
+  canBuy: 1
+  rating: 320
+  silver: 32000
+boyShrtDjBk:
+  canBuy: 1
+  rating: 92
+  silver: 9200
+boyShrtDjBr:
+  canBuy: 1
+  rating: 120
+  silver: 12000
+boyShrtNvn1:
+  canBuy: 1
+  gold: 1399
+  rating: 3888
+boyShrtNvn2:
+  canBuy: 1
+  gold: 2169
+  rating: 6026
+boyShrtNvn3:
+  canBuy: 1
+  gold: 0
+  rating: 11664
+boyShsArmy:
+  canBuy: 1
+  gold: 52
+  rating: 144
+boyShsBoxBE:
+  canBuy: 1
+  gold: 96
+  rating: 267
+boyShsBoxBL:
+  canBuy: 1
+  gold: 96
+  rating: 267
+boyShsBoxR:
+  canBuy: 1
+  gold: 96
+  rating: 267
+boyShsCat:
+  canBuy: 1
+  gold: 200
+  rating: 556
+boyShsChemis:
+  canBuy: 1
+  gold: 0
+  rating: 158
+boyShsCslFrnt:
+  canBuy: 1
+  gold: 100
+  rating: 278
+  silver: 0
+boyShsDj:
+  canBuy: 1
+  rating: 48
+  silver: 4800
+boyShsIndn:
+  canBuy: 1
+  gold: 50
+  rating: 139
+  silver: 0
+boyShsNvn1:
+  canBuy: 1
+  gold: 559
+  rating: 1555
+boyShsNvn2:
+  canBuy: 1
+  gold: 0
+  rating: 1749
+boyShsNvn3:
+  canBuy: 1
+  gold: 0
+  rating: 2332
+boyShsPanda:
+  canBuy: 1
+  rating: 250
+  silver: 25000
+boyShsPhoto:
+  canBuy: 1
+  gold: 0
+  rating: 158
+boyShsPikachu:
+  canBuy: 1
+  rating: 80
+  silver: 8000
+boyShsPlgrm:
+  canBuy: 1
+  gold: 10
+  rating: 28
+  silver: 0
+boyShsScndv:
+  canBuy: 1
+  gold: 150
+  rating: 417
+  silver: 0
+boyShsUnicorn:
+  canBuy: 1
+  gold: 300
+  rating: 833
+boyShurikenEstNnj:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+boySkin_lovegorgoyle:
+  canBuy: 1
+  gold: 3200
+  rating: 8890
+boySkin_scarydoll:
+  canBuy: 1
+  gold: 0
+  rating: 889
+boySmrAcs:
+  canBuy: 1
+  gold: 0
+  rating: 800
+boySmrHelmet:
+  canBuy: 1
+  gold: 0
+  rating: 400
+boySmrSuit:
+  canBuy: 1
+  gold: 0
+  rating: 2000
+boySnwGlasses:
+  canBuy: 1
+  gold: 29
+  rating: 80
+boySnwGloves:
+  canBuy: 1
+  gold: 29
+  rating: 80
+boySnwHat:
+  canBuy: 1
+  gold: 29
+  rating: 80
+boySnwJacket:
+  canBuy: 1
+  gold: 72
+  rating: 200
+boySnwPants:
+  canBuy: 1
+  gold: 43
+  rating: 120
+boySnwShoesB:
+  canBuy: 1
+  gold: 43
+  rating: 120
+boySnwTShirt:
+  canBuy: 1
+  gold: 43
+  rating: 120
+boySocksBear:
+  canBuy: 1
+  gold: 32
+  rating: 89
+boySocksFootball:
+  canBuy: 1
+  gold: 24
+  rating: 67
+boySocksTiger:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boySocksWolf:
+  canBuy: 1
+  gold: 32
+  rating: 89
+boySpHr:
+  canBuy: 1
+  gold: 1440
+  rating: 4000
+boyStP4:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyStPHat:
+  canBuy: 1
+  gold: 160
+  rating: 444
+boyStPScarf:
+  canBuy: 1
+  gold: 88
+  rating: 244
+  silver: 0
+boyStrnge:
+  canBuy: 1
+  gold: 4320
+  rating: 12000
+boySuitCat:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boySuitChemis:
+  canBuy: 1
+  gold: 0
+  rating: 2000
+boySuitElectroman:
+  canBuy: 1
+  gold: 10070
+  rating: 27972
+boySuitGrinchPink:
+  canBuy: 1
+  gold: 9798
+  rating: 27216
+boySuitPanda:
+  canBuy: 1
+  rating: 675
+  silver: 67500
+boySuitPikachu:
+  canBuy: 1
+  rating: 585
+  silver: 58500
+boySuitUnicorn:
+  canBuy: 1
+  gold: 600
+  rating: 1667
+boySuit_catstyle_w_bk:
+  canBuy: 1
+  rating: 560
+  silver: 56000
+boySuit_catstyle_w_ble:
+  canBuy: 1
+  rating: 560
+  silver: 56000
+boySuit_catstyle_w_r:
+  canBuy: 1
+  rating: 560
+  silver: 56000
+boySuit_gang_bk:
+  canBuy: 1
+  rating: 640
+  silver: 64000
+boySuit_gang_br:
+  canBuy: 1
+  rating: 640
+  silver: 64000
+boySuit_layers_br:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boySuit_layers_gr:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boySuit_layers_haki:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boySuit_lovegorgoyle_bk:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boySuit_lovegorgoyle_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boySuit_lovegorgoyle_w:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+boySuit_mlfcnt:
+  canBuy: 1
+  gold: 320
+  rating: 889
+boySuit_neonbeat:
+  canBuy: 1
+  gold: 288
+  rating: 800
+boySuit_pntroutfit:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+boySuit_scaryclown:
+  canBuy: 1
+  gold: 720
+  rating: 2000
+boySuit_scarydoll:
+  canBuy: 1
+  gold: 0
+  rating: 556
+boySuit_schlly:
+  canBuy: 1
+  gold: 560
+  rating: 1556
+boySuit_slrst_l_ble:
+  canBuy: 1
+  rating: 10668
+  silver: 0
+boySuit_slrst_w_bk:
+  canBuy: 1
+  rating: 10668
+  silver: 0
+boySuit_slrst_w_r:
+  canBuy: 1
+  rating: 10668
+  silver: 0
+boySuit_vmp:
+  canBuy: 1
+  gold: 3200
+  rating: 8890
+boySuit_xmsdr:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+boySuiteGrinch:
+  canBuy: 1
+  gold: 240
+  rating: 667
+boySuitjeansandshirtbl:
+  canBuy: 1
+  gold: 800
+  rating: 2222
+boySuitjeansandshirtble:
+  canBuy: 1
+  gold: 560
+  rating: 1556
+boySuitjeansandshirtr:
+  canBuy: 1
+  gold: 520
+  rating: 1444
+boySuitsCycldbl:
+  canBuy: 1
+  gold: 520
+  rating: 1444
+boySuitsCycly:
+  canBuy: 1
+  gold: 560
+  rating: 1555
+boySuitsElectromanblack:
+  canBuy: 1
+  gold: 10070
+  rating: 27972
+boySuits_bldoctor:
+  canBuy: 1
+  gold: 3840
+  rating: 10668
+boySuits_elecorn:
+  canBuy: 1
+  gold: 600
+  rating: 1667
+boySuits_gbstr_bg:
+  canBuy: 1
+  gold: 0
+  rating: 11557
+boySuits_gbstr_haki:
+  canBuy: 1
+  gold: 0
+  rating: 11557
+boySuits_gbstr_o:
+  canBuy: 1
+  gold: 0
+  rating: 11557
+boySuits_imp:
+  canBuy: 1
+  gold: 6401
+  rating: 17780
+boySuits_pmpjack:
+  canBuy: 1
+  gold: 3840
+  rating: 10668
+boySuitsgotbl:
+  canBuy: 1
+  gold: 5760
+  rating: 16000
+boySuitsgotgr:
+  canBuy: 1
+  gold: 0
+  rating: 16000
+boySuitshoodielongbl:
+  canBuy: 1
+  gold: 4480
+  rating: 12444
+boySuitshoodielongble:
+  canBuy: 1
+  gold: 0
+  rating: 10667
+boySuitshoodielongv:
+  canBuy: 1
+  gold: 0
+  rating: 10667
+boySuitskigurumirabbit:
+  canBuy: 1
+  gold: 4480
+  rating: 12444
+boySwimsuit1:
+  canBuy: 1
+  gold: 100
+  rating: 278
+  silver: 0
+boySwimsuit2:
+  canBuy: 1
+  gold: 18
+  rating: 36
+  silver: 0
+boySwimsuit3:
+  canBuy: 1
+  gold: 0
+  rating: 6
+  silver: 690
+boySwimsuit4:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 420
+boySwimsuit5:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 350
+boySwimsuit6:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+boySwimsuit7:
+  canBuy: 1
+  gold: 6
+  rating: 12
+  silver: 0
+boySwimsuit8:
+  canBuy: 1
+  rating: 23
+  silver: 22000
+boySwimsuit9:
+  canBuy: 1
+  gold: 95
+  rating: 124
+boySwimsuitshortshearts:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+boySwimsuitshortsleaves:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+boySwimsuitshortsstrips:
+  canBuy: 1
+  gold: 0
+  rating: 4388
+boySwimsuitshortstripsble:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+boySwimsuitshortstripscolored:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+boySwimsuitshortstripsr:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+boySwimwearshortscutbl:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+boySwimwearshortscutble:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+boySwimwearshortscutv:
+  canBuy: 1
+  gold: 0
+  rating: 3510
+boyTShirtNewYearFatherFrost_m:
+  canBuy: 1
+  gold: 0
+  rating: 1
+boyTShirtSummer2014:
+  canBuy: 1
+  gold: 0
+  rating: 2198
+boyTShirtVsgst:
+  canBuy: 1
+  gold: 43
+  rating: 120
+boyTShrtCslFrnt:
+  canBuy: 1
+  gold: 300
+  rating: 833
+  silver: 0
+boyTShrtIndn:
+  canBuy: 1
+  gold: 200
+  rating: 556
+  silver: 0
+boyTShrtPlgrm:
+  canBuy: 1
+  gold: 25
+  rating: 69
+  silver: 0
+boyTShrtScndv:
+  canBuy: 1
+  gold: 200
+  rating: 556
+  silver: 0
+boyTailFox:
+  canBuy: 1
+  gold: 80
+  rating: 1166
+boyTailIrbis:
+  canBuy: 1
+  gold: 0
+  rating: 1166
+boyTailWolf:
+  canBuy: 1
+  gold: 0
+  rating: 1166
+boyTail_catstyle_bk:
+  canBuy: 1
+  gold: 99
+  rating: 275
+boyTail_catstyle_o:
+  canBuy: 1
+  gold: 99
+  rating: 275
+boyTail_catstyle_w:
+  canBuy: 1
+  gold: 99
+  rating: 275
+boyTailsCat:
+  canBuy: 1
+  gold: 0
+  rating: 1166
+boyTattoo_emoji_boss:
+  canBuy: 1
+  gold: 0
+  rating: 178
+boyTattoo_emoji_dead:
+  canBuy: 1
+  gold: 64
+  rating: 178
+boyTattoo_emoji_love:
+  canBuy: 1
+  gold: 64
+  rating: 178
+boyTattoo_emoji_wow:
+  canBuy: 1
+  gold: 0
+  rating: 178
+boyTattoo_newset1:
+  canBuy: 1
+  gold: 8
+  rating: 22
+boyTattoo_tattolook_bk:
+  canBuy: 1
+  gold: 907
+  rating: 2520
+boyTattoo_tattolook_ble:
+  canBuy: 1
+  gold: 0
+  rating: 2520
+boyTattoo_tattolook_br:
+  canBuy: 1
+  gold: 0
+  rating: 2520
+boyTattoohp:
+  canBuy: 1
+  rating: 160
+  silver: 16000
+boyTattoos_dsc:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyTattooscrossfacb:
+  canBuy: 1
+  gold: 0
+  rating: 600
+boyTattoosskullhand:
+  canBuy: 1
+  gold: 0
+  rating: 1498
+boyTattoostribal1:
+  canBuy: 1
+  gold: 0
+  rating: 1398
+boyTattoostribal2:
+  canBuy: 1
+  gold: 0
+  rating: 1398
+boyThxGDBracers:
+  canBuy: 1
+  gold: 200
+  rating: 556
+  silver: 0
+boyThxGDGun:
+  canBuy: 1
+  gold: 230
+  rating: 639
+  silver: 0
+boyThxGDGunSherif:
+  canBuy: 1
+  gold: 0
+  rating: 350
+  silver: 35000
+boyThxGDHat:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+  silver: 0
+boyThxGDHatBnd:
+  canBuy: 1
+  gold: 45
+  rating: 125
+  silver: 0
+boyThxGDHatBnd2:
+  canBuy: 1
+  gold: 45
+  rating: 125
+  silver: 0
+boyThxGDHatSherif:
+  canBuy: 1
+  gold: 0
+  rating: 230
+  silver: 23000
+boyThxGDHolster:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+boyThxGDJacket:
+  canBuy: 1
+  gold: 0
+  rating: 350
+  silver: 35000
+boyThxGDJckSherif:
+  canBuy: 1
+  gold: 0
+  rating: 355
+  silver: 35500
+boyThxGDNecklace:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+boyThxGDPants:
+  canBuy: 1
+  gold: 0
+  rating: 350
+  silver: 35000
+boyThxGDPants1:
+  canBuy: 1
+  gold: 100
+  rating: 278
+  silver: 0
+boyThxGDPantsSherif:
+  canBuy: 1
+  gold: 0
+  rating: 265
+  silver: 26500
+boyThxGDShoes:
+  canBuy: 1
+  gold: 250
+  rating: 694
+  silver: 0
+boyThxGDShoes2:
+  canBuy: 1
+  gold: 44
+  rating: 200
+  silver: 20000
+boyThxGDShoes3:
+  canBuy: 1
+  gold: 55
+  rating: 153
+  silver: 0
+boyThxGDShoesSherif:
+  canBuy: 1
+  gold: 0
+  rating: 170
+  silver: 17000
+boyThxGDSuit:
+  canBuy: 1
+  gold: 750
+  rating: 2083
+  silver: 0
+boyThxGDTShirt:
+  canBuy: 1
+  gold: 0
+  rating: 350
+  silver: 35000
+boyThxGDTShirt1:
+  canBuy: 1
+  gold: 85
+  rating: 236
+  silver: 0
+boyThxGDTShirtSherif:
+  canBuy: 1
+  gold: 0
+  rating: 270
+  silver: 35000
+boyThxGDVest:
+  canBuy: 1
+  gold: 70
+  rating: 194
+  silver: 0
+boyTiara_indsmr:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyTiaras_dduke:
+  canBuy: 1
+  gold: 80
+  rating: 222
+boyTshirtBnnSV19Bl:
+  canBuy: 1
+  gold: 0
+  rating: 5832
+boyTshirtBnnSV19DBe:
+  canBuy: 1
+  gold: 0
+  rating: 5832
+boyTshirtBnnSV19LBe:
+  canBuy: 1
+  gold: 0
+  rating: 5832
+boyTshirtCsmsSV19Be:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+boyTshirtCsmsSV19O:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+boyTshirtCsmsSV19P:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+boyTshirtHndSV19Be:
+  canBuy: 1
+  gold: 0
+  rating: 1944
+boyTshirtHndSV19Gr:
+  canBuy: 1
+  gold: 0
+  rating: 1944
+boyTshirtHndSV19W:
+  canBuy: 1
+  gold: 0
+  rating: 1944
+boyTshirtPndSV19Be:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+boyTshirtPndSV19Gr:
+  canBuy: 1
+  gold: 0
+  rating: 7776
+boyTshirtPndSV19W:
+  canBuy: 1
+  gold: 1555
+  rating: 7776
+boyTshrtGrdnr:
+  canBuy: 1
+  gold: 0
+  rating: 20
+  silver: 2000
+boyUnd1:
+  canBuy: 1
+  rating: 4
+  silver: 495
+boyUnd10:
+  canBuy: 1
+  gold: 3
+  rating: 5
+boyUnd11:
+  canBuy: 1
+  rating: 5
+  silver: 580
+boyUnd2:
+  canBuy: 1
+  gold: 4
+  rating: 7
+boyUnd3:
+  canBuy: 1
+  rating: 5
+  silver: 560
+boyUnd4:
+  canBuy: 1
+  rating: 6
+  silver: 640
+boyUnd5:
+  canBuy: 1
+  rating: 6
+  silver: 625
+boyUnd8:
+  canBuy: 1
+  rating: 5
+  silver: 525
+boyUnd9:
+  canBuy: 1
+  rating: 7
+  silver: 750
+boyUnderTowelR:
+  canBuy: 1
+  gold: 40
+  rating: 111
+boyUnderdress1:
+  canBuy: 1
+boyUnderwear_xmas:
+  canBuy: 1
+  gold: 120
+  rating: 333
+boyVestsPhoto:
+  canBuy: 1
+  gold: 0
+  rating: 158
+boyVests_arist_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyVests_arist_g:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyVests_arist_r:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+boyVests_arist_y:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyVests_vhunter_bk:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+boyVests_vhunter_br:
+  canBuy: 1
+  gold: 0
+  rating: 3556
+boyVests_vhunter_gr_dr:
+  canBuy: 1
+  gold: 1280
+  rating: 3556
+boyVstGrdnr:
+  canBuy: 1
+  gold: 0
+  rating: 75
+  silver: 7500
+boyWatchSummer2014:
+  canBuy: 1
+  gold: 0
+  rating: 799
+boyWatermelonHatsGp:
+  canBuy: 1
+  rating: 144
+  silver: 14400
+boyWatermelonJackets:
+  canBuy: 1
+  gold: 3219
+  rating: 8942
+boyWatermelonJacketsBl:
+  canBuy: 1
+  gold: 3779
+  rating: 10498
+boyWatermelonJacketsGp:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyWatermelonPants:
+  canBuy: 1
+  gold: 0
+  rating: 6416
+boyWatermelonPantsBl:
+  canBuy: 1
+  gold: 0
+  rating: 6416
+boyWatermelonPantsGp:
+  canBuy: 1
+  rating: 256
+  silver: 25600
+boyWatermelonShirts:
+  canBuy: 1
+  gold: 0
+  rating: 8164
+boyWatermelonShirtsBl:
+  canBuy: 1
+  gold: 0
+  rating: 8942
+boyWatermelonShirtsGp:
+  canBuy: 1
+  rating: 168
+  silver: 16800
+boyWdnJk1:
+  canBuy: 1
+  rating: 45
+  silver: 4500
+boyWdnJk2:
+  canBuy: 1
+  gold: 23
+  rating: 51
+boyWdnJk3:
+  canBuy: 1
+  gold: 30
+  rating: 75
+boyWdnJk4:
+  canBuy: 1
+  gold: 15
+  rating: 30
+boyWdnJk5:
+  canBuy: 1
+  gold: 17
+  rating: 34
+boyWdnJk6:
+  canBuy: 1
+  gold: 17
+  rating: 34
+boyWdnJk7:
+  canBuy: 1
+  gold: 17
+  rating: 34
+boyWdnPts1:
+  canBuy: 1
+  rating: 23
+  silver: 2300
+boyWdnPts2:
+  canBuy: 1
+  gold: 13
+  rating: 26
+boyWdnPts3:
+  canBuy: 1
+  gold: 14
+  rating: 28
+boyWdnPts4:
+  canBuy: 1
+  gold: 18
+  rating: 36
+boyWdnShs1:
+  canBuy: 1
+  rating: 7
+  silver: 780
+boyWdnShs2:
+  canBuy: 1
+  gold: 3
+  rating: 5
+boyWdnShs3:
+  canBuy: 1
+  gold: 5
+  rating: 9
+boyWdnShsUsa1:
+  canBuy: 1
+  gold: 3
+  rating: 5
+boyWdnShsUsa2:
+  canBuy: 1
+  gold: 3
+  rating: 5
+boyWdnSrh1:
+  canBuy: 1
+  rating: 35
+  silver: 3500
+boyWdnSrh2:
+  canBuy: 1
+  gold: 20
+  rating: 44
+boyWdnSrh3:
+  canBuy: 1
+  gold: 24
+  rating: 53
+boyWdnSrh4:
+  canBuy: 1
+  gold: 10
+  rating: 20
+boyWdnSrh5:
+  canBuy: 1
+  gold: 12
+  rating: 24
+boyWdnSrh6:
+  canBuy: 1
+  gold: 10
+  rating: 20
+boyWdnSrh7:
+  canBuy: 1
+  gold: 12
+  rating: 24
+boyWdnTie1:
+  canBuy: 1
+  gold: 11
+  rating: 22
+boyWigs_scaryclown:
+  canBuy: 1
+  gold: 560
+  rating: 1556
+boyWings_lovegorgoyle:
+  canBuy: 1
+  gold: 1920
+  rating: 5334
+boyWings_mlfcnt:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+boyWingsangelcn:
+  canBuy: 1
+  gold: 399
+  rating: 5333
+boyWingsangelv:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+boyWingsangelw:
+  canBuy: 1
+  gold: 1920
+  rating: 5333
+boyWingsbatble:
+  canBuy: 1
+  gold: 3200
+  rating: 8889
+boyWingsbatr:
+  canBuy: 1
+  gold: 3200
+  rating: 8889
+boyWingsbatv:
+  canBuy: 1
+  gold: 3200
+  rating: 8889
+boyWingsbutterflyble:
+  canBuy: 1
+  gold: 2560
+  rating: 7111
+boyWingsbutterflyg:
+  canBuy: 1
+  gold: 0
+  rating: 7111
+boyWingsbutterflyo:
+  canBuy: 1
+  gold: 0
+  rating: 7111
+boyWntGlv1:
+  canBuy: 1
+  gold: 12
+  rating: 33
+boyWntGlv2:
+  canBuy: 1
+  gold: 9
+  rating: 25
+boyWntGlv3:
+  canBuy: 1
+  gold: 8
+  rating: 22
+boyWntGlv4:
+  canBuy: 1
+  gold: 12
+  rating: 33
+boyWntGlv5:
+  canBuy: 1
+  rating: 8
+  silver: 800
+boyWntGlv6:
+  canBuy: 1
+  gold: 15
+  rating: 42
+boyWntHdpns1:
+  canBuy: 1
+  rating: 150
+  silver: 15000
+boyWntHt1:
+  canBuy: 1
+  gold: 250
+  rating: 694
+boyWntHt2:
+  canBuy: 1
+  rating: 25
+  silver: 2700
+boyWntHt3:
+  canBuy: 1
+  gold: 250
+  rating: 694
+boyWntHt4:
+  canBuy: 1
+  gold: 150
+  rating: 417
+boyWntHt5:
+  canBuy: 1
+  gold: 210
+  rating: 583
+boyWntHt6:
+  canBuy: 1
+  rating: 200
+  silver: 20000
+boyWntPts1:
+  canBuy: 1
+  gold: 18
+  rating: 36
+boyWntPts2:
+  canBuy: 1
+  rating: 38
+  silver: 3800
+boyWntScf1:
+  canBuy: 1
+  gold: 7
+  rating: 12
+boyWntScf2:
+  canBuy: 1
+  gold: 15
+  rating: 30
+boyWntScf3:
+  canBuy: 1
+  gold: 6
+  rating: 10
+boyWntrJckt1:
+  canBuy: 1
+  gold: 250
+  rating: 694
+boyWntrJckt2:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+boyWntrJckt3:
+  canBuy: 1
+  gold: 119
+  rating: 300
+boyWntrJckt4:
+  canBuy: 1
+  gold: 63
+  rating: 158
+boyWntrJckt5:
+  canBuy: 1
+  gold: 800
+  rating: 2222
+boyWntrJckt6:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+boyWntrJckt7:
+  canBuy: 1
+  gold: 12
+  rating: 24
+boyWntrJckt8:
+  canBuy: 1
+  rating: 33
+  silver: 3300
+boyWntrJckt9:
+  canBuy: 1
+  rating: 45
+  silver: 4500
+boyWntrSh1:
+  canBuy: 1
+  gold: 265
+  rating: 736
+boyWntrSh2:
+  canBuy: 1
+  rating: 400
+  silver: 40000
+boyWntrSh3:
+  canBuy: 1
+  gold: 315
+  rating: 875
+boyWntrSh4:
+  canBuy: 1
+  rating: 350
+  silver: 35000
+boyWntrSh5:
+  canBuy: 1
+  gold: 280
+  rating: 778
+boyWntrSh6:
+  canBuy: 1
+  gold: 31
+  rating: 80
+boyWntrSh7:
+  canBuy: 1
+  gold: 15
+  rating: 30
+boyWtchScndv:
+  canBuy: 1
+  gold: 50
+  rating: 139
+boyhatrelaxedbl:
+  canBuy: 1
+  gold: 320
+  rating: 889
+boyhatrelaxedble:
+  canBuy: 1
+  gold: 256
+  rating: 711
+boyhatrelaxedr:
+  canBuy: 1
+  gold: 256
+  rating: 711

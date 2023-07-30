@@ -1,0 +1,2289 @@
+active:
+  craftedBento:
+    canBuy: true
+    energy: 310
+    gold: 1
+    silver: 1
+  craftedCoffee:
+    canBuy: true
+    energy: 75
+    gold: 1
+    silver: 1
+  craftedEnergyDrink:
+    canBuy: true
+    energy: 200
+    gold: 1
+    silver: 1
+  craftedSandwich:
+    canBuy: true
+    energy: 140
+    gold: 1
+    silver: 1
+  craftedWater:
+    canBuy: true
+    energy: 90
+    gold: 1
+    silver: 1
+  energy_mixture:
+    canBuy: true
+    energy: 150
+    gold: 1
+    silver: 1
+  giftWedding1:
+    canBuy: true
+    gold: 1
+    silver: 100
+  giftWedding2:
+    canBuy: true
+    gold: 5
+    silver: 1
+aquariumFishes:
+  aqF1:
+    canBuy: true
+    gold: 15
+    silver: 0
+  aqF2:
+    canBuy: true
+    gold: 7
+    silver: 0
+  aqF3:
+    canBuy: true
+    gold: 10
+    silver: 0
+  aqF4:
+    canBuy: true
+    gold: 5
+    silver: 0
+art:
+  gbClay:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbFeather:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbFlower:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbLikeCoin:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbPeaceOfWood:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbPearl:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbPhotograph:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbShell:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbSwordHilt:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbThread:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbTrash:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbTrashEnrg:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbWater:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbWick:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gdBtf:
+    canBuy: true
+    gold: 1
+    saleSilver: 20
+    silver: 1
+  gdBug:
+    canBuy: true
+    gold: 1
+    saleSilver: 10
+    silver: 1
+  gdFlw:
+    canBuy: true
+    gold: 1
+    saleSilver: 12
+    silver: 1
+  gdIns:
+    canBuy: true
+    gold: 1
+    saleSilver: 10
+    silver: 1
+  lootEdelweiss:
+    canBuy: true
+    gold: 1
+    saleSilver: 3
+    silver: 1
+  lootGlobeflower:
+    canBuy: true
+    gold: 1
+    saleSilver: 3
+    silver: 1
+  lootPearl:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentNYBlue:
+    canBuy: true
+    gold: 1
+    saleSilver: 10
+    silver: 1
+  lootPresentNYBlueBig:
+    canBuy: true
+    gold: 1
+    saleSilver: 10
+    silver: 1
+  lootPresentNYGoldSW:
+    canBuy: true
+    gold: 1
+    saleSilver: 20
+    silver: 1
+  lootPresentNYRedSE:
+    canBuy: true
+    gold: 1
+    saleSilver: 20
+    silver: 1
+  lootPresentSVbe:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVdbe:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVg:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVlbe:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVlg:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVo:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVp:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVr:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVv:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootRapa:
+    canBuy: true
+    gold: 1
+    saleSilver: 1
+    silver: 1
+  lootSnowdrop:
+    canBuy: true
+    gold: 1
+    saleSilver: 3
+    silver: 1
+  lootWhelk:
+    canBuy: true
+    gold: 1
+    saleSilver: 4
+    silver: 1
+  srMeal:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  srMealBig:
+    canBuy: true
+    gold: 1
+    saleSilver: 4
+    silver: 1
+  srMealSmall:
+    canBuy: true
+    gold: 1
+    saleSilver: 1
+    silver: 1
+  workEnergyLoot:
+    canBuy: true
+    gold: 1
+    silver: 1
+  workSilverLoot:
+    canBuy: true
+    gold: 1
+    silver: 1
+cake:
+  ckBlckb:
+    canBuy: true
+    gold: 0
+    silver: 350
+  ckOrng:
+    canBuy: true
+    gold: 1
+    silver: 0
+  ckStrwb:
+    canBuy: true
+    gold: 0
+    silver: 150
+craftLoot:
+  Buttons:
+    canBuy: true
+    gold: 66
+    silver: 1
+  ChocoCandies:
+    canBuy: true
+    gold: 217
+    silver: 1
+  CleverApple:
+    canBuy: true
+    gold: 120
+    silver: 1
+  CleverCalc:
+    canBuy: true
+    gold: 160
+    silver: 1
+  CleverCoin:
+    canBuy: true
+    gold: 9
+    silver: 1
+  CleverCupcake:
+    canBuy: true
+    gold: 140
+    silver: 1
+  CleverFlask:
+    canBuy: true
+    gold: 160
+    silver: 1
+  CleverIdea:
+    canBuy: true
+    gold: 40
+    silver: 1
+  CleverPencils:
+    canBuy: true
+    gold: 200
+    silver: 1
+  CleverPin:
+    canBuy: true
+    gold: 140
+    silver: 1
+  ColorRibbon:
+    canBuy: true
+    gold: 160
+    silver: 1
+  CottonCandy:
+    canBuy: true
+    gold: 1333
+    silver: 1
+  CottonWool:
+    canBuy: true
+    gold: 800
+    silver: 1
+  DanceArrow:
+    canBuy: true
+    gold: 600
+    silver: 1
+  DanceCD:
+    canBuy: true
+    gold: 900
+    silver: 1
+  DanceCoin:
+    canBuy: true
+    gold: 10
+    silver: 1
+  DanceFeet:
+    canBuy: true
+    gold: 800
+    silver: 1
+  DanceNotes:
+    canBuy: true
+    gold: 600
+    silver: 1
+  DanceTicketLoot:
+    canBuy: true
+    gold: 800
+    silver: 1
+  Diodes:
+    canBuy: true
+    gold: 400
+    silver: 1
+  EasterCoin:
+    canBuy: true
+    gold: 3
+    silver: 1
+  EasterEgg1:
+    canBuy: true
+    gold: 5
+    silver: 1
+  EasterEgg2:
+    canBuy: true
+    gold: 20
+    silver: 1
+  EasterEgg3:
+    canBuy: true
+    gold: 20
+    silver: 1
+  EasterEgg4:
+    canBuy: true
+    gold: 65
+    silver: 1
+  EasterEgg5:
+    canBuy: true
+    gold: 65
+    silver: 1
+  EasterEgg6:
+    canBuy: true
+    gold: 240
+    silver: 1
+  EasterFlower:
+    canBuy: true
+    gold: 20
+    silver: 1
+  FloristCoin:
+    canBuy: true
+    gold: 8
+    silver: 1
+  FlowerBranch:
+    canBuy: true
+    gold: 120
+    silver: 1
+  FlowerLaysLoot:
+    canBuy: true
+    gold: 500
+    silver: 1
+  FlowerSeeds:
+    canBuy: true
+    gold: 3500
+    silver: 1
+  GlassBalls:
+    canBuy: true
+    gold: 300
+    silver: 1
+  Gouache:
+    canBuy: true
+    gold: 320
+    silver: 1
+  HallowBat:
+    canBuy: true
+    gold: 40
+    silver: 1
+  HallowCoin:
+    canBuy: true
+    gold: 7
+    silver: 1
+  HallowEye:
+    canBuy: true
+    gold: 160
+    silver: 1
+  HallowGhost:
+    canBuy: true
+    gold: 20
+    silver: 1
+  HallowLantern:
+    canBuy: true
+    gold: 350
+    silver: 1
+  HallowPumpkin:
+    canBuy: true
+    gold: 30
+    silver: 1
+  HallowSweet:
+    canBuy: true
+    gold: 160
+    silver: 1
+  HospAntiseptic:
+    canBuy: true
+    gold: 8
+    silver: 1
+  HospMedkit:
+    canBuy: true
+    gold: 8
+    silver: 1
+  HospNapkins:
+    canBuy: true
+    gold: 8
+    silver: 1
+  HospVitamin:
+    canBuy: true
+    gold: 4
+    silver: 1
+  LongRope:
+    canBuy: true
+    gold: 175
+    silver: 1
+  LoveAroma:
+    canBuy: true
+    gold: 8
+    silver: 1
+  LoveBrHeart:
+    canBuy: true
+    gold: 100
+    silver: 1
+  LoveCoin:
+    canBuy: true
+    gold: 3
+    silver: 1
+  LoveFlower:
+    canBuy: true
+    gold: 25
+    silver: 1
+  LoveHeart:
+    canBuy: true
+    gold: 30
+    silver: 1
+  LoveKey:
+    canBuy: true
+    gold: 320
+    silver: 1
+  LoveKiss:
+    canBuy: true
+    gold: 25
+    silver: 1
+  LoveLetter:
+    canBuy: true
+    gold: 80
+    silver: 1
+  MosteraLeaf:
+    canBuy: true
+    gold: 120
+    silver: 1
+  OceanWaveLoot:
+    canBuy: true
+    gold: 500
+    silver: 1
+  PaperHearts:
+    canBuy: true
+    gold: 500
+    silver: 1
+  PoolTicketLoot:
+    canBuy: true
+    gold: 800
+    silver: 1
+  SV19TicketLoot:
+    canBuy: true
+    gold: 500
+    silver: 1
+  Scissors:
+    canBuy: true
+    gold: 150
+    silver: 1
+  SeaPearlLoot:
+    canBuy: true
+    gold: 800
+    silver: 1
+  SeedsOfJoy:
+    canBuy: true
+    gold: 120
+    silver: 1
+  SoapBubble:
+    canBuy: true
+    gold: 26
+    silver: 1
+  Spr19TicketLoot:
+    canBuy: true
+    gold: 500
+    silver: 1
+  StarfishLoot:
+    canBuy: true
+    gold: 500
+    silver: 1
+  SugarCubes:
+    canBuy: true
+    gold: 940
+    silver: 1
+  SugarHearts:
+    canBuy: true
+    gold: 4
+    silver: 1
+  SummerClubCoin:
+    canBuy: true
+    gold: 12
+    silver: 1
+  XmasBell:
+    canBuy: true
+    gold: 30
+    silver: 1
+  XmasCandle:
+    canBuy: true
+    gold: 25
+    silver: 1
+  XmasCane:
+    canBuy: true
+    gold: 8
+    silver: 1
+  XmasCoin:
+    canBuy: true
+    gold: 4
+    silver: 1
+  XmasCone:
+    canBuy: true
+    gold: 80
+    silver: 1
+  XmasHoly:
+    canBuy: true
+    gold: 25
+    silver: 1
+  XmasMitten:
+    canBuy: true
+    gold: 100
+    silver: 1
+  XmasWreath:
+    canBuy: true
+    gold: 320
+    silver: 1
+  artificialSnow:
+    canBuy: true
+    gold: 500
+    silver: 1
+  bckt:
+    canBuy: true
+    gold: 1200
+    silver: 1
+  bigPhial:
+    canBuy: true
+    gold: 500
+    silver: 1
+  bitOfGlass:
+    canBuy: true
+    gold: 400
+    silver: 1
+  bow:
+    canBuy: true
+    gold: 300
+    silver: 1
+  clay:
+    canBuy: true
+    gold: 20
+    silver: 1
+  cloth:
+    canBuy: true
+    gold: 100
+    silver: 1
+  clover:
+    canBuy: true
+    gold: 300
+    silver: 1
+  coffeBean:
+    canBuy: true
+    gold: 100
+    silver: 1
+  confetti:
+    canBuy: true
+    gold: 100
+    silver: 1
+  ctfb:
+    canBuy: true
+    gold: 2500
+    silver: 1
+  egg:
+    canBuy: true
+    gold: 2300
+    silver: 1
+  energy:
+    canBuy: true
+    gold: 1
+    silver: 1
+  fasten:
+    canBuy: true
+    gold: 120
+    silver: 1
+  feather:
+    canBuy: true
+    gold: 10
+    silver: 1
+  flowerBud:
+    canBuy: true
+    gold: 10
+    silver: 1
+  generosity:
+    canBuy: true
+    gold: 50
+    silver: 1
+  gingerForm:
+    canBuy: true
+    gold: 400
+    silver: 1
+  glass:
+    canBuy: true
+    gold: 100
+    silver: 1
+  glz:
+    canBuy: true
+    gold: 3000
+    silver: 1
+  gold:
+    canBuy: true
+    gold: 1
+    silver: 1
+  grindstone:
+    canBuy: true
+    gold: 100
+    silver: 1
+  happiness:
+    canBuy: true
+    gold: 40
+    silver: 1
+  hatred:
+    canBuy: true
+    gold: 30
+    silver: 1
+  jarOfPaint:
+    canBuy: true
+    gold: 100
+    silver: 1
+  likeCoin:
+    canBuy: true
+    gold: 300
+    silver: 1
+  lnfb:
+    canBuy: true
+    gold: 1500
+    silver: 1
+  love:
+    canBuy: true
+    gold: 30
+    silver: 1
+  mintLeaf:
+    canBuy: true
+    gold: 100
+    silver: 1
+  ny19TicketLoot:
+    canBuy: true
+    gold: 500
+    silver: 1
+  peaceOfIron:
+    canBuy: true
+    gold: 20
+    silver: 1
+  peaceOfWax:
+    canBuy: true
+    gold: 100
+    silver: 1
+  peaceOfWood:
+    canBuy: true
+    gold: 20
+    silver: 1
+  pearl:
+    canBuy: true
+    gold: 750
+    silver: 1
+  phial:
+    canBuy: true
+    gold: 200
+    silver: 2
+  photograph:
+    canBuy: true
+    gold: 500
+    silver: 1
+  pollen:
+    canBuy: true
+    gold: 100
+    silver: 1
+  rdwd:
+    canBuy: true
+    gold: 1700
+    silver: 1
+  shell:
+    canBuy: true
+    gold: 400
+    silver: 1
+  silver:
+    canBuy: true
+    gold: 1
+    silver: 1
+  snowflake:
+    canBuy: true
+    gold: 59
+    silver: 1
+  stadium18TicketCraft:
+    canBuy: true
+    gold: 1000
+    silver: 1
+  swordHilt:
+    canBuy: true
+    gold: 500
+    silver: 1
+  thread:
+    canBuy: true
+    gold: 300
+    silver: 1
+  ttm:
+    canBuy: true
+    gold: 5000
+    silver: 1
+  valentine:
+    canBuy: true
+    gold: 100
+    silver: 1
+  water:
+    canBuy: true
+    gold: 10
+    silver: 1
+  wick:
+    canBuy: true
+    gold: 300
+    silver: 1
+  wrappingPaper:
+    canBuy: true
+    gold: 300
+    silver: 1
+craftedActive:
+  craftedBento:
+    canBuy: true
+    energy: 310
+    gold: 1
+    silver: 1
+  craftedCoffee:
+    canBuy: true
+    energy: 75
+    gold: 1
+    silver: 1
+  craftedEnergyDrink:
+    canBuy: true
+    energy: 200
+    gold: 1
+    silver: 1
+  craftedSandwich:
+    canBuy: true
+    energy: 140
+    gold: 1
+    silver: 1
+  craftedWater:
+    canBuy: true
+    energy: 90
+    gold: 1
+    silver: 1
+  energy_mixture:
+    canBuy: true
+    energy: 150
+    gold: 1
+    silver: 1
+engageRings:
+  engRing1:
+    canBuy: true
+    gold: 0
+    silver: 15000
+  engRing2:
+    canBuy: true
+    gold: 100
+    silver: 0
+  engRing3:
+    canBuy: true
+    gold: 500
+    silver: 0
+firToys:
+  nyFirToy1:
+    canBuy: true
+    gold: 2
+    silver: 0
+  nyFirToy10:
+    canBuy: true
+    gold: 7
+    silver: 0
+  nyFirToy11:
+    canBuy: true
+    gold: 7
+    silver: 0
+  nyFirToy12:
+    canBuy: true
+    gold: 6
+    silver: 0
+  nyFirToy13:
+    canBuy: true
+    gold: 4
+    silver: 0
+  nyFirToy14:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy15:
+    canBuy: true
+    gold: 8
+    silver: 0
+  nyFirToy16:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy17:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy18:
+    canBuy: true
+    gold: 4
+    silver: 0
+  nyFirToy19:
+    canBuy: true
+    gold: 2
+    silver: 0
+  nyFirToy2:
+    canBuy: true
+    gold: 2
+    silver: 0
+  nyFirToy20:
+    canBuy: true
+    gold: 4
+    silver: 0
+  nyFirToy21:
+    canBuy: true
+    gold: 15
+    silver: 0
+  nyFirToy22:
+    canBuy: true
+    gold: 17
+    silver: 0
+  nyFirToy23:
+    canBuy: true
+    gold: 9
+    silver: 0
+  nyFirToy24:
+    canBuy: true
+    gold: 12
+    silver: 0
+  nyFirToy25:
+    canBuy: true
+    gold: 12
+    silver: 0
+  nyFirToy26:
+    canBuy: true
+    gold: 25
+    silver: 0
+  nyFirToy3:
+    canBuy: true
+    gold: 2
+    silver: 0
+  nyFirToy4:
+    canBuy: true
+    gold: 4
+    silver: 0
+  nyFirToy5:
+    canBuy: true
+    gold: 5
+    silver: 0
+  nyFirToy6:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy7:
+    canBuy: true
+    gold: 6
+    silver: 0
+  nyFirToy8:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy9:
+    canBuy: true
+    gold: 1
+    silver: 0
+game:
+  DanceTicket:
+    canBuy: false
+    gold: 10
+    silver: 1
+  PoolTicket:
+    canBuy: false
+    gold: 10
+    silver: 1
+  SV19Ticket:
+    canBuy: false
+    gold: 10
+    silver: 1
+  Spr19Ticket:
+    canBuy: false
+    gold: 10
+    silver: 1
+  applianceBat:
+    canBuy: true
+    gold: 1
+    silver: 0
+  aqF1:
+    canBuy: true
+    gold: 15
+    silver: 0
+  aqF2:
+    canBuy: true
+    gold: 7
+    silver: 0
+  aqF3:
+    canBuy: true
+    gold: 10
+    silver: 0
+  aqF4:
+    canBuy: true
+    gold: 5
+    silver: 0
+  beachBarItem1:
+    canBuy: true
+    energy: 20
+    gold: 0
+    silver: 700
+  beachBarItem2:
+    canBuy: true
+    energy: 50
+    gold: 3
+    silver: 0
+  beachBarItem3:
+    canBuy: true
+    energy: 100
+    gold: 5
+    silver: 0
+  cfCak:
+    canBuy: true
+    energy: 15
+    gold: 0
+    silver: 150
+  cfCof:
+    canBuy: true
+    energy: 30
+    gold: 1
+    silver: 0
+  cfPiz:
+    canBuy: true
+    energy: 100
+    gold: 3
+    silver: 0
+  chairBomb:
+    canBuy: true
+    gold: 1
+    silver: 0
+  ckBlckb:
+    canBuy: true
+    gold: 0
+    silver: 350
+  ckOrng:
+    canBuy: true
+    gold: 1
+    silver: 0
+  ckStrwb:
+    canBuy: true
+    gold: 0
+    silver: 150
+  clB52:
+    canBuy: true
+    energy: 100
+    gold: 3
+    silver: 0
+  clBlr:
+    canBuy: true
+    energy: 30
+    gold: 1
+    silver: 0
+  clMoc:
+    canBuy: true
+    energy: 15
+    gold: 0
+    silver: 150
+  engRing1:
+    canBuy: true
+    gold: 0
+    silver: 15000
+  engRing2:
+    canBuy: true
+    gold: 100
+    silver: 0
+  engRing3:
+    canBuy: true
+    gold: 500
+    silver: 0
+  firework1:
+    canBuy: true
+    gold: 1
+    silver: 0
+  gameChips:
+    canBuy: true
+    gold: 1
+    silver: 1
+  gbClay:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbFeather:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbFlower:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbLikeCoin:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbPeaceOfWood:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbPearl:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbPhotograph:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbShell:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbSwordHilt:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbThread:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbTrash:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbTrashEnrg:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbWater:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gbWick:
+    canBuy: true
+    gold: 1
+    saleSilver: 7
+    silver: 1
+  gdBtf:
+    canBuy: true
+    gold: 1
+    saleSilver: 20
+    silver: 1
+  gdBug:
+    canBuy: true
+    gold: 1
+    saleSilver: 10
+    silver: 1
+  gdFlw:
+    canBuy: true
+    gold: 1
+    saleSilver: 12
+    silver: 1
+  gdIns:
+    canBuy: true
+    gold: 1
+    saleSilver: 10
+    silver: 1
+  jacuzziWorms:
+    canBuy: true
+    gold: 1
+    silver: 0
+  lootEdelweiss:
+    canBuy: true
+    gold: 1
+    saleSilver: 3
+    silver: 1
+  lootGlobeflower:
+    canBuy: true
+    gold: 1
+    saleSilver: 3
+    silver: 1
+  lootPearl:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentNYBlue:
+    canBuy: true
+    gold: 1
+    saleSilver: 10
+    silver: 1
+  lootPresentNYBlueBig:
+    canBuy: true
+    gold: 1
+    saleSilver: 10
+    silver: 1
+  lootPresentNYGoldSW:
+    canBuy: true
+    gold: 1
+    saleSilver: 20
+    silver: 1
+  lootPresentNYRedSE:
+    canBuy: true
+    gold: 1
+    saleSilver: 20
+    silver: 1
+  lootPresentSVbe:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVdbe:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVg:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVlbe:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVlg:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVo:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVp:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVr:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootPresentSVv:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  lootRapa:
+    canBuy: true
+    gold: 1
+    saleSilver: 1
+    silver: 1
+  lootSnowdrop:
+    canBuy: true
+    gold: 1
+    saleSilver: 3
+    silver: 1
+  lootWhelk:
+    canBuy: true
+    gold: 1
+    saleSilver: 4
+    silver: 1
+  mrRing1:
+    canBuy: true
+    gold: 0
+    silver: 15000
+  mrRing2:
+    canBuy: true
+    gold: 100
+    silver: 0
+  mrRing3:
+    canBuy: true
+    gold: 500
+    silver: 0
+  ny19Ticket:
+    canBuy: false
+    gold: 10
+    silver: 1
+  nyFirToy1:
+    canBuy: true
+    gold: 2
+    silver: 0
+  nyFirToy10:
+    canBuy: true
+    gold: 7
+    silver: 0
+  nyFirToy11:
+    canBuy: true
+    gold: 7
+    silver: 0
+  nyFirToy12:
+    canBuy: true
+    gold: 6
+    silver: 0
+  nyFirToy13:
+    canBuy: true
+    gold: 4
+    silver: 0
+  nyFirToy14:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy15:
+    canBuy: true
+    gold: 8
+    silver: 0
+  nyFirToy16:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy17:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy18:
+    canBuy: true
+    gold: 4
+    silver: 0
+  nyFirToy19:
+    canBuy: true
+    gold: 2
+    silver: 0
+  nyFirToy2:
+    canBuy: true
+    gold: 2
+    silver: 0
+  nyFirToy20:
+    canBuy: true
+    gold: 4
+    silver: 0
+  nyFirToy21:
+    canBuy: true
+    gold: 15
+    silver: 0
+  nyFirToy22:
+    canBuy: true
+    gold: 17
+    silver: 0
+  nyFirToy23:
+    canBuy: true
+    gold: 9
+    silver: 0
+  nyFirToy24:
+    canBuy: true
+    gold: 12
+    silver: 0
+  nyFirToy25:
+    canBuy: true
+    gold: 12
+    silver: 0
+  nyFirToy26:
+    canBuy: true
+    gold: 25
+    silver: 0
+  nyFirToy3:
+    canBuy: true
+    gold: 2
+    silver: 0
+  nyFirToy4:
+    canBuy: true
+    gold: 4
+    silver: 0
+  nyFirToy5:
+    canBuy: true
+    gold: 5
+    silver: 0
+  nyFirToy6:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy7:
+    canBuy: true
+    gold: 6
+    silver: 0
+  nyFirToy8:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy9:
+    canBuy: true
+    gold: 1
+    silver: 0
+  nyGft1:
+    canBuy: true
+    gold: 0
+    silver: 2500
+  nyGft2:
+    canBuy: true
+    gold: 12
+    silver: 0
+  nyGft3:
+    canBuy: true
+    gold: 33
+    silver: 0
+  scrdvr:
+    canBuy: true
+    gold: 5
+    silver: 0
+  srMeal:
+    canBuy: true
+    gold: 1
+    saleSilver: 2
+    silver: 1
+  srMealBig:
+    canBuy: true
+    gold: 1
+    saleSilver: 4
+    silver: 1
+  srMealSmall:
+    canBuy: true
+    gold: 1
+    saleSilver: 1
+    silver: 1
+  stadium18Ticket:
+    canBuy: false
+    gold: 10
+    silver: 1
+  trEnrg:
+    canBuy: true
+    gold: 1
+    saleSilver: 10
+    silver: 100
+    speed: '0.5'
+  wllgrfft1:
+    canBuy: true
+    gold: 4
+    silver: 0
+  wllgrfft2:
+    canBuy: true
+    gold: 2
+    silver: 0
+  wllgrfft3:
+    canBuy: true
+    gold: 2
+    silver: 0
+  wllgrfft4:
+    canBuy: true
+    gold: 2
+    silver: 0
+  wllgrfft5:
+    canBuy: true
+    gold: 10
+    silver: 0
+  workEnergyLoot:
+    canBuy: true
+    gold: 1
+    silver: 1
+  workSilverLoot:
+    canBuy: true
+    gold: 1
+    silver: 1
+gameResources:
+  DanceTicket:
+    canBuy: false
+    gold: 10
+    silver: 1
+  PoolTicket:
+    canBuy: false
+    gold: 10
+    silver: 1
+  SV19Ticket:
+    canBuy: false
+    gold: 10
+    silver: 1
+  Spr19Ticket:
+    canBuy: false
+    gold: 10
+    silver: 1
+  gameChips:
+    canBuy: true
+    gold: 1
+    silver: 1
+  ny19Ticket:
+    canBuy: false
+    gold: 10
+    silver: 1
+  stadium18Ticket:
+    canBuy: false
+    gold: 10
+    silver: 1
+giftActive:
+  giftWedding1:
+    canBuy: true
+    gold: 1
+    silver: 100
+  giftWedding2:
+    canBuy: true
+    gold: 5
+    silver: 1
+graffitiCategory:
+  wllgrfft1:
+    canBuy: true
+    gold: 4
+    silver: 0
+  wllgrfft2:
+    canBuy: true
+    gold: 2
+    silver: 0
+  wllgrfft3:
+    canBuy: true
+    gold: 2
+    silver: 0
+  wllgrfft4:
+    canBuy: true
+    gold: 2
+    silver: 0
+  wllgrfft5:
+    canBuy: true
+    gold: 10
+    silver: 0
+jokeShop:
+  applianceBat:
+    canBuy: true
+    gold: 1
+    silver: 0
+  chairBomb:
+    canBuy: true
+    gold: 1
+    silver: 0
+  firework1:
+    canBuy: true
+    gold: 1
+    silver: 0
+  jacuzziWorms:
+    canBuy: true
+    gold: 1
+    silver: 0
+  scrdvr:
+    canBuy: true
+    gold: 5
+    silver: 0
+  wllgrfft1:
+    canBuy: true
+    gold: 4
+    silver: 0
+  wllgrfft2:
+    canBuy: true
+    gold: 2
+    silver: 0
+  wllgrfft3:
+    canBuy: true
+    gold: 2
+    silver: 0
+  wllgrfft4:
+    canBuy: true
+    gold: 2
+    silver: 0
+  wllgrfft5:
+    canBuy: true
+    gold: 10
+    silver: 0
+loot:
+  Buttons:
+    canBuy: true
+    gold: 66
+    silver: 1
+  ChocoCandies:
+    canBuy: true
+    gold: 217
+    silver: 1
+  CleverApple:
+    canBuy: true
+    gold: 120
+    silver: 1
+  CleverCalc:
+    canBuy: true
+    gold: 160
+    silver: 1
+  CleverCoin:
+    canBuy: true
+    gold: 9
+    silver: 1
+  CleverCupcake:
+    canBuy: true
+    gold: 140
+    silver: 1
+  CleverFlask:
+    canBuy: true
+    gold: 160
+    silver: 1
+  CleverIdea:
+    canBuy: true
+    gold: 40
+    silver: 1
+  CleverPencils:
+    canBuy: true
+    gold: 200
+    silver: 1
+  CleverPin:
+    canBuy: true
+    gold: 140
+    silver: 1
+  ColorRibbon:
+    canBuy: true
+    gold: 160
+    silver: 1
+  CottonCandy:
+    canBuy: true
+    gold: 1333
+    silver: 1
+  CottonWool:
+    canBuy: true
+    gold: 800
+    silver: 1
+  DanceArrow:
+    canBuy: true
+    gold: 600
+    silver: 1
+  DanceCD:
+    canBuy: true
+    gold: 900
+    silver: 1
+  DanceCoin:
+    canBuy: true
+    gold: 10
+    silver: 1
+  DanceFeet:
+    canBuy: true
+    gold: 800
+    silver: 1
+  DanceNotes:
+    canBuy: true
+    gold: 600
+    silver: 1
+  DanceTicketLoot:
+    canBuy: true
+    gold: 800
+    silver: 1
+  Diodes:
+    canBuy: true
+    gold: 400
+    silver: 1
+  EasterCoin:
+    canBuy: true
+    gold: 3
+    silver: 1
+  EasterEgg1:
+    canBuy: true
+    gold: 5
+    silver: 1
+  EasterEgg2:
+    canBuy: true
+    gold: 20
+    silver: 1
+  EasterEgg3:
+    canBuy: true
+    gold: 20
+    silver: 1
+  EasterEgg4:
+    canBuy: true
+    gold: 65
+    silver: 1
+  EasterEgg5:
+    canBuy: true
+    gold: 65
+    silver: 1
+  EasterEgg6:
+    canBuy: true
+    gold: 240
+    silver: 1
+  EasterFlower:
+    canBuy: true
+    gold: 20
+    silver: 1
+  FloristCoin:
+    canBuy: true
+    gold: 8
+    silver: 1
+  FlowerBranch:
+    canBuy: true
+    gold: 120
+    silver: 1
+  FlowerLaysLoot:
+    canBuy: true
+    gold: 500
+    silver: 1
+  FlowerSeeds:
+    canBuy: true
+    gold: 3500
+    silver: 1
+  GlassBalls:
+    canBuy: true
+    gold: 300
+    silver: 1
+  Gouache:
+    canBuy: true
+    gold: 320
+    silver: 1
+  HallowBat:
+    canBuy: true
+    gold: 40
+    silver: 1
+  HallowCoin:
+    canBuy: true
+    gold: 7
+    silver: 1
+  HallowEye:
+    canBuy: true
+    gold: 160
+    silver: 1
+  HallowGhost:
+    canBuy: true
+    gold: 20
+    silver: 1
+  HallowLantern:
+    canBuy: true
+    gold: 350
+    silver: 1
+  HallowPumpkin:
+    canBuy: true
+    gold: 30
+    silver: 1
+  HallowSweet:
+    canBuy: true
+    gold: 160
+    silver: 1
+  HospAntiseptic:
+    canBuy: true
+    gold: 8
+    silver: 1
+  HospMedkit:
+    canBuy: true
+    gold: 8
+    silver: 1
+  HospNapkins:
+    canBuy: true
+    gold: 8
+    silver: 1
+  HospVitamin:
+    canBuy: true
+    gold: 4
+    silver: 1
+  LongRope:
+    canBuy: true
+    gold: 175
+    silver: 1
+  LoveAroma:
+    canBuy: true
+    gold: 8
+    silver: 1
+  LoveBrHeart:
+    canBuy: true
+    gold: 100
+    silver: 1
+  LoveCoin:
+    canBuy: true
+    gold: 3
+    silver: 1
+  LoveFlower:
+    canBuy: true
+    gold: 25
+    silver: 1
+  LoveHeart:
+    canBuy: true
+    gold: 30
+    silver: 1
+  LoveKey:
+    canBuy: true
+    gold: 320
+    silver: 1
+  LoveKiss:
+    canBuy: true
+    gold: 25
+    silver: 1
+  LoveLetter:
+    canBuy: true
+    gold: 80
+    silver: 1
+  MosteraLeaf:
+    canBuy: true
+    gold: 120
+    silver: 1
+  OceanWaveLoot:
+    canBuy: true
+    gold: 500
+    silver: 1
+  PaperHearts:
+    canBuy: true
+    gold: 500
+    silver: 1
+  PoolTicketLoot:
+    canBuy: true
+    gold: 800
+    silver: 1
+  SV19TicketLoot:
+    canBuy: true
+    gold: 500
+    silver: 1
+  Scissors:
+    canBuy: true
+    gold: 150
+    silver: 1
+  SeaPearlLoot:
+    canBuy: true
+    gold: 800
+    silver: 1
+  SeedsOfJoy:
+    canBuy: true
+    gold: 120
+    silver: 1
+  SoapBubble:
+    canBuy: true
+    gold: 26
+    silver: 1
+  Spr19TicketLoot:
+    canBuy: true
+    gold: 500
+    silver: 1
+  StarfishLoot:
+    canBuy: true
+    gold: 500
+    silver: 1
+  SugarCubes:
+    canBuy: true
+    gold: 940
+    silver: 1
+  SugarHearts:
+    canBuy: true
+    gold: 4
+    silver: 1
+  SummerClubCoin:
+    canBuy: true
+    gold: 12
+    silver: 1
+  XmasBell:
+    canBuy: true
+    gold: 30
+    silver: 1
+  XmasCandle:
+    canBuy: true
+    gold: 25
+    silver: 1
+  XmasCane:
+    canBuy: true
+    gold: 8
+    silver: 1
+  XmasCoin:
+    canBuy: true
+    gold: 4
+    silver: 1
+  XmasCone:
+    canBuy: true
+    gold: 80
+    silver: 1
+  XmasHoly:
+    canBuy: true
+    gold: 25
+    silver: 1
+  XmasMitten:
+    canBuy: true
+    gold: 100
+    silver: 1
+  XmasWreath:
+    canBuy: true
+    gold: 320
+    silver: 1
+  artificialSnow:
+    canBuy: true
+    gold: 500
+    silver: 1
+  bckt:
+    canBuy: true
+    gold: 1200
+    silver: 1
+  bigPhial:
+    canBuy: true
+    gold: 500
+    silver: 1
+  bitOfGlass:
+    canBuy: true
+    gold: 400
+    silver: 1
+  bow:
+    canBuy: true
+    gold: 300
+    silver: 1
+  clay:
+    canBuy: true
+    gold: 20
+    silver: 1
+  cloth:
+    canBuy: true
+    gold: 100
+    silver: 1
+  clover:
+    canBuy: true
+    gold: 300
+    silver: 1
+  coffeBean:
+    canBuy: true
+    gold: 100
+    silver: 1
+  confetti:
+    canBuy: true
+    gold: 100
+    silver: 1
+  ctfb:
+    canBuy: true
+    gold: 2500
+    silver: 1
+  egg:
+    canBuy: true
+    gold: 2300
+    silver: 1
+  energy:
+    canBuy: true
+    gold: 1
+    silver: 1
+  fasten:
+    canBuy: true
+    gold: 120
+    silver: 1
+  feather:
+    canBuy: true
+    gold: 10
+    silver: 1
+  flowerBud:
+    canBuy: true
+    gold: 10
+    silver: 1
+  generosity:
+    canBuy: true
+    gold: 50
+    silver: 1
+  gingerForm:
+    canBuy: true
+    gold: 400
+    silver: 1
+  glass:
+    canBuy: true
+    gold: 100
+    silver: 1
+  glz:
+    canBuy: true
+    gold: 3000
+    silver: 1
+  gold:
+    canBuy: true
+    gold: 1
+    silver: 1
+  grindstone:
+    canBuy: true
+    gold: 100
+    silver: 1
+  happiness:
+    canBuy: true
+    gold: 40
+    silver: 1
+  hatred:
+    canBuy: true
+    gold: 30
+    silver: 1
+  jarOfPaint:
+    canBuy: true
+    gold: 100
+    silver: 1
+  likeCoin:
+    canBuy: true
+    gold: 300
+    silver: 1
+  lnfb:
+    canBuy: true
+    gold: 1500
+    silver: 1
+  love:
+    canBuy: true
+    gold: 30
+    silver: 1
+  mintLeaf:
+    canBuy: true
+    gold: 100
+    silver: 1
+  ny19TicketLoot:
+    canBuy: true
+    gold: 500
+    silver: 1
+  peaceOfIron:
+    canBuy: true
+    gold: 20
+    silver: 1
+  peaceOfWax:
+    canBuy: true
+    gold: 100
+    silver: 1
+  peaceOfWood:
+    canBuy: true
+    gold: 20
+    silver: 1
+  pearl:
+    canBuy: true
+    gold: 750
+    silver: 1
+  phial:
+    canBuy: true
+    gold: 200
+    silver: 2
+  photograph:
+    canBuy: true
+    gold: 500
+    silver: 1
+  pollen:
+    canBuy: true
+    gold: 100
+    silver: 1
+  rdwd:
+    canBuy: true
+    gold: 1700
+    silver: 1
+  shell:
+    canBuy: true
+    gold: 400
+    silver: 1
+  silver:
+    canBuy: true
+    gold: 1
+    silver: 1
+  snowflake:
+    canBuy: true
+    gold: 59
+    silver: 1
+  stadium18TicketCraft:
+    canBuy: true
+    gold: 1000
+    silver: 1
+  swordHilt:
+    canBuy: true
+    gold: 500
+    silver: 1
+  thread:
+    canBuy: true
+    gold: 300
+    silver: 1
+  ttm:
+    canBuy: true
+    gold: 5000
+    silver: 1
+  valentine:
+    canBuy: true
+    gold: 100
+    silver: 1
+  water:
+    canBuy: true
+    gold: 10
+    silver: 1
+  wick:
+    canBuy: true
+    gold: 300
+    silver: 1
+  wrappingPaper:
+    canBuy: true
+    gold: 300
+    silver: 1
+marriedRings:
+  mrRing1:
+    canBuy: true
+    gold: 0
+    silver: 15000
+  mrRing2:
+    canBuy: true
+    gold: 100
+    silver: 0
+  mrRing3:
+    canBuy: true
+    gold: 500
+    silver: 0
+mdf:
+  beachBarItem1:
+    canBuy: true
+    energy: 20
+    gold: 0
+    silver: 700
+  beachBarItem2:
+    canBuy: true
+    energy: 50
+    gold: 3
+    silver: 0
+  beachBarItem3:
+    canBuy: true
+    energy: 100
+    gold: 5
+    silver: 0
+  cfCak:
+    canBuy: true
+    energy: 15
+    gold: 0
+    silver: 150
+  cfCof:
+    canBuy: true
+    energy: 30
+    gold: 1
+    silver: 0
+  cfPiz:
+    canBuy: true
+    energy: 100
+    gold: 3
+    silver: 0
+  clB52:
+    canBuy: true
+    energy: 100
+    gold: 3
+    silver: 0
+  clBlr:
+    canBuy: true
+    energy: 30
+    gold: 1
+    silver: 0
+  clMoc:
+    canBuy: true
+    energy: 15
+    gold: 0
+    silver: 150
+  trEnrg:
+    canBuy: true
+    gold: 1
+    saleSilver: 10
+    silver: 100
+    speed: '0.5'
+miscShop:
+  applianceBat:
+    canBuy: true
+    gold: 1
+    silver: 0
+  aqF1:
+    canBuy: true
+    gold: 15
+    silver: 0
+  aqF2:
+    canBuy: true
+    gold: 7
+    silver: 0
+  aqF3:
+    canBuy: true
+    gold: 10
+    silver: 0
+  aqF4:
+    canBuy: true
+    gold: 5
+    silver: 0
+  chairBomb:
+    canBuy: true
+    gold: 1
+    silver: 0
+  firework1:
+    canBuy: true
+    gold: 1
+    silver: 0
+  jacuzziWorms:
+    canBuy: true
+    gold: 1
+    silver: 0
+  nyFirToy1:
+    canBuy: true
+    gold: 2
+    silver: 0
+  nyFirToy10:
+    canBuy: true
+    gold: 7
+    silver: 0
+  nyFirToy11:
+    canBuy: true
+    gold: 7
+    silver: 0
+  nyFirToy12:
+    canBuy: true
+    gold: 6
+    silver: 0
+  nyFirToy13:
+    canBuy: true
+    gold: 4
+    silver: 0
+  nyFirToy14:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy15:
+    canBuy: true
+    gold: 8
+    silver: 0
+  nyFirToy16:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy17:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy18:
+    canBuy: true
+    gold: 4
+    silver: 0
+  nyFirToy19:
+    canBuy: true
+    gold: 2
+    silver: 0
+  nyFirToy2:
+    canBuy: true
+    gold: 2
+    silver: 0
+  nyFirToy20:
+    canBuy: true
+    gold: 4
+    silver: 0
+  nyFirToy21:
+    canBuy: true
+    gold: 15
+    silver: 0
+  nyFirToy22:
+    canBuy: true
+    gold: 17
+    silver: 0
+  nyFirToy23:
+    canBuy: true
+    gold: 9
+    silver: 0
+  nyFirToy24:
+    canBuy: true
+    gold: 12
+    silver: 0
+  nyFirToy25:
+    canBuy: true
+    gold: 12
+    silver: 0
+  nyFirToy26:
+    canBuy: true
+    gold: 25
+    silver: 0
+  nyFirToy3:
+    canBuy: true
+    gold: 2
+    silver: 0
+  nyFirToy4:
+    canBuy: true
+    gold: 4
+    silver: 0
+  nyFirToy5:
+    canBuy: true
+    gold: 5
+    silver: 0
+  nyFirToy6:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy7:
+    canBuy: true
+    gold: 6
+    silver: 0
+  nyFirToy8:
+    canBuy: true
+    gold: 3
+    silver: 0
+  nyFirToy9:
+    canBuy: true
+    gold: 1
+    silver: 0
+  scrdvr:
+    canBuy: true
+    gold: 5
+    silver: 0
+  wllgrfft1:
+    canBuy: true
+    gold: 4
+    silver: 0
+  wllgrfft2:
+    canBuy: true
+    gold: 2
+    silver: 0
+  wllgrfft3:
+    canBuy: true
+    gold: 2
+    silver: 0
+  wllgrfft4:
+    canBuy: true
+    gold: 2
+    silver: 0
+  wllgrfft5:
+    canBuy: true
+    gold: 10
+    silver: 0
+nyGifts:
+  nyGft1:
+    canBuy: true
+    gold: 0
+    silver: 2500
+  nyGft2:
+    canBuy: true
+    gold: 12
+    silver: 0
+  nyGft3:
+    canBuy: true
+    gold: 33
+    silver: 0
+rings:
+  engRing1:
+    canBuy: true
+    gold: 0
+    silver: 15000
+  engRing2:
+    canBuy: true
+    gold: 100
+    silver: 0
+  engRing3:
+    canBuy: true
+    gold: 500
+    silver: 0
+  mrRing1:
+    canBuy: true
+    gold: 0
+    silver: 15000
+  mrRing2:
+    canBuy: true
+    gold: 100
+    silver: 0
+  mrRing3:
+    canBuy: true
+    gold: 500
+    silver: 0

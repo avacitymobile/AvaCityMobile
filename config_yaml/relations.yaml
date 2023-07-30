@@ -1,0 +1,84 @@
+0:
+  progress:
+    -100: 1
+  transition: []
+1:
+  progress:
+    -100: 2
+    100: 0
+  transition: []
+2:
+  progress:
+    100: 1
+  transition: []
+10:
+  progress: {}
+  transition: []
+20:
+  progress:
+    -100: 21
+    100: 22
+  transition: []
+21:
+  progress:
+    100: 20
+  transition: []
+22:
+  progress:
+    -100: 20
+  transition: []
+23:
+  progress:
+    -100: 21
+    100: 22
+  transition: []
+24:
+  progress:
+    -100: 21
+    100: 22
+  transition: []
+25:
+  progress:
+    -100: 21
+    100: 22
+  transition: []
+26:
+  progress:
+    -100: 21
+    100: 22
+  transition: []
+27:
+  progress:
+    -100: 21
+    100: 22
+  transition: []
+40:
+  progress:
+    -100: 41
+    100: 42
+  transition: []
+41:
+  progress:
+    100: 40
+  transition: []
+42:
+  progress:
+    -100: 40
+    100: 43
+  transition: []
+43:
+  progress:
+    -100: 42
+  transition: []
+50:
+  progress: {}
+  transition: []
+60:
+  progress: {}
+  transition: []
+70:
+  progress: {}
+  transition: []
+100:
+  progress: {}
+  transition: []

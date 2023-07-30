@@ -1,0 +1,8390 @@
+AmusimentHorseRudolf:
+  canBuy: 1
+  gold: 10287
+  rating: 28575
+  silver: 0
+ArmchairPirateRoom:
+  canBuy: 1
+  gold: 48
+  rating: 133
+  silver: 0
+Armchair_softroom:
+  canBuy: 1
+  gold: 92
+  rating: 256
+  silver: 0
+BarrelPirateRoom:
+  canBuy: 1
+  gold: 0
+  rating: 96
+  silver: 9600
+BarrelSaberPirateRoom:
+  canBuy: 1
+  gold: 72
+  rating: 200
+  silver: 0
+BedMatsGym:
+  canBuy: 1
+  gold: 0
+  rating: 7265
+  silver: 0
+BedTropical:
+  canBuy: 1
+  gold: 3596
+  rating: 9991
+  silver: 0
+Bed_bigcity:
+  canBuy: 1
+  gold: 200
+  rating: 556
+  silver: 0
+BookPirateRoom:
+  canBuy: 1
+  gold: 64
+  rating: 178
+  silver: 0
+BouquetTulip:
+  canBuy: 1
+  gold: 80
+  rating: 180
+  silver: 0
+Cactus_big:
+  canBuy: 1
+  gold: 480
+  rating: 1450
+  silver: 0
+Cactus_big_fl:
+  canBuy: 1
+  gold: 0
+  rating: 5333
+  silver: 0
+Cactus_tall:
+  canBuy: 1
+  gold: 0
+  rating: 789
+  silver: 0
+Cactus_tall_fl:
+  canBuy: 1
+  gold: 0
+  rating: 3429
+  silver: 0
+CameraPhotostudio:
+  canBuy: 1
+  gold: 800
+  rating: 2222
+  silver: 0
+CandleHalloweenBallroom:
+  canBuy: 1
+  gold: 1543
+  rating: 4286
+  silver: 0
+CandlePirateRoom:
+  canBuy: 1
+  gold: 60
+  rating: 167
+  silver: 0
+CarpetPhotostudio:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+CarpetPirateRoom:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+CarpetRubberGym:
+  canBuy: 1
+  gold: 0
+  rating: 7265
+  silver: 0
+CarpetYogaBlackGym:
+  canBuy: 1
+  gold: 0
+  rating: 3269
+  silver: 0
+CarpetYogaGreenGym:
+  canBuy: 1
+  gold: 0
+  rating: 3269
+  silver: 0
+Carpet_hygge_kitchen:
+  canBuy: 1
+  gold: 64
+  rating: 177
+  silver: 0
+CasePianoRoomSV19:
+  canBuy: 1
+  gold: 4199
+  rating: 11664
+  silver: 0
+Case_hygge_kitchen_1:
+  canBuy: 1
+  gold: 60
+  rating: 166
+  silver: 0
+Case_hygge_kitchen_2:
+  canBuy: 1
+  gold: 50
+  rating: 138
+  silver: 0
+Case_hygge_kitchen_3:
+  canBuy: 1
+  gold: 72
+  rating: 200
+  silver: 0
+ChairBallGym:
+  canBuy: 1
+  gold: 0
+  rating: 4087
+  silver: 0
+ChairHalloweenBallroom:
+  canBuy: 1
+  gold: 686
+  rating: 1905
+  silver: 0
+ChairPhotostudio:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+ChairPianoRoomSV19:
+  canBuy: 1
+  gold: 1400
+  rating: 3888
+  silver: 0
+ChairPirateRoom:
+  canBuy: 1
+  gold: 0
+  rating: 80
+  silver: 8000
+Chair_hygge_kitchen:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+Chairrabbitpink:
+  canBuy: 1
+  gold: 4526
+  rating: 12571
+  silver: 0
+Chairrabbitpinkwhite:
+  canBuy: 1
+  gold: 4114
+  rating: 11429
+  silver: 0
+Chairrabbitwhite:
+  canBuy: 1
+  gold: 3909
+  rating: 10857
+  silver: 0
+Chairrabbityellow:
+  canBuy: 1
+  gold: 4114
+  rating: 11429
+  silver: 0
+Chickeneasterdecor:
+  canBuy: 1
+  gold: 88
+  rating: 2286
+  silver: 0
+Chickeneasterdecor2:
+  canBuy: 1
+  gold: 88
+  rating: 2857
+  silver: 0
+Clock_bigcity:
+  canBuy: 1
+  gold: 100
+  rating: 278
+  silver: 0
+Cocktail_coco:
+  canBuy: 1
+  gold: 0
+  rating: 72
+  silver: 7200
+Cocktail_mojito:
+  canBuy: 1
+  gold: 24
+  rating: 67
+  silver: 0
+Cocktail_sunrise:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+ColumnConan:
+  canBuy: 1
+  gold: 0
+  rating: 120
+  silver: 12000
+ColumnTropical:
+  canBuy: 1
+  gold: 1635
+  rating: 4542
+  silver: 0
+Comodo_bigcity:
+  canBuy: 1
+  gold: 140
+  rating: 389
+  silver: 0
+CorePirateRoom:
+  canBuy: 1
+  gold: 0
+  rating: 40
+  silver: 4000
+Couch_jacuzziblue:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+CupboardGym:
+  canBuy: 1
+  gold: 0
+  rating: 10898
+  silver: 0
+Dance_carpet:
+  canBuy: 1
+  gold: 0
+  rating: 547
+  silver: 0
+Decorcandle:
+  canBuy: 1
+  gold: 0
+  rating: 455
+  silver: 0
+Decorcoffee:
+  canBuy: 1
+  gold: 0
+  rating: 273
+  silver: 0
+Decorlamp:
+  canBuy: 1
+  gold: 0
+  rating: 909
+  silver: 0
+Decortoolpicture:
+  canBuy: 1
+  gold: 0
+  rating: 1998
+  silver: 0
+Dishes_hygge_kitchen:
+  canBuy: 1
+  gold: 88
+  rating: 244
+  silver: 0
+DoorConan:
+  canBuy: 1
+  gold: 0
+  rating: 440
+  silver: 44000
+DoorGym:
+  canBuy: 1
+  gold: 0
+  rating: 3996
+  silver: 0
+DoorPhotostudio:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+DoorPianoRoomSV19:
+  canBuy: 1
+  gold: 4759
+  rating: 13219
+  silver: 0
+DoorPirateRoom:
+  canBuy: 1
+  gold: 0
+  rating: 140
+  silver: 14000
+DoorSH:
+  canBuy: 1
+  gold: 60
+  rating: 166
+  silver: 0
+DoorSantaHouse:
+  canBuy: 1
+  gold: 0
+  rating: 4191
+  silver: 0
+DoorSp:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+  silver: 0
+DoorTropical:
+  canBuy: 1
+  gold: 2093
+  rating: 5813
+  silver: 0
+Door_Avengers_gr:
+  canBuy: 1
+  gold: 952
+  rating: 4762
+  silver: 0
+Doorworkshopbrick:
+  canBuy: 1
+  gold: 0
+  rating: 2905
+  silver: 0
+Doorworkshopsteel:
+  canBuy: 1
+  gold: 1765
+  rating: 4904
+  silver: 0
+DoubleArmchair:
+  canBuy: 1
+  gold: 5598
+  rating: 15552
+  silver: 0
+DumbbellGym:
+  canBuy: 1
+  gold: 0
+  rating: 364
+  silver: 0
+Eastereggsdecorble:
+  canBuy: 1
+  gold: 88
+  rating: 4190
+  silver: 0
+Eastereggsdecorp:
+  canBuy: 1
+  gold: 88
+  rating: 3429
+  silver: 0
+Eastereggsdecory:
+  canBuy: 1
+  gold: 88
+  rating: 4762
+  silver: 0
+FIFA:
+  canBuy: 1
+  gold: 0
+  rating: 150
+  silver: 0
+Fan1Photostudio:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+Fan2Photostudio:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+FirePlateConan:
+  canBuy: 1
+  gold: 0
+  rating: 480
+  silver: 48000
+FireplaceSantaHouse:
+  canBuy: 1
+  gold: 0
+  rating: 11430
+  silver: 0
+FloorConan:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+FloorGym:
+  canBuy: 1
+  gold: 0
+  rating: 2544
+  silver: 0
+FloorPhotostudio:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+FloorPianoRoomSV19:
+  canBuy: 1
+  gold: 5879
+  rating: 16330
+  silver: 0
+FloorPirateRoom:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+FloorSH:
+  canBuy: 1
+  gold: 0
+  rating: 100
+  silver: 10000
+FloorSantaHouse:
+  canBuy: 1
+  gold: 0
+  rating: 3239
+  silver: 0
+FloorSp:
+  canBuy: 1
+  gold: 16796
+  rating: 46656
+  silver: 0
+FloorSpr19:
+  canBuy: 1
+  gold: 4905
+  rating: 13624
+  silver: 0
+FloorTropical:
+  canBuy: 1
+  gold: 4904
+  rating: 13624
+  silver: 0
+Floor_Avengers_v:
+  canBuy: 1
+  gold: 2599
+  rating: 12857
+  silver: 0
+Floor_hygge_kitchen:
+  canBuy: 1
+  gold: 0
+  rating: 176
+  silver: 17600
+Floorworkshopbrick:
+  canBuy: 1
+  gold: 0
+  rating: 2362
+  silver: 0
+Floorworkshopsteel:
+  canBuy: 1
+  gold: 1700
+  rating: 4722
+  silver: 0
+Flowerlampblue:
+  canBuy: 1
+  gold: 1024
+  rating: 2857
+  silver: 0
+Flowerlampred:
+  canBuy: 1
+  gold: 1024
+  rating: 2857
+  silver: 0
+Flowerlampyellow:
+  canBuy: 1
+  gold: 1024
+  rating: 2857
+  silver: 0
+FlutterBallon:
+  canBuy: 1
+  gold: 0
+  rating: 167
+  silver: 0
+Food_processor_hyhhe_kitchen:
+  canBuy: 1
+  gold: 72
+  rating: 200
+  silver: 0
+Furnitureworkbench:
+  canBuy: 1
+  gold: 0
+  rating: 2905
+  silver: 0
+GarlandHeart:
+  canBuy: 1
+  gold: 0
+  rating: 222
+  silver: 0
+GiftBoxValentineDay_be:
+  canBuy: 1
+  gold: 0
+  rating: 92
+  silver: 0
+GiftBoxValentineDay_dbe:
+  canBuy: 1
+  gold: 0
+  rating: 92
+  silver: 0
+GiftBoxValentineDay_g:
+  canBuy: 1
+  gold: 0
+  rating: 92
+  silver: 0
+GiftBoxValentineDay_lbe:
+  canBuy: 1
+  gold: 0
+  rating: 92
+  silver: 0
+GiftBoxValentineDay_lg:
+  canBuy: 1
+  gold: 0
+  rating: 92
+  silver: 0
+GiftBoxValentineDay_o:
+  canBuy: 1
+  gold: 0
+  rating: 92
+  silver: 0
+GiftBoxValentineDay_p:
+  canBuy: 1
+  gold: 0
+  rating: 92
+  silver: 0
+GiftBoxValentineDay_r:
+  canBuy: 1
+  gold: 0
+  rating: 92
+  silver: 0
+GiftBoxValentineDay_v:
+  canBuy: 1
+  gold: 0
+  rating: 92
+  silver: 0
+Glove_Avengers_y:
+  canBuy: 1
+  gold: 3809
+  rating: 19048
+  silver: 0
+Gold_disk_wall:
+  canBuy: 1
+  gold: 0
+  rating: 1347
+  silver: 0
+GoldenTree1:
+  canBuy: 1
+  gold: 4251
+  rating: 11807
+  silver: 0
+GoldenTree2:
+  canBuy: 1
+  gold: 4577
+  rating: 12715
+  silver: 0
+HalloweenMirror:
+  canBuy: 1
+  gold: 8230
+  rating: 22860
+  silver: 0
+Hawaii_Armchair:
+  canBuy: 1
+  gold: 2599
+  rating: 7220
+  silver: 0
+Hawaii_Chair_Surf_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3800
+  silver: 0
+Hawaii_Chair_Surf_w:
+  canBuy: 1
+  gold: 0
+  rating: 3800
+  silver: 0
+Hawaii_Sofa:
+  canBuy: 1
+  gold: 3762
+  rating: 10450
+  silver: 0
+Hawaii_Table:
+  canBuy: 1
+  gold: 1710
+  rating: 4750
+  silver: 0
+Hawaii_Table_Surf:
+  canBuy: 1
+  gold: 0
+  rating: 5700
+  silver: 0
+Hawaii_commode:
+  canBuy: 1
+  gold: 1267
+  rating: 3610
+  silver: 0
+Hawaii_decor_wheel:
+  canBuy: 1
+  gold: 2535
+  rating: 7220
+  silver: 0
+Hawaii_floor:
+  canBuy: 1
+  gold: 4104
+  rating: 11400
+  silver: 0
+Hawaii_lamp_desk:
+  canBuy: 1
+  gold: 800
+  rating: 2280
+  silver: 0
+Hawaii_lamp_floor:
+  canBuy: 1
+  gold: 1505
+  rating: 4180
+  silver: 0
+Hawaii_wall:
+  canBuy: 1
+  gold: 5472
+  rating: 15200
+  silver: 0
+HeartBallon:
+  canBuy: 1
+  gold: 0
+  rating: 225
+  silver: 0
+HeartGlass:
+  canBuy: 1
+  gold: 0
+  rating: 1667
+  silver: 0
+Huladancer_decor:
+  canBuy: 1
+  gold: 0
+  rating: 4164
+  silver: 0
+JanitorCuckooClock:
+  canBuy: 1
+  gold: 220
+  rating: 611
+  silver: 0
+JanitorFireplace:
+  canBuy: 1
+  gold: 0
+  rating: 1000
+  silver: 100000
+JanitorGramophone:
+  canBuy: 1
+  gold: 400
+  rating: 2000
+  silver: 0
+JanitorGrandfatherClock:
+  canBuy: 1
+  gold: 320
+  rating: 889
+  silver: 0
+JanitorHourglass:
+  canBuy: 1
+  gold: 0
+  rating: 480
+  silver: 48000
+JanitorKnight:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+JanitorRailway:
+  canBuy: 1
+  gold: 560
+  rating: 2800
+  silver: 0
+JanitorRocker:
+  canBuy: 1
+  gold: 560
+  rating: 2800
+  silver: 0
+JanitorTransistor:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+JumpRopeGym:
+  canBuy: 1
+  gold: 0
+  rating: 1816
+  silver: 0
+Knives_hygge_kitchen:
+  canBuy: 1
+  gold: 32
+  rating: 88
+  silver: 0
+LampHalloweenBallroom:
+  canBuy: 1
+  gold: 411
+  rating: 1143
+  silver: 0
+LampPianoRoomSV19:
+  canBuy: 1
+  gold: 1400
+  rating: 3888
+  silver: 0
+LampPirateRoom:
+  canBuy: 1
+  gold: 50
+  rating: 139
+  silver: 0
+MapPirateRoom:
+  canBuy: 1
+  gold: 180
+  rating: 500
+  silver: 0
+MeerkatBear:
+  canBuy: 1
+  gold: 0
+  rating: 2775
+  silver: 0
+MetronomPianoRoomSV19:
+  canBuy: 1
+  gold: 2799
+  rating: 7776
+  silver: 0
+MortarPirateRoom:
+  canBuy: 1
+  gold: 176
+  rating: 489
+  silver: 0
+Music_bunny:
+  canBuy: 1
+  gold: 1999
+  rating: 5553
+  silver: 0
+Music_penguin_big:
+  canBuy: 1
+  gold: 6857
+  rating: 19048
+  silver: 0
+Music_penguin_medium:
+  canBuy: 1
+  gold: 0
+  rating: 2606
+  silver: 0
+Music_penguin_small:
+  canBuy: 1
+  gold: 0
+  rating: 1806
+  silver: 0
+NYairflake:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 0
+NYball:
+  canBuy: 1
+  gold: 0
+  rating: 111
+  silver: 0
+NYfireplace:
+  canBuy: 1
+  gold: 0
+  rating: 150
+  silver: 0
+NYplateBlue:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 0
+NYplateRed:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 0
+NYspruce:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 0
+NYspruceBlue:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 0
+Night_Forest_floor:
+  canBuy: 1
+  gold: 0
+  rating: 14493
+  silver: 0
+Night_Forest_tree:
+  canBuy: 1
+  gold: 0
+  rating: 115943
+  silver: 0
+Night_Forest_wall:
+  canBuy: 1
+  gold: 0
+  rating: 11594
+  silver: 0
+Oil_spice_hygge_kitchen:
+  canBuy: 1
+  gold: 0
+  rating: 43
+  silver: 4320
+Orrery_wizard:
+  canBuy: 1
+  gold: 0
+  rating: 560
+  silver: 56000
+PancakeWkScarecrow:
+  canBuy: 1
+  gold: 200
+  rating: 555
+  silver: 0
+Peppers_hygge_kitchen:
+  canBuy: 1
+  gold: 0
+  rating: 40
+  silver: 4000
+PianoHalloweenBallroom:
+  canBuy: 1
+  gold: 5486
+  rating: 15240
+  silver: 0
+PianoRoomSV19:
+  canBuy: 1
+  gold: 13997
+  rating: 38800
+  silver: 0
+PictureGymExit:
+  canBuy: 1
+  gold: 0
+  rating: 545
+  silver: 0
+PictureGymPoster:
+  canBuy: 1
+  gold: 0
+  rating: 3269
+  silver: 0
+PicturePhotostudio:
+  canBuy: 1
+  gold: 32
+  rating: 89
+  silver: 0
+PictureTropical:
+  canBuy: 1
+  gold: 0
+  rating: 3087
+  silver: 0
+Pingvi_surfer:
+  canBuy: 1
+  gold: 0
+  rating: 2117
+  silver: 0
+Pingvi_ukulele:
+  canBuy: 1
+  gold: 0
+  rating: 5000
+  silver: 0
+Platinum_disk_wall:
+  canBuy: 1
+  gold: 0
+  rating: 1656
+  silver: 0
+Poke_Jglpuff:
+  canBuy: 1
+  gold: 2400
+  rating: 6667
+  silver: 0
+Poke_Lpas:
+  canBuy: 1
+  gold: 3429
+  rating: 9524
+  silver: 0
+Poke_Vpix:
+  canBuy: 1
+  gold: 3086
+  rating: 8571
+  silver: 0
+Poke_Wardrobe_r:
+  canBuy: 1
+  gold: 2400
+  rating: 6667
+  silver: 0
+Poke_Wardrobe_y:
+  canBuy: 1
+  gold: 2799
+  rating: 7619
+  silver: 0
+Poke_bed_r:
+  canBuy: 1
+  gold: 2400
+  rating: 6667
+  silver: 0
+Poke_bed_y:
+  canBuy: 1
+  gold: 2699
+  rating: 7619
+  silver: 0
+Poke_carpet_r:
+  canBuy: 1
+  gold: 1372
+  rating: 3810
+  silver: 0
+Poke_carpet_y:
+  canBuy: 1
+  gold: 1399
+  rating: 3810
+  silver: 0
+Poke_case_r:
+  canBuy: 1
+  gold: 1543
+  rating: 4286
+  silver: 0
+Poke_case_y:
+  canBuy: 1
+  gold: 1499
+  rating: 4286
+  silver: 0
+Poke_chair_r:
+  canBuy: 1
+  gold: 1543
+  rating: 4286
+  silver: 0
+Poke_chair_y:
+  canBuy: 1
+  gold: 0
+  rating: 4286
+  silver: 0
+Poke_floor:
+  canBuy: 1
+  gold: 0
+  rating: 2381
+  silver: 0
+Poke_table_r:
+  canBuy: 1
+  gold: 1886
+  rating: 5238
+  silver: 0
+Poke_table_y:
+  canBuy: 1
+  gold: 0
+  rating: 5238
+  silver: 0
+Poke_wall_r:
+  canBuy: 1
+  gold: 0
+  rating: 3810
+  silver: 0
+Poke_wall_y:
+  canBuy: 1
+  gold: 0
+  rating: 3810
+  silver: 0
+PresentSVdbe:
+  canBuy: 1
+  gold: 1
+  rating: 117
+  silver: 0
+PresentSVg:
+  canBuy: 1
+  gold: 1
+  rating: 117
+  silver: 0
+PresentSVlbe:
+  canBuy: 1
+  gold: 1
+  rating: 117
+  silver: 0
+PresentSVlg:
+  canBuy: 1
+  gold: 1
+  rating: 117
+  silver: 0
+PresentSVo:
+  canBuy: 1
+  gold: 1
+  rating: 117
+  silver: 0
+PresentSVp:
+  canBuy: 1
+  gold: 1
+  rating: 117
+  silver: 0
+PresentSVr:
+  canBuy: 1
+  gold: 1
+  rating: 117
+  silver: 0
+PresentSVv:
+  canBuy: 1
+  gold: 1
+  rating: 117
+  silver: 0
+PunchingBagGym:
+  canBuy: 1
+  gold: 0
+  rating: 12715
+  silver: 0
+Red_castle_ArmChair:
+  canBuy: 1
+  gold: 6171
+  rating: 17143
+  silver: 0
+Red_castle_armor_br:
+  canBuy: 1
+  gold: 4800
+  rating: 13333
+  silver: 0
+Red_castle_armor_gr:
+  canBuy: 1
+  gold: 4114
+  rating: 11429
+  silver: 0
+Red_castle_candlestick:
+  canBuy: 1
+  gold: 2606
+  rating: 7238
+  silver: 0
+Red_castle_case:
+  canBuy: 1
+  gold: 2194
+  rating: 6095
+  silver: 0
+Red_castle_chair:
+  canBuy: 1
+  gold: 1200
+  rating: 3333
+  silver: 0
+Red_castle_door:
+  canBuy: 1
+  gold: 3429
+  rating: 9524
+  silver: 0
+Red_castle_floor:
+  canBuy: 1
+  gold: 2057
+  rating: 5714
+  silver: 0
+Red_castle_latticework:
+  canBuy: 1
+  gold: 2743
+  rating: 7619
+  silver: 0
+Red_castle_table:
+  canBuy: 1
+  gold: 1920
+  rating: 5333
+  silver: 0
+Red_castle_wall:
+  canBuy: 1
+  gold: 2743
+  rating: 7619
+  silver: 0
+Red_castle_window:
+  canBuy: 1
+  gold: 3429
+  rating: 9524
+  silver: 0
+RosePetals:
+  canBuy: 1
+  gold: 0
+  rating: 219
+  silver: 0
+SHBackPack:
+  canBuy: 1
+  gold: 0
+  rating: 80
+  silver: 8000
+SHChair:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+SHDummyMan:
+  canBuy: 1
+  gold: 320
+  rating: 1600
+  silver: 0
+SHDummyWoman:
+  canBuy: 1
+  gold: 320
+  rating: 1600
+  silver: 0
+SHGlobe:
+  canBuy: 1
+  gold: 1222
+  rating: 7500
+  silver: 0
+SHTable:
+  canBuy: 1
+  gold: 100
+  rating: 277
+  silver: 0
+SHWeldingMchn:
+  canBuy: 1
+  gold: 240
+  rating: 666
+  silver: 0
+Scandinavia_bedroom_bed:
+  canBuy: 1
+  gold: 3762
+  rating: 10450
+  silver: 0
+Scandinavia_bedroom_bedside_lamp:
+  canBuy: 1
+  gold: 1026
+  rating: 2850
+  silver: 0
+Scandinavia_bedroom_bedside_table:
+  canBuy: 1
+  gold: 1505
+  rating: 4180
+  silver: 0
+Scandinavia_bedroom_bench:
+  canBuy: 1
+  gold: 1710
+  rating: 4750
+  silver: 0
+Scandinavia_bedroom_big_plant:
+  canBuy: 1
+  gold: 2394
+  rating: 6650
+  silver: 0
+Scandinavia_bedroom_commode:
+  canBuy: 1
+  gold: 19
+  rating: 4750
+  silver: 0
+Scandinavia_bedroom_floor:
+  canBuy: 1
+  gold: 2052
+  rating: 5700
+  silver: 0
+Scandinavia_bedroom_wall:
+  canBuy: 1
+  gold: 2394
+  rating: 6650
+  silver: 0
+Scandinavia_bedroom_window:
+  canBuy: 1
+  gold: 6156
+  rating: 17100
+  silver: 0
+Scandinavianarmchairg:
+  canBuy: 1
+  gold: 44
+  rating: 122
+  silver: 0
+Scandinavianarmchairy:
+  canBuy: 1
+  gold: 44
+  rating: 122
+  silver: 0
+Scandinavianballfigurine:
+  canBuy: 1
+  gold: 0
+  rating: 80
+  silver: 8000
+Scandinavianbooksvinyl:
+  canBuy: 1
+  gold: 0
+  rating: 80
+  silver: 8000
+Scandinavianboxheart:
+  canBuy: 1
+  gold: 48
+  rating: 133
+  silver: 0
+Scandinavianchairg:
+  canBuy: 1
+  gold: 28
+  rating: 77
+  silver: 0
+Scandinavianchairy:
+  canBuy: 1
+  gold: 28
+  rating: 77
+  silver: 0
+Scandinaviandoor:
+  canBuy: 1
+  gold: 60
+  rating: 166
+  silver: 0
+Scandinavianfloor:
+  canBuy: 1
+  gold: 144
+  rating: 400
+  silver: 0
+Scandinavianflowerpot:
+  canBuy: 1
+  gold: 0
+  rating: 80
+  silver: 8000
+Scandinavianlampdeskbl:
+  canBuy: 1
+  gold: 28
+  rating: 77
+  silver: 0
+Scandinavianlampdeskor:
+  canBuy: 1
+  gold: 0
+  rating: 52
+  silver: 5200
+Scandinavianlampwallbl:
+  canBuy: 1
+  gold: 32
+  rating: 88
+  silver: 0
+Scandinavianlampwallgr:
+  canBuy: 1
+  gold: 36
+  rating: 100
+  silver: 0
+Scandinavianlampwallr:
+  canBuy: 1
+  gold: 0
+  rating: 60
+  silver: 6000
+Scandinavianshelveswall1:
+  canBuy: 1
+  gold: 88
+  rating: 244
+  silver: 0
+Scandinavianshelveswall2:
+  canBuy: 1
+  gold: 0
+  rating: 120
+  silver: 12000
+Scandinaviansofagr:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+Scandinaviansofaw:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+Scandinaviantablecoffee:
+  canBuy: 1
+  gold: 0
+  rating: 60
+  silver: 6000
+Scandinaviantableg:
+  canBuy: 1
+  gold: 32
+  rating: 88
+  silver: 0
+Scandinaviantablew:
+  canBuy: 1
+  gold: 0
+  rating: 60
+  silver: 6000
+Scandinavianvine:
+  canBuy: 1
+  gold: 48
+  rating: 133
+  silver: 0
+Scandinavianwall:
+  canBuy: 1
+  gold: 248
+  rating: 688
+  silver: 0
+Scandinavianwindow:
+  canBuy: 1
+  gold: 176
+  rating: 488
+  silver: 0
+ScreenPhotostudio:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+Screen_Avengers_lbe:
+  canBuy: 1
+  gold: 1499
+  rating: 7619
+  silver: 0
+Sea_wallpiac:
+  canBuy: 1
+  gold: 0
+  rating: 925
+  silver: 0
+SeatTropical:
+  canBuy: 1
+  gold: 0
+  rating: 1998
+  silver: 0
+ShelfDumbbellsGym:
+  canBuy: 1
+  gold: 0
+  rating: 6902
+  silver: 0
+Shelf_softroom:
+  canBuy: 1
+  gold: 36
+  rating: 100
+  silver: 0
+Shelves2_hygge_kitchen:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+Shelves_jacuzziblue:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+Sink_hygge_kitchen:
+  canBuy: 1
+  gold: 115
+  rating: 320
+  silver: 0
+SnowMan1:
+  canBuy: 1
+  gold: 0
+  rating: 7600
+  silver: 0
+SnowMan2:
+  canBuy: 1
+  gold: 0
+  rating: 7600
+  silver: 0
+Snowboard:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 0
+SofaBenchGym:
+  canBuy: 1
+  gold: 0
+  rating: 5995
+  silver: 0
+SofaHalloweenBallroom:
+  canBuy: 1
+  gold: 2057
+  rating: 5715
+  silver: 0
+SofaPhotostudio:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+  silver: 0
+SofaPianoRoomSV19:
+  canBuy: 1
+  gold: 8678
+  rating: 24106
+  silver: 0
+Sofa_hygge_kitchen:
+  canBuy: 1
+  gold: 99
+  rating: 275
+  silver: 0
+Sofa_softroom:
+  canBuy: 1
+  gold: 140
+  rating: 389
+  silver: 0
+SpLimGen:
+  canBuy: 1
+  gold: 8398
+  rating: 23328
+  silver: 0
+SpRobot:
+  canBuy: 1
+  gold: 5599
+  rating: 15552
+  silver: 0
+SpUnlGen:
+  canBuy: 1
+  gold: 9798
+  rating: 27216
+  silver: 0
+Spr19AnturiumR:
+  canBuy: 1
+  gold: 140
+  rating: 436
+  silver: 0
+Spr19AnturiumV:
+  canBuy: 1
+  gold: 1570
+  rating: 4360
+  silver: 0
+Spr19AnturiumW:
+  canBuy: 1
+  gold: 1570
+  rating: 4360
+  silver: 0
+Spr19Crpt:
+  canBuy: 1
+  gold: 0
+  rating: 415
+  silver: 0
+Spr19FlwFloor:
+  canBuy: 1
+  gold: 0
+  rating: 592
+  silver: 0
+Spr19FlwPnt:
+  canBuy: 1
+  gold: 0
+  rating: 611
+  silver: 0
+Spr19FlwPnt2:
+  canBuy: 1
+  gold: 240
+  rating: 692
+  silver: 0
+Spr19IvyGreen:
+  canBuy: 1
+  gold: 1
+  rating: 216
+  silver: 0
+Spr19Tree:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 0
+Spr19TreeDecor:
+  canBuy: 1
+  gold: 15693
+  rating: 43593
+  silver: 0
+StairGym:
+  canBuy: 1
+  gold: 0
+  rating: 9082
+  silver: 0
+Stonehead_decor:
+  canBuy: 1
+  gold: 0
+  rating: 1728
+  silver: 0
+Summer_Home_Jacuzzi:
+  canBuy: 1
+  gold: 1440
+  rating: 4000
+  silver: 0
+Summer_club_Lounge:
+  canBuy: 1
+  gold: 100
+  rating: 278
+  silver: 0
+Summer_club_Palm:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+Summer_club_Table:
+  canBuy: 1
+  gold: 70
+  rating: 194
+  silver: 0
+Summer_job_Palm:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 40000
+Summer_music_center:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+  silver: 0
+Summer_town_carpet:
+  canBuy: 1
+  gold: 280
+  rating: 778
+  silver: 0
+Summer_town_floor:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+Summer_town_wall:
+  canBuy: 1
+  gold: 560
+  rating: 1556
+  silver: 0
+Surfboardwall:
+  canBuy: 1
+  gold: 0
+  rating: 711
+  silver: 0
+TablePhotostudio:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+TablePianoRoomSV19:
+  canBuy: 1
+  gold: 5599
+  rating: 15552
+  silver: 0
+TablePirateRoom:
+  canBuy: 1
+  gold: 128
+  rating: 356
+  silver: 0
+TableTropical:
+  canBuy: 1
+  gold: 0
+  rating: 2544
+  silver: 0
+Table_bigcity:
+  canBuy: 1
+  gold: 60
+  rating: 167
+  silver: 0
+Table_hygge_kitchen:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+Table_mess_hygge_kitchen:
+  canBuy: 1
+  gold: 77
+  rating: 213
+  silver: 0
+Table_softroom:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+Tangerinetree_decor:
+  canBuy: 1
+  gold: 0
+  rating: 1967
+  silver: 0
+ThroneConan:
+  canBuy: 1
+  gold: 576
+  rating: 1600
+  silver: 0
+TorchSantaHouse:
+  canBuy: 1
+  gold: 0
+  rating: 1143
+  silver: 0
+UmbrellaPhotostudio:
+  canBuy: 1
+  gold: 560
+  rating: 1556
+  silver: 0
+VaseChoco:
+  canBuy: 1
+  gold: 0
+  rating: 97
+  silver: 0
+VaseDecorTropicalBedroomSP19:
+  canBuy: 1
+  gold: 0
+  rating: 1816
+  silver: 0
+VaseHalloweenBallroom:
+  canBuy: 1
+  gold: 1029
+  rating: 2858
+  silver: 0
+VaseHerberaKotexSP19:
+  canBuy: 1
+  gold: 0
+  rating: 2180
+  silver: 0
+VasePhotostudio:
+  canBuy: 1
+  gold: 16
+  rating: 44
+  silver: 0
+VasePianoRoomSV19:
+  canBuy: 1
+  gold: 700
+  rating: 1944
+  silver: 0
+VaseRedSP19:
+  canBuy: 1
+  gold: 1
+  rating: 194
+  silver: 0
+VaseSP19:
+  canBuy: 1
+  gold: 0
+  rating: 2725
+  silver: 0
+Victorian_armchair:
+  canBuy: 1
+  gold: 2736
+  rating: 7600
+  silver: 0
+Victorian_comode:
+  canBuy: 1
+  gold: 1881
+  rating: 5225
+  silver: 0
+Victorian_door:
+  canBuy: 1
+  gold: 1641
+  rating: 4558
+  silver: 0
+Victorian_picture:
+  canBuy: 1
+  gold: 2394
+  rating: 6650
+  silver: 0
+Victorian_sofa:
+  canBuy: 1
+  gold: 3796
+  rating: 10545
+  silver: 0
+Victorian_table_low:
+  canBuy: 1
+  gold: 1539
+  rating: 4275
+  silver: 0
+Victorian_vase_floor:
+  canBuy: 1
+  gold: 2052
+  rating: 5700
+  silver: 0
+Victorian_window:
+  canBuy: 1
+  gold: 3078
+  rating: 8550
+  silver: 0
+WallConan:
+  canBuy: 1
+  gold: 0
+  rating: 360
+  silver: 36000
+WallGym:
+  canBuy: 1
+  gold: 0
+  rating: 6358
+  silver: 0
+WallPhotostudio:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+WallPianoRoomSV19:
+  canBuy: 1
+  gold: 5879
+  rating: 16330
+  silver: 0
+WallPirateRoom:
+  canBuy: 1
+  gold: 180
+  rating: 500
+  silver: 0
+WallPirateRoom2:
+  canBuy: 1
+  gold: 0
+  rating: 280
+  silver: 28000
+WallSH:
+  canBuy: 1
+  gold: 0
+  rating: 180
+  silver: 18000
+WallSantaHouse:
+  canBuy: 1
+  gold: 0
+  rating: 3810
+  silver: 0
+WallSp:
+  canBuy: 1
+  gold: 23795
+  rating: 66096
+  silver: 0
+WallSpr19:
+  canBuy: 1
+  gold: 3270
+  rating: 9082
+  silver: 0
+WallTropical:
+  canBuy: 1
+  gold: 2877
+  rating: 7993
+  silver: 0
+Wall_Avengers_v:
+  canBuy: 1
+  gold: 4699
+  rating: 22857
+  silver: 0
+Wall_hygge_kitchen:
+  canBuy: 1
+  gold: 239
+  rating: 664
+  silver: 0
+Wallworkshopbrick:
+  canBuy: 1
+  gold: 0
+  rating: 3996
+  silver: 0
+Wallworkshopsteel:
+  canBuy: 1
+  gold: 2093
+  rating: 5813
+  silver: 0
+WindowGym:
+  canBuy: 1
+  gold: 0
+  rating: 1362
+  silver: 0
+WindowPianoRoomSV19:
+  canBuy: 1
+  gold: 4759
+  rating: 13219
+  silver: 0
+WindowPirateRoom:
+  canBuy: 1
+  gold: 320
+  rating: 889
+  silver: 0
+WindowSH:
+  canBuy: 1
+  gold: 1399
+  rating: 7777
+  silver: 0
+WindowSantaHouse:
+  canBuy: 1
+  gold: 0
+  rating: 5715
+  silver: 0
+WindowTropical:
+  canBuy: 1
+  gold: 2530
+  rating: 7029
+  silver: 0
+Window_hygge_kitchen:
+  canBuy: 1
+  gold: 159
+  rating: 442
+  silver: 0
+Windowworkshop:
+  canBuy: 1
+  gold: 0
+  rating: 909
+  silver: 0
+Windowworkshopsteel:
+  canBuy: 1
+  gold: 458
+  rating: 1271
+  silver: 0
+WreathNYLight:
+  canBuy: 1
+  gold: 0
+  rating: 1905
+  silver: 0
+acoustic1:
+  canBuy: 1
+  gold: 0
+  rating: 9999
+  silver: 650
+acoustic2:
+  canBuy: 1
+  gold: 0
+  rating: 39
+  silver: 3900
+acoustic3:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+acoustic4:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 890
+actAln:
+  canBuy: 1
+  gold: 29
+  rating: 70
+  silver: 0
+amuletArt:
+  canBuy: 1
+  gold: 14
+  rating: 20
+  silver: 0
+applianceMusicCenter1:
+  canBuy: 1
+  gold: 0
+  rating: 39
+  silver: 3950
+applianceMusicCenter2:
+  canBuy: 1
+  gold: 0
+  rating: 20
+  silver: 2500
+applianceMusicCenter3:
+  canBuy: 1
+  gold: 0
+  rating: 1200
+  silver: 120000
+applianceMusicCenter4:
+  canBuy: 1
+  gold: 45
+  rating: 113
+  silver: 0
+applianceNotebook1:
+  canBuy: 1
+  gold: 14
+  rating: 0
+  silver: 0
+applianceNotebook2:
+  canBuy: 1
+  gold: 9
+  rating: 0
+  silver: 0
+applianceNotebook3:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 3900
+applianceTv1:
+  canBuy: 1
+  gold: 0
+  rating: 20
+  silver: 2300
+applianceTv2:
+  canBuy: 1
+  gold: 25
+  rating: 55
+  silver: 0
+applianceTv3:
+  canBuy: 1
+  gold: 0
+  rating: 120
+  silver: 12000
+applianceTv4:
+  canBuy: 1
+  gold: 65
+  rating: 163
+  silver: 0
+armPrncssBrwn:
+  canBuy: 1
+  gold: 85
+  rating: 220
+  silver: 0
+armPrncssGrn:
+  canBuy: 1
+  gold: 95
+  rating: 250
+  silver: 0
+armchSea:
+  canBuy: 1
+  gold: 32
+  rating: 89
+  silver: 0
+armchair1:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+armchair10:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+armchair11:
+  canBuy: 1
+  gold: 21
+  rating: 47
+  silver: 0
+armchair12:
+  canBuy: 1
+  gold: 9
+  rating: 16
+  silver: 0
+armchair13:
+  canBuy: 1
+  gold: 0
+  rating: 16
+  silver: 1650
+armchair14:
+  canBuy: 1
+  gold: 0
+  rating: 14
+  silver: 1480
+armchair2:
+  canBuy: 1
+  gold: 13
+  rating: 26
+  silver: 0
+armchair3:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 760
+armchair4:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 350
+armchair5:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+armchair6:
+  canBuy: 1
+  gold: 0
+  rating: 10
+  silver: 1000
+armchair7:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+armchair8:
+  canBuy: 1
+  gold: 0
+  rating: 13
+  silver: 1340
+armchair9:
+  canBuy: 1
+  gold: 0
+  rating: 18
+  silver: 1860
+armchairArtdeco1:
+  canBuy: 1
+  gold: 0
+  rating: 34
+  silver: 3400
+armchairVip1:
+  canBuy: 1
+  gold: 42
+  rating: 110
+  silver: 0
+armchairVip2:
+  canBuy: 1
+  gold: 58
+  rating: 150
+  silver: 0
+armchairVip3:
+  canBuy: 1
+  gold: 74
+  rating: 190
+  silver: 0
+armchair_wizard:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+armchrNY14:
+  canBuy: 1
+  gold: 0
+  rating: 1167
+  silver: 0
+artDecoChair1:
+  canBuy: 1
+  gold: 0
+  rating: 23
+  silver: 2300
+artroom_artobject:
+  canBuy: 1
+  gold: 0
+  rating: 280
+  silver: 28000
+artroom_easel:
+  canBuy: 1
+  gold: 320
+  rating: 889
+  silver: 0
+artroom_easel_box:
+  canBuy: 1
+  gold: 0
+  rating: 216
+  silver: 21600
+artroom_floor:
+  canBuy: 1
+  gold: 0
+  rating: 216
+  silver: 21600
+artroom_lamp:
+  canBuy: 1
+  gold: 0
+  rating: 96
+  silver: 9600
+artroom_picture:
+  canBuy: 1
+  gold: 0
+  rating: 128
+  silver: 12800
+artroom_screen:
+  canBuy: 1
+  gold: 0
+  rating: 960
+  silver: 96000
+artroom_sculpture:
+  canBuy: 1
+  gold: 0
+  rating: 176
+  silver: 17600
+artroom_stool:
+  canBuy: 1
+  gold: 0
+  rating: 136
+  silver: 13600
+artroom_wall:
+  canBuy: 1
+  gold: 0
+  rating: 136
+  silver: 13600
+artroom_window:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 40000
+atmn_veranda_armchair:
+  canBuy: 1
+  gold: 0
+  rating: 56
+  silver: 5600
+atmn_veranda_column:
+  canBuy: 1
+  gold: 0
+  rating: 32
+  silver: 3200
+atmn_veranda_door:
+  canBuy: 1
+  gold: 0
+  rating: 180
+  silver: 18000
+atmn_veranda_fireplace:
+  canBuy: 1
+  gold: 800
+  rating: 2222
+  silver: 0
+atmn_veranda_floor:
+  canBuy: 1
+  gold: 0
+  rating: 208
+  silver: 20800
+atmn_veranda_fountain:
+  canBuy: 1
+  gold: 480
+  rating: 2400
+  silver: 0
+atmn_veranda_pmpkn:
+  canBuy: 1
+  gold: 0
+  rating: 120
+  silver: 12000
+atmn_veranda_sofa:
+  canBuy: 1
+  gold: 0
+  rating: 100
+  silver: 10000
+atmn_veranda_table:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+atmn_veranda_wall:
+  canBuy: 1
+  gold: 0
+  rating: 640
+  silver: 64000
+avataria_floor_ny2018:
+  canBuy: 1
+  gold: 1710
+  rating: 4750
+  silver: 0
+avataria_wall_ny2018:
+  canBuy: 1
+  gold: 2462
+  rating: 6840
+  silver: 0
+awrdTbl1:
+  canBuy: 1
+  gold: 0
+  rating: 30
+  silver: 3000
+awrdTbl2:
+  canBuy: 1
+  gold: 25
+  rating: 55
+  silver: 0
+awrdTbl3:
+  canBuy: 1
+  gold: 30
+  rating: 75
+  silver: 0
+awrdTbl4:
+  canBuy: 1
+  gold: 30
+  rating: 75
+  silver: 0
+bar1:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+barAln:
+  canBuy: 1
+  gold: 250
+  rating: 575
+  silver: 0
+batHlwn:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 3500
+batHlwnRed:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 3500
+bath1:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 400
+bath2:
+  canBuy: 1
+  gold: 0
+  rating: 11
+  silver: 1100
+bath3:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 850
+bath4:
+  canBuy: 1
+  gold: 25
+  rating: 55
+  silver: 0
+bath6:
+  canBuy: 1
+  gold: 8
+  rating: 13
+  silver: 0
+bath7:
+  canBuy: 1
+  gold: 19
+  rating: 38
+  silver: 0
+bath8:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+bathroomCase1:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 410
+bathroomCase2:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 450
+bathroomChair1:
+  canBuy: 1
+  gold: 0
+  rating: 14
+  silver: 1400
+bathroomChair2:
+  canBuy: 1
+  gold: 18
+  rating: 36
+  silver: 0
+bathroomDecor1:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 65
+bathroomDecor2:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+bathroomDecor3:
+  canBuy: 1
+  gold: 4
+  rating: 9999
+  silver: 0
+bathroomDecor4:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 80
+bathroomDecor5:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 300
+bathroomDecor6:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 250
+bathroomDecor7:
+  canBuy: 1
+  gold: 2
+  rating: 3
+  silver: 0
+bathroomDecor8:
+  canBuy: 1
+  gold: 2
+  rating: 3
+  silver: 0
+bchMermaidCastle:
+  canBuy: 1
+  gold: 600
+  rating: 1500
+  silver: 0
+bchSurfboard:
+  canBuy: 1
+  gold: 800
+  rating: 500
+  silver: 0
+bchlrDcr1:
+  canBuy: 1
+  gold: 4
+  rating: 7
+  silver: 0
+bchlrDcr2:
+  canBuy: 1
+  gold: 0
+  rating: 9999
+  silver: 600
+bchlrDcr3:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 700
+bchlrDcr4:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 260
+bchlrDcr5:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 375
+bdAln:
+  canBuy: 1
+  gold: 36
+  rating: 90
+  silver: 0
+bdJpn1:
+  canBuy: 1
+  gold: 63
+  rating: 160
+  silver: 0
+bdPrncss:
+  canBuy: 1
+  gold: 299
+  rating: 800
+  silver: 0
+bdrm_blue_bed:
+  canBuy: 1
+  gold: 0
+  rating: 440
+  silver: 44000
+bdrm_blue_blkt:
+  canBuy: 1
+  gold: 0
+  rating: 140
+  silver: 14000
+bdrm_blue_box:
+  canBuy: 1
+  gold: 0
+  rating: 140
+  silver: 14000
+bdrm_blue_comodo:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+bdrm_blue_lamp:
+  canBuy: 1
+  gold: 0
+  rating: 56
+  silver: 5600
+bdrm_blue_stand:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+bdrm_blue_stand_wide:
+  canBuy: 1
+  gold: 0
+  rating: 280
+  silver: 28000
+bdrm_blue_wall:
+  canBuy: 1
+  gold: 0
+  rating: 96
+  silver: 9600
+bdrm_blue_window:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 40000
+beachRaceBronze:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+beachRaceGold:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+beachRaceSilver:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+bed1:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 1200
+bed2:
+  canBuy: 1
+  gold: 24
+  rating: 52
+  silver: 0
+bed3:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 500
+bed4:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 500
+bed5:
+  canBuy: 1
+  gold: 0
+  rating: 18
+  silver: 1870
+bed6:
+  canBuy: 1
+  gold: 0
+  rating: 15
+  silver: 1580
+bed7:
+  canBuy: 1
+  gold: 0
+  rating: 14
+  silver: 1470
+bedArtdeko1:
+  canBuy: 1
+  gold: 30
+  rating: 66
+  silver: 0
+bedBch:
+  canBuy: 1
+  gold: 55
+  rating: 140
+  silver: 0
+bedVip1:
+  canBuy: 1
+  gold: 99
+  rating: 260
+  silver: 0
+bedVip2:
+  canBuy: 1
+  gold: 119
+  rating: 300
+  silver: 0
+bedVip3:
+  canBuy: 1
+  gold: 105
+  rating: 265
+  silver: 0
+bigMaskVenice:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+blueFlower:
+  canBuy: 1
+  gold: 10
+  rating: 20
+  silver: 0
+bnclrNYRf:
+  canBuy: 1
+  gold: 150
+  rating: 400
+  silver: 0
+bookArt:
+  canBuy: 1
+  gold: 3
+  rating: 5
+  silver: 0
+bookForget:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 150
+bottle_green_hygge_kitchen:
+  canBuy: 1
+  gold: 36
+  rating: 100
+  silver: 0
+bottle_red_hygge_kitchen:
+  canBuy: 1
+  gold: 36
+  rating: 100
+  silver: 0
+bowl1:
+  canBuy: 1
+  gold: 20
+  rating: 44
+  silver: 0
+bowl2:
+  canBuy: 1
+  gold: 0
+  rating: 9
+  silver: 950
+bowl3:
+  canBuy: 1
+  gold: 14
+  rating: 28
+  silver: 0
+bowl4:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 380
+broomHlwn:
+  canBuy: 1
+  gold: 25
+  rating: 29
+  silver: 0
+bthMya:
+  canBuy: 1
+  gold: 13077
+  rating: 36327
+  silver: 0
+bth_tropics_bamboo:
+  canBuy: 1
+  gold: 1371
+  rating: 3808
+  silver: 0
+bth_tropics_bra:
+  canBuy: 1
+  gold: 548
+  rating: 1523
+  silver: 0
+bth_tropics_door:
+  canBuy: 1
+  gold: 3770
+  rating: 10472
+  silver: 0
+bth_tropics_floor:
+  canBuy: 1
+  gold: 1371
+  rating: 3808
+  silver: 0
+bth_tropics_jacuzzi:
+  canBuy: 1
+  gold: 13709
+  rating: 38080
+  silver: 0
+bth_tropics_wall:
+  canBuy: 1
+  gold: 2056
+  rating: 5712
+  silver: 0
+bth_tropics_window:
+  canBuy: 1
+  gold: 3084
+  rating: 8568
+  silver: 0
+bunny_chair_bk:
+  canBuy: 1
+  gold: 166
+  rating: 461
+  silver: 0
+bunny_chair_ble:
+  canBuy: 1
+  gold: 166
+  rating: 461
+  silver: 0
+bunny_chair_p:
+  canBuy: 1
+  gold: 166
+  rating: 461
+  silver: 0
+bunny_chair_w:
+  canBuy: 1
+  gold: 166
+  rating: 461
+  silver: 0
+candel:
+  canBuy: 1
+  gold: 0
+  rating: 22
+  silver: 0
+candleCobweb:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 4500
+candleWallHlwn:
+  canBuy: 1
+  gold: 11
+  rating: 13
+  silver: 0
+candlestickBookVenice:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 250
+carVip1:
+  canBuy: 1
+  gold: 140
+  rating: 350
+  silver: 0
+carVip2:
+  canBuy: 1
+  gold: 140
+  rating: 350
+  silver: 0
+carVip3:
+  canBuy: 1
+  gold: 140
+  rating: 350
+  silver: 0
+carpet1:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+carpet10:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 450
+carpet11:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 450
+carpet12:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 450
+carpet13:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 450
+carpet14:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 450
+carpet2:
+  canBuy: 1
+  gold: 0
+  rating: 9
+  silver: 900
+carpet3:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 850
+carpet4:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+carpet5:
+  canBuy: 1
+  gold: 21
+  rating: 46
+  silver: 0
+carpet6:
+  canBuy: 1
+  gold: 14
+  rating: 28
+  silver: 0
+carpet7:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+carpet8:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+carpet9:
+  canBuy: 1
+  gold: 0
+  rating: 900
+  silver: 45000
+carpetArtdeco:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 750
+carpetArtdecoRomb:
+  canBuy: 1
+  gold: 18
+  rating: 31
+  silver: 0
+carpetGhost:
+  canBuy: 1
+  gold: 25
+  rating: 29
+  silver: 0
+caseArtdecoLong:
+  canBuy: 1
+  gold: 49
+  rating: 123
+  silver: 0
+caseArtdecoLow:
+  canBuy: 1
+  gold: 0
+  rating: 13
+  silver: 1300
+caseArtdecoMiddle:
+  canBuy: 1
+  gold: 19
+  rating: 38
+  silver: 0
+caseArtdecoNarrow:
+  canBuy: 1
+  gold: 0
+  rating: 27
+  silver: 2700
+caseBachelor:
+  canBuy: 1
+  gold: 0
+  rating: 15
+  silver: 1300
+caseBachelorWood:
+  canBuy: 1
+  gold: 0
+  rating: 9
+  silver: 950
+caseForgetLow:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+caseForgetMirror:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+caseHlwn1:
+  canBuy: 1
+  gold: 45
+  rating: 60
+  silver: 0
+caseHlwn2:
+  canBuy: 1
+  gold: 45
+  rating: 60
+  silver: 0
+caseRoseLong:
+  canBuy: 1
+  gold: 0
+  rating: 34
+  silver: 3400
+caseRoseLow:
+  canBuy: 1
+  gold: 0
+  rating: 15
+  silver: 1500
+caseRoseMirror:
+  canBuy: 1
+  gold: 0
+  rating: 22
+  silver: 2200
+caseVlnt1:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 870
+case_hygge_kitchen_sv4:
+  canBuy: 1
+  gold: 132
+  rating: 366
+  silver: 0
+casketGold:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+catArt:
+  canBuy: 1
+  gold: 40
+  rating: 45
+  silver: 0
+cat_nghtlmp:
+  canBuy: 1
+  gold: 300
+  rating: 833
+  silver: 0
+chair1:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+chair10:
+  canBuy: 1
+  gold: 12
+  rating: 25
+  silver: 0
+chair11:
+  canBuy: 1
+  gold: 24
+  rating: 55
+  silver: 0
+chair12:
+  canBuy: 1
+  gold: 21
+  rating: 50
+  silver: 0
+chair13:
+  canBuy: 1
+  gold: 24
+  rating: 55
+  silver: 0
+chair14:
+  canBuy: 1
+  gold: 0
+  rating: 45
+  silver: 4500
+chair15:
+  canBuy: 1
+  gold: 0
+  rating: 37
+  silver: 3760
+chair16:
+  canBuy: 1
+  gold: 19
+  rating: 38
+  silver: 0
+chair17:
+  canBuy: 1
+  gold: 14
+  rating: 28
+  silver: 0
+chair2:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 320
+chair3:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 350
+chair4:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 800
+chair5:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 800
+chair6:
+  canBuy: 1
+  gold: 7
+  rating: 12
+  silver: 0
+chair7:
+  canBuy: 1
+  gold: 0
+  rating: 11
+  silver: 1150
+chair8:
+  canBuy: 1
+  gold: 0
+  rating: 9
+  silver: 900
+chair9:
+  canBuy: 1
+  gold: 0
+  rating: 15
+  silver: 1550
+chair_wizard:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+chrAln1:
+  canBuy: 1
+  gold: 0
+  rating: 4762
+  silver: 0
+chrAln2:
+  canBuy: 1
+  gold: 0
+  rating: 4762
+  silver: 0
+chrAln3:
+  canBuy: 1
+  gold: 0
+  rating: 3810
+  silver: 0
+chrBch:
+  canBuy: 1
+  gold: 77
+  rating: 195
+  silver: 0
+chrNY14:
+  canBuy: 1
+  gold: 0
+  rating: 150
+  silver: 0
+chrNYRf:
+  canBuy: 1
+  gold: 35
+  rating: 90
+  silver: 0
+chrSV14:
+  canBuy: 1
+  gold: 18
+  rating: 50
+  silver: 0
+chrSeaBlue:
+  canBuy: 1
+  gold: 28
+  rating: 78
+  silver: 0
+chrSeaWht:
+  canBuy: 1
+  gold: 28
+  rating: 78
+  silver: 0
+christmasTrreeAriel:
+  canBuy: 1
+  gold: 0
+  rating: 44
+  silver: 0
+christmasTrreeArielAnimated:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 0
+christmasTrreeBlue:
+  canBuy: 1
+  gold: 0
+  rating: 120
+  silver: 0
+christmasTrreeBlueAnimated:
+  canBuy: 1
+  gold: 0
+  rating: 360
+  silver: 0
+christmasTrreeGold:
+  canBuy: 1
+  gold: 0
+  rating: 44
+  silver: 0
+christmasTrreeGoldAnimated:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 0
+christmasTrreePink:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 0
+christmasTrreePinkAnimated:
+  canBuy: 1
+  gold: 0
+  rating: 800
+  silver: 0
+christmasTrreeRed:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 0
+christmasTrreeRedAnimated:
+  canBuy: 1
+  gold: 0
+  rating: 800
+  silver: 0
+christmasTrreeViolett:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 0
+christmasTrreeViolettAnimated:
+  canBuy: 1
+  gold: 0
+  rating: 800
+  silver: 0
+christmasTrreeWhite:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 0
+christmasTrreeWhiteAnimated:
+  canBuy: 1
+  gold: 0
+  rating: 800
+  silver: 0
+clckFeb23:
+  canBuy: 1
+  gold: 50
+  rating: 100
+  silver: 0
+clever_bunny:
+  canBuy: 1
+  gold: 0
+  rating: 5556
+  silver: 0
+cllsSea:
+  canBuy: 1
+  gold: 37
+  rating: 95
+  silver: 0
+clmnIceNY14:
+  canBuy: 1
+  gold: 0
+  rating: 375
+  silver: 0
+club_bar_armchair_r:
+  canBuy: 1
+  gold: 1333
+  rating: 6667
+  silver: 0
+club_bar_carpet:
+  canBuy: 1
+  gold: 2666
+  rating: 13333
+  silver: 0
+club_bar_sofa_r:
+  canBuy: 1
+  gold: 3799
+  rating: 19048
+  silver: 0
+club_bar_table_w:
+  canBuy: 1
+  gold: 959
+  rating: 4762
+  silver: 0
+cndHrt:
+  canBuy: 1
+  gold: 0
+  rating: 15
+  silver: 1500
+cndWdnPnk:
+  canBuy: 1
+  gold: 4
+  rating: 7
+  silver: 0
+cndlStckCstl:
+  canBuy: 1
+  gold: 55
+  rating: 140
+  silver: 0
+cntryktchn_blk:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+cntryktchn_chair:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+cntryktchn_cooker:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 40000
+cntryktchn_door:
+  canBuy: 1
+  gold: 0
+  rating: 220
+  silver: 22000
+cntryktchn_door_br:
+  canBuy: 1
+  gold: 0
+  rating: 220
+  silver: 22000
+cntryktchn_floor:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+cntryktchn_sink:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 40000
+cntryktchn_table:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+cntryktchn_wall:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+cntryktchn_window:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+computerChair1:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 325
+computerChair2:
+  canBuy: 1
+  gold: 0
+  rating: 11
+  silver: 1100
+computerChair3:
+  canBuy: 1
+  gold: 7
+  rating: 11
+  silver: 0
+computerTable1:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 410
+computerTable2:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 780
+computerTable3:
+  canBuy: 1
+  gold: 0
+  rating: 9999
+  silver: 690
+cozyxmas_armchair:
+  canBuy: 1
+  gold: 0
+  rating: 5715
+  silver: 0
+cozyxmas_border_wall:
+  canBuy: 1
+  gold: 0
+  rating: 5144
+  silver: 0
+cozyxmas_decor_floor:
+  canBuy: 1
+  gold: 0
+  rating: 5715
+  silver: 0
+cozyxmas_decor_wall:
+  canBuy: 1
+  gold: 0
+  rating: 3810
+  silver: 0
+cozyxmas_door:
+  canBuy: 1
+  gold: 0
+  rating: 9525
+  silver: 0
+cozyxmas_fireplace:
+  canBuy: 1
+  gold: 0
+  rating: 13335
+  silver: 0
+cozyxmas_floor:
+  canBuy: 1
+  gold: 0
+  rating: 4572
+  silver: 0
+cozyxmas_small_decor_table:
+  canBuy: 1
+  gold: 0
+  rating: 1905
+  silver: 0
+cozyxmas_sofa:
+  canBuy: 1
+  gold: 0
+  rating: 9525
+  silver: 0
+cozyxmas_table:
+  canBuy: 1
+  gold: 0
+  rating: 3810
+  silver: 0
+cozyxmas_vase_floor:
+  canBuy: 1
+  gold: 0
+  rating: 2858
+  silver: 0
+cozyxmas_wall:
+  canBuy: 1
+  gold: 0
+  rating: 7049
+  silver: 0
+cozyxmas_window:
+  canBuy: 1
+  gold: 0
+  rating: 13335
+  silver: 0
+cptAln:
+  canBuy: 1
+  gold: 0
+  rating: 22857
+  silver: 0
+cptJpn:
+  canBuy: 1
+  gold: 65
+  rating: 217
+  silver: 0
+cptMya:
+  canBuy: 1
+  gold: 0
+  rating: 1998
+  silver: 0
+cptPrns:
+  canBuy: 1
+  gold: 60
+  rating: 150
+  silver: 0
+cptSea:
+  canBuy: 1
+  gold: 24
+  rating: 55
+  silver: 0
+crafterBronze:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+crafterGold:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+crafterSilver:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+csCtr:
+  canBuy: 1
+  gold: 79
+  rating: 200
+  silver: 0
+csMya:
+  canBuy: 1
+  gold: 0
+  rating: 2180
+  silver: 0
+csPrns:
+  canBuy: 1
+  gold: 85
+  rating: 220
+  silver: 0
+cstlSV14:
+  canBuy: 1
+  gold: 600
+  rating: 2000
+  silver: 0
+ctrybdr_bed:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 40000
+ctrybdr_carpet:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+ctrybdr_comodo:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+ctrybdr_door:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+ctrybdr_floor:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+ctrybdr_mirror:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+ctrybdr_table:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+ctrybdr_two_pictures:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+ctrybdr_wall:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+ctrybdr_window:
+  canBuy: 1
+  gold: 0
+  rating: 280
+  silver: 28000
+decorBachelor:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 490
+decorBachelor2:
+  canBuy: 1
+  gold: 0
+  rating: 9999
+  silver: 635
+decorNYFir1:
+  canBuy: 1
+  gold: 325
+  rating: 1083
+  silver: 0
+decorNYFir2:
+  canBuy: 1
+  gold: 250
+  rating: 833
+  silver: 0
+decorNYFir3:
+  canBuy: 1
+  gold: 399
+  rating: 1330
+  silver: 0
+decor_hat_wizard:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+  silver: 0
+decor_wizard:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+  silver: 0
+dishes_decor_hygge_kitchen:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+djAln:
+  canBuy: 1
+  gold: 180
+  rating: 450
+  silver: 0
+door1:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 0
+door10:
+  canBuy: 1
+  gold: 0
+  rating: 15
+  silver: 1500
+door11:
+  canBuy: 1
+  gold: 25
+  rating: 29
+  silver: 0
+door2:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+door3:
+  canBuy: 1
+  gold: 25
+  rating: 55
+  silver: 0
+door4:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 850
+door5:
+  canBuy: 1
+  gold: 7
+  rating: 11
+  silver: 0
+door6:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 385
+door7:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 850
+door8:
+  canBuy: 1
+  gold: 0
+  rating: 9999
+  silver: 585
+door9:
+  canBuy: 1
+  gold: 29
+  rating: 50
+  silver: 0
+doorVip1:
+  canBuy: 1
+  gold: 21
+  rating: 46
+  silver: 0
+doorVip2:
+  canBuy: 1
+  gold: 35
+  rating: 90
+  silver: 0
+doorWdn1:
+  canBuy: 1
+  gold: 33
+  rating: 83
+  silver: 0
+door_wizard:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+drAln1:
+  canBuy: 1
+  gold: 29
+  rating: 65
+  silver: 0
+drArtNv1:
+  canBuy: 1
+  gold: 125
+  rating: 315
+  silver: 0
+drCntr1:
+  canBuy: 1
+  gold: 30
+  rating: 75
+  silver: 0
+drFeb23:
+  canBuy: 1
+  gold: 30
+  rating: 50
+  silver: 0
+drJpn1:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 40000
+drMya:
+  canBuy: 1
+  gold: 0
+  rating: 3633
+  silver: 0
+drNY14Bg:
+  canBuy: 1
+  gold: 0
+  rating: 597
+  silver: 0
+drNY14Sml:
+  canBuy: 1
+  gold: 0
+  rating: 450
+  silver: 0
+drNYRf:
+  canBuy: 1
+  gold: 50
+  rating: 125
+  silver: 0
+drPrns:
+  canBuy: 1
+  gold: 0
+  rating: 35
+  silver: 6500
+drPrns1:
+  canBuy: 1
+  gold: 35
+  rating: 90
+  silver: 0
+drSD14:
+  canBuy: 1
+  gold: 9999
+  rating: 5000
+  silver: 0
+drSV14:
+  canBuy: 1
+  gold: 25
+  rating: 50
+  silver: 0
+drSV19:
+  canBuy: 1
+  gold: 7777
+  rating: 22162
+  silver: 0
+drSea:
+  canBuy: 1
+  gold: 35
+  rating: 90
+  silver: 0
+dram1:
+  canBuy: 1
+  gold: 800
+  rating: 4000
+  silver: 0
+dram2:
+  canBuy: 1
+  gold: 850
+  rating: 4500
+  silver: 0
+eEggBlue:
+  canBuy: 1
+  gold: 0
+  rating: 25
+  silver: 0
+eEggGreen:
+  canBuy: 1
+  gold: 0
+  rating: 25
+  silver: 0
+eEggViolet:
+  canBuy: 1
+  gold: 0
+  rating: 25
+  silver: 0
+fireWood:
+  canBuy: 1
+  gold: 7
+  rating: 12
+  silver: 0
+fireWoodLight:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+fireplace1:
+  canBuy: 1
+  gold: 0
+  rating: 78
+  silver: 7800
+fireplace2:
+  canBuy: 1
+  gold: 92
+  rating: 230
+  silver: 0
+fireplace3:
+  canBuy: 1
+  gold: 135
+  rating: 338
+  silver: 0
+fireplace4:
+  canBuy: 1
+  gold: 189
+  rating: 473
+  silver: 0
+fireplace5:
+  canBuy: 1
+  gold: 70
+  rating: 175
+  silver: 0
+fireplaceCtr:
+  canBuy: 1
+  gold: 300
+  rating: 750
+  silver: 0
+fireplace_wizard:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+  silver: 0
+floor1:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 0
+floor10:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+floor11:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+floor12:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+floor13:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+floor14:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 350
+floor15:
+  canBuy: 1
+  gold: 0
+  rating: 11
+  silver: 1100
+floor16:
+  canBuy: 1
+  gold: 7
+  rating: 11
+  silver: 0
+floor17:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+floor18:
+  canBuy: 1
+  gold: 7
+  rating: 11
+  silver: 0
+floor19:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+floor2:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 300
+floor20:
+  canBuy: 1
+  gold: 16
+  rating: 32
+  silver: 0
+floor21:
+  canBuy: 1
+  gold: 13
+  rating: 26
+  silver: 0
+floor22:
+  canBuy: 1
+  gold: 10
+  rating: 20
+  silver: 0
+floor23:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 725
+floor24:
+  canBuy: 1
+  gold: 10
+  rating: 17
+  silver: 0
+floor25:
+  canBuy: 1
+  gold: 10
+  rating: 17
+  silver: 0
+floor3:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 350
+floor4:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 500
+floor5:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 220
+floor6:
+  canBuy: 1
+  gold: 8
+  rating: 13
+  silver: 0
+floor7:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 300
+floor8:
+  canBuy: 1
+  gold: 0
+  rating: 22
+  silver: 2200
+floor9:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+floorAlien1:
+  canBuy: 1
+  gold: 0
+  rating: 35
+  silver: 5700
+floorArtNv1:
+  canBuy: 1
+  gold: 75
+  rating: 200
+  silver: 0
+floorBch1:
+  canBuy: 1
+  gold: 24
+  rating: 55
+  silver: 0
+floorCtr1:
+  canBuy: 1
+  gold: 35
+  rating: 90
+  silver: 0
+floorJpn1:
+  canBuy: 1
+  gold: 0
+  rating: 250
+  silver: 25000
+floorMya:
+  canBuy: 1
+  gold: 850
+  rating: 2361
+  silver: 0
+floorNY1:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+floorNY14:
+  canBuy: 1
+  gold: 0
+  rating: 236
+  silver: 0
+floorNY18:
+  canBuy: 1
+  gold: 0
+  rating: 3500
+  silver: 0
+floorPrns1:
+  canBuy: 1
+  gold: 16
+  rating: 33
+  silver: 0
+floorVaseBlue:
+  canBuy: 1
+  gold: 0
+  rating: 25
+  silver: 0
+floorVaseRed:
+  canBuy: 1
+  gold: 0
+  rating: 25
+  silver: 0
+floorWdn1:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+floor_wizard:
+  canBuy: 1
+  gold: 0
+  rating: 480
+  silver: 48000
+flrAq1:
+  canBuy: 1
+  gold: 1999
+  rating: 9999
+  silver: 0
+flrFeb23:
+  canBuy: 1
+  gold: 20
+  rating: 17
+  silver: 0
+flrNYRf:
+  canBuy: 1
+  gold: 18
+  rating: 40
+  silver: 0
+flrSD14:
+  canBuy: 1
+  gold: 9999
+  rating: 300
+  silver: 0
+flrSV14:
+  canBuy: 1
+  gold: 20
+  rating: 15
+  silver: 0
+flrSV19:
+  canBuy: 1
+  gold: 20
+  rating: 15
+  silver: 0
+flrSea:
+  canBuy: 1
+  gold: 95
+  rating: 250
+  silver: 0
+flvrMya:
+  canBuy: 1
+  gold: 1046
+  rating: 2906
+  silver: 0
+flwSchool1:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 1200
+flwSchool2:
+  canBuy: 1
+  gold: 0
+  rating: 10
+  silver: 1000
+frameBlue:
+  canBuy: 1
+  gold: 1
+  rating: 0
+  silver: 0
+frameRed:
+  canBuy: 1
+  gold: 1
+  rating: 0
+  silver: 0
+friendBronze:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+friendGold:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+friendSilver:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+frnWll1:
+  canBuy: 1
+  gold: 0
+  rating: 43
+  silver: 4350
+frnWll2:
+  canBuy: 1
+  gold: 73
+  rating: 185
+  silver: 0
+frnWll3:
+  canBuy: 1
+  gold: 0
+  rating: 174
+  silver: 17400
+frnWll4:
+  canBuy: 1
+  gold: 59
+  rating: 148
+  silver: 0
+fshBch1:
+  canBuy: 1
+  gold: 49
+  rating: 125
+  silver: 0
+fteller_armchair_r:
+  canBuy: 1
+  gold: 1783
+  rating: 4953
+  silver: 0
+fteller_armchair_v:
+  canBuy: 1
+  gold: 0
+  rating: 4953
+  silver: 0
+fteller_bed:
+  canBuy: 1
+  gold: 2057
+  rating: 5715
+  silver: 0
+fteller_bookcase:
+  canBuy: 1
+  gold: 1852
+  rating: 5144
+  silver: 0
+fteller_candles_floor:
+  canBuy: 1
+  gold: 0
+  rating: 1429
+  silver: 0
+fteller_candles_table:
+  canBuy: 1
+  gold: 0
+  rating: 953
+  silver: 0
+fteller_cards:
+  canBuy: 1
+  gold: 309
+  rating: 857
+  silver: 0
+fteller_chair_r:
+  canBuy: 1
+  gold: 0
+  rating: 2477
+  silver: 0
+fteller_chair_v:
+  canBuy: 1
+  gold: 0
+  rating: 2477
+  silver: 0
+fteller_coffee:
+  canBuy: 1
+  gold: 0
+  rating: 1715
+  silver: 0
+fteller_crystalball:
+  canBuy: 1
+  gold: 6172
+  rating: 17145
+  silver: 0
+fteller_decor_horns_gold:
+  canBuy: 1
+  gold: 274
+  rating: 762
+  silver: 0
+fteller_decor_horns_wood:
+  canBuy: 1
+  gold: 274
+  rating: 762
+  silver: 0
+fteller_door:
+  canBuy: 1
+  gold: 1509
+  rating: 4191
+  silver: 0
+fteller_floor:
+  canBuy: 1
+  gold: 1646
+  rating: 4572
+  silver: 0
+fteller_picture:
+  canBuy: 1
+  gold: 892
+  rating: 2477
+  silver: 0
+fteller_table1:
+  canBuy: 1
+  gold: 0
+  rating: 3048
+  silver: 0
+fteller_table2:
+  canBuy: 1
+  gold: 0
+  rating: 3048
+  silver: 0
+fteller_table_small:
+  canBuy: 1
+  gold: 0
+  rating: 1905
+  silver: 0
+fteller_wall:
+  canBuy: 1
+  gold: 2538
+  rating: 7049
+  silver: 0
+fteller_window:
+  canBuy: 1
+  gold: 2743
+  rating: 7620
+  silver: 0
+furnitureMisc1:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 800
+furnitureMisc2:
+  canBuy: 1
+  gold: 0
+  rating: 9
+  silver: 900
+gardenerbouquet:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 1
+gardenroom_chair:
+  canBuy: 1
+  gold: 0
+  rating: 128
+  silver: 12800
+gardenroom_decor_wall:
+  canBuy: 1
+  gold: 0
+  rating: 144
+  silver: 14400
+gardenroom_decor_wall_p:
+  canBuy: 1
+  gold: 0
+  rating: 64
+  silver: 6400
+gardenroom_decor_wall_r:
+  canBuy: 1
+  gold: 0
+  rating: 64
+  silver: 6400
+gardenroom_decor_wall_v:
+  canBuy: 1
+  gold: 0
+  rating: 64
+  silver: 6400
+gardenroom_decor_wall_y:
+  canBuy: 1
+  gold: 0
+  rating: 64
+  silver: 6400
+gardenroom_door:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+gardenroom_floor:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+gardenroom_lamp:
+  canBuy: 1
+  gold: 0
+  rating: 96
+  silver: 9600
+gardenroom_seesaw:
+  canBuy: 1
+  gold: 1200
+  rating: 3333
+  silver: 0
+gardenroom_sofa:
+  canBuy: 1
+  gold: 0
+  rating: 336
+  silver: 33600
+gardenroom_table:
+  canBuy: 1
+  gold: 0
+  rating: 288
+  silver: 28800
+gardenroom_vase_floor:
+  canBuy: 1
+  gold: 0
+  rating: 184
+  silver: 18400
+gardenroom_vase_table_1:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+gardenroom_vase_table_2:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+gardenroom_vase_table_3:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+gardenroom_wall:
+  canBuy: 1
+  gold: 0
+  rating: 560
+  silver: 56000
+garlandNYSphere:
+  canBuy: 1
+  gold: 0
+  rating: 350
+  silver: 35000
+garlandNYViolett:
+  canBuy: 1
+  gold: 45
+  rating: 150
+  silver: 0
+geometricroom_decor_table:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+geometricroom_decor_wall:
+  canBuy: 1
+  gold: 0
+  rating: 136
+  silver: 13600
+geometricroom_door:
+  canBuy: 1
+  gold: 0
+  rating: 112
+  silver: 11200
+geometricroom_floor:
+  canBuy: 1
+  gold: 0
+  rating: 120
+  silver: 12000
+geometricroom_lamp_floor:
+  canBuy: 1
+  gold: 0
+  rating: 88
+  silver: 8800
+geometricroom_lampstand:
+  canBuy: 1
+  gold: 0
+  rating: 112
+  silver: 11200
+geometricroom_nightstand:
+  canBuy: 1
+  gold: 0
+  rating: 96
+  silver: 9600
+geometricroom_shelf_floor:
+  canBuy: 1
+  gold: 0
+  rating: 184
+  silver: 18400
+geometricroom_shelf_wall:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+geometricroom_sofa:
+  canBuy: 1
+  gold: 0
+  rating: 304
+  silver: 30400
+geometricroom_table:
+  canBuy: 1
+  gold: 0
+  rating: 80
+  silver: 8000
+geometricroom_wall:
+  canBuy: 1
+  gold: 0
+  rating: 280
+  silver: 28000
+geometricroom_window:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+gerberaOrange:
+  canBuy: 1
+  gold: 1
+  rating: 0
+  silver: 0
+gerberaPink:
+  canBuy: 1
+  gold: 1
+  rating: 0
+  silver: 0
+gerberaYellow:
+  canBuy: 1
+  gold: 1
+  rating: 0
+  silver: 0
+ghostBlack:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 3500
+goldny_fountain:
+  canBuy: 1
+  gold: 0
+  rating: 15240
+  silver: 0
+grass_hygge_kitchen:
+  canBuy: 1
+  gold: 55
+  rating: 153
+  silver: 0
+grdnBtrfly1:
+  canBuy: 1
+  gold: 0
+  rating: 364
+  silver: 0
+grdnBtrfly2:
+  canBuy: 1
+  gold: 0
+  rating: 364
+  silver: 0
+grdnBtrfly3:
+  canBuy: 1
+  gold: 0
+  rating: 364
+  silver: 0
+grdnBtrflyColl:
+  canBuy: 1
+  gold: 6539
+  rating: 18164
+  silver: 0
+grdnFlwBskt:
+  canBuy: 1
+  gold: 1733
+  rating: 4813
+  silver: 0
+grdnFlwbd:
+  canBuy: 1
+  gold: 0
+  rating: 5449
+  silver: 0
+grdnHerbarium:
+  canBuy: 1
+  gold: 0
+  rating: 2362
+  silver: 0
+grifon_gold_wizard:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+  silver: 0
+grifon_wizard:
+  canBuy: 1
+  gold: 0
+  rating: 480
+  silver: 48000
+grkitchen_chair:
+  canBuy: 1
+  gold: 0
+  rating: 136
+  silver: 13600
+grkitchen_cooker:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 40000
+grkitchen_ctboard:
+  canBuy: 1
+  gold: 20
+  rating: 56
+  silver: 0
+grkitchen_extrctfan:
+  canBuy: 1
+  gold: 0
+  rating: 144
+  silver: 14400
+grkitchen_floor:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+grkitchen_fridge:
+  canBuy: 1
+  gold: 0
+  rating: 276
+  silver: 27600
+grkitchen_plants:
+  canBuy: 1
+  gold: 32
+  rating: 89
+  silver: 0
+grkitchen_sink:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 40000
+grkitchen_table:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+grkitchen_unitflr:
+  canBuy: 1
+  gold: 0
+  rating: 216
+  silver: 21600
+grkitchen_unitwl:
+  canBuy: 1
+  gold: 0
+  rating: 216
+  silver: 21600
+grkitchen_wall:
+  canBuy: 1
+  gold: 0
+  rating: 120
+  silver: 12000
+guitar:
+  canBuy: 1
+  gold: 45
+  rating: 115
+  silver: 0
+hall19_handpot:
+  canBuy: 1
+  gold: 0
+  rating: 4191
+  silver: 0
+hall19_poster:
+  canBuy: 1
+  gold: 0
+  rating: 1905
+  silver: 0
+headArt:
+  canBuy: 1
+  gold: 10
+  rating: 20
+  silver: 0
+hlwn19_armchair:
+  canBuy: 1
+  gold: 0
+  rating: 4763
+  silver: 0
+hlwn19_balloons:
+  canBuy: 1
+  gold: 0
+  rating: 762
+  silver: 0
+hlwn19_bra:
+  canBuy: 1
+  gold: 0
+  rating: 953
+  silver: 0
+hlwn19_cake:
+  canBuy: 1
+  gold: 549
+  rating: 1524
+  silver: 0
+hlwn19_chair:
+  canBuy: 1
+  gold: 0
+  rating: 1905
+  silver: 0
+hlwn19_crft_pmpkn1:
+  canBuy: 1
+  gold: 666
+  rating: 1850
+  silver: 0
+hlwn19_crft_pmpkn2:
+  canBuy: 1
+  gold: 666
+  rating: 1850
+  silver: 0
+hlwn19_crft_pmpkn3:
+  canBuy: 1
+  gold: 666
+  rating: 1850
+  silver: 0
+hlwn19_crft_skcarpet:
+  canBuy: 1
+  gold: 399
+  rating: 1108
+  silver: 0
+hlwn19_crft_skrabbit:
+  canBuy: 1
+  gold: 1999
+  rating: 5553
+  silver: 0
+hlwn19_crft_skull:
+  canBuy: 1
+  gold: 666
+  rating: 1850
+  silver: 0
+hlwn19_crft_spider:
+  canBuy: 1
+  gold: 555
+  rating: 1542
+  silver: 0
+hlwn19_crft_wall_art:
+  canBuy: 1
+  gold: 666
+  rating: 1542
+  silver: 0
+hlwn19_floor:
+  canBuy: 1
+  gold: 0
+  rating: 572
+  silver: 0
+hlwn19_garland:
+  canBuy: 1
+  gold: 0
+  rating: 1524
+  silver: 0
+hlwn19_glass:
+  canBuy: 1
+  gold: 103
+  rating: 286
+  silver: 0
+hlwn19_plates:
+  canBuy: 1
+  gold: 171
+  rating: 476
+  silver: 0
+hlwn19_sofa:
+  canBuy: 1
+  gold: 0
+  rating: 7620
+  silver: 0
+hlwn19_soup:
+  canBuy: 1
+  gold: 0
+  rating: 1905
+  silver: 0
+hlwn19_table:
+  canBuy: 1
+  gold: 0
+  rating: 5715
+  silver: 0
+hlwn19_wall:
+  canBuy: 1
+  gold: 0
+  rating: 3810
+  silver: 0
+hlwnBRBed:
+  canBuy: 1
+  gold: 8230
+  rating: 22860
+  silver: 0
+hlwnBRBook:
+  canBuy: 1
+  gold: 45
+  rating: 120
+  silver: 0
+hlwnBRChair:
+  canBuy: 1
+  gold: 145
+  rating: 380
+  silver: 0
+hlwnBRDoor:
+  canBuy: 1
+  gold: 195
+  rating: 224
+  silver: 0
+hlwnBRFloor:
+  canBuy: 1
+  gold: 210
+  rating: 242
+  silver: 0
+hlwnBRSofa:
+  canBuy: 1
+  gold: 185
+  rating: 485
+  silver: 0
+hlwnBRTable:
+  canBuy: 1
+  gold: 85
+  rating: 98
+  silver: 0
+hlwnBRWall:
+  canBuy: 1
+  gold: 60
+  rating: 69
+  silver: 0
+hlwnBRWindow:
+  canBuy: 1
+  gold: 255
+  rating: 332
+  silver: 0
+hlwnBabyDecor:
+  canBuy: 1
+  gold: 75
+  rating: 86
+  silver: 0
+hlwnChair1:
+  canBuy: 1
+  gold: 10
+  rating: 12
+  silver: 0
+hlwnChair2:
+  canBuy: 1
+  gold: 10
+  rating: 12
+  silver: 0
+hlwnChair3:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 7500
+hlwnChair4:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 7500
+hlwnKitchenDecor1:
+  canBuy: 1
+  gold: 5
+  rating: 9999
+  silver: 0
+hlwnMscCntr:
+  canBuy: 1
+  gold: 144
+  rating: 375
+  silver: 0
+hlwnPrntsDecor:
+  canBuy: 1
+  gold: 165
+  rating: 190
+  silver: 0
+hlwnRSDecor:
+  canBuy: 1
+  gold: 150
+  rating: 173
+  silver: 0
+hlwnTable1:
+  canBuy: 1
+  gold: 0
+  rating: 17
+  silver: 1700
+hlwnVincntDecor:
+  canBuy: 1
+  gold: 150
+  rating: 173
+  silver: 0
+hlwn_cauldron:
+  canBuy: 1
+  gold: 0
+  rating: 11430
+  silver: 0
+hlwn_tree_an:
+  canBuy: 1
+  gold: 13716
+  rating: 38100
+  silver: 0
+hlwnblrm_bed:
+  canBuy: 1
+  gold: 4801
+  rating: 13335
+  silver: 0
+hlwnblrm_door:
+  canBuy: 1
+  gold: 1715
+  rating: 4763
+  silver: 0
+hlwnblrm_floor:
+  canBuy: 1
+  gold: 1166
+  rating: 3239
+  silver: 0
+hlwnblrm_wall:
+  canBuy: 1
+  gold: 2400
+  rating: 6668
+  silver: 0
+hlwnblrm_window:
+  canBuy: 1
+  gold: 2743
+  rating: 7620
+  silver: 0
+homebar_chair:
+  canBuy: 1
+  gold: 120
+  rating: 333
+  silver: 0
+homebar_glass:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+homebar_shelves:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+homebar_table:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+homecinema_armchair:
+  canBuy: 1
+  gold: 0
+  rating: 180
+  silver: 9800
+homecinema_carpet:
+  canBuy: 1
+  gold: 111
+  rating: 778
+  silver: 0
+homecinema_door:
+  canBuy: 1
+  gold: 0
+  rating: 90
+  silver: 4800
+homecinema_floor:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 13000
+homecinema_lamp:
+  canBuy: 1
+  gold: 0
+  rating: 28
+  silver: 1400
+homecinema_piccamera:
+  canBuy: 1
+  gold: 0
+  rating: 64
+  silver: 3200
+homecinema_piccandy:
+  canBuy: 1
+  gold: 29
+  rating: 178
+  silver: 0
+homecinema_picpopcorn:
+  canBuy: 1
+  gold: 0
+  rating: 92
+  silver: 5400
+homecinema_tv:
+  canBuy: 1
+  gold: 0
+  rating: 1600
+  silver: 75000
+homecinema_wall:
+  canBuy: 1
+  gold: 0
+  rating: 180
+  silver: 9800
+hospCraft_MedKitDt:
+  canBuy: 1
+  gold: 52
+  rating: 260
+  silver: 0
+hospCraft_MedKitSp:
+  canBuy: 1
+  gold: 24
+  rating: 120
+  silver: 0
+hospCraft_bed:
+  canBuy: 1
+  gold: 144
+  rating: 1000
+  silver: 0
+hospCraft_cart:
+  canBuy: 1
+  gold: 52
+  rating: 260
+  silver: 0
+hospCraft_chair:
+  canBuy: 1
+  gold: 96
+  rating: 480
+  silver: 0
+hospCraft_counter:
+  canBuy: 1
+  gold: 32
+  rating: 160
+  silver: 0
+hospCraft_defibril:
+  canBuy: 1
+  gold: 48
+  rating: 240
+  silver: 0
+hospCraft_door:
+  canBuy: 1
+  gold: 56
+  rating: 280
+  silver: 0
+hospCraft_fldScreen:
+  canBuy: 1
+  gold: 96
+  rating: 480
+  silver: 0
+hospCraft_floor:
+  canBuy: 1
+  gold: 120
+  rating: 600
+  silver: 0
+hospCraft_lamp_wall:
+  canBuy: 1
+  gold: 24
+  rating: 60
+  silver: 0
+hospCraft_nightstand:
+  canBuy: 1
+  gold: 80
+  rating: 400
+  silver: 0
+hospCraft_nursetable:
+  canBuy: 1
+  gold: 400
+  rating: 2000
+  silver: 0
+hospCraft_sanitizer:
+  canBuy: 1
+  gold: 120
+  rating: 700
+  silver: 0
+hospCraft_shelf_wall:
+  canBuy: 1
+  gold: 140
+  rating: 700
+  silver: 0
+hospCraft_stadiometer:
+  canBuy: 1
+  gold: 48
+  rating: 240
+  silver: 0
+hospCraft_ventil:
+  canBuy: 1
+  gold: 192
+  rating: 880
+  silver: 0
+hospCraft_wall:
+  canBuy: 1
+  gold: 180
+  rating: 840
+  silver: 0
+hospCraft_window:
+  canBuy: 1
+  gold: 80
+  rating: 400
+  silver: 0
+hrsAms1:
+  canBuy: 1
+  gold: 950
+  rating: 5500
+  silver: 0
+hrsAms2:
+  canBuy: 1
+  gold: 850
+  rating: 4500
+  silver: 0
+hrsAms3:
+  canBuy: 1
+  gold: 399
+  rating: 5500
+  silver: 0
+hygge_basket_bathroom:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+hygge_bath_bathroom:
+  canBuy: 1
+  gold: 640
+  rating: 1778
+  silver: 0
+hygge_door_bathroom:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+hygge_floor_bathroom:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+hygge_flower_bathroom:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+hygge_lamp_bathroom:
+  canBuy: 1
+  gold: 0
+  rating: 96
+  silver: 9600
+hygge_mirror_bathroom:
+  canBuy: 1
+  gold: 0
+  rating: 188
+  silver: 18800
+hygge_mirror_big_bathroom:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+hygge_shower_bathroom:
+  canBuy: 1
+  gold: 0
+  rating: 800
+  silver: 80000
+hygge_sink_bathroom:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+hygge_towelholder_bathroom:
+  canBuy: 1
+  gold: 0
+  rating: 144
+  silver: 14400
+hygge_wall_bathroom:
+  canBuy: 1
+  gold: 0
+  rating: 280
+  silver: 28000
+hygge_window_bathroom:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+intFlr1:
+  canBuy: 1
+  gold: 450
+  rating: 1500
+  silver: 0
+intFlr2:
+  canBuy: 1
+  gold: 600
+  rating: 2500
+  silver: 0
+jacuzzi1:
+  canBuy: 1
+  gold: 50
+  rating: 125
+  silver: 0
+jacuzzi2:
+  canBuy: 1
+  gold: 65
+  rating: 162
+  silver: 0
+jacuzzi3:
+  canBuy: 1
+  gold: 30
+  rating: 75
+  silver: 0
+jacuzzi4:
+  canBuy: 1
+  gold: 85
+  rating: 212
+  silver: 0
+jacuzzi5:
+  canBuy: 1
+  gold: 720
+  rating: 2000
+  silver: 0
+kitchenChair1:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 425
+kitchenChair2:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+kitchenChair3:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+kitchenChair4:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 450
+kitchenDecor1:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 60
+kitchenDecor2:
+  canBuy: 1
+  gold: 4
+  rating: 9999
+  silver: 0
+kitchenDecor3:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 170
+kitchenDecor4:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 170
+kitchenDecor5:
+  canBuy: 1
+  gold: 2
+  rating: 3
+  silver: 0
+kitchenDecor6:
+  canBuy: 1
+  gold: 2
+  rating: 3
+  silver: 0
+kitchenDecor7:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 55
+kitchenDecor8:
+  canBuy: 1
+  gold: 3
+  rating: 5
+  silver: 0
+kitchenTable1:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 575
+kitchenTable2:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+kitchenTable3:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 575
+kitchenTable4:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+kitchenUnitBase1:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 280
+kitchenUnitBase10:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 320
+kitchenUnitBase11:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 375
+kitchenUnitBase2:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 340
+kitchenUnitBase3:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 310
+kitchenUnitBase4:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 435
+kitchenUnitBase5:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 415
+kitchenUnitBase6:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 475
+kitchenUnitBase7:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 280
+kitchenUnitBase8:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 340
+kitchenUnitBase9:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 415
+kitchenUnitBlack1:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 320
+kitchenUnitBlack10:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 390
+kitchenUnitBlack11:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 405
+kitchenUnitBlack12:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 355
+kitchenUnitBlack2:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 360
+kitchenUnitBlack3:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 385
+kitchenUnitBlack4:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 335
+kitchenUnitBlack5:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 345
+kitchenUnitBlack6:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 370
+kitchenUnitBlack7:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 545
+kitchenUnitBlack8:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 325
+kitchenUnitBlack9:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 365
+kitchenUnitGirl1:
+  canBuy: 1
+  gold: 4
+  rating: 9999
+  silver: 0
+kitchenUnitGirl2:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+kitchenUnitGirl3:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+kitchenUnitGirl4:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+kitchenUnitGirl5:
+  canBuy: 1
+  gold: 8
+  rating: 13
+  silver: 0
+kitchenUnitGirl6:
+  canBuy: 1
+  gold: 4
+  rating: 9999
+  silver: 0
+kitchenUnitGirl7:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+kitchenUnitGirl8:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+kitchenUnitMarble1:
+  canBuy: 1
+  gold: 4
+  rating: 9999
+  silver: 0
+kitchenUnitMarble10:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+kitchenUnitMarble11:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+kitchenUnitMarble12:
+  canBuy: 1
+  gold: 4
+  rating: 9999
+  silver: 0
+kitchenUnitMarble2:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+kitchenUnitMarble3:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+kitchenUnitMarble4:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+kitchenUnitMarble5:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+kitchenUnitMarble6:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+kitchenUnitMarble7:
+  canBuy: 1
+  gold: 8
+  rating: 13
+  silver: 0
+kitchenUnitMarble8:
+  canBuy: 1
+  gold: 4
+  rating: 9999
+  silver: 0
+kitchenUnitMarble9:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+ktnJpnBl:
+  canBuy: 1
+  gold: 250
+  rating: 833
+  silver: 0
+ktnJpnRd:
+  canBuy: 1
+  gold: 55
+  rating: 140
+  silver: 0
+lamp1:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 485
+lamp10:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 230
+lamp11:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 550
+lamp2:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+lamp3:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 370
+lamp4:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 375
+lamp5:
+  canBuy: 1
+  gold: 7
+  rating: 11
+  silver: 0
+lamp6:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 800
+lamp7:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+lamp8:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+lamp9:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+lampArtDeco:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+lampDeco:
+  canBuy: 1
+  gold: 0
+  rating: 10
+  silver: 950
+lampJpn:
+  canBuy: 1
+  gold: 35
+  rating: 97
+  silver: 0
+lamp_wizard:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+lilyFlowers:
+  canBuy: 1
+  gold: 0
+  rating: 40
+  silver: 0
+lmpArtNv:
+  canBuy: 1
+  gold: 65
+  rating: 165
+  silver: 0
+lmpFeb23:
+  canBuy: 1
+  gold: 0
+  rating: 74
+  silver: 7000
+lmpMaya1:
+  canBuy: 1
+  gold: 916
+  rating: 2543
+  silver: 0
+lmpMaya2:
+  canBuy: 1
+  gold: 0
+  rating: 2543
+  silver: 0
+lmpPrns:
+  canBuy: 1
+  gold: 20
+  rating: 45
+  silver: 0
+lmpSV14:
+  canBuy: 1
+  gold: 35
+  rating: 25
+  silver: 0
+lngNYRf:
+  canBuy: 1
+  gold: 47
+  rating: 120
+  silver: 0
+loftbar_chair:
+  canBuy: 1
+  gold: 0
+  rating: 100
+  silver: 10000
+loftbar_cup_g:
+  canBuy: 1
+  gold: 0
+  rating: 64
+  silver: 6400
+loftbar_cup_o:
+  canBuy: 1
+  gold: 0
+  rating: 64
+  silver: 6400
+loftbar_cup_y:
+  canBuy: 1
+  gold: 0
+  rating: 64
+  silver: 6400
+loftbar_fruits:
+  canBuy: 1
+  gold: 0
+  rating: 80
+  silver: 8000
+loftbar_jug:
+  canBuy: 1
+  gold: 0
+  rating: 80
+  silver: 8000
+loftbar_music_center:
+  canBuy: 1
+  gold: 640
+  rating: 3200
+  silver: 0
+loftbar_neon_flamingo:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+loftbar_neon_glass:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+loftbar_neon_pineapple:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+loftbar_shelves_floor:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+loftbar_shelves_floor_small:
+  canBuy: 1
+  gold: 0
+  rating: 120
+  silver: 12000
+loftbar_shelves_wall:
+  canBuy: 1
+  gold: 0
+  rating: 120
+  silver: 12000
+loftbar_table:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+loftbar_wall:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+loftbar_window:
+  canBuy: 1
+  gold: 0
+  rating: 280
+  silver: 28000
+loveBalloon:
+  canBuy: 1
+  gold: 6
+  rating: 20
+  silver: 0
+lovebedroom_bed:
+  canBuy: 1
+  gold: 6957
+  rating: 19324
+  silver: 0
+lovebedroom_bedsidetable:
+  canBuy: 1
+  gold: 1160
+  rating: 3221
+  silver: 0
+lovebedroom_carpet:
+  canBuy: 1
+  gold: 1391
+  rating: 3865
+  silver: 0
+lovebedroom_door:
+  canBuy: 1
+  gold: 1855
+  rating: 5153
+  silver: 0
+lovebedroom_floor:
+  canBuy: 1
+  gold: 2783
+  rating: 7730
+  silver: 0
+lovebedroom_lamp2_wall:
+  canBuy: 1
+  gold: 1044
+  rating: 2899
+  silver: 0
+lovebedroom_lamp_wall:
+  canBuy: 1
+  gold: 1855
+  rating: 5153
+  silver: 0
+lovebedroom_mirror_wall:
+  canBuy: 1
+  gold: 811
+  rating: 2254
+  silver: 0
+lovebedroom_wall:
+  canBuy: 1
+  gold: 3826
+  rating: 10628
+  silver: 0
+lovebedroom_wardrobe:
+  canBuy: 1
+  gold: 5217
+  rating: 14493
+  silver: 0
+lovebedroom_window:
+  canBuy: 1
+  gold: 3710
+  rating: 10306
+  silver: 0
+lvmtrSV14:
+  canBuy: 1
+  gold: 36
+  rating: 100
+  silver: 0
+magnateBronze:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+magnateGold:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+magnateSilver:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+mailBox1:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 325
+mailBox2:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 780
+mailBox3:
+  canBuy: 1
+  gold: 5
+  rating: 9
+  silver: 0
+manTable1:
+  canBuy: 1
+  gold: 0
+  rating: 19
+  silver: 1970
+manTable2:
+  canBuy: 1
+  gold: 0
+  rating: 13
+  silver: 1300
+maskArt:
+  canBuy: 1
+  gold: 0
+  rating: 15
+  silver: 1700
+mexicokitchen_case_1:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+mexicokitchen_case_2:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+mexicokitchen_case_3:
+  canBuy: 1
+  gold: 0
+  rating: 208
+  silver: 20800
+mexicokitchen_chair:
+  canBuy: 1
+  gold: 0
+  rating: 184
+  silver: 18400
+mexicokitchen_decor_table:
+  canBuy: 1
+  gold: 96
+  rating: 267
+  silver: 0
+mexicokitchen_decor_table_chk:
+  canBuy: 1
+  gold: 68
+  rating: 189
+  silver: 0
+mexicokitchen_decor_wall:
+  canBuy: 1
+  gold: 52
+  rating: 144
+  silver: 0
+mexicokitchen_dinner_table:
+  canBuy: 1
+  gold: 0
+  rating: 188
+  silver: 18800
+mexicokitchen_door:
+  canBuy: 1
+  gold: 0
+  rating: 140
+  silver: 14000
+mexicokitchen_floor:
+  canBuy: 1
+  gold: 0
+  rating: 256
+  silver: 25600
+mexicokitchen_lamp_wall:
+  canBuy: 1
+  gold: 0
+  rating: 128
+  silver: 12800
+mexicokitchen_picture_wall:
+  canBuy: 1
+  gold: 0
+  rating: 152
+  silver: 15200
+mexicokitchen_sink:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 40000
+mexicokitchen_stove:
+  canBuy: 1
+  gold: 0
+  rating: 424
+  silver: 42400
+mexicokitchen_wall:
+  canBuy: 1
+  gold: 0
+  rating: 216
+  silver: 21600
+mexicokitchen_window:
+  canBuy: 1
+  gold: 0
+  rating: 128
+  silver: 12800
+milk_jug_hygge_kitchen:
+  canBuy: 1
+  gold: 0
+  rating: 56
+  silver: 5600
+miniFountain:
+  canBuy: 1
+  gold: 24
+  rating: 55
+  silver: 0
+mirror1:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 320
+mirror2:
+  canBuy: 1
+  gold: 10
+  rating: 20
+  silver: 0
+miscAppliance1:
+  canBuy: 1
+  gold: 0
+  rating: 20
+  silver: 2500
+mnnwsNYRf:
+  canBuy: 1
+  gold: 7
+  rating: 15
+  silver: 0
+moneyBox:
+  canBuy: 1
+  gold: 0
+  rating: 20
+  silver: 0
+mrrMya:
+  canBuy: 1
+  gold: 1299
+  rating: 3633
+  silver: 0
+newhallway_decor_shelves:
+  canBuy: 1
+  gold: 0
+  rating: 208
+  silver: 20800
+newhallway_lamp_floor:
+  canBuy: 1
+  gold: 0
+  rating: 144
+  silver: 14400
+newhallway_lamp_set_floor:
+  canBuy: 1
+  gold: 0
+  rating: 64
+  silver: 6400
+newhallway_lamp_set_wall:
+  canBuy: 1
+  gold: 0
+  rating: 40
+  silver: 4000
+newhallway_shelves_wall:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+newhallway_shoes_shelves:
+  canBuy: 1
+  gold: 0
+  rating: 112
+  silver: 11200
+newhallway_sofa:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+newhallway_stand_decor:
+  canBuy: 1
+  gold: 0
+  rating: 256
+  silver: 25600
+newhallway_vase_floor:
+  canBuy: 1
+  gold: 0
+  rating: 152
+  silver: 15200
+newhallway_wardrobe:
+  canBuy: 1
+  gold: 0
+  rating: 280
+  silver: 28000
+nsPrns:
+  canBuy: 1
+  gold: 48
+  rating: 120
+  silver: 0
+nyCandle:
+  canBuy: 1
+  gold: 10
+  rating: 33
+  silver: 0
+nyDcr1:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+nyDcr10:
+  canBuy: 1
+  gold: 0
+  rating: 9999
+  silver: 600
+nyDcr2:
+  canBuy: 1
+  gold: 0
+  rating: 140
+  silver: 0
+nyDcr3:
+  canBuy: 1
+  gold: 0
+  rating: 55
+  silver: 0
+nyDcr4:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+nyDcr5:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 725
+nyDcr6:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+nyDcr7:
+  canBuy: 1
+  gold: 0
+  rating: 14
+  silver: 1450
+nyDcr8:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 370
+nyDcr9:
+  canBuy: 1
+  gold: 0
+  rating: 80
+  silver: 0
+nyFir:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 0
+nyFirOld:
+  canBuy: 1
+  gold: 0
+  rating: 44
+  silver: 0
+nyGingerMan:
+  canBuy: 1
+  gold: 200
+  rating: 750
+  silver: 0
+nyPictureFrost:
+  canBuy: 1
+  gold: 0
+  rating: 352
+  silver: 0
+nyPictureGreen:
+  canBuy: 1
+  gold: 0
+  rating: 176
+  silver: 0
+nyPicturePig:
+  canBuy: 1
+  gold: 0
+  rating: 272
+  silver: 0
+nyPuffOrange:
+  canBuy: 1
+  gold: 400
+  rating: 2000
+  silver: 0
+nyPuffViolett:
+  canBuy: 1
+  gold: 800
+  rating: 4000
+  silver: 0
+nyPuffWhite:
+  canBuy: 1
+  gold: 400
+  rating: 2000
+  silver: 0
+nySnowBall:
+  canBuy: 1
+  gold: 0
+  rating: 8000
+  silver: 0
+nyTableLongB:
+  canBuy: 1
+  gold: 0
+  rating: 5556
+  silver: 0
+nyTableLongW:
+  canBuy: 1
+  gold: 0
+  rating: 5556
+  silver: 0
+nyTableRed:
+  canBuy: 1
+  gold: 0
+  rating: 3333
+  silver: 0
+nyTableWhite:
+  canBuy: 1
+  gold: 0
+  rating: 3333
+  silver: 0
+nyTrSmll1:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+  silver: 0
+nyTrSmll2:
+  canBuy: 1
+  gold: 0
+  rating: 3200
+  silver: 0
+nyWindowpattern1:
+  canBuy: 1
+  gold: 0
+  rating: 111
+  silver: 0
+nyWindowpattern2:
+  canBuy: 1
+  gold: 0
+  rating: 111
+  silver: 0
+ny_craft_bouquet:
+  canBuy: 1
+  gold: 0
+  rating: 1389
+  silver: 0
+ny_craft_carpet:
+  canBuy: 1
+  gold: 0
+  rating: 1111
+  silver: 0
+ny_craft_garland_r_w_g:
+  canBuy: 1
+  gold: 0
+  rating: 67
+  silver: 0
+ny_craft_garland_r_y:
+  canBuy: 1
+  gold: 0
+  rating: 67
+  silver: 0
+ny_craft_garland_v_o:
+  canBuy: 1
+  gold: 0
+  rating: 67
+  silver: 0
+ny_craft_macarontree:
+  canBuy: 1
+  gold: 0
+  rating: 1667
+  silver: 0
+ny_craft_mouseking:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+  silver: 0
+ny_craft_nutcracker:
+  canBuy: 1
+  gold: 0
+  rating: 3331
+  silver: 0
+ny_craft_santarabbit:
+  canBuy: 1
+  gold: 0
+  rating: 5553
+  silver: 0
+nygift2020_decor_wall:
+  canBuy: 1
+  gold: 0
+  rating: 222
+  silver: 0
+officeBachelor:
+  canBuy: 1
+  gold: 0
+  rating: 10
+  silver: 1000
+paddedStool1:
+  canBuy: 1
+  gold: 4
+  rating: 9999
+  silver: 0
+pctr1may14:
+  canBuy: 1
+  gold: 0
+  rating: 3810
+  silver: 0
+pctrJpn1:
+  canBuy: 1
+  gold: 75
+  rating: 250
+  silver: 0
+pctrJpn2:
+  canBuy: 1
+  gold: 45
+  rating: 150
+  silver: 0
+pctrPrns:
+  canBuy: 1
+  gold: 35
+  rating: 90
+  silver: 0
+photoFrame1Blue:
+  canBuy: 1
+  gold: 0
+  rating: 20
+  silver: 0
+photoFrame2Red:
+  canBuy: 1
+  gold: 0
+  rating: 20
+  silver: 0
+photoFrameBlue:
+  canBuy: 1
+  gold: 0
+  rating: 20
+  silver: 0
+photoFrameRed:
+  canBuy: 1
+  gold: 0
+  rating: 20
+  silver: 0
+pic_big_wizard:
+  canBuy: 1
+  gold: 400
+  rating: 1111
+  silver: 0
+pictureArtDeco:
+  canBuy: 1
+  gold: 7
+  rating: 12
+  silver: 0
+pictureBachelor:
+  canBuy: 1
+  gold: 0
+  rating: 21
+  silver: 2150
+pictureBase:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 120
+pictureBeach:
+  canBuy: 1
+  gold: 4
+  rating: 9999
+  silver: 0
+pictureBubble:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 135
+pictureEinstein:
+  canBuy: 1
+  gold: 75
+  rating: 195
+  silver: 0
+pictureElf:
+  canBuy: 1
+  gold: 4
+  rating: 9999
+  silver: 0
+pictureFall:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 120
+pictureGirl:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+pictureHrysanthemum:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 400
+pictureIris:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 320
+pictureSchool:
+  canBuy: 1
+  gold: 16
+  rating: 18
+  silver: 0
+pictureVeniceRose:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+pillowBronze:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+pillowGold:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+pillowSilver:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+pirateShip:
+  canBuy: 1
+  gold: 14
+  rating: 30
+  silver: 0
+pjparty_case_table:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+pjparty_chair_1:
+  canBuy: 1
+  gold: 0
+  rating: 180
+  silver: 18000
+pjparty_chair_2:
+  canBuy: 1
+  gold: 0
+  rating: 180
+  silver: 18000
+pjparty_chair_3:
+  canBuy: 1
+  gold: 0
+  rating: 180
+  silver: 18000
+pjparty_decor_table:
+  canBuy: 1
+  gold: 0
+  rating: 120
+  silver: 12000
+pjparty_decor_wall:
+  canBuy: 1
+  gold: 0
+  rating: 140
+  silver: 14000
+pjparty_door:
+  canBuy: 1
+  gold: 0
+  rating: 176
+  silver: 17600
+pjparty_floor:
+  canBuy: 1
+  gold: 0
+  rating: 224
+  silver: 22400
+pjparty_lamp:
+  canBuy: 1
+  gold: 0
+  rating: 96
+  silver: 9600
+pjparty_sofa:
+  canBuy: 1
+  gold: 0
+  rating: 360
+  silver: 36000
+pjparty_sofa_floor:
+  canBuy: 1
+  gold: 720
+  rating: 2000
+  silver: 0
+pjparty_wall:
+  canBuy: 1
+  gold: 0
+  rating: 256
+  silver: 25600
+plateBachelor:
+  canBuy: 1
+  gold: 3
+  rating: 5
+  silver: 0
+plmBch1:
+  canBuy: 1
+  gold: 1635
+  rating: 4541
+  silver: 0
+plmBch2:
+  canBuy: 1
+  gold: 1635
+  rating: 4541
+  silver: 0
+plmBch3:
+  canBuy: 1
+  gold: 1635
+  rating: 4541
+  silver: 0
+plntNYRf:
+  canBuy: 1
+  gold: 10
+  rating: 20
+  silver: 0
+poke_window:
+  canBuy: 1
+  gold: 6899
+  rating: 19048
+  silver: 0
+pokerFireplace:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+poolBch:
+  canBuy: 1
+  gold: 275
+  rating: 650
+  silver: 0
+ppAln1:
+  canBuy: 1
+  gold: 95
+  rating: 245
+  silver: 0
+presentBronze:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+presentGold:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+presentNYBlue:
+  canBuy: 1
+  gold: 0
+  rating: 100
+  silver: 10000
+presentNYBlueBig:
+  canBuy: 1
+  gold: 0
+  rating: 150
+  silver: 15000
+presentNYGold:
+  canBuy: 1
+  gold: 25
+  rating: 83
+  silver: 0
+presentNYRed:
+  canBuy: 1
+  gold: 35
+  rating: 117
+  silver: 0
+presentSVbe:
+  canBuy: 1
+  gold: 1
+  rating: 117
+  silver: 0
+presentSilver:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+pro_gamer_armchair:
+  canBuy: 1
+  gold: 2742
+  rating: 7616
+  silver: 0
+pro_gamer_bear:
+  canBuy: 1
+  gold: 0
+  rating: 2856
+  silver: 0
+pro_gamer_chair:
+  canBuy: 1
+  gold: 2742
+  rating: 7616
+  silver: 0
+pro_gamer_cube:
+  canBuy: 1
+  gold: 0
+  rating: 952
+  silver: 0
+pro_gamer_door:
+  canBuy: 1
+  gold: 0
+  rating: 11424
+  silver: 0
+pro_gamer_floor:
+  canBuy: 1
+  gold: 0
+  rating: 7616
+  silver: 0
+pro_gamer_furby:
+  canBuy: 1
+  gold: 0
+  rating: 2856
+  silver: 0
+pro_gamer_lemp:
+  canBuy: 1
+  gold: 0
+  rating: 2856
+  silver: 0
+pro_gamer_pc_general:
+  canBuy: 1
+  gold: 2399
+  rating: 6664
+  silver: 0
+pro_gamer_pc_special:
+  canBuy: 1
+  gold: 3427
+  rating: 9520
+  silver: 0
+pro_gamer_shelves:
+  canBuy: 1
+  gold: 0
+  rating: 3808
+  silver: 0
+pro_gamer_spkr_floor:
+  canBuy: 1
+  gold: 3427
+  rating: 9520
+  silver: 0
+pro_gamer_spkr_table:
+  canBuy: 1
+  gold: 1371
+  rating: 3808
+  silver: 0
+pro_gamer_spkr_wall:
+  canBuy: 1
+  gold: 1714
+  rating: 4760
+  silver: 0
+pro_gamer_table:
+  canBuy: 1
+  gold: 2742
+  rating: 7616
+  silver: 0
+pro_gamer_table_low:
+  canBuy: 1
+  gold: 2742
+  rating: 7616
+  silver: 0
+pro_gamer_table_stereo:
+  canBuy: 1
+  gold: 1028
+  rating: 2856
+  silver: 0
+pro_gamer_wall:
+  canBuy: 1
+  gold: 0
+  rating: 9520
+  silver: 0
+pro_gamer_window:
+  canBuy: 1
+  gold: 0
+  rating: 8568
+  silver: 0
+pro_gamer_wllclock:
+  canBuy: 1
+  gold: 685
+  rating: 1904
+  silver: 0
+ptCtr:
+  canBuy: 1
+  gold: 3
+  rating: 5
+  silver: 0
+publicBeach_pb1:
+  canBuy: 1
+  gold: 5
+  rating: 9999
+  silver: 0
+pumpkinBlack:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 5000
+pumpkinHlwn:
+  canBuy: 1
+  gold: 0
+  rating: 7
+  silver: 6500
+pumpkinSilver:
+  canBuy: 1
+  gold: 0
+  rating: 9999
+  silver: 650
+pumpkinSmall:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 350
+pureice_armchair:
+  canBuy: 1
+  gold: 0
+  rating: 4953
+  silver: 0
+pureice_bed:
+  canBuy: 1
+  gold: 0
+  rating: 10478
+  silver: 0
+pureice_chair:
+  canBuy: 1
+  gold: 0
+  rating: 2477
+  silver: 0
+pureice_decor_table:
+  canBuy: 1
+  gold: 0
+  rating: 1143
+  silver: 0
+pureice_door:
+  canBuy: 1
+  gold: 0
+  rating: 3810
+  silver: 0
+pureice_fireplace:
+  canBuy: 1
+  gold: 0
+  rating: 11430
+  silver: 0
+pureice_floor:
+  canBuy: 1
+  gold: 0
+  rating: 3810
+  silver: 0
+pureice_sofa:
+  canBuy: 1
+  gold: 0
+  rating: 6858
+  silver: 0
+pureice_table:
+  canBuy: 1
+  gold: 0
+  rating: 3048
+  silver: 0
+pureice_table_dinner:
+  canBuy: 1
+  gold: 0
+  rating: 4763
+  silver: 0
+pureice_vase:
+  canBuy: 1
+  gold: 0
+  rating: 4382
+  silver: 0
+pureice_wall:
+  canBuy: 1
+  gold: 0
+  rating: 5715
+  silver: 0
+pureice_window:
+  canBuy: 1
+  gold: 0
+  rating: 3239
+  silver: 0
+redTopiary:
+  canBuy: 1
+  gold: 12
+  rating: 25
+  silver: 0
+refrigerator1:
+  canBuy: 1
+  gold: 50
+  rating: 125
+  silver: 0
+refrigerator2:
+  canBuy: 1
+  gold: 100
+  rating: 250
+  silver: 0
+refrigerator3:
+  canBuy: 1
+  gold: 0
+  rating: 95
+  silver: 9500
+regimentBachelor:
+  canBuy: 1
+  gold: 4
+  rating: 7
+  silver: 0
+romanticbath_carpet:
+  canBuy: 1
+  gold: 0
+  rating: 5024
+  silver: 0
+romanticbath_decor_table:
+  canBuy: 1
+  gold: 0
+  rating: 3478
+  silver: 0
+romanticbath_decor_wall:
+  canBuy: 1
+  gold: 0
+  rating: 3865
+  silver: 0
+romanticbath_door:
+  canBuy: 1
+  gold: 0
+  rating: 6184
+  silver: 0
+romanticbath_floor:
+  canBuy: 1
+  gold: 0
+  rating: 5797
+  silver: 0
+romanticbath_jacuzzi:
+  canBuy: 1
+  gold: 0
+  rating: 61836
+  silver: 0
+romanticbath_lamp_wall:
+  canBuy: 1
+  gold: 0
+  rating: 3865
+  silver: 0
+romanticbath_mirror:
+  canBuy: 1
+  gold: 0
+  rating: 2899
+  silver: 0
+romanticbath_shelf_wall:
+  canBuy: 1
+  gold: 0
+  rating: 6957
+  silver: 0
+romanticbath_sink:
+  canBuy: 1
+  gold: 0
+  rating: 15459
+  silver: 0
+romanticbath_wall:
+  canBuy: 1
+  gold: 0
+  rating: 9662
+  silver: 0
+romantickitchen_case_1:
+  canBuy: 1
+  gold: 0
+  rating: 5658
+  silver: 0
+romantickitchen_case_2:
+  canBuy: 1
+  gold: 0
+  rating: 5658
+  silver: 0
+romantickitchen_case_3:
+  canBuy: 1
+  gold: 0
+  rating: 5658
+  silver: 0
+romantickitchen_chair:
+  canBuy: 1
+  gold: 0
+  rating: 3772
+  silver: 0
+romantickitchen_dec_table:
+  canBuy: 1
+  gold: 0
+  rating: 4763
+  silver: 0
+romantickitchen_dec_wall:
+  canBuy: 1
+  gold: 0
+  rating: 4286
+  silver: 0
+romantickitchen_decfloor:
+  canBuy: 1
+  gold: 0
+  rating: 5715
+  silver: 0
+romantickitchen_door:
+  canBuy: 1
+  gold: 0
+  rating: 3353
+  silver: 0
+romantickitchen_floor:
+  canBuy: 1
+  gold: 0
+  rating: 5029
+  silver: 0
+romantickitchen_lamp_wall:
+  canBuy: 1
+  gold: 0
+  rating: 1524
+  silver: 0
+romantickitchen_sink:
+  canBuy: 1
+  gold: 0
+  rating: 9525
+  silver: 0
+romantickitchen_table:
+  canBuy: 1
+  gold: 0
+  rating: 5763
+  silver: 0
+romantickitchen_wall:
+  canBuy: 1
+  gold: 0
+  rating: 6287
+  silver: 0
+romantickitchen_window:
+  canBuy: 1
+  gold: 0
+  rating: 5715
+  silver: 0
+romanticroom_armchair:
+  canBuy: 1
+  gold: 0
+  rating: 5715
+  silver: 0
+romanticroom_chair:
+  canBuy: 1
+  gold: 0
+  rating: 2858
+  silver: 0
+romanticroom_clock_wall:
+  canBuy: 1
+  gold: 0
+  rating: 1905
+  silver: 0
+romanticroom_decor_table:
+  canBuy: 1
+  gold: 0
+  rating: 1143
+  silver: 0
+romanticroom_decor_wall:
+  canBuy: 1
+  gold: 0
+  rating: 191
+  silver: 0
+romanticroom_door:
+  canBuy: 1
+  gold: 0
+  rating: 3429
+  silver: 0
+romanticroom_floor:
+  canBuy: 1
+  gold: 0
+  rating: 3810
+  silver: 0
+romanticroom_lamp_wall:
+  canBuy: 1
+  gold: 0
+  rating: 2286
+  silver: 0
+romanticroom_sofa:
+  canBuy: 1
+  gold: 0
+  rating: 9525
+  silver: 0
+romanticroom_table:
+  canBuy: 1
+  gold: 0
+  rating: 5715
+  silver: 0
+romanticroom_vase_table:
+  canBuy: 1
+  gold: 0
+  rating: 953
+  silver: 0
+romanticroom_wall:
+  canBuy: 1
+  gold: 0
+  rating: 7620
+  silver: 0
+romanticroom_window:
+  canBuy: 1
+  gold: 0
+  rating: 6858
+  silver: 0
+room1:
+  canBuy: 1
+  gold: 5
+  rating: 0
+  silver: 1000
+roseBasket:
+  canBuy: 1
+  gold: 20
+  rating: 45
+  silver: 0
+saber:
+  canBuy: 1
+  gold: 0
+  rating: 50
+  silver: 0
+schlBronze:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+schlGold:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+schlSilver:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+schoolCraftFlwheadFlw:
+  canBuy: 1
+  gold: 0
+  rating: 3106
+  silver: 0
+schoolCraftFlwheadG:
+  canBuy: 1
+  gold: 0
+  rating: 3106
+  silver: 0
+schoolCraftFlwheadY:
+  canBuy: 1
+  gold: 0
+  rating: 3106
+  silver: 0
+school_craft_flask:
+  canBuy: 1
+  gold: 0
+  rating: 2314
+  silver: 0
+school_craft_mendelcarpet:
+  canBuy: 1
+  gold: 0
+  rating: 903
+  silver: 0
+school_craft_remboard:
+  canBuy: 1
+  gold: 0
+  rating: 1917
+  silver: 0
+school_craft_starmap:
+  canBuy: 1
+  gold: 0
+  rating: 2003
+  silver: 0
+school_craft_telescope:
+  canBuy: 1
+  gold: 0
+  rating: 3247
+  silver: 0
+screenArtdeco:
+  canBuy: 1
+  gold: 0
+  rating: 22
+  silver: 2200
+screenForget:
+  canBuy: 1
+  gold: 19
+  rating: 38
+  silver: 0
+scullCandle:
+  canBuy: 1
+  gold: 10
+  rating: 12
+  silver: 0
+sd14Flwr:
+  canBuy: 1
+  gold: 200
+  rating: 7500
+  silver: 0
+sd19tree:
+  canBuy: 1
+  gold: 27993
+  rating: 77760
+  silver: 0
+sfBch1:
+  canBuy: 1
+  gold: 135
+  rating: 350
+  silver: 0
+sfCtr:
+  canBuy: 1
+  gold: 45
+  rating: 115
+  silver: 0
+sfMya:
+  canBuy: 1
+  gold: 654
+  rating: 1816
+  silver: 0
+sfPrncss:
+  canBuy: 1
+  gold: 150
+  rating: 400
+  silver: 0
+shBkStand1:
+  canBuy: 1
+  gold: 12
+  rating: 25
+  silver: 0
+shBkStand2:
+  canBuy: 1
+  gold: 17
+  rating: 35
+  silver: 0
+shBlbrd:
+  canBuy: 1
+  gold: 65
+  rating: 75
+  silver: 0
+shChari1:
+  canBuy: 1
+  gold: 35
+  rating: 40
+  silver: 0
+shChari2:
+  canBuy: 1
+  gold: 20
+  rating: 55
+  silver: 0
+shTbl1:
+  canBuy: 1
+  gold: 45
+  rating: 52
+  silver: 0
+shelfDVDGray1:
+  canBuy: 1
+  gold: 0
+  rating: 9999
+  silver: 690
+shopaholicBronze:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+shopaholicGold:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+shopaholicSilver:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+snowflakeWall:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 1200
+sockNYBlue:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 800
+sockNYGold:
+  canBuy: 1
+  gold: 5
+  rating: 17
+  silver: 0
+sockNYRed:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 1150
+sofa1:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 950
+sofa10:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+sofa11:
+  canBuy: 1
+  gold: 27
+  rating: 59
+  silver: 0
+sofa12:
+  canBuy: 1
+  gold: 0
+  rating: 21
+  silver: 2150
+sofa13:
+  canBuy: 1
+  gold: 0
+  rating: 40
+  silver: 4000
+sofa14:
+  canBuy: 1
+  gold: 22
+  rating: 49
+  silver: 0
+sofa15:
+  canBuy: 1
+  gold: 30
+  rating: 75
+  silver: 0
+sofa16:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+sofa17:
+  canBuy: 1
+  gold: 0
+  rating: 38
+  silver: 3800
+sofa18:
+  canBuy: 1
+  gold: 0
+  rating: 32
+  silver: 3250
+sofa19:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 1265
+sofa2:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 500
+sofa20:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+sofa3:
+  canBuy: 1
+  gold: 0
+  rating: 9
+  silver: 950
+sofa4:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 500
+sofa5:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 1250
+sofa6:
+  canBuy: 1
+  gold: 0
+  rating: 28
+  silver: 2800
+sofa7:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+sofa8:
+  canBuy: 1
+  gold: 21
+  rating: 46
+  silver: 0
+sofa9:
+  canBuy: 1
+  gold: 19
+  rating: 38
+  silver: 0
+sofaArtdeco1:
+  canBuy: 1
+  gold: 42
+  rating: 105
+  silver: 0
+sofaHlwn1:
+  canBuy: 1
+  gold: 0
+  rating: 14
+  silver: 13500
+sofaHlwn2:
+  canBuy: 1
+  gold: 0
+  rating: 14
+  silver: 13500
+sofaHlwn3:
+  canBuy: 1
+  gold: 135
+  rating: 156
+  silver: 0
+sofaVip1:
+  canBuy: 1
+  gold: 133
+  rating: 350
+  silver: 0
+sofaVip2:
+  canBuy: 1
+  gold: 149
+  rating: 380
+  silver: 0
+sofaVip3:
+  canBuy: 1
+  gold: 65
+  rating: 165
+  silver: 0
+sofaVip4:
+  canBuy: 1
+  gold: 1440
+  rating: 8000
+  silver: 0
+sofa_wizard:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+spr19FloristDecorV:
+  canBuy: 1
+  gold: 1177
+  rating: 3269
+  silver: 0
+spr19FloristDecorW:
+  canBuy: 1
+  gold: 1177
+  rating: 3269
+  silver: 0
+spr19FloristDecorY:
+  canBuy: 1
+  gold: 1177
+  rating: 3269
+  silver: 0
+stPatrickLprc:
+  canBuy: 1
+  gold: 250
+  rating: 250
+  silver: 0
+stdnt_rm_bed:
+  canBuy: 1
+  gold: 0
+  rating: 3808
+  silver: 0
+stdnt_rm_bkshlf:
+  canBuy: 1
+  gold: 0
+  rating: 3332
+  silver: 0
+stdnt_rm_chair:
+  canBuy: 1
+  gold: 0
+  rating: 2856
+  silver: 0
+stdnt_rm_comodo:
+  canBuy: 1
+  gold: 0
+  rating: 4760
+  silver: 0
+stdnt_rm_door:
+  canBuy: 1
+  gold: 0
+  rating: 5712
+  silver: 0
+stdnt_rm_floor:
+  canBuy: 1
+  gold: 0
+  rating: 1904
+  silver: 0
+stdnt_rm_moon:
+  canBuy: 1
+  gold: 0
+  rating: 1428
+  silver: 0
+stdnt_rm_pluto:
+  canBuy: 1
+  gold: 0
+  rating: 1428
+  silver: 0
+stdnt_rm_saturn:
+  canBuy: 1
+  gold: 0
+  rating: 1428
+  silver: 0
+stdnt_rm_table:
+  canBuy: 1
+  gold: 0
+  rating: 4760
+  silver: 0
+stdnt_rm_wall:
+  canBuy: 1
+  gold: 0
+  rating: 5712
+  silver: 0
+stdnt_rm_window:
+  canBuy: 1
+  gold: 0
+  rating: 1904
+  silver: 0
+svd_craft_carpet:
+  canBuy: 1
+  gold: 0
+  rating: 889
+  silver: 0
+svd_craft_lovelamp:
+  canBuy: 1
+  gold: 0
+  rating: 1333
+  silver: 0
+svd_craft_rabbitcupid:
+  canBuy: 1
+  gold: 0
+  rating: 5553
+  silver: 0
+svd_craft_rose:
+  canBuy: 1
+  gold: 0
+  rating: 2219
+  silver: 0
+svd_craft_teddyrose_ble_r:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+  silver: 0
+svd_craft_teddyrose_r_w:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+  silver: 0
+svd_craft_teddyrose_w_p:
+  canBuy: 1
+  gold: 0
+  rating: 2667
+  silver: 0
+svd_craft_unicorn_ble_p:
+  canBuy: 1
+  gold: 0
+  rating: 3331
+  silver: 0
+svd_craft_unicorn_p_ble:
+  canBuy: 1
+  gold: 0
+  rating: 3331
+  silver: 0
+svd_craft_unicorn_w:
+  canBuy: 1
+  gold: 0
+  rating: 3331
+  silver: 0
+svd_craft_vase:
+  canBuy: 1
+  gold: 0
+  rating: 425
+  silver: 0
+sweethome_bed:
+  canBuy: 1
+  gold: 0
+  rating: 10097
+  silver: 0
+sweethome_bedsidetable:
+  canBuy: 1
+  gold: 0
+  rating: 2096
+  silver: 0
+sweethome_chair:
+  canBuy: 1
+  gold: 0
+  rating: 2286
+  silver: 0
+sweethome_comodo:
+  canBuy: 1
+  gold: 0
+  rating: 4763
+  silver: 0
+sweethome_decor_floor_b:
+  canBuy: 1
+  gold: 0
+  rating: 1524
+  silver: 0
+sweethome_decor_floor_or:
+  canBuy: 1
+  gold: 0
+  rating: 1524
+  silver: 0
+sweethome_decor_floor_r:
+  canBuy: 1
+  gold: 0
+  rating: 1524
+  silver: 0
+sweethome_door:
+  canBuy: 1
+  gold: 0
+  rating: 2381
+  silver: 0
+sweethome_floor:
+  canBuy: 1
+  gold: 0
+  rating: 5144
+  silver: 0
+sweethome_sofa:
+  canBuy: 1
+  gold: 0
+  rating: 7620
+  silver: 0
+sweethome_table:
+  canBuy: 1
+  gold: 0
+  rating: 5715
+  silver: 0
+sweethome_vase_floor:
+  canBuy: 1
+  gold: 0
+  rating: 6668
+  silver: 0
+sweethome_wall:
+  canBuy: 1
+  gold: 0
+  rating: 8001
+  silver: 0
+sweethome_window:
+  canBuy: 1
+  gold: 0
+  rating: 3810
+  silver: 0
+table1:
+  canBuy: 1
+  gold: 0
+  rating: 10
+  silver: 1050
+table10:
+  canBuy: 1
+  gold: 20
+  rating: 44
+  silver: 0
+table11:
+  canBuy: 1
+  gold: 0
+  rating: 16
+  silver: 1600
+table12:
+  canBuy: 1
+  gold: 0
+  rating: 24
+  silver: 2450
+table13:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+table14:
+  canBuy: 1
+  gold: 0
+  rating: 13
+  silver: 1325
+table15:
+  canBuy: 1
+  gold: 29
+  rating: 65
+  silver: 0
+table16:
+  canBuy: 1
+  gold: 0
+  rating: 93
+  silver: 9350
+table2:
+  canBuy: 1
+  gold: 0
+  rating: 34
+  silver: 3400
+table3:
+  canBuy: 1
+  gold: 7
+  rating: 11
+  silver: 0
+table4:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 860
+table5:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 825
+table6:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 375
+table7:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 430
+table8:
+  canBuy: 1
+  gold: 10
+  rating: 20
+  silver: 0
+table9:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+tableArtdeco1:
+  canBuy: 1
+  gold: 0
+  rating: 17
+  silver: 1700
+tableArtdecoSmall:
+  canBuy: 1
+  gold: 23
+  rating: 51
+  silver: 0
+tableVaseOrange:
+  canBuy: 1
+  gold: 0
+  rating: 20
+  silver: 0
+tableVasePink:
+  canBuy: 1
+  gold: 0
+  rating: 20
+  silver: 0
+tableVaseYellow:
+  canBuy: 1
+  gold: 0
+  rating: 20
+  silver: 0
+table_wizard:
+  canBuy: 1
+  gold: 0
+  rating: 400
+  silver: 40000
+tblAln:
+  canBuy: 1
+  gold: 2400
+  rating: 6667
+  silver: 0
+tblArtNv1:
+  canBuy: 1
+  gold: 47
+  rating: 120
+  silver: 0
+tblArtNv2:
+  canBuy: 1
+  gold: 49
+  rating: 125
+  silver: 0
+tblBch1:
+  canBuy: 1
+  gold: 75
+  rating: 190
+  silver: 0
+tblCtr1:
+  canBuy: 1
+  gold: 44
+  rating: 110
+  silver: 0
+tblCtr2:
+  canBuy: 1
+  gold: 29
+  rating: 65
+  silver: 0
+tblJpn1:
+  canBuy: 1
+  gold: 80
+  rating: 222
+  silver: 0
+tblNYRf:
+  canBuy: 1
+  gold: 30
+  rating: 75
+  silver: 0
+tblSV14:
+  canBuy: 1
+  gold: 27
+  rating: 75
+  silver: 0
+tblSea:
+  canBuy: 1
+  gold: 40
+  rating: 111
+  silver: 0
+teddyBear:
+  canBuy: 1
+  gold: 0
+  rating: 30
+  silver: 0
+tltMya:
+  canBuy: 1
+  gold: 0
+  rating: 1271
+  silver: 0
+tngTreeNY14:
+  canBuy: 1
+  gold: 100
+  rating: 300
+  silver: 0
+toilet1:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+toilet2:
+  canBuy: 1
+  gold: 0
+  rating: 9
+  silver: 930
+toilet3:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+toilet4:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 460
+toilet5:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 450
+torchFlower:
+  canBuy: 1
+  gold: 8
+  rating: 15
+  silver: 0
+tptJpn:
+  canBuy: 1
+  gold: 80
+  rating: 267
+  silver: 0
+trChair1:
+  canBuy: 1
+  gold: 600
+  rating: 1500
+  silver: 0
+trTotem1:
+  canBuy: 1
+  gold: 0
+  rating: 700
+  silver: 0
+trTotem2:
+  canBuy: 1
+  gold: 0
+  rating: 700
+  silver: 0
+trTotem3:
+  canBuy: 1
+  gold: 0
+  rating: 700
+  silver: 0
+trWigwam:
+  canBuy: 1
+  gold: 800
+  rating: 2000
+  silver: 0
+trayVenice:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+treeHlwn:
+  canBuy: 1
+  gold: 35
+  rating: 40
+  silver: 0
+treeMya:
+  canBuy: 1
+  gold: 1046
+  rating: 2906
+  silver: 0
+treeNYPresent:
+  canBuy: 1
+  gold: 0
+  rating: 340
+  silver: 0
+treeNYViolett:
+  canBuy: 1
+  gold: 0
+  rating: 27
+  silver: 2730
+tshMya:
+  canBuy: 1
+  gold: 0
+  rating: 1271
+  silver: 0
+tspNYRf:
+  canBuy: 1
+  gold: 250
+  rating: 650
+  silver: 0
+tvAln:
+  canBuy: 1
+  gold: 150
+  rating: 375
+  silver: 0
+uSeaBox:
+  canBuy: 1
+  gold: 30
+  rating: 84
+  silver: 0
+uSeaBrd:
+  canBuy: 1
+  gold: 28
+  rating: 78
+  silver: 0
+uSeaCpbrd:
+  canBuy: 1
+  gold: 34
+  rating: 93
+  silver: 0
+uSeaCpbrdTop:
+  canBuy: 1
+  gold: 33
+  rating: 91
+  silver: 0
+uSeaExtrctr:
+  canBuy: 1
+  gold: 216
+  rating: 600
+  silver: 0
+uSeaMcrwvTop:
+  canBuy: 1
+  gold: 216
+  rating: 600
+  silver: 0
+uSeaSink:
+  canBuy: 1
+  gold: 160
+  rating: 444
+  silver: 0
+uSeaStv:
+  canBuy: 1
+  gold: 200
+  rating: 556
+  silver: 0
+vaseArtdeco:
+  canBuy: 1
+  gold: 0
+  rating: 15
+  silver: 1495
+vaseBachelor:
+  canBuy: 1
+  gold: 0
+  rating: 2361
+  silver: 0
+vaseBase:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 125
+vaseBlue:
+  canBuy: 1
+  gold: 1
+  rating: 0
+  silver: 0
+vaseDecorativeFlower:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 235
+vaseDracaena:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 250
+vaseFlower:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 290
+vaseForget:
+  canBuy: 1
+  gold: 7
+  rating: 11
+  silver: 0
+vaseGlam:
+  canBuy: 1
+  gold: 7
+  rating: 11
+  silver: 0
+vaseGold:
+  canBuy: 1
+  gold: 8
+  rating: 13
+  silver: 0
+vaseGoldLight:
+  canBuy: 1
+  gold: 8
+  rating: 13
+  silver: 0
+vaseHead:
+  canBuy: 1
+  gold: 17
+  rating: 29
+  silver: 0
+vaseOpen:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 100
+vaseRed:
+  canBuy: 1
+  gold: 1
+  rating: 0
+  silver: 0
+vaseRose:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+vaseRound:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 85
+vaseSmall:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 70
+vaseSmallForget:
+  canBuy: 1
+  gold: 0
+  rating: 2
+  silver: 275
+vaseWoodFlower:
+  canBuy: 1
+  gold: 4
+  rating: 9999
+  silver: 0
+vctBand:
+  canBuy: 1
+  gold: 0
+  rating: 16
+  silver: 1500
+veranda_armchair:
+  canBuy: 1
+  gold: 0
+  rating: 300
+  silver: 30000
+veranda_candle_ble:
+  canBuy: 1
+  gold: 0
+  rating: 18
+  silver: 1840
+veranda_candle_o:
+  canBuy: 1
+  gold: 0
+  rating: 18
+  silver: 1840
+veranda_carpet:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+veranda_chair:
+  canBuy: 1
+  gold: 0
+  rating: 180
+  silver: 18000
+veranda_door:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+veranda_fl_brown:
+  canBuy: 1
+  gold: 0
+  rating: 220
+  silver: 22000
+veranda_fl_brw:
+  canBuy: 1
+  gold: 0
+  rating: 220
+  silver: 22000
+veranda_fl_white:
+  canBuy: 1
+  gold: 0
+  rating: 220
+  silver: 22000
+veranda_floor:
+  canBuy: 1
+  gold: 0
+  rating: 220
+  silver: 22000
+veranda_lamp:
+  canBuy: 1
+  gold: 0
+  rating: 28
+  silver: 2800
+veranda_sofa:
+  canBuy: 1
+  gold: 0
+  rating: 420
+  silver: 42000
+veranda_table:
+  canBuy: 1
+  gold: 0
+  rating: 260
+  silver: 26000
+veranda_table_smll:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+veranda_wall:
+  canBuy: 1
+  gold: 0
+  rating: 640
+  silver: 64000
+vipBronze:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+vipGold:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+vipSilver:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+vlnsTable1:
+  canBuy: 1
+  gold: 0
+  rating: 22
+  silver: 2200
+vntFeb23:
+  canBuy: 1
+  gold: 0
+  rating: 58
+  silver: 5500
+vpTbl1:
+  canBuy: 1
+  gold: 43
+  rating: 115
+  silver: 0
+wall1:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 0
+wall10:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 500
+wall11:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 500
+wall12:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 500
+wall13:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+wall14:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+wall15:
+  canBuy: 1
+  gold: 5
+  rating: 8
+  silver: 0
+wall16:
+  canBuy: 1
+  gold: 10
+  rating: 20
+  silver: 0
+wall17:
+  canBuy: 1
+  gold: 8
+  rating: 13
+  silver: 0
+wall18:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+wall19:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+wall2:
+  canBuy: 1
+  gold: 6
+  rating: 10
+  silver: 0
+wall20:
+  canBuy: 1
+  gold: 13
+  rating: 26
+  silver: 0
+wall21:
+  canBuy: 1
+  gold: 0
+  rating: 8
+  silver: 840
+wall22:
+  canBuy: 1
+  gold: 14
+  rating: 28
+  silver: 0
+wall23:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+wall24:
+  canBuy: 1
+  gold: 14
+  rating: 28
+  silver: 0
+wall25:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+wall3:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 150
+wall4:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 150
+wall5:
+  canBuy: 1
+  gold: 7
+  rating: 11
+  silver: 0
+wall7:
+  canBuy: 1
+  gold: 0
+  rating: 1
+  silver: 150
+wall8:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 340
+wall9:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+wallAln1:
+  canBuy: 1
+  gold: 0
+  rating: 50
+  silver: 12500
+wallArtNv1:
+  canBuy: 1
+  gold: 45
+  rating: 115
+  silver: 0
+wallBch1:
+  canBuy: 1
+  gold: 33
+  rating: 85
+  silver: 0
+wallCtr1:
+  canBuy: 1
+  gold: 30
+  rating: 75
+  silver: 0
+wallJpn1:
+  canBuy: 1
+  gold: 300
+  rating: 833
+  silver: 0
+wallNY1:
+  canBuy: 1
+  gold: 0
+  rating: 15
+  silver: 1500
+wallNY2:
+  canBuy: 1
+  gold: 0
+  rating: 250
+  silver: 0
+wallPrns1:
+  canBuy: 1
+  gold: 12
+  rating: 25
+  silver: 0
+wallSh1:
+  canBuy: 1
+  gold: 10
+  rating: 12
+  silver: 0
+wallWdn1:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+wall_wizard:
+  canBuy: 1
+  gold: 240
+  rating: 667
+  silver: 0
+wardrobeForget1:
+  canBuy: 1
+  gold: 21
+  rating: 46
+  silver: 0
+wardrobeNarrow1:
+  canBuy: 1
+  gold: 0
+  rating: 27
+  silver: 2750
+wardrobeWindow:
+  canBuy: 1
+  gold: 0
+  rating: 34
+  silver: 3400
+wble_carpet:
+  canBuy: 1
+  gold: 857
+  rating: 2380
+  silver: 0
+wble_drink:
+  canBuy: 1
+  gold: 206
+  rating: 571
+  silver: 0
+wble_floor:
+  canBuy: 1
+  gold: 1028
+  rating: 2856
+  silver: 0
+wble_laptop:
+  canBuy: 1
+  gold: 3084
+  rating: 8568
+  silver: 0
+wble_paining_high:
+  canBuy: 1
+  gold: 1542
+  rating: 4284
+  silver: 0
+wble_paining_wide:
+  canBuy: 1
+  gold: 1542
+  rating: 4284
+  silver: 0
+wble_pcrn:
+  canBuy: 1
+  gold: 480
+  rating: 1333
+  silver: 0
+wble_pizza:
+  canBuy: 1
+  gold: 548
+  rating: 1523
+  silver: 0
+wble_puff:
+  canBuy: 1
+  gold: 1371
+  rating: 3808
+  silver: 0
+wble_shelf:
+  canBuy: 1
+  gold: 2056
+  rating: 5712
+  silver: 0
+wble_sofa:
+  canBuy: 1
+  gold: 4113
+  rating: 11424
+  silver: 0
+wble_table:
+  canBuy: 1
+  gold: 1714
+  rating: 4760
+  silver: 0
+wble_tv:
+  canBuy: 1
+  gold: 10282
+  rating: 28560
+  silver: 0
+wble_wall:
+  canBuy: 1
+  gold: 685
+  rating: 1904
+  silver: 0
+wble_window:
+  canBuy: 1
+  gold: 2742
+  rating: 7616
+  silver: 0
+wddngChair1:
+  canBuy: 1
+  gold: 8
+  rating: 14
+  silver: 0
+wddngChair2:
+  canBuy: 1
+  gold: 8
+  rating: 14
+  silver: 0
+wddngChair3:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+wddngChair4:
+  canBuy: 1
+  gold: 9
+  rating: 15
+  silver: 0
+wddngChair5:
+  canBuy: 1
+  gold: 0
+  rating: 29
+  silver: 2950
+wddngChair6:
+  canBuy: 1
+  gold: 0
+  rating: 29
+  silver: 2950
+wddngTable1:
+  canBuy: 1
+  gold: 0
+  rating: 65
+  silver: 6500
+wddngTable2:
+  canBuy: 1
+  gold: 0
+  rating: 52
+  silver: 5200
+wddngTable3:
+  canBuy: 1
+  gold: 0
+  rating: 52
+  silver: 5200
+wddngTable4:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+wddngTable5:
+  canBuy: 1
+  gold: 0
+  rating: 25
+  silver: 2500
+wddngTable6:
+  canBuy: 1
+  gold: 25
+  rating: 55
+  silver: 0
+wdnArch:
+  canBuy: 1
+  gold: 0
+  rating: 90
+  silver: 9000
+wdnArchOrg:
+  canBuy: 1
+  gold: 50
+  rating: 125
+  silver: 0
+wdnBk:
+  canBuy: 1
+  gold: 0
+  rating: 45
+  silver: 4500
+wdnBqt:
+  canBuy: 1
+  gold: 0
+  rating: 18
+  silver: 1850
+wdnBqt2:
+  canBuy: 1
+  gold: 0
+  rating: 22
+  silver: 2200
+wdnBqt2Org:
+  canBuy: 1
+  gold: 0
+  rating: 22
+  silver: 2200
+wdnBqtOrg:
+  canBuy: 1
+  gold: 0
+  rating: 18
+  silver: 1850
+wdnBqtPrt:
+  canBuy: 1
+  gold: 0
+  rating: 15
+  silver: 1500
+wdnCake:
+  canBuy: 1
+  gold: 10
+  rating: 20
+  silver: 0
+wdnCakeOrg:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+wdnFlat:
+  canBuy: 1
+  gold: 0
+  rating: 9
+  silver: 950
+wdnFlatOrg:
+  canBuy: 1
+  gold: 0
+  rating: 9
+  silver: 950
+wdnGlassBr:
+  canBuy: 1
+  gold: 5
+  rating: 9
+  silver: 0
+wdnGlassBrgr:
+  canBuy: 1
+  gold: 5
+  rating: 9
+  silver: 0
+wdnTeasrvc:
+  canBuy: 1
+  gold: 17
+  rating: 34
+  silver: 0
+wdwAln1:
+  canBuy: 1
+  gold: 29
+  rating: 65
+  silver: 0
+wdwAln2:
+  canBuy: 1
+  gold: 29
+  rating: 65
+  silver: 0
+wdwArtNv1:
+  canBuy: 1
+  gold: 55
+  rating: 140
+  silver: 0
+wdwCtr1:
+  canBuy: 1
+  gold: 42
+  rating: 105
+  silver: 0
+wdwFeb23:
+  canBuy: 1
+  gold: 35
+  rating: 40
+  silver: 0
+wdwIceNY14:
+  canBuy: 1
+  gold: 0
+  rating: 264
+  silver: 0
+wdwMya:
+  canBuy: 1
+  gold: 0
+  rating: 3633
+  silver: 0
+wdwPrns1:
+  canBuy: 1
+  gold: 95
+  rating: 245
+  silver: 0
+wdwPrns2:
+  canBuy: 1
+  gold: 38
+  rating: 95
+  silver: 0
+webHlwn:
+  canBuy: 1
+  gold: 10
+  rating: 13
+  silver: 0
+wheel:
+  canBuy: 1
+  gold: 29
+  rating: 65
+  silver: 0
+window1:
+  canBuy: 1
+  gold: 0
+  rating: 12
+  silver: 1200
+window10:
+  canBuy: 1
+  gold: 8
+  rating: 13
+  silver: 0
+window11:
+  canBuy: 1
+  gold: 7
+  rating: 11
+  silver: 0
+window12:
+  canBuy: 1
+  gold: 0
+  rating: 9
+  silver: 950
+window13:
+  canBuy: 1
+  gold: 19
+  rating: 25
+  silver: 0
+window14:
+  canBuy: 1
+  gold: 30
+  rating: 35
+  silver: 0
+window2:
+  canBuy: 1
+  gold: 0
+  rating: 5
+  silver: 500
+window3:
+  canBuy: 1
+  gold: 0
+  rating: 4
+  silver: 450
+window4:
+  canBuy: 1
+  gold: 11
+  rating: 22
+  silver: 0
+window5:
+  canBuy: 1
+  gold: 15
+  rating: 30
+  silver: 0
+window6:
+  canBuy: 1
+  gold: 0
+  rating: 3
+  silver: 350
+window7:
+  canBuy: 1
+  gold: 0
+  rating: 26
+  silver: 2600
+window8:
+  canBuy: 1
+  gold: 0
+  rating: 11
+  silver: 1100
+window9:
+  canBuy: 1
+  gold: 12
+  rating: 24
+  silver: 0
+window_wizard:
+  canBuy: 1
+  gold: 360
+  rating: 1000
+  silver: 0
+winterveranda_book_shelf:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+winterveranda_book_table:
+  canBuy: 1
+  gold: 32
+  rating: 89
+  silver: 0
+winterveranda_carpet:
+  canBuy: 1
+  gold: 0
+  rating: 152
+  silver: 15200
+winterveranda_door:
+  canBuy: 1
+  gold: 0
+  rating: 176
+  silver: 17600
+winterveranda_fireplace:
+  canBuy: 1
+  gold: 680
+  rating: 1889
+  silver: 0
+winterveranda_floor:
+  canBuy: 1
+  gold: 0
+  rating: 216
+  silver: 21600
+winterveranda_fruit_table:
+  canBuy: 1
+  gold: 32
+  rating: 89
+  silver: 0
+winterveranda_lamp_floor:
+  canBuy: 1
+  gold: 0
+  rating: 140
+  silver: 14000
+winterveranda_painting_wall:
+  canBuy: 1
+  gold: 0
+  rating: 200
+  silver: 20000
+winterveranda_sofa:
+  canBuy: 1
+  gold: 0
+  rating: 440
+  silver: 44000
+winterveranda_sofa_bench:
+  canBuy: 1
+  gold: 0
+  rating: 208
+  silver: 20800
+winterveranda_table:
+  canBuy: 1
+  gold: 0
+  rating: 232
+  silver: 23200
+winterveranda_wall:
+  canBuy: 1
+  gold: 0
+  rating: 640
+  silver: 64000
+wllAq1:
+  canBuy: 1
+  gold: 1499
+  rating: 7500
+  silver: 0
+wllFeb23:
+  canBuy: 1
+  gold: 45
+  rating: 52
+  silver: 0
+wllMya:
+  canBuy: 1
+  gold: 0
+  rating: 4723
+  silver: 0
+wllNY14:
+  canBuy: 1
+  gold: 0
+  rating: 475
+  silver: 0
+wllNY18:
+  canBuy: 1
+  gold: 0
+  rating: 2500
+  silver: 0
+wllNYRf:
+  canBuy: 1
+  gold: 80
+  rating: 250
+  silver: 0
+wllSD14:
+  canBuy: 1
+  gold: 9999
+  rating: 150
+  silver: 0
+wllSV14:
+  canBuy: 1
+  gold: 0
+  rating: 15
+  silver: 50
+wllSV19:
+  canBuy: 1
+  gold: 19999
+  rating: 58320
+  silver: 0
+wllSea:
+  canBuy: 1
+  gold: 47
+  rating: 120
+  silver: 0
+woodenbath_bowl:
+  canBuy: 1
+  gold: 2469
+  rating: 6858
+  silver: 0
+woodenbath_carpet:
+  canBuy: 1
+  gold: 823
+  rating: 2286
+  silver: 0
+woodenbath_door:
+  canBuy: 1
+  gold: 1166
+  rating: 3239
+  silver: 0
+woodenbath_floor:
+  canBuy: 1
+  gold: 1920
+  rating: 5334
+  silver: 0
+woodenbath_lamp_wall:
+  canBuy: 1
+  gold: 480
+  rating: 1334
+  silver: 0
+woodenbath_mirror:
+  canBuy: 1
+  gold: 1509
+  rating: 4191
+  silver: 0
+woodenbath_shelves_floor:
+  canBuy: 1
+  gold: 1234
+  rating: 3429
+  silver: 0
+woodenbath_shelves_wall:
+  canBuy: 1
+  gold: 1783
+  rating: 4953
+  silver: 0
+woodenbath_shower:
+  canBuy: 1
+  gold: 6858
+  rating: 19050
+  silver: 0
+woodenbath_toilet:
+  canBuy: 1
+  gold: 1578
+  rating: 4382
+  silver: 0
+woodenbath_vase_floor:
+  canBuy: 1
+  gold: 2469
+  rating: 6858
+  silver: 0
+woodenbath_wall:
+  canBuy: 1
+  gold: 2298
+  rating: 6382
+  silver: 0
+workBronze:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+workGold:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+workSilver:
+  canBuy: 1
+  gold: 0
+  rating: 0
+  silver: 0
+wrbe_chair:
+  canBuy: 1
+  gold: 0
+  rating: 160
+  silver: 16000
+wrbe_door:
+  canBuy: 1
+  gold: 0
+  rating: 128
+  silver: 12800
+wrbe_floor:
+  canBuy: 1
+  gold: 0
+  rating: 220
+  silver: 22000
+wrbe_hanger:
+  canBuy: 1
+  gold: 0
+  rating: 56
+  silver: 5600
+wrbe_heels_bg:
+  canBuy: 1
+  gold: 0
+  rating: 32
+  silver: 3200
+wrbe_heels_g:
+  canBuy: 1
+  gold: 0
+  rating: 32
+  silver: 3200
+wrbe_heels_v:
+  canBuy: 1
+  gold: 0
+  rating: 32
+  silver: 3200
+wrbe_manequin:
+  canBuy: 1
+  gold: 0
+  rating: 112
+  silver: 11200
+wrbe_mirror_high:
+  canBuy: 1
+  gold: 0
+  rating: 104
+  silver: 10400
+wrbe_mirror_wide:
+  canBuy: 1
+  gold: 0
+  rating: 128
+  silver: 12800
+wrbe_podium:
+  canBuy: 1
+  gold: 0
+  rating: 1600
+  silver: 160000
+wrbe_sofa:
+  canBuy: 1
+  gold: 0
+  rating: 368
+  silver: 36800
+wrbe_wall:
+  canBuy: 1
+  gold: 0
+  rating: 320
+  silver: 32000
+wrbe_wardrobe_low:
+  canBuy: 1
+  gold: 0
+  rating: 180
+  silver: 18000
+wrbe_wardrobe_small:
+  canBuy: 1
+  gold: 0
+  rating: 220
+  silver: 22000
+wrbe_wardrobe_wide:
+  canBuy: 1
+  gold: 0
+  rating: 300
+  silver: 30000
+wreathBlack:
+  canBuy: 1
+  gold: 0
+  rating: 9999
+  silver: 650
+wreathNYBlue:
+  canBuy: 1
+  gold: 0
+  rating: 434
+  silver: 0
+wreathNYGold:
+  canBuy: 1
+  gold: 0
+  rating: 140
+  silver: 0
+wreathNYRed:
+  canBuy: 1
+  gold: 0
+  rating: 390
+  silver: 0
+writerroom_armchair:
+  canBuy: 1
+  gold: 0
+  rating: 168
+  silver: 16800
+writerroom_chess:
+  canBuy: 1
+  gold: 800
+  rating: 2222
+  silver: 0
+writerroom_clock_wall:
+  canBuy: 1
+  gold: 0
+  rating: 80
+  silver: 8000
+writerroom_decor_wall:
+  canBuy: 1
+  gold: 0
+  rating: 116
+  silver: 11600
+writerroom_door:
+  canBuy: 1
+  gold: 0
+  rating: 120
+  silver: 12000
+writerroom_floor:
+  canBuy: 1
+  gold: 0
+  rating: 192
+  silver: 19200
+writerroom_rockchair:
+  canBuy: 1
+  gold: 0
+  rating: 640
+  silver: 64000
+writerroom_shelf:
+  canBuy: 1
+  gold: 0
+  rating: 220
+  silver: 22000
+writerroom_sofa:
+  canBuy: 1
+  gold: 0
+  rating: 240
+  silver: 24000
+writerroom_wall:
+  canBuy: 1
+  gold: 0
+  rating: 360
+  silver: 36000
+writerroom_window:
+  canBuy: 1
+  gold: 0
+  rating: 128
+  silver: 12800
+writerroom_worktable:
+  canBuy: 1
+  gold: 960
+  rating: 2667
+  silver: 0
+wtrfll1:
+  canBuy: 1
+  gold: 124
+  rating: 320
+  silver: 0
+wtrfll2:
+  canBuy: 1
+  gold: 178
+  rating: 450
+  silver: 0
+wtrfll3:
+  canBuy: 1
+  gold: 147
+  rating: 370
+  silver: 0
+wtrfll4:
+  canBuy: 1
+  gold: 235
+  rating: 595
+  silver: 0
+wtrfll5:
+  canBuy: 1
+  gold: 81
+  rating: 205
+  silver: 0
+xmasbaltree_bl_decor_floor:
+  canBuy: 1
+  gold: 0
+  rating: 9525
+  silver: 0
+xmasbaltree_blk_decor_floor:
+  canBuy: 1
+  gold: 0
+  rating: 9525
+  silver: 0
+xmasbaltree_gr_decor_floor:
+  canBuy: 1
+  gold: 0
+  rating: 9525
+  silver: 0
+xmasbaltree_p_decor_floor:
+  canBuy: 1
+  gold: 0
+  rating: 9525
+  silver: 0
+xmasbaltree_w_decor_floor:
+  canBuy: 1
+  gold: 0
+  rating: 9525
+  silver: 0
