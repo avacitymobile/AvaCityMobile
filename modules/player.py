@@ -33,7 +33,7 @@ class Player(Module):
         if uid in self.serv.onl:
             tmp = self.serv.onl[uid]
 
-            await client.send({"data": {"locinfo": tmp.ci.location_info},
+            await client.send({"data": {"locinfo": tmp.ci.location_info()},
                                "command": "pl.flw"}, 34)
             return
         await client.send({"data": {"code": 155, 
