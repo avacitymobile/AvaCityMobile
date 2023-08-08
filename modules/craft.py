@@ -59,12 +59,15 @@ class Craft(Module):
         elif item_id in self.serv.furniture:
             type_ = "frn"
         elif item_id in self.serv.clothes[gender]:
+            await client.clths.add_rating(item_id)
             type_ = "cls"
         else:
             logging.warning(f"Conflict craft item '{item_id}'")
             return
         
         await client.inv.add(item_id, type_, 1)
+
+        await client.refresh()
 
         await client.send({"data": {"inv": await client.inv.get(),
                                     "crIt": {"c": 1, "lid": "", "tid": item_id}},
