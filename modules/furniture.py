@@ -10,8 +10,8 @@ class Furniture(Module):
                          "save": self.save_layout,
                          "bnrm": self.buy_new_room}
 
-    self.conflicts_items: list = ["decor", "paint", "lamp", 
-                                  "mirror", "shelf", "sofa"]
+        self.conflicts_items: list = ["decor", "paint", "lamp", 
+                                      "mirror", "shelf", "sofa"]
         
     async def buy_new_room(self, msg, client):
         if not const.BUY_ROOM: return
