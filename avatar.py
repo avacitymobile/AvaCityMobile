@@ -726,6 +726,7 @@ class Avatar:
 
         async def rename(self, room, name):
             uid: str = self.client.uid
+            redis = self.client.serv.redis
 
             room, = [r for r in self.rooms["r"] if r["id"] == room]
             index: int = self.rooms["r"].index(room)
