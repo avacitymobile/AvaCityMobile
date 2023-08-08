@@ -12,7 +12,8 @@ class Furniture(Module):
                          "rnmrm": self.rename}
 
         self.conflicts_items: list = ["decor", "paint", "lamp", 
-                                      "mirror", "shelf", "sofa"]
+                                      "mirror", "shelf", "sofa",
+                                      "spkr", "flower"]
 
     async def rename(self, msg, client):
         room_id: str = msg["data"]["id"]
