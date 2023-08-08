@@ -8,10 +8,19 @@ class Furniture(Module):
         self.serv = server
         self.commands = {"buy": self.buy_item,
                          "save": self.save_layout,
-                         "bnrm": self.buy_new_room}
+                         "bnrm": self.buy_new_room,
+                         "rnmrm": self.rename}
 
         self.conflicts_items: list = ["decor", "paint", "lamp", 
                                       "mirror", "shelf", "sofa"]
+
+    async def rename(self, msg, client):
+        room_id: str = msg["data"]["id"]
+        room_name: str = msg["data"]["nm"]
+
+        await client.rm.rename(room_id, room_name)
+
+        await client.rm.update()
         
     async def buy_new_room(self, msg, client):
         if not const.BUY_ROOM: return
