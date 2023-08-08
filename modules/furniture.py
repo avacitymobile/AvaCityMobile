@@ -9,6 +9,9 @@ class Furniture(Module):
         self.commands = {"buy": self.buy_item,
                          "save": self.save_layout,
                          "bnrm": self.buy_new_room}
+
+    self.conflicts_items: list = ["decor", "paint", "lamp", 
+                                  "mirror", "shelf", "sofa"]
         
     async def buy_new_room(self, msg, client):
         if not const.BUY_ROOM: return
@@ -67,6 +70,11 @@ class Furniture(Module):
         item_id = item["tpid"]
 
         if not await client.inv.take(item_id, 1): return
+
+        for conflict in self.conflicts_items:
+            item_id_lr: str = item_id.lower()
+            
+            if conflict in item_id_lr: return
 
         if any(ext for ext in ("wll", "wall")\
                 if ext in item_id.lower()):
