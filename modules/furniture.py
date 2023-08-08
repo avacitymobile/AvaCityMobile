@@ -21,7 +21,9 @@ class Furniture(Module):
 
         await client.rm.rename(room_id, room_name)
 
-        await client.rm.update()
+        await client.send({"data": {"id": room_id,
+                                    "nm": room_name},
+                           "command": "frn.rnmrm"}, 34)
         
     async def buy_new_room(self, msg, client):
         if not const.BUY_ROOM: return
