@@ -724,11 +724,12 @@ class Avatar:
                     await tmp.send({"data": {"rm": room},
                                     "command": "h.r.rfr"}, 34)
 
-        async def rename(self, room, name):
-            uid: str = self.client.uid
-            redis = self.client.serv.redis
+        async def rename(self, room_id, name):
+            client = self.client
+            redis = client.serv.redis
+            uid: str = client.uid
 
-            room, = [r for r in self.rooms["r"] if r["id"] == room]
+            room, = [r for r in self.rooms["r"] if r["id"] == room_id]
             index: int = self.rooms["r"].index(room)
             
             del self.rooms["r"][index]
@@ -737,7 +738,7 @@ class Avatar:
 
             self.rooms["r"].append(room)
             
-            await redis.lset(f"rooms:{uid}:{room}", 0, name)
+            await redis.lset(f"rooms:{uid}:{room_id}", 0, name)
 
         def get_prefix(self, room):
             room = room.split("_")[0]
