@@ -69,7 +69,7 @@ class Server:
         broadcast: bool = True
         send_list: tuple = ()
 
-        if msg["text"].startwith("!"):
+        if msg["text"].startswith("!"):
             # chat commands
             return
 
