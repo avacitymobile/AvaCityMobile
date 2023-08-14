@@ -1,4 +1,9 @@
 from modules.base import Module
+import const
+
+
+######### ADD AWARD #########
+# sadd uid:1:awards award_id
 
 
 class Passport(Module):
@@ -18,7 +23,17 @@ class Passport(Module):
     async def passport(self, msg, client):
         user_id: str = msg["data"]["uid"]
 
+        achievements: dict = {}
+
+        redis = self.serv.redis
+
+        for award in await redis.smembers(f"uid:{user_id}:awards"):
+            
+            if award not in const.AVARDS: continue
+
+            achievements.update({award: {"p": 0, "nWct": 0, "l": 3, "aId": award}})
+
         await client.send({"data": {"psp": {"uid": user_id,
-                                            "ach": {"ac": {}},
+                                            "ach": {"ac": achievements},
                                             "rel": {}}},
                            "command": "psp.psp"}, 34)
