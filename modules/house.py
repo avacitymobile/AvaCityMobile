@@ -1,5 +1,6 @@
 import logging
 from modules.location import Location
+import const
 
 
 class House(Location):
@@ -93,6 +94,16 @@ class House(Location):
                                "command": "h.minfo"}, 34)
             return
         
+        achievements: dict = {}
+
+        redis = self.serv.redis
+
+        for award in await redis.smembers(f"uid:{client.uid}:awards"):
+            
+            if award not in const.AVARDS: continue
+
+            achievements.update({award: {"p": 0, "nWct": 0, "l": 3, "aId": award}})
+        
         await client.send({"data": {"bklst": {"uids": []},
                                     "politic": "default",
                                     "plr": {"locinfo": client.ci.location_info(),
@@ -100,7 +111,7 @@ class House(Location):
                                             "apprnc": await client.apprnc.get(),
                                             "ci": await client.ci.get(),
                                             "hs": await client.rm.get(), 
-                                            "onl": True, "achc": {"ac": {}}, 
+                                            "onl": True, "achc": {"ac": achievements}, 
                                             "cs": await client.clths.get(type_=1),
                                             "inv": await client.inv.get(),
                                             "uid": client.uid, "qc": {"q": []},
