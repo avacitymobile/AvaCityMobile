@@ -44,7 +44,7 @@ def process(raw_data: bytes):
 def decode_value(cur: Cursor):
     match cur.read_i8():
         case 0: return None
-        case 1: return bool(1 if cur.read_i8() else 0)
+        case 1: return bool(cur.read_i8())
         case 2: return cur.read_i32()
         case 3: return cur.read_i64()
         case 4: return cur.read_f64()
