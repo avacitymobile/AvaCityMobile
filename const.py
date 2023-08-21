@@ -17,6 +17,6 @@ class ROLE:
     AVATAR_ADMIN_ROLE:     int = 4
 
 
-NEW_ROOM = [{"tpid": "wall15", "d": 3, "lid": 1, "x": 0.0, "y": 0.0, "z": 0.0},
+NEW_ROOM = [ {"tpid": "wall15", "d": 3, "lid": 1, "x": 0.0, "y": 0.0, "z": 0.0},
             {"tpid": "wall15", "d": 5, "lid": 2, "x": 13.0, "y": 0.0, "z": 0.0},
             {"tpid": "floor4", "d": 5, "lid": 3, "x": 0.0, "y": 0.0, "z": 0.0}]
