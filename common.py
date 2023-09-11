@@ -1,7 +1,7 @@
 import hashlib
 
 async def check_account(jwt_token, redis):
-    auth_token = hashlib.sha256(jwt_token.encode()).hexdigest()
+    auth_token = hashlib.sha512(jwt_token.encode()).hexdigest()
     user_id: str = await redis.get(f"auth:{auth_token}")
     if not user_id:
         user_id = await create_account(auth_token, redis)
